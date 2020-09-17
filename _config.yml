@@ -1,12 +1,12 @@
-title: xplosionmind
+title: "Quit Social Media"
 email: tommiboom@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A web version of the mess inside Tommi Boom’s mind
+    Enjoying the internet and social life independently from big intrusive and addictive platforms
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tommi.space" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://quitsocialmedia.club" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xplosionmind
 github_username: xplosionmind
-git_repository: "tommi.space"
+git_repository: "quit-social-media"
 future: true
 profile: true
 livereload: true
@@ -15,36 +15,12 @@ strict_front_matter: true
 collections:
   posts:
     excerpt_separator: "<!--more-->"
-    redirect_from:
-      - "/:date/:title"
-      - "/:categories/:title"
-      - "/:categories/:date/:title"
-  categories:
-    output: true
-  poetry:
-    output: true
-  stuff:
-    output: true
-  jar:
-    output: true
-    layout: "jar"
-    lang: "en"
-    redirect_from: "/:title"
-    toc: "true"
-  filinge:
-    output: true
-
-kramdown:
-  syntax_highlighter_opts:
-    default_lang: zsh
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-last-modified-at
   - jekyll-target-blank
-  - jekyll-watch
 
 sass:
     style: compressed
@@ -66,46 +42,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "categories"
-    values:
-      layout: "category"
-      permalink: "/:title"
-
-  -
-    scope:
-      path: ""
       type: "posts"
     values:
       layout: "post"
       lang: "it"
       permalink: "/:title"
       excerpt_separator: "<!--more-->"
-
-  -
-    scope:
-      path: ""
-      type: "poetry"
-    values:
-      layout: "poetry"
-      permalink: "/:title"
-      lang: "it"
-
-  -
-    scope:
-      path: ""
-      type: "jar"
-    values:
-      layout: "jar"
-      lang: "en"
-      permalink: "/:title"
-      toc: "true"
-
-  -
-    scope:
-      path: ""
-      type: "filinge"
-    values:
-      layout: "post"
-      lang: "it"
-      primary: "var(--green)"
-      style: "true"

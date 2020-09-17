@@ -7,25 +7,18 @@ ref: home
 <div class="row">
 	<div class="one column">
 		<div class="page-header">
-			<h1>WARNING</h1>
+			<h1>Quit Social Media</h1>
 			<p class="page-description">
-				It’s so funny to make it look like you just landed on a spam page. Don’t worry, it’s not (entirely). Here there’s a great collection of feelings, thoughts, notes, images and various stuff by Tommi Boom. Basically, this is the web representation of his messy mind.
-				<br />
-				Beware: don’t get too involved with the stuff around here or you may get as crazy and confused as him, which is definitely not recommended (that’s the reason of the initial warning).
-				<br />
 				Have fun!
 			</p>
 		</div>
 	</div>
 </div>
 
-<h2 class="section-title">about this weirdo</h2>
+<h2 class="section-title">Why</h2>
 
-<div class="row" id="about">
-	<div class="half column">
-		<img src="/images/tencoascolta.jpg" alt="a photo of me conducting a live show" title="Tommi on stage conducting a live show">
-	</div>
-	<div class="half column">
+<div class="row" id="why">
+	<div class="one column">
 		<article style="padding: var(--height) 10%">
 			<p>
 				Hi, I’m Tommi.
@@ -51,67 +44,13 @@ ref: home
 	</div>
 </div>
 	
-{% for post in site.posts %}
-	{% if forloop.first == true %}
-		<a href="{{ post.url }}"><h2 class="section-title">Latest post</h2></a>
-		<div class="row" style="overflow: hidden;">
-			<div class="half column">
-				<div class="stuff-image">
-					<img src="{{ post.img }}" alt="{{ post.title }}" title="{{ post.title }}" />
-				</div>
-			</div>
-			<div class="half column stuff">
-				<a href="{{ post.url }}" style="color: var(--dark-font)"><h2 style="margin-top: var(--big)">{{ post.title }}</h2></a>
-				<p>{{ post.excerpt }}</p>
-				<div class="link-container">
-					<a href="{{ post.url }}"><div class="link" style="color: var(--background); background: var(--primary)">read</div></a>
-				</div>
-			</div>
-		</div>
-	{% endif %}
-{% endfor %}
-
-<a href="/jar"><h2 class="section-title" style="color: white; background: var(--razzmatazz)">The Jar</h2></a>
+<a href="/news"><h2 class="section-title">Updates</h2></a>
 <div class="row">
 	<div class="one column">
-		<div class="page-description">
-			<p>There’s stuff I find out I wish I knew before, or stuff I just can’t keep from sharing but it’s not enough to make an article, or resources so great and useful that the whole world should know and use, or cool oddities I note and it’s nice to have them always ready at hand.</p>
-			<p>I take this things, I throw them into <a href="/jar"><em>The Jar</em></a>.</p>
-			<p>I hope it can be useful to you.</p>
-		</div>
+		<ul>
+		{% for post in site.posts %}
+			<li>{{ post.date }} - <a href="{{ post.url }}"</li>
+		{% endfor %}
+		</ul>
 	</div>
 </div>
-		
-<!--	<h2 class="section-title">visioni</h2>
-<div class="gallery">
-	{% assign visioni = site.static_files | where: "image", true %}
-	{% for pic in visioni %}
-		<span class="gallery-image" style="order: {{ forloop.index }}">
-			<img src="{{ pic.path }}" />
-		</span>
-	{% endfor %}
-</div> -->
-
-<a href="/stuff"><h2 class="section-title">Featured stuff</h2></a>
-
-{% assign stuff = site.stuff | where: "lang", page.lang | where: "featured", true %}
-{% for thing in stuff %}
-	<div class="row" style="color: {{ thing.color }}; background-color: {{ thing.background-color }}; overflow: hidden;" id="{{ thing.title | slugify }}">
-		<div class="half column">
-			<div class="stuff-image">
-				<img src="{{ thing.src }}" alt="{{ thing.alt }}" title="{{ thing.title }}" />
-			</div>
-		</div>
-		<div class="half column stuff">
-			<div class="stuff-logo">
-				<img src="/logos/{{ thing.logo }}" alt="{{ thing.title }} logo" title="{{ thing.title }}" />
-			</div>
-			<p>{{ thing.content }}</p>
-			<div class="link-container">
-				<a href="{{ thing.link }}" rel="noopener" target="_blank"><div class="link" style="color: {{ thing.background-color }}; background-color: {{ thing.color }};">{{ thing.button }}</div></a>
-			</div>
-		</div>
-	</div>
-{% endfor %}
-
-<br />

@@ -37,33 +37,15 @@ html {
 
 /* DARK THEME */
 body {
-	--background: var(--black-ish);
-	--background2: var(--dark-grey);
-	--text: var(--white-ish);
+	--background: white;
+	--background2: var(--light-grey);
+	--text: var(--black-ish);
 	--link: var(--primary);
-	--primary: var(--yellow);
-	--secondary: var(--blue);
+	--primary: var(--razzmatazz);
+	--secondary: var(--green);
 	--grey: var(--dark-grey);
 	--other-grey: var(--light-grey);
 
-	transition: var(--trans)
-}
-
-/* LIGHT THEME */
-.light {
-	--background: white;
-	--background2: var(--white-ish);
-	--text: var(--black-ish);
-	--link: var(--secondary);
-	--primary: var(--blue);
-	--secondary: var(--razzmatazz);
-	--grey: var(--light-grey);
-	--other-grey: var(--dark-grey);
-
-	transition: var(--trans)
-}
-
-body {
 	background: var(--background);
 	font: var(--regular) Inter, Helvetica, "Helvetica Neue", sans-serif;
 	color: var(--text);
@@ -102,13 +84,7 @@ mark {
 }
 .top {
 	position: fixed;
-	bottom: 17rem;
-	right: 0;
-	z-index: 3
-}
-.theme-toggle-button {
-	position: fixed;
-	bottom: 12rem;
+	top: var(--height);
 	right: 0;
 	z-index: 3
 }
@@ -158,11 +134,11 @@ ul li li li {
   width: 100%;
   height: 100%;
 }
-.poetry, .post {
+.post {
 	font: 400 var(--morethan-regular) "Merriweather", "Latin Modern Roman", Georgia, serif;
 	letter-spacing: 0.03rem;
 }
-.poetry p, .post p {
+.post p {
 	line-height: var(--bigger-em)
 }
 strong, b {
@@ -207,12 +183,15 @@ strong, b {
 	background: var(--razzmatazz)
 }
 .page-header h1 {
-	font-size: var(--mastodon)
+	font-size: var(--mastodon);
+	background: var(--background);
+	margin: 0
 }
 .page-header {
-	margin-top: 6rem;
+	margin: var(--margin) 0 var(--mastodon) 0;
 	text-align: center;
-	margin-bottom: var(--mastodon)
+	position: sticky;
+	top: 0
 }
 .page-header p {
 	margin: 0 auto;
@@ -223,29 +202,6 @@ strong, b {
 }
 .toc ul li {
 	margin-bottom: var(--small)
-}
-.categories {
-	overflow-x: scroll;
-	overflow-y: hidden;
-	white-space: nowrap;
-	border: var(--tiny) solid var(--text);
-	padding: var(--tiny);
-	scroll-behavior: smooth;
-	height: var(--height);
-	width: calc(100% - 5.8rem)
-}
-.categories::-webkit-scrollbar {
-	display: none
-}
-.topics-indicator {
-	font-size: var(--big);
-	line-height: var(--height);
-	text-transform: uppercase;
-	background: var(--text);
-	color: var(--background);
-	height: var(--height);
-	font-weight: 700;
-	width: 5.8rem
 }
 .category, .language, .link, .gallery {
 	display: inline-block;
@@ -443,57 +399,16 @@ article {
 	font-size: var(--morethan-regular);
 	padding: var(--twice) 10% var(--mastodon)
 }
-.preview, .jar-preview, .poetry-preview {
+.preview {
 	color: var(--text);
 	padding: var(--bigger) 0;
 	transition: var(--trans)
-}
-.poetry-preview {
-	text-align: center
-}
-.jar-preview:hover {
-	background: var(--razzmatazz);
-	transition: var(--trans);
-	color: white
-}
-.jar-preview .line {
-	background: var(--razzmatazz)
-}
-.poetry-preview .line {
-	background: var(--blue);
-	margin: var(--tiny) auto;
-	width: 5%
-}
-.poetry-preview:hover {
-	background: var(--blue);
-	transition: var(--trans);
-	color: white
 }
 .preview:hover, .preview:focus {
 	background: var(--primary);
 	color: var(--background);
 	transition: var(--trans);
 	padding: var(--bigger) var(--lessthan-regular)
-}
-.jar-preview:hover, .jar-preview:focus {
-	 background: var(--razzmatazz);
-	 transition: var(--trans)
-}
-.jar-preview:hover .post-title {
-	padding-left: var(--bigger);
-	transition: var(--trans)
-}
-.jar-preview .post-title {
-	transition: var(--trans)
-}
-.jar-preview .half:nth-child(2) {
-	padding: 0 var(--regular)
-}
-.gallery-preview {
-	display: flex;
-	justify-content: space-evenly;
-	align-items: baseline;
-	align-content: space-around
 }
 .section-title {
 	background: var(--primary);
@@ -514,7 +429,8 @@ article h2, article h3, article h4, article h5, article h6 {
 	background: var(--background);
 	position: sticky;
 	line-height: var(--height);
-	top: 3.6rem;
+	height: var(--height);
+	top: var(--mastodon);
 	margin-bottom: 0;
 	transition: var(--quicktrans)
 }
@@ -528,7 +444,7 @@ h1 {
 	color: var(--text);
 	font-size: var(--height);
 	text-decoration: none;
-	text-align: center
+	text-align: center;
 }
 h2 {
 	font-size: var(--bigger);
@@ -545,37 +461,6 @@ p a:hover, p a:focus, article li a:hover, article li a:focus, .toc a {
 	outline: none !important;
 	border-bottom: 2px dashed
 }
-.stuff {
-	padding: 0 10%;
-	display: block;
-	text-align: center
-}
-.stuff img {
-	height: var(--margin);
-	width: auto;
-	max-width: 100%;
-	margin: var(--mastodon) auto var(--height);
-	display: inherit;
-	object-fit: contain
-}
-.stuff .category {
-	margin: var(--height) auto;
-	line-height: var(--height);
-	padding: 0.17rem var(--lessthan-regular) 0;
-	font-size: var(--morethan-regular)
-}
-.stuff p {
-	margin-bottom: var(--big)
-}
-.link-container {
-	text-align: center
-}
-.last-modified {
-	margin: 0 auto var(--twice);
-	text-align: center;
-	font-size: var(--lessthan-regular);
-	opacity: 0.8
-}
 footer {
 	margin-bottom: var(--small);
 	width: 98%;
@@ -585,47 +470,16 @@ footer {
 
 /* HEADER */
 .navigation {
-	top: var(--small);
-	width: 98%;
-	left: 1%;
 	height: var(--height);
-	background: transparent;
-	position: fixed;
 	text-transform: uppercase;
 	font-weight: 700;
-	transition: var(--trans)
+	width: 100%
 }
 .navigation a, .navigation a:hover, .navigation a:focus {
 	text-decoration: none
 }
-.xplosionmind{
-	padding: 0 var(--regular);
-	float: left;
-	line-height: var(--height); 
-	height: var(--height);
-	font-size: var(--bigger);
-	background: var(--background);
-	transition: var(--trans)
-}
-.xplosionmind a, .xplosionmind a:visited {
-	color: var(--primary)
-}
-.xplosionmind:hover, .xplosionmind:focus {
-	background: var(--primary);
-	transition: var(--trans);
-	border-bottom: none
-}
-.xplosionmind a:hover, .xplosionmind a:focus {
-	color: var(--background)
-}
-.nav-container {
-	max-width: 100%;
-	height: var(--height);
-	background: var(--primary)
-}
 nav {
 	float: right;
-	margin-right: var(--small)
 }
 nav ul {
 	list-style: none !important;
@@ -643,14 +497,12 @@ nav ul li a, nav ul li a:visited {
 	padding: 0 15px;
 	line-height: var(--height);
 	height: var(--height);
-	color: var(--background);
 	text-decoration: none;
-	background: var(--primary);
 	font-size: var(--morethan-regular)
 }
 nav ul li a:hover, nav ul li a:visited:hover, nav ul li a:focus, nav ul li a:visited:focus, nav ul li a:visited:active, nav ul li a:active {
-	background: var(--background);
-	color: var(--primary);
+	background: var(--primary);
+	color: var(--background);
 	transition: var(--trans);
 	border-bottom: none
 }
@@ -682,34 +534,6 @@ nav ul li ul li a {
 }
 
 @media only screen and (max-width: 1000px) {
-	.nav-mobile {
-		display: block
-	}
-	nav {
-		margin-right: 0;
-		text-align: right
-	}
-	nav ul {
-		display: none
-	}
-	nav ul li {
-	  float: none
-	}
-	nav ul li a {
-		padding: var(--lessthan-regular) var(--big);
-		line-height: var(--morethan-regular)
-	}
-	nav ul li ul li a {
-		padding-right: 4.5rem
-	}
-	.nav-dropdown {
-		position: static;
-		overflow: scroll
-	}
-	.post-title, .poem-title {
-		width: 96%;
-		margin-left: 2%
-	}
 	h1, h2 {
 		text-align: center
 	}
@@ -717,14 +541,13 @@ nav ul li ul li a {
 		font-size: var(--twice)
 	}
 	.page-header h1 {
-		font-size: var(--height)
+		font-size: var(--height);
+	}
+	.page-header {
+		margin-bottom: var(--height)
 	}
 	.nav-container {
 		background: var(--background)
-	}
-	.navigation, footer {
-		left: 2%;
-		width: 96%
 	}
 	footer {
 		margin-left: 2%
