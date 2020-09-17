@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("Ubuntu-Mono-Regular.woff2") format("woff2"),
+       url("Ubuntu-Mono-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style:  italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("Ubuntu-Mono-Regular-Italic.woff2") format("woff2"),
+       url("Ubuntu-Mono-Regular-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("Ubuntu-Mono-Bold.woff2") format("woff2"),
+       url("Ubuntu-Mono-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style:  italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("Ubuntu-Mono-Bold-Italic.woff2") format("woff2"),
+       url("Ubuntu-Mono-Bold-Italic.woff") format("woff");
+}

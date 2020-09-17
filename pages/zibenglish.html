@@ -1,0 +1,50 @@
+---
+title: "Zibaldone"
+permalink: /zibenglish
+lang: en
+ref: blog
+---
+<div class="page-header">
+	<div class="one column">
+		<h1>Zibaldone</h1>
+		<p class="page-description"><em>Zibaldone di Pensieri</em> is a great collection of notes by the great italian author Giacomo Leopardi. These writings don’t have even a tiny bit of profoundness, power and wit of the original collection. Just a touch of glee, craziness of my everyday life.</p>
+		<p>Translating the definition by Treccani encyclopedia, <a href="http://treccani.it/vocabolario/zibaldone/" rel="noopener" target="_blank">żibaldóne</a>: […] <cite>Notebook where unordered news, notes, thoughts, quotes, schemes, sketches are noted</cite>.
+		<p style="margin-bottom: var(--margin);">Exactly that.</p>
+	</div>
+	<div class="row labels">
+		<a href="/blog/en" class="language">english</a>
+		<a href="/blog/it" class="language">italiano</a>
+	</div>
+	<div class="row">
+		<div class="one column labels">
+			<div class="topics-indicator column">Tags</div>
+			<div class="categories column">
+				<a href="/poetry" style="color: #301A4B;"><div class="category" style="background-color: #FDDDE6;">Pasticci</div></a>
+				<a href="/filosofia" style="color: black;"><div class="category" style="background-color: var(--green);">Philosophy</div></a>
+				{% for category in site.categories %}
+					<a href="{{ category.url }}" style="color: {{ category.color }};"><div class="category" style="background-color: {{ category.background-color }};">{{ category.title }}</div></a>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</div>
+
+{% for post in site.posts %}
+	<a href="{{ post.url }}">
+		<div class="row">
+			<div class="one column preview">
+				<div class="four-fifths column">
+					<h2 class="post-title">{{ post.title }}</h2>
+				</div>
+				<div class="one-fifth column date">
+					{{ post.date | date: "%d %B %Y" }}
+				</div>
+			</div>
+		</div>
+		{% assign post-color = site.categories.title[post.categories] %}
+		<div class="line" style="background: {{ post-color.background-color }}"></div>
+	</a>
+{% endfor %}
+
+<br />
+<br />

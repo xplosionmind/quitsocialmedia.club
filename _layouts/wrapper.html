@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+{% if page.lang == 'it' %}
+<html lang="it">
+{% else %}
+<html lang="en">
+{% endif %}
+<head>
+<script type="text/javascript">
+	function darktoggle() {
+		var element = document.body;
+		element.classList.toggle("light");
+	}
+</script>
+
+{% seo %}
+
+<title>{{ page.title }} | XPLOSIONMIND</title>
+<link href="/fonts/inter/inter.css" type="text/css" rel="stylesheet" />
+<link rel="stylesheet" href="//brick.freetls.fastly.net/Merriweather:400,400i,700,700i" />
+<link href="/style.css" type="text/css" rel="stylesheet" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="icon" href="/logos/favicon.svg" sizes="32x32" />
+<link rel="icon" href="/logos/favicon.svg" sizes="192x192" />
+<meta name="apple-mobile-web-app-status-bar-style" content="{{ page.primary }}">
+<meta name="theme-color" content="{{ page.primary }}" />
+<meta property="og:image" content="{{ page.img }}" />
+{% if page.code == 'true' %}
+<link rel="styleseheet" type="text/css" href="/fonts/Ubuntu-Mono/ububtu-mono.css" />
+<link rel="stylesheet" type="text/css" href="/highlight.css" />
+{% endif %}
+{% if page.style == 'true' %}<style>body { --primary: {{ page.primary }} !important	}</style>{% endif %}
+
+</head><body>
+
+<svg class="button theme-toggle-button" title="Toggle theme" onclick="darktoggle()" version="1.1" viewBox="0 0 640.2 640.2" xmlns="http://www.w3.org/2000/svg">
+ 	<rect width="640.2" height="640.2" style="fill:none"/>
+   	<g transform="matrix(.8 0 0 .8 76 76)" style="fill:var(--primary)">
+   		<g style="fill:var(--primary)">
+       		<path d="m220.9 515.2h127.4c10.55 0 19.08-8.534 19.08-19.08s-8.535-19.08-19.08-19.08h-127.4c-10.54 0-19.08 8.534-19.08 19.08s8.532 19.08 19.08 19.08z"/>
+       		<path d="m220.9 569.2h127.4c10.55 0 19.08-8.534 19.08-19.08s-8.535-19.08-19.08-19.08h-127.4c-10.54 0-19.08 8.534-19.08 19.08s8.532 19.08 19.08 19.08z"/>
+       		<path d="m284.6 0c-105.4 0-190.8 85.41-190.8 190.8 0 66.96 34.9 125.2 87.14 159.3 4.489 2.922 8.256 9.434 8.256 14.79v54.92c0 21.09 17.07 38.16 38.16 38.16h114.5c21.05 0 38.16-17.07 38.16-38.16v-54.92c0-5.358 3.77-11.87 8.262-14.79 52.24-33.99 87.14-92.29 87.14-159.3 2e-3 -105.4-85.41-190.8-190.8-190.8z"/>
+       	</g>
+   	</g>
+</svg>
+<a href="#"><svg class="top button" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g style="fill:var(--primary)"><rect transform="rotate(180 12 12)" width="24" height="24" opacity="0"/><path d="M6.63 11.61L12 7.29l5.37 4.48A1 1 0 0 0 18 12a1 1 0 0 0 .77-.36 1 1 0 0 0-.13-1.41l-6-5a1 1 0 0 0-1.27 0l-6 4.83a1 1 0 0 0-.15 1.41 1 1 0 0 0 1.41.14z"/><path d="M12.64 12.23a1 1 0 0 0-1.27 0l-6 4.83a1 1 0 0 0-.15 1.41 1 1 0 0 0 1.41.15L12 14.29l5.37 4.48A1 1 0 0 0 18 19a1 1 0 0 0 .77-.36 1 1 0 0 0-.13-1.41z"/></g></svg>
+</a>
+{% include header.html lang=page.lang %}
+{{ content }}
+{% include footer.html lang=page.lang %}
+<script async data-goatcounter="https://xplosionmind.goatcounter.com/count" src="//gc.zgo.at/count.js"></script>
+</body></html>
