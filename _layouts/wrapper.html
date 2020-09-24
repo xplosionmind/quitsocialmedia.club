@@ -14,9 +14,9 @@
 
 {% seo %}
 
-<title>{{ page.title }} | XPLOSIONMIND</title>
+<title>Quit Social Media | {{ page.title }}</title>
 <link href="/fonts/inter/inter.css" type="text/css" rel="stylesheet" />
-<link rel="stylesheet" href="//brick.freetls.fastly.net/Merriweather:400,400i,700,700i" />
+<link rel="styleseheet" type="text/css" href="/fonts/Ubuntu-Mono/ububtu-mono.css" />
 <link href="/style.css" type="text/css" rel="stylesheet" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="icon" href="/logos/favicon.svg" sizes="32x32" />
@@ -24,10 +24,6 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="{{ page.primary }}">
 <meta name="theme-color" content="{{ page.primary }}" />
 <meta property="og:image" content="{{ page.img }}" />
-{% if page.code == 'true' %}
-<link rel="styleseheet" type="text/css" href="/fonts/Ubuntu-Mono/ububtu-mono.css" />
-<link rel="stylesheet" type="text/css" href="/highlight.css" />
-{% endif %}
 {% if page.style == 'true' %}<style>body { --primary: {{ page.primary }} !important	}</style>{% endif %}
 
 </head><body>
@@ -37,5 +33,5 @@
 {% include header.html lang=page.lang %}
 {{ content }}
 {% include footer.html lang=page.lang %}
-<script async data-goatcounter="https://xplosionmind.goatcounter.com/count" src="//gc.zgo.at/count.js"></script>
+<script async data-goatcounter="https://quit-social-media.goatcounter.com/count" src="//gc.zgo.at/count.js"></script>
 </body></html>
