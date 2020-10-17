@@ -1,8 +1,9 @@
 ---
+layout: page
 permalink: /notes
 title: Notes
 ---
-Sorry, content in this page are random, pretty messed up and both in English and Italian, since these are quick notes for the website and manifesto creation.
+Content in this page are random, pretty messed up and both in English and Italian, since these are quick notes for the website and manifesto creation.
 {:.warning}
 
 ## Resources
@@ -32,12 +33,19 @@ L’idea è quella di redarre un manifesto che unisca e raccolga tutti i motivi 
 
 ## Arguments
 
+- There's no history, archive or any sort of record for **ads**: posts are visible and invisible, they appear, accomplish their job, and then they vanish immediately, forever.
+- what is shown you have no control over what you're shown
+- they foster division and polarization
+- It's not just a few ads: lies are fostered
+
+```
 1. paradosso della libertà di espressione contro il monopolio dei mezzi di comunicazione
 2. impatto ambientale
 3. ricavi economici ("regalo likes")
 4. cenni di privacy (è uno degli argomenti che più sta a cuore alle società digitali del momento: non occorre focalizzarsi su questo)
 5. tempo "perso"
-6. chi possiede i dati?
+6. chi possiede i dati?)
+```
 
 <br>
 

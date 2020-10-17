@@ -471,6 +471,11 @@ footer {
 .navigation a, .navigation a:hover, .navigation a:focus {
 	text-decoration: none
 }
+.nav-container {
+	max-width: 100%;
+	height: var(--height);
+	background: var(--primary)
+}
 nav {
 	float: right;
 }
@@ -487,7 +492,7 @@ nav ul li {
 }
 nav ul li a, nav ul li a:visited {
 	display: block;
-	padding: 0 15px;
+	padding: 0 var(--lessthan-regular);
 	line-height: var(--height);
 	height: var(--height);
 	text-decoration: none;
@@ -527,6 +532,34 @@ nav ul li ul li a {
 }
 
 @media only screen and (max-width: 1000px) {
+	.nav-mobile {
+		display: block
+	}
+	nav {
+		margin-right: 0;
+		text-align: right
+	}
+	nav ul {
+		display: none
+	}
+	nav ul li {
+	  float: none
+	}
+	nav ul li a {
+		padding: var(--lessthan-regular) var(--big);
+		line-height: var(--morethan-regular)
+	}
+	nav ul li ul li a {
+		padding-right: 4.5rem
+	}
+	.nav-dropdown {
+		position: static;
+		overflow: scroll
+	}
+	.post-title {
+		width: 96%;
+		margin-left: 2%
+	}
 	h1, h2 {
 		text-align: center
 	}
@@ -607,15 +640,6 @@ nav ul li ul li a {
 }
 #stuff-tree {
 	margin: var(--height) calc(100% / 3)
-}
-#comments {
-	display: none;
-	visibility: hidden;
-	transition: var(--trans) sliding-vertically
-}
-#comments-button {
-	display: block;
-	margin: var(--regular) auto
 }
 
 /* FOOTER */
