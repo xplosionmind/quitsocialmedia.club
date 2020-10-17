@@ -6,6 +6,13 @@ title: Notes
 Content in this page are random, pretty messed up and both in English and Italian, since these are quick notes for the website and manifesto creation.
 {:.warning}
 
+## Content
+
+- Switching to RSS - the great beauty, the absolute perfection, of RSS feeds 
+
+<br>
+<br>
+
 ## Resources
 
 Randomly ordered links to articles, videos, documents, etc. about social media issues
@@ -115,5 +122,3 @@ L’idea è quella di redarre un manifesto che unisca e raccolga tutti i motivi 
 
 - Giffoni Film Festival
 - Radioimmaginaria
-
-
