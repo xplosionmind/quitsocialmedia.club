@@ -4,6 +4,9 @@ permalink: /notes
 title: Notes
 ---
 Content in this page are random, pretty messed up and both in English and Italian, since these are quick notes for the website and manifesto creation.
+{:.red .warning}
+
+To-do list, progress status and purposes are tracked on the [roadmap](/roadmap)
 {:.warning}
 
 ## Content
