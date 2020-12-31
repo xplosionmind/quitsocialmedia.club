@@ -1,0 +1,18 @@
+---
+layout: wrapper
+---
+<div class="h-entry">
+<div class="row page-header">
+	<div class="one column">
+		<a class="u-uid" href="{{ page.url }}"><h1 class="p-name">{{ page.title }}</h1></a>
+		{% comment %}<a class="u-url" href="{{ site.url }}{{ page.url }}"><h1 class="p-name">{{ page.title }}</h1></a>{% endcomment %}
+	</div>
+</div>
+<div class="row">
+	<div class="one column">
+		<article class="e-content poetry">
+			{{ content }}
+		</article>
+	</div>
+</div>
+{% include share.html %}

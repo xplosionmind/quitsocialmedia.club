@@ -1,0 +1,117 @@
+.clearfix {
+    clear: both;
+}
+.algolia-autocomplete {
+    width: 94% !important;
+	position: fixed !important;
+	bottom: calc(3.1rem + 3.7rem) !important;
+	right: 3%;
+	top: unset !important;
+}
+.aa-input {
+	right: calc(3% + 4rem + 4rem);
+	margin: var(--tiny);
+    width: var(--height);
+	padding: 0 var(--small);
+	height: var(--height);
+	line-height: var(--height);
+	color: var(--background);
+    outline: 0;
+	border: 0;
+	border-radius: var(--radius-m);
+	box-shadow: var(--button-shadow);
+	background: var(--background);
+	font-size: var(--big);
+	z-index: 100;
+	background-image: url('https://assets.tommi.space/logos/search.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+	&:active,
+	&:focus,
+	&:hover {
+		background: var(--primary);
+		color: var(--background);
+		width: 94%;
+		right: 3%;
+	}
+}
+.light .aa-input {
+	background-image: url('https://assets.tommi.space/logos/search-light.svg')
+}
+::placeholder {
+	color: var(--light-grey);
+	opacity: 1;
+}
+.aa-hint {
+    width: 100%;
+    color: var(--grey);
+}
+.aa-dropdown-menu {
+    border-radius: var(--radius-m);
+    box-shadow: var(--button-shadow);
+	background: var(--background);
+}
+.aa-suggestion {
+    padding: var(--small) var(--regular);
+	border-radius: var(--radius-m);
+}
+/*.aa-suggestion~.aa-suggestion{
+    border-top:1px solid #e8e8e8;
+}*/
+.aa-suggestion.aa-cursor {
+	box-shadow: var(--inner-shadow);
+}
+.aa-powered-by {
+	display: none;
+}
+.aa-hit--title {
+    font-size: 1.1em;
+    font-weight: 700;
+}
+.aa-hit--title .aa-hit--highlight {
+    position: relative;
+    z-index: 1;
+}
+.aa-hit--highlight {
+	color: var(--primary) !important;
+}
+.aa-hit--title .aa-hit--highlight::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .1;
+    z-index: -1;
+}
+.aa-hit__sm .aa-hit--title,.aa-hit__xs .aa-hit--title {
+    font-size: 1em;
+    line-height: 1.25em;
+    display: block;
+}
+.aa-hit__xs .aa-hit--title {
+    font-weight: 400;
+    padding: 8px 0;
+}
+/*.aa-suggestion:first-child .aa-hit--title{
+    border:none
+} */
+.aa-hit--description {
+    font-size: 13px;
+    color: var(--text);
+    margin-top: 4px;
+    line-height: 1.25em;
+}
+.aa-hit--description .aa-hit--highlight {
+    color: var(--primary);
+    font-weight: 700;
+}
+/*.aa-hit__xs .aa-hit--description {
+    display: none;
+} */
+.aa-hit__sm .aa-hit--description {
+    font-size: .9em;
+    line-height: 1.25em;
+}
+/*# sourceMappingURL=algoliasearchNetlify.css.map*/

@@ -1,0 +1,16 @@
+---
+title: Resources
+ref: resources
+lang: en
+permalink: /resources
+redirect_from:
+  - /bibliography
+layout: page
+---
+<ul>
+	{% for resource in site.data.resources %}
+		<li>
+			{% if resource.lang == 'it' %}&#127470;&#127481; {% endif %}<a href="{{ resource.link }}" title="{{ resource.name }}">{{ resource.name }}</a>- referenced <a href="{{ resource.where }}">here</a>{% unless resource.where2 == '0' %} and <a href="{{ resource.where2 }}">here</a>{% endunless %}
+		</li>
+	{% endfor %}
+</ul>

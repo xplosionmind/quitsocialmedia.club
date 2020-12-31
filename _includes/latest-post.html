@@ -1,0 +1,16 @@
+{% for post in site.posts limit:1 %}
+	<div class="stuff row">
+		<a href="{{ post.url }}"><h2 class="title">{% if page.lang == 'it'%}Ultimo articolo{% else %}Latest post{% endif %}</h2></a>
+		<div class="half column vertical flex">
+			<a href="{{ post.url }}"><img src="{{ post.image }}" alt="{{ post.title }}" title="{{ post.title }}" /></a>
+		</div>
+		<div class="half column vertical flex">
+			<a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+			<p class="date">{{ post.date | date_to_long_string }}</p>
+			<div class="serif">
+				{{ post.excerpt | truncatewords: 80 }}
+			</div>
+			<a href="{{ post.url }}" class="written button">{% if page.lang == 'it' %}Leggi{% else %}Read{% endif %}</a>
+		</div>
+	</div>
+{% endfor %}

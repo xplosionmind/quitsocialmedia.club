@@ -1,0 +1,834 @@
+---
+---
+
+@import "../_sass/search";
+@import "../_sass/highlight";
+@import "../_sass/nav";
+@import "../_sass/root";
+@import "{{ site.fonts }}/inter/inter.css";
+@import "{{ site.fonts }}/ubuntu-mono/ubuntu-mono.css";
+@import "{{ site.fonts }}/eb-garamond/eb-garamond.css";
+
+html {
+	box-sizing: border-box;
+	cursor: url(https://assets.tommi.space/logos/cursor.svg) 16 16, crosshair;
+	background: var(--background);
+	scroll-behavior: smooth;
+}
+
+/* DARK THEME */
+body {
+	--background: var(--dark);
+	--text: var(--white-ish);
+	--deep: #111;
+	--link: var(--primary);
+	--primary: var(--yellow);
+	--primary-dark: var(--dark-yellow);
+	--secondary: var(--blue);
+	--internal-link: var(--blue);
+	--grey: var(--dark-grey);
+	--other-grey: var(--light-grey);
+	--shadow: 5px 5px 20px #000000BB, -5px -5px 20px #FFFFFF11;
+	--little-shadow: 2px 2px 3px #000000EF, -2px -2px 3px #FFFFFF22;
+	--button-shadow: 3px 3px 8px #000A, -3px -3px 8px #FFFFFF11;
+	--inner-shadow: inset 3px 3px 5px #0008, inset -3px -3px 5px #FFF2;
+	--inner-little-shadow: inset 2px 2px 3px #000A, inset -2px -2px 3px #FFF1;
+	--header-shadow: 5px 5px 15px #000D, -5px -5px 15px #FFF2;
+
+	--text-shadow: -1px -1px 0px var(--link), 0px 0px 0px var(--grey), 1px 1px 1px var(--grey);
+	--title-text-shadow: -3px -3px 0px var(--text), -3px -2px 1px var(--grey), -2px -3px 1px var(--grey), -2px -2px 0px var(--grey), -1px -1px 0px var(--grey), 0px 0px 0px var(--grey);
+
+	transition: var(--trans);
+}
+
+/* LIGHT THEME */
+.light {
+	--background: var(--white-ish);
+	--text: var(--black-ish);
+	--deep: white;
+	--link: var(--secondary);
+	--primary: var(--blue);
+	--secondary: var(--razzmatazz);
+	--internal-link: var(--blue);
+	--grey: var(--light-grey);
+	--other-grey: var(--dark-grey);
+	--shadow: 5px 5px 20px #0005, -5px -5px 20px #FFFFFFEF;
+	--little-shadow: 2px 2px 3px #0005, -2px -2px 3px #FFF6;
+	--button-shadow: 3px 3px 8px #0005, -3px -3px 8px #FFF6;
+	--inner-shadow: inset 3px 3px 5px #0005, inset -3px -3px 5px #FFF3;
+	--inner-little-shadow: inset 2px 2px 3px #0002, inset -2px -2px 3px #FFF3;
+	--header-shadow: 5px 5px 15px #0003, -5px -5px 15px #FFFF;
+
+	transition: var(--trans);
+}
+
+body {
+	background: var(--background);
+	color: var(--text);
+	font: var(--regular) Inter, -apple-system, Helvetica, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	margin: 0;
+	overflow-wrap: break-word;
+	hyphens: auto;
+}
+
+* {
+	transition: var(--trans), transform var(--quicktrans);
+}
+
+*,
+::before,
+::after {
+	box-sizing: inherit;
+}
+
+.row::before,
+.row::after {
+	display: table;
+	content: " ";
+	clear: both;
+}
+
+.one,
+.one-third,
+.two-thirds,
+.one-fourth,
+.half,
+.two-fifths,
+.four-fifths,
+.one-fifth {
+	width: 100%;
+}
+
+mark {
+	background: var(--primary);
+	color: var(--background);
+	font-weight: 500;
+}
+
+::selection {
+	color: var(--background);
+	background: var(--primary);
+}
+
+.top {
+	right: 3%;
+}
+
+.theme-toggle {
+	right: calc(3% + 4rem);
+}
+
+.tool {
+	position: fixed;
+	bottom: var(--bigger);
+	z-index: 9;
+	&.button {
+		padding: .3rem;
+	}
+}
+
+a {
+	text-decoration: none;
+	color: var(--link);
+	&:hover,
+	&:focus,
+	&:active {
+		.title {
+			text-shadow: var(--title-text-shadow-hover);
+			color: var(--text);
+		}
+	}
+	.box {
+		&:hover {
+			box-shadow: var(--inner-shadow);
+		}
+	}
+}
+
+p,
+li,
+article li,
+.toc {
+	a {
+		font-weight: 600;
+		transition: var(--quicktrans);
+		&:hover,
+		&:focus {
+			text-shadow: var(--text-shadow);
+			color: transparent !important;
+		}
+		&:active {
+			text-shadow: none;
+			color: var(--link) !important;
+		}
+		&[href*="jar" i],
+		&[href*="marmellata" i] {
+			&::before {
+				content: "🍯 ";
+			}
+		}
+		&[href*="mailto" i] {
+		&::before {
+			content: "✉️ ";
+			}
+		}
+		&[href*="giri" i] {
+		&::before {
+			content: "🧳 ";
+			}
+		}
+		&[href*="visioni" i],
+		&[href*="visions" i] {
+			&::before {
+				content: "🖼 ";
+				/*content: "📷" */
+			}
+		}
+		&[href="/about" i],
+		&[href*="about-it" i] {
+			&::before {
+				content: "🙋 ";
+			}
+		}
+		&[href="/zibaldone" i],
+		&[href="/zibenglish" i],
+		&[href="/blog" i] {
+			&::before {
+				content: "📜 ";
+				/*content: "📖"; */
+			}
+		}
+		&[href*="unive.it" i] {
+			&::before {
+				content: "🎓 ";
+			}
+		}
+		&[href^="/"],
+		&[href^="#"],
+		&[href*="https://tommi.space" i] {
+			color: var(--internal-link);
+		}
+	}
+}
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+
+#feed .flex.box {
+	justify-content: space-between;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+	grid-gap: var(--regular);
+	h3 {
+		text-align: center;
+	}
+	p {
+		font-size: .8em;
+		font-weight: 300;
+		line-height: 1em;
+	}
+	.box {
+		margin: 0;
+		padding: 3%;
+	}
+}
+
+.vertical {
+	flex-direction: column;
+	height: 100%;
+}
+
+a,
+button,
+.button,
+.aa-suggestion,
+.embed-container {
+	cursor: url(https://assets.tommi.space/logos/cursor-hover.svg) 16 16, pointer;
+}
+
+
+/* private or invalid links */
+.invalid-link {
+	opacity: .5;
+	cursor: not-allowed;
+	.invalid-link-brackets {
+		opacity: .3;
+	}
+}
+
+li {
+	margin-bottom: var(--small);
+	line-height: var(--regular-more-em);
+	li {
+		margin-bottom: 0;
+		list-style-type: "–   ";
+		li {
+			list-style-type: "+  ";
+		}
+	}
+}
+
+.task-list-item {
+	list-style: none;
+}
+
+.task-list-item-checkbox {
+	position: relative;
+	right: var(--regular-less);
+	width: var(--regular);
+	height: var(--regular);
+}
+
+.poetry,
+.serif {
+	font-family: "EB Garamond", Garamond, "Simoncini Garamond", Georgia, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	p {
+		line-height: 1.5em;
+	}
+}
+
+.post {
+	& > p:first-of-type::first-letter {
+		initial-letter: 4;
+		-webkit-initial-letter: 4;
+	}
+	.embed-container {
+		border-radius: var(--radius-l);
+		box-shadow: var(--shadow);
+	}
+}
+
+hr {
+	color: transparent;
+	border-top: 7px dotted var(--grey);
+}
+
+.line {
+	width: 20%;
+	height: var(--small);
+	margin: 0 auto;
+	border-radius: var(--radius-s);
+	box-shadow: var(--little-shadow);
+}
+
+.background {
+	background: var(--background) !important;
+	color: var(--text) !important;
+}
+
+.page-header {
+	h1 {
+		font-size: var(--mastodon);
+		margin: var(--regular-less);
+		text-shadow: var(--header-shadow);
+	}
+	p {
+		text-align: center;
+		padding: 0 10%;
+	}
+}
+
+.toc {
+	margin: 0 10% var(--regular);
+	li {
+		margin: 0;
+		li {
+			a {
+				opacity: .8;
+			}
+			li a {
+				opacity: .8;
+			}
+		}
+	}
+}
+
+.anchor {
+	height: var(--regular-more);
+}
+
+pre,
+code {
+	font: 400 1.1em 'Ubuntu Mono', 'Roboto Mono', 'Fira Code', mono, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	line-height: 1.2em;
+}
+
+pre {
+	overflow-x: scroll;
+	margin: var(--bigger) 0;
+	padding: var(--regular-more);
+	border-radius: var(--radius-m);
+	box-shadow: var(--inner-shadow);
+	background: var(--black-ish);
+	code {
+		box-shadow: unset;
+	}
+}
+
+code {
+	padding: 2px 9px;
+	box-shadow: var(--inner-little-shadow);
+	border-radius: var(--radius-s);
+}
+
+.cite {
+	text-align: right;
+	&::before {
+		content: '~ ';
+	}
+}
+
+blockquote {
+  	margin: 0 3vw;
+	padding: 0;
+	p {
+		font: 1em "EB Garamond", Garamond, "Simoncini Garamond", Georgia, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+		opacity: .9;
+	}
+}
+
+td,
+th,
+tr {
+	border: solid 1px var(--grey);
+}
+
+th {
+	padding: var(--small) var(--regular-less);
+    
+	/* making the header sticky */
+	position: sticky;
+    top: 0;
+    background: var(--background);
+}
+
+td {
+	font-size: .8em;
+	padding: var(--tiny) var(--small);
+}
+
+.table {
+	max-height: 90vh;
+	overflow: scroll;
+	margin: var(--height) 2vw;
+	border: 3px solid var(--grey);
+	border-radius: var(--radius-l);
+	box-shadow: var(--shadow);
+}
+
+table {
+	border-collapse: collapse;
+}
+
+.landing {
+	background: var(--primary);
+	h1 {
+		color: var(--background);
+		font-weight: 800;
+		margin-bottom: 0;
+		position: relative;
+		bottom: var(--regular);
+	}
+	.button {
+		color: var(--primary);
+		background: var(--background);
+		margin: var(--tiny) var(--regular-less);
+	}
+}
+
+.menu {
+	display: flex;
+}
+
+@media only screen and (min-width: 950px) {
+	.one {
+		width: 70%;
+		margin-left: 15%;
+	}
+	.half {
+		width: 50%;
+	}
+	.one-third {
+		width: calc(100% / 3);
+	}
+	.one-fourth {
+		width: 25%;
+	}
+	.two-thirds {
+		width: calc(100% / 3 * 2);
+	}
+	.one-fifth {
+		width: 20%;
+	}
+	.two-fifths {
+		width: 40%;
+	}
+	.four-fifths {
+		width: 80%;
+		text-align: left;
+	}
+	.three-fourths {
+		width: 75%;
+	}
+	.column {
+		float: left;
+	}
+	.line {
+		margin: auto;
+		width: 50%;
+	}
+	.mobile {
+		display: none;
+	}
+	.box.post-preview img {
+		max-height: 24vh;
+		width: auto;
+	}
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	border-radius: var(--radius-l);
+}
+
+figure {
+	margin: var(--height) auto;
+	img {
+		max-height: 90vh;
+		border: solid 1px black;
+		box-shadow: var(--shadow);
+		margin: 0 auto;
+	}
+}
+
+figcaption {
+	font: var(--regular) "EB Garamond", Garamond, "Simoncini Garamond", Georgia, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	line-height: var(--regular);
+	margin-top: var(--regular-less);
+	color: var(--other-grey);
+	text-align: center;
+}
+
+.center {
+	text-align: center;
+}
+
+.right,
+.date {
+	text-align: right;
+}
+
+p {
+	line-height: 1.75em;
+}
+
+strong,
+b {
+	font-weight: 800;
+}
+
+/* make underline text dashed instead of solid */
+/*u {
+	text-decoration: none;
+	border-bottom: dashed 2px var(--text); 
+} */
+
+article {
+	font-size: var(--regular-more);
+	padding: var(--twice) 10% var(--mastodon);
+}
+
+time {
+	font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-transform: uppercase;
+	&:hover {
+		.anchor {
+			display: inline-block;
+		}
+	}
+	.anchor {
+		display: none;
+	}
+}
+
+.title {
+	font-weight: 800;
+	letter-spacing: .1em;
+	font-size: var(--twice);
+	color: transparent;
+	margin: var(--regular) auto;
+	text-shadow: var(--title-text-shadow);
+	text-align: center;
+	transition: var(--quicktrans);
+}
+
+h1 {
+	color: var(--text);
+	text-align: center;
+	font-size: var(--height);
+	text-decoration: none;
+}
+
+h2 {
+	font-size: var(--bigger);
+}
+
+.box {
+	max-height: 80vh;
+	max-width: 100%;
+	color: var(--text);
+	padding: var(--big);
+	margin-top: var(--bigger);
+	margin-bottom: var(--bigger);
+	border-radius: var(--radius-l);
+	box-shadow: var(--shadow);
+	overflow: scroll;
+	&.post-preview {
+		margin-top: var(--regular-less);
+		margin-bottom: var(--regular-less);
+		max-height: unset;
+		padding: var(--small);
+		.serif {
+			margin: 0 var(--regular);
+		}
+		.date {
+			margin: 0 var(--regular);
+		}
+		.button {
+			transform: scale(.7);
+		}
+	}
+	h2,
+	h3 {
+		text-align: center;
+	}
+	h3,
+	h4 {
+		margin: 0;
+	}
+}
+
+.box,
+.stuff {
+	p {
+		margin: var(--regular) 10%;
+	}
+}
+
+.stuff {
+	padding: 4vw 2vw;
+	margin: var(--height) 2vw;
+	border-radius: var(--radius-l);
+	box-shadow: var(--shadow);
+	.column {
+		padding: 0 2vw;
+	}
+}
+
+.stuff-logo {
+	width: auto;
+	min-width: 50%;
+	max-width: 100%;
+	max-height: 10rem;
+	border-radius: 0;
+}
+
+.last-modified {
+	margin: 0 auto var(--twice);
+	font-size: var(--regular-less);
+	opacity: .8;
+	text-align: center;
+}
+
+footer {
+	margin: var(--bigger) 3%;
+	overflow: hidden;
+	width: 94%;
+	padding: var(--big);
+	border-radius: var(--radius-l);
+	box-shadow: var(--shadow);
+	* {
+		text-align: center;
+	}
+	p {
+		opacity: .7;
+		&:hover,
+		&:focus {
+			opacity: 1;
+		}
+	}
+	img {
+		border-radius: 0;
+		margin: auto;
+	}
+	& > .row {
+		justify-content: space-between;
+	}
+}
+
+@media only screen and (max-width: 950px) {
+	.page-header h1 {
+		font-size: var(--height);
+	}
+	.box {
+		margin: var(--bigger) 3%;
+	}
+	.stuff-logo {
+		margin-top: var(--bigger)
+	}
+}
+
+audio {
+	width: 100%;
+	box-shadow: var(--shadow);
+	border-radius: var(--radius-m);
+}
+
+.controlBar {
+	background: none !important;
+}
+
+svg.button,
+img.button {
+	height: var(--height);
+	width: auto;
+	padding: 0;
+	margin: var(--tiny);
+	background: var(--primary);
+}
+
+button,
+.button {
+	display: inline-block;
+	padding: var(--small) var(--regular);
+	font-size: var(--bigger);
+	font-weight: 700;
+	text-transform: uppercase;
+	border-radius: var(--radius-m);
+	box-shadow: var(--button-shadow);
+	text-align: center;
+	hyphens: none;
+	&:hover,
+	&:focus {
+		box-shadow: none;
+	}
+	&:active {
+		box-shadow: var(--inner-shadow);
+	}
+}
+
+.written {
+	background: var(--primary);
+	color: var(--background);
+	margin: var(--big);
+}
+
+.smaller {
+	padding: var(--tiny) var(--regular-less);
+	margin: var(--small);
+	font-size: var(--big);
+	border-radius: var(--radius-s);
+}
+
+.sharing {
+	.button {
+		margin-right: var(--small);
+		padding: .4rem;
+	}
+}
+
+.listen-on {
+	background: var(--deep);
+	.button {
+		margin-right: .5rem;
+	}
+}
+
+/* FOOTER */
+#license {
+	font-size: .8em;
+	font-weight: 200;
+}
+
+.embed-container {
+	--video--width: 1920;
+	--video--height: 1080;
+
+	position: relative;
+	padding-bottom: calc(var(--video--height) / var(--video--width) * 100%);
+	overflow: hidden;
+	max-width: 100%;
+	background: transparent;
+
+	iframe,
+	object,
+	embed {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+}
+
+.green {
+	background: var(--green);
+	color: var(--black-ish) !important;
+	border-color: var(--green) !important;
+}
+
+.red {
+	background: var(--red);
+	color: white !important;
+	border-color: var(--red) !important;
+	a {
+		color: var(--yellow);
+	}
+}
+
+.blue {
+	background: var(--blue);
+	color: white !important;
+	border-color: var(--blue) !important;
+	a {
+		color: var(--yellow);
+	}
+}
+
+.yellow {
+	background: var(--yellow);
+	color: var(--black-ish) !important;
+	border-color: var(--yellow) !important;
+	a {
+		color: var(--red);
+	}
+}
+
+.razzmatazz {
+	background: var(--razzmatazz);
+	color: white !important;
+	border-color: var(--razzmatazz) !important;
+}
+
+.grey {
+	background: var(--grey);
+	border-color: var(--grey) !important;
+}
+
+.border {
+	background: transparent;
+	color: var(--text);
+	border: 3px solid var(--text);
+}

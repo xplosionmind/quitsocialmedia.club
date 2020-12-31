@@ -1,137 +1,39 @@
 ---
 layout: wrapper
-permalink: "/:title"
 ---
-<div class="row page-header">
-	<div class="one column">
-		<h1>{{ page.title }}</h1>
+<link class="p-author h-card" rel="author" class="p-name" href="/about" content="{{ site.author.name }}" />
+
+<div class="h-entry one column">
+	<div class="page-header row">
+		<a class="u-uid" href="{{ page.url }}"><h1 class="p-name">{{ page.title }}</h1></a>
+		<!--<a class="u-url" href="{{ site.url }}{{ page.url }}"><h1 class="p-name">{{ page.title }}</h1></a>-->
+		<p><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time></p>
 	</div>
+
+	{% include post-tags.html %}
+
+	{% if page.toc == 1 %}
+		<div class="row toc">
+			<h2>
+				{% if page.lang == 'it' %}
+					Indice
+				{% else %}
+					Table of contents
+				{% endif %}
+			</h2>
+		{% include toc.html html=content sanitize=true %}
+	</div>
+	{% endif %}
+
 	<div class="row">
-		<div class="one column">
-			</div>
-			{% case page.lang %}
-			{% when 'it' %}
-			<span style="text-align: center">{{ page.date | date: "%d %B %Y" }}</span>
-			{% else %}
-			<span style="text-align: center">{{ page.date | date: "%d %B %Y" }}</span>
-			{% endcase %}
-		</div>
-	</div>
-</div>
-{% if page.toc == 'true' %}
-<div class="row toc">
-	<div class="one column">
-		<h2>
-		{% case page.lang %}
-		{% when 'it' %}
-			Indice dei contenuti
-		{% else %}
-			Table of contents
-		{% endcase %}
-		</h2>
-		{% include toc.html html=content h_min=2 %}
-	</div>
-</div>
-{% endif %}
-<div class="row">
-	<div class="one column">
-		<article class="post">
-			{% include anchor-parser.html html=content beforeHeading=true anchorBody='<svg class="anchor" style="enable-background:new 0 0 465.951 465.951" version="1.1" viewBox="0 0 466 466" xmlns="http://www.w3.org/2000/svg"><g style="fill: var(--text)" transform="matrix(.7000 0 0 .7000 70 70)"><path d="m442 284.4-59.39-59.38c-15.98-15.98-35.4-23.98-58.24-23.98-23.22 0-43.01 8.375-59.38 25.12l-25.12-25.12c16.75-16.37 25.12-36.26 25.12-59.67 0-22.84-7.898-42.16-23.7-57.96l-58.82-59.1c-15.8-16.18-35.21-24.27-58.24-24.27-22.84 0-42.16 7.902-57.96 23.7l-41.97 41.68c-16.18 15.8-24.27 35.12-24.27 57.96 0 22.84 7.996 42.26 23.98 58.24l59.38 59.38c15.99 15.99 35.4 23.98 58.24 23.98 23.22 0 43.02-8.374 59.38-25.13l25.12 25.13c-16.75 16.37-25.12 36.26-25.12 59.67 0 22.84 7.898 42.15 23.7 57.96l58.82 59.09c15.8 16.18 35.21 24.27 58.24 24.27 22.84 0 42.15-7.897 57.96-23.7l41.97-41.68c16.18-15.8 24.27-35.12 24.27-57.96-5e-3 -22.84-7.999-42.25-23.99-58.24zm-241-122.2c-0.571-0.571-2.334-2.378-5.28-5.424-2.948-3.046-4.995-5.092-6.136-6.14-1.143-1.047-2.952-2.474-5.426-4.286-2.478-1.809-4.902-3.044-7.28-3.711-2.38-0.666-4.998-0.998-7.854-0.998-7.611 0-14.08 2.666-19.41 7.993s-7.992 11.8-7.992 19.41c0 2.853 0.332 5.471 0.998 7.851 0.666 2.382 1.903 4.808 3.711 7.281 1.809 2.474 3.237 4.283 4.283 5.426 1.044 1.141 3.09 3.188 6.136 6.139 3.046 2.95 4.853 4.709 5.424 5.281-5.711 5.898-12.56 8.848-20.56 8.848-7.804 0-14.28-2.568-19.41-7.705l-59.39-59.39c-5.327-5.33-7.992-11.8-7.992-19.42 0-7.421 2.662-13.8 7.992-19.13l41.97-41.69c5.523-5.14 11.99-7.705 19.42-7.705 7.611 0 14.08 2.663 19.41 7.993l58.81 59.1c5.33 5.33 7.992 11.8 7.992 19.41 1e-3 7.991-3.139 14.94-9.418 20.85zm202.1 199.6-41.97 41.69c-5.332 4.945-11.8 7.423-19.42 7.423-7.809 0-14.27-2.566-19.41-7.707l-58.81-59.1c-5.331-5.332-7.99-11.8-7.99-19.41 0-7.994 3.138-14.94 9.421-20.84 0.575 0.567 2.334 2.381 5.284 5.42 2.95 3.046 4.996 5.093 6.14 6.14 1.143 1.051 2.949 2.478 5.42 4.288 2.478 1.811 4.9 3.049 7.282 3.713 2.382 0.667 4.997 0.999 7.851 0.999 7.618 0 14.09-2.665 19.42-7.994 5.324-5.328 7.994-11.8 7.994-19.41 0-2.854-0.339-5.472-1-7.851-0.67-2.382-1.902-4.809-3.72-7.282-1.811-2.471-3.23-4.284-4.281-5.428-1.047-1.136-3.094-3.183-6.139-6.14-3.046-2.949-4.853-4.709-5.428-5.276 5.715-6.092 12.57-9.138 20.55-9.138 7.617 0 14.08 2.663 19.41 7.994l59.39 59.38c5.332 5.332 7.995 11.81 7.995 19.42 0 7.416-2.663 13.8-7.985 19.12z"/></g></svg>' anchorTitle='%heading%' h_min=2 %}
+		<article class="e-content post">
+			{% include anchor-parser.html html=content %}
 		</article>
 	</div>
+
+	{% include edit.html %}
+	{% include backlinks.html %}
+	{% include share.html %}
+	{% include comments.html %}
+
 </div>
-
-<div class="row">
-	<div class="one column">
-		<p><a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repository }}/blob/master/{{ page.path }}" target="_blank" rel="noopener noreferrer" class="edit">
-		{% case page.lang %}
-		{% when 'it' %}
-			suggerisci modifica o correzione
-		{% else %}
-			suggest edit
-		{% endcase %}
-		</a></p>
-	</div>
-</div>
-
-<div class="row">
-	<div class="one column">
-		<div id="sharing-box" class="button-box">
-			{% case page.lang %}
-			{% when 'it' %}
-			<div>condividi questo post</div>
-			{% else %}
-			<div>share this post</div>
-			{% endcase %}
-
-			<!-- Facebook -->
-			<a href="https://facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank" rel="noopener noreferrer">
-				<svg class="button" style="enable-background:new 0 0 455.73 455.73" version="1.1" viewBox="0 0 455.73 455.73" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-<path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382  c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z" style="fill:var(--primary)"/>
-</svg>
-			</a>
-
-			<!-- Twitter -->
-			<a href="https://twitter.com/intent/tweet/?text={{ page.title }}%20by%20@xplosionmind%20%20%20&amp;url={{ site.url }}{{ page.url }}" target="_blank" rel="noopener noreferrer">
-				<svg class="button" style="enable-background:new 0 0 455 455" version="1.1" viewBox="0 0 455 455" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-<path d="m0 0v455h455v-455h-455zm352.75 163.26c0.123 2.773 0.186 5.561 0.186 8.36 0 85.403-65.002 183.88-183.87 183.88-36.496 0-70.466-10.697-99.065-29.037 5.056 0.601 10.199 0.907 15.417 0.907 30.278 0 58.143-10.331 80.262-27.668-28.28-0.519-52.148-19.204-60.373-44.88 3.948 0.757 7.997 1.163 12.161 1.163 5.894 0 11.604-0.794 17.027-2.268-29.563-5.939-51.841-32.057-51.841-63.368 0-0.273 0-0.544 6e-3 -0.814 8.712 4.84 18.676 7.748 29.271 8.084-17.342-11.589-28.748-31.371-28.748-53.79 0-11.845 3.187-22.945 8.751-32.492 31.873 39.101 79.493 64.828 133.2 67.526-1.103-4.732-1.677-9.665-1.677-14.729 0-35.688 28.938-64.623 64.626-64.623 18.589 0 35.385 7.847 47.173 20.406 14.719-2.895 28.551-8.276 41.038-15.681-4.824 15.092-15.071 27.754-28.415 35.754 13.074-1.563 25.528-5.038 37.118-10.178-8.662 12.959-19.618 24.342-32.247 33.452z" style="clip-rule:evenodd;fill-rule:evenodd;fill:var(--primary)"/>
-</svg>
-			</a>
-
-			<!-- WhatsApp -->
-			<a href="whatsapp://send?text={{ site.url }}{{ page.url }}" target="_blank" rel="noopener noreferrer">
-				<svg class="button" style="enable-background:new 0 0 455.731 455.731" version="1.1" viewBox="0 0 455.73 455.73" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-<g style="fill:var(--primary)">
-	<path d="m228.07 95.321c-72.877 0-132.17 59.29-132.17 132.17 0 25.393 7.217 50.052 20.869 71.311l3.281 5.109-12.855 45.658 47.238-12.16 4.872 2.975c20.654 12.609 44.432 19.274 68.762 19.274 72.877 0 132.17-59.29 132.17-132.17s-59.289-132.17-132.17-132.17zm81.046 172.79-1.649 7.702c-1.86 8.69-7.021 16.377-14.508 21.166-9.453 6.047-21.706 9.016-37.28 4.612-48.333-13.667-75.667-45.667-90.333-65.667-14.667-20-20.333-40-16.667-56.333 2.459-10.954 10.465-19.359 15.472-23.708 2.453-2.13 5.635-3.214 8.878-3.037l10.328 0.563c2.034 0.111 3.828 1.367 4.629 3.24l15.045 35.201c0.804 1.881 0.465 4.055-0.872 5.602l-13.096 15.15c-1.062 1.228-1.247 2.978-0.499 4.419 17.248 33.224 48.682 46.389 58.066 49.687 1.599 0.562 3.371 0.031 4.407-1.312l13.703-17.764c1.524-1.976 4.211-2.636 6.477-1.591l34.905 16.089c2.275 1.049 3.518 3.533 2.994 5.981z" style="fill:var(--primary)"/>
-	<path d="m0 0v455.73h455.73v-455.73h-455.73zm228.07 386.66c-27.347 0-54.125-7-77.814-20.292l-81.763 21.047 22.323-79.284c-14.355-24.387-21.913-52.134-21.913-80.638 0-87.765 71.402-159.17 159.17-159.17s159.17 71.402 159.17 159.17-71.401 159.17-159.17 159.17z" style="fill:var(--primary)"/>
-</g>
-</svg>
-			</a>
-
-			<!-- Telegram -->
-			<a href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ page.title }}%20" target="_blank" rel="noopener noreferrer">
-				
-<svg class="button" style="enable-background:new 0 0 242.667 242.667" version="1.1" viewBox="0 0 242.67 242.67" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-<path d="m162.44 86.061-54.044 50.235c-1.899 1.765-3.126 4.135-3.473 6.704l-1.839 13.641c-0.245 1.82-2.806 2.003-3.308 0.237l-7.08-24.875c-0.808-2.839 0.37-5.87 2.883-7.418l65.484-40.334c1.175-0.723 2.388 0.87 1.377 1.81zm80.224-86.061v242.67h-242.67v-242.67h242.67zm-54.002 58.301-137.51 53.047c-3.39 1.308-3.364 6.114 0.04 7.385l33.505 12.507 12.97 41.708c0.831 2.671 4.099 3.656 6.267 1.888l18.677-15.226c1.958-1.596 4.744-1.674 6.788-0.19l33.689 24.459c2.319 1.684 5.604 0.414 6.187-2.392l24.675-118.7c0.637-3.061-2.37-5.613-5.288-4.487z" style="fill:var(--primary)"/>
-</svg>
-	   </a>
-
-		</div>
-	</div>
-</div>
-
-<script>
-	function comments() {
-		var c = document.getElementById("comments");
-		if (c.style.display === "none") {
-   			c.style.display = "block";
-   			c.style.visibility = "visible";
-			c.style.opacity = "1";
-		}
-		else {
-			c.style.display = "none";
-			c.style.visibility = "hidden";
-			c.style.opacity = "0";
-		}
-	}
-</script>
-
-<div class="row">
-	<div class="one column">
-		<button onclick="comments()" id="comments-button" title="show comments">{% case page.lang %}{% when 'it' %}commenti{% else %}comments{% endcase %}</button>
-	</div>
-</div>
-
-<div class="row" id="comments">
-	<div class="one column">
-		<script src="https://utteranc.es/client.js"
-				repo="xplosionmind/xplosionmind"
-    			issue-term="title"
-    			label="comment"
-    			theme="github-dark"
-    			crossorigin="anonymous"
-    			async>
-		</script>
-	</div>
-</div>
-<br />

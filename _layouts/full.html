@@ -1,0 +1,29 @@
+---
+layout: none
+---
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+	<style>
+		body {
+			background: var(--primary);
+		}
+		h1,a,a:visited {
+			color: var(--background);
+		}
+		h1 {
+			font-size: 8rem;
+		}
+		a {
+			width: 100vw;
+			height: 100vh;
+			padding: 10%;
+		}
+	</style>
+<body>
+	<a class="vertical flex" href="{{ page.link }}">
+		<h1 style="margin: var(--regular) auto">{{ page.title }}</h1>
+		{{ content | markdownify }}
+	</a>
+</body>
+</html>

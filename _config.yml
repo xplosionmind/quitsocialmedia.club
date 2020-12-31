@@ -1,50 +1,72 @@
-title: "Quit Social Media"
-email: tommiboom@protonmail.com
+title: Quit Social Media
+email: hi@quitsocialmedia.club
 description: >- # this means to ignore newlines until "baseurl:"
-    Enjoying the internet and social life independently from big intrusive and addictive platforms
+    Whys and hows about quitting Social Media
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://quitsocialmedia.club" # the base hostname & protocol for your site, e.g. http://example.com
+author: Tommi
+publisher: Tommi
 twitter_username: xplosionmind
 github_username: xplosionmind
-git_repository: "quit-social-media"
+git_repository: "quitsocialmedia.club"
 future: true
 profile: true
 livereload: true
 strict_front_matter: true
-
+images: "https://assets.tommi.space/images"
+post-images: "https://assets.tommi.space/images/posts"
+assets: "https://assets.tommi.space/assets"
+video: "https://assets.tommi.space/video"
+audio: "https://assets.tommi.space/audio"
+logos: "https://assets.tommi.space/logos"
+fonts: "https://assets.tommi.space/fonts"
+exclude:
+  - riordinare/
+keep_files:
+  - images/
+  - assets/
 collections:
-  posts:
-    excerpt_separator: "<!--more-->"
+  levels:
+    output: false
+
+social:
+  name: xplosionmind
+tagline: "Living a healthier life on the web"
+twitter:
+  username: xplosionmind
+  card: summary
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-last-modified-at
   - jekyll-target-blank
+  - jekyll-watch
+  - jekyll-redirect-from
+  - jekyll-debug
+  - jekyll-watch
+  - jekyll-email-protect
 
 sass:
-    style: compressed
-
-permalink: "/:title"
-ref: ":title"
-
+  style: compressed
+permalink: /:title
 defaults:
   -
     scope:
       path: ""
     values:
       layout: "wrapper"
-      ref: ":title"
       lang: "en"
       img: "/images/preview.gif"
-      primary: "#FCC920"
+      comments: true
 
   -
     scope:
       path: ""
-      type: "posts"
+      type: levels
     values:
-      layout: "post"
-      lang: "it"
-      permalink: "/:title"
-      excerpt_separator: "<!--more-->"
+      layout: level
+      lang: en
+      permalink: /:title
+      hide: 0

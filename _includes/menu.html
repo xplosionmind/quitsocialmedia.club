@@ -1,0 +1,14 @@
+---
+layout: blank
+lang: it
+title: "Menu provvisorio"
+description: "Tutto a un tratto il menu su mobile ha smesso di funzionare. Mentre cerco di capire come sistemare la cosa con JavaScript, questa è l'alternativa. Da desktop dovrebbe essere tutto normale"
+---
+<ul>
+	<li>{% if page.lang == 'it' %}<a href="/about-it">Chi sono{% else %}<a href="/about">About{% endif %}</a></li>
+	<li>{% if page.lang == 'it' %}<a href="/ora">Ora{% else %}<a href="/now">Now{% endif %}</a></li>
+    <li>{% if page.lang == 'it' %}<a href="/zibaldone">Zibaldone{% else %}<a href="/zibenglish">Blog{% endif %}</a></li>
+    <li><a href="https://flickr.com/xplosionmind/albums">{% if page.lang == 'it' %}Visioni{% else %}Visions{% endif %}</a></li>
+    <li>{% if page.lang == 'it' %}<a href="/cose">Cose{% else %}<a href="/stuff">Stuff{% endif %}</a></li>
+	<li>{% if page.lang == 'it' %}<a href="/marmellata">La Marmellata{% else %}<a href="/jar">The Jar{% endif %}</a></li>
+</ul>

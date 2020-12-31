@@ -1,37 +1,24 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
-{% if page.lang == 'it' %}
-<html lang="it">
-{% else %}
-<html lang="en">
-{% endif %}
-<head>
-<script type="text/javascript">
-	function darktoggle() {
-		var element = document.body;
-		element.classList.toggle("light");
-	}
-</script>
+<html lang="{% if page.lang == 'it' %}it{% else %}en{% endif %}">
 
-{% seo %}
+	{% include head.html %}
 
-<title>Quit Social Media | {{ page.title }}</title>
-<link href="/fonts/inter/inter.css" type="text/css" rel="stylesheet" />
-<link rel="styleseheet" type="text/css" href="/fonts/Ubuntu-Mono/ububtu-mono.css" />
-<link href="/style.css" type="text/css" rel="stylesheet" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="icon" href="/logos/favicon.svg" sizes="32x32" />
-<link rel="icon" href="/logos/favicon.svg" sizes="192x192" />
-<meta name="apple-mobile-web-app-status-bar-style" content="{{ page.primary }}">
-<meta name="theme-color" content="{{ page.primary }}" />
-<meta property="og:image" content="{{ page.img }}" />
-{% if page.style == 'true' %}<style>body { --primary: {{ page.primary }} !important	}</style>{% endif %}
+	<body>
+		{% include theme-toggle.html %}
+		<a href="#">
+			<svg class="top button tool" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="background:var(--background)"><path d="M18 15a1 1 0 0 1-.64-.23L12 10.29l-5.37 4.32a1 1 0 0 1-1.41-.15 1 1 0 0 1 .15-1.41l6-4.83a1 1 0 0 1 1.27 0l6 5a1 1 0 0 1 .13 1.41A1 1 0 0 1 18 15z" fill="var(--primary)"/></svg>
+		</a>
+		<input id="search" rel="search" type="search" class="tool" />
+		{% include nav.html %}
 
-</head><body>
+		{% if page.tags contains 'draft' or page.tags contains 'wip' %}
+			{% include draft.html %}
+		{% endif %}
 
-<a href="#"><svg class="top button" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g style="fill:var(--primary)"><rect transform="rotate(180 12 12)" width="24" height="24" opacity="0"/><path d="M6.63 11.61L12 7.29l5.37 4.48A1 1 0 0 0 18 12a1 1 0 0 0 .77-.36 1 1 0 0 0-.13-1.41l-6-5a1 1 0 0 0-1.27 0l-6 4.83a1 1 0 0 0-.15 1.41 1 1 0 0 0 1.41.14z"/><path d="M12.64 12.23a1 1 0 0 0-1.27 0l-6 4.83a1 1 0 0 0-.15 1.41 1 1 0 0 0 1.41.15L12 14.29l5.37 4.48A1 1 0 0 0 18 19a1 1 0 0 0 .77-.36 1 1 0 0 0-.13-1.41z"/></g></svg>
-</a>
-{% include header.html lang=page.lang %}
-{{ content }}
-{% include footer.html lang=page.lang %}
-<script async data-goatcounter="https://quit-social-media.goatcounter.com/count" src="//gc.zgo.at/count.js"></script>
-</body></html>
+		{{ content }}
+		{% include footer.html %}
+	</body>
+</html>

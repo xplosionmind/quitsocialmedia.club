@@ -1,0 +1,11 @@
+<div class="flex row">
+	{% for tagg in site.data.tags %}
+		{% for present in page.tags %}
+			{% capture tag %}{{ tagg.title | downcase | slugify }}{% endcapture %}
+			{% capture post-tag %}{{ present | downcase | slugify }}{% endcapture %}
+			{% if tag == post-tag %}
+				<a href="/tags#{{ tag }}" rel="tag" class="{{ tag }} smaller written button">{{ tagg.title }}</a>
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+</div>

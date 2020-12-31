@@ -1,5 +1,9 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c5a2f8f0-e22a-4ae4-82e4-bcdea06adf7c/deploy-status)](https://app.netlify.com/sites/quirky-gates-75f190/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c5a2f8f0-e22a-4ae4-82e4-bcdea06adf7c/deploy-status)](https://app.netlify.com/sites/quit-social-media/deploys) | [![LiberaPay Patrons](https://img.shields.io/liberapay/patrons/tommi.svg?logo=liberapay")](https://liberapay.com/tommi/) | [![Awesome Humane Tech badge](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://www.humanetech.com/)
 
-# QUIT SOCIAL MEDIA
+# Quit Social Media
 
-Notes are [here](./pages/notes), roadmap is [here](./pages/roadmap)
+Notes are [here](https://tommi.space/qsm), roadmap is [here](./pages/roadmap)
+
+## Contribution
+
+This project warmly welcomes any contributor or supporter. Please visit the [contribution page](/contribute).

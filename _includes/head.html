@@ -1,0 +1,35 @@
+<head>
+	<meta name="color-scheme" content="dark light">
+
+	{% seo %}
+	<meta name="google-site-verification" content="sxVceyjRiCaE1x9E61DCYDwoo_EOlHNfBzdL1gLBio4" />
+
+	<link rel="alternate" type="application/atom+xml" title="{% if page.lang == 'it'%}Blog{% else %}Updates feed{% endif %}" href="/feed.xml" />
+
+	<title>{{ page.title }} | Quit Social Media</title>
+	<link rel="stylesheet" href="/style.css" type="text/css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="mobile-web-app-capable" content="yes" />
+	<link rel="icon" href="{{ site.logos }}/favicon32.png" sizes="32x32" />
+	<link rel="icon" href="{{ site.logos }}/favicon64.png" sizes="64x64" />
+	<link rel="icon" href="{{ site.logos }}/favicon.png" sizes="160x160" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta name="theme-color" content="{{ page.primary }}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+	<meta property="og:locale:alternate" content="{% if page.lang == 'it' %}en{% else %}it{% endif %}" />
+
+	<!-- Algolia search -->
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@0/dist/algoliasearchNetlify.js" crossorigin="anonymous"></script>
+	<script type="text/javascript">
+		algoliasearchNetlify({
+			appId: 'UNJ7U6R9NG',
+			apiKey: '2496a32ec63dd08b35a329a1e0738524',
+			siteId: 'c7f3a969-424a-450b-8636-2d477af82e76',
+			branch: 'main',
+			selector: 'input#search',
+			sitemap: 'https://quitsocialmedia.club/sitemap.xml',
+		});
+	</script>
+</head>

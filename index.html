@@ -1,0 +1,42 @@
+---
+title: home
+redirect_from: /home
+lang: en
+ref: home
+---
+<div class="one column">
+	<div class="row">
+		<div class="page-header">
+			<h1>Quit Social Media</h1>
+			<p>All of the reasons why Social Media platforms are bad and possible solution to live a happy life on the web without them</p>
+		</div>
+	</div>
+
+	{% for post in site.posts %}
+		{% if forloop.first %}
+			<div class="row">
+				<a href="/blog"><h2 class="title">Updates</h2></a>
+				<ul>
+					<li>{{ post.date | date_to_long_string }} - <a href="{{ post.url }}" title="{{ post.title }}"></a></li>
+		{% elsif forloop.last %}
+					<li>{{ post.date | date_to_long_string }} - <a href="{{ post.url }}" title="{{ post.title }}"></a></li>
+				</ul>
+			</div>
+		{% else %}
+					<li>{{ post.date | date_to_long_string }} - <a href="{{ post.url }}" title="{{ post.title }}"></a></li>
+		{% endif %}
+	{% else %}
+	{% endfor %}
+
+	<div class="row">
+		<h2 class="title">Website pages</h2>
+		<p>An overview of all the pages in the website:</p>
+		<ul>
+			{% for page in site.pages %}
+     			{% unless page.url contains '.json' or page.url contains '.csv' or page.url contains '.css' or page.url contains '.txt' or page.title contains '404' or page.url contains '.xml' or page.title == nil or page.title == 'home' %}
+					<li><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a> - {% if page.description != nil %}{{ page.description | markdownify | strip_html }}{% else %}{{ page.content | strip_html | truncatewords: 15 }}{% endif %}</li>
+				{% endunless %}
+			{% endfor %}
+		</ul>
+	</div>
+</div>

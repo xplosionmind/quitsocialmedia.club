@@ -1,0 +1,11 @@
+<div class="box">
+	<a href="/tags"><h2 class="title">Tags</h2></a>
+	<div class="flex">
+		<a href="/poetry" style="color: white; background: linear-gradient(145deg, #009999, #006C6C);" class="smaller written button">Pasticci</a>
+		<a href="/filosofia" style="color: black; background: linear-gradient(145deg, #22F2A2, #1DB070);" class="smaller written button">Filosofia</a>
+		{% assign tags = site.data.tags %}
+		{% for tag in tags %}
+			<a href="/tags#{{ tag.title | slugify }}" class="smaller written button {{ tag.title | slugify }}" title="{{ tag.title }} tag">{{ tag.title }}</a>
+		{% endfor %}
+	</div>
+</div>

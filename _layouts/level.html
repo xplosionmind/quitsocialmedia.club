@@ -1,0 +1,30 @@
+---
+layout: wrapper
+---
+<div class="h-entry one column">
+	<div class="row page-header">
+		<a class="u-uid" href="{{ page.url }}"><h1 class="p-name">{{ page.title }}</h1></a>
+		<p>{{ page.description }}</p>
+	</div>
+
+	{% if page.toc == true %}
+		<div class="row toc">
+			<h2>{% case page.lang %}{% when 'it' %}Indice{% else %}Table of contents{% endcase %}</h2>
+			{% include toc.html html=content %}
+		</div>
+	{% endif %}
+	
+	<div class="row">
+		<article class="e-content note">
+			<p>{{ page.description }}</p>
+			{% include anchor-parser.html html=content %}
+		</article>
+	</div>
+	<div class="flex row">
+		<a class="button" href="/l{{ page.nextlevel }}">{% if page.lang == 'it' %}Livello successivo{% else %}Next level{%endif %}</a>
+	</div>
+
+	{% include edit.html %}
+	{% include share.html %}
+
+</div>
