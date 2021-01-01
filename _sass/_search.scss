@@ -23,7 +23,7 @@
 	background: var(--background);
 	font-size: var(--big);
 	z-index: 100;
-	background-image: url('https://assets.tommi.space/logos/search.svg');
+	background-image: url('https://assets.tommi.space/logos/darkblue-search.svg');
 	background-repeat: no-repeat;
 	background-position: center;
 	&:active,
@@ -35,8 +35,8 @@
 		right: 3%;
 	}
 }
-.light .aa-input {
-	background-image: url('https://assets.tommi.space/logos/search-light.svg')
+.dark .aa-input {
+	background-image: url('https://assets.tommi.space/logos/lightblue-search.svg')
 }
 ::placeholder {
 	color: var(--light-grey);

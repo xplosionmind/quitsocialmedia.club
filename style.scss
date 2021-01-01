@@ -17,47 +17,46 @@ html {
 }
 
 /* DARK THEME */
-body {
-	--background: var(--dark);
+.dark {
+	--background: var(--blue);
 	--text: var(--white-ish);
-	--deep: #111;
+	--deep: #102040;
 	--link: var(--primary);
-	--primary: var(--yellow);
-	--primary-dark: var(--dark-yellow);
-	--secondary: var(--blue);
-	--internal-link: var(--blue);
+	--primary: var(--light-blue);
+	--secondary: var(--red);
+	--internal-link: var(--primary);
 	--grey: var(--dark-grey);
 	--other-grey: var(--light-grey);
-	--shadow: 5px 5px 20px #000000BB, -5px -5px 20px #FFFFFF11;
-	--little-shadow: 2px 2px 3px #000000EF, -2px -2px 3px #FFFFFF22;
-	--button-shadow: 3px 3px 8px #000A, -3px -3px 8px #FFFFFF11;
-	--inner-shadow: inset 3px 3px 5px #0008, inset -3px -3px 5px #FFF2;
-	--inner-little-shadow: inset 2px 2px 3px #000A, inset -2px -2px 3px #FFF1;
-	--header-shadow: 5px 5px 15px #000D, -5px -5px 15px #FFF2;
-
-	--text-shadow: -1px -1px 0px var(--link), 0px 0px 0px var(--grey), 1px 1px 1px var(--grey);
-	--title-text-shadow: -3px -3px 0px var(--text), -3px -2px 1px var(--grey), -2px -3px 1px var(--grey), -2px -2px 0px var(--grey), -1px -1px 0px var(--grey), 0px 0px 0px var(--grey);
+	--shadow: 5px 5px 20px #102040BB, -5px -5px 20px #FFFFFF11;
+	--little-shadow: 2px 2px 3px #102040EF, -2px -2px 3px #FFFFFF22;
+	--button-shadow: 3px 3px 8px #102040AA, -3px -3px 8px #FFFFFF11;
+	--inner-shadow: inset 3px 3px 5px #10204088, inset -3px -3px 5px #FFF2;
+	--inner-little-shadow: inset 2px 2px 3px #102040AA, inset -2px -2px 3px #FFF1;
+	--header-shadow: 5px 5px 15px #102040DD, -5px -5px 15px #FFF2;
 
 	transition: var(--trans);
 }
 
 /* LIGHT THEME */
-.light {
+body {
 	--background: var(--white-ish);
-	--text: var(--black-ish);
+	--text: var(--blue);
 	--deep: white;
-	--link: var(--secondary);
-	--primary: var(--blue);
-	--secondary: var(--razzmatazz);
-	--internal-link: var(--blue);
+	--link: var(--primary);
+	--primary: var(--red);
+	--secondary: #457B9D;
+	--internal-link: var(--primary);
 	--grey: var(--light-grey);
 	--other-grey: var(--dark-grey);
-	--shadow: 5px 5px 20px #0005, -5px -5px 20px #FFFFFFEF;
-	--little-shadow: 2px 2px 3px #0005, -2px -2px 3px #FFF6;
-	--button-shadow: 3px 3px 8px #0005, -3px -3px 8px #FFF6;
-	--inner-shadow: inset 3px 3px 5px #0005, inset -3px -3px 5px #FFF3;
-	--inner-little-shadow: inset 2px 2px 3px #0002, inset -2px -2px 3px #FFF3;
-	--header-shadow: 5px 5px 15px #0003, -5px -5px 15px #FFFF;
+	--shadow: 5px 5px 20px #10204055, -5px -5px 20px #FFFFFFEF;
+	--little-shadow: 2px 2px 3px #10204055, -2px -2px 3px #FFF6;
+	--button-shadow: 3px 3px 8px #10204055, -3px -3px 8px #FFF6;
+	--inner-shadow: inset 3px 3px 5px #10204055, inset -3px -3px 5px #FFF3;
+	--inner-little-shadow: inset 2px 2px 3px #10204022, inset -2px -2px 3px #FFF3;
+	--header-shadow: 5px 5px 15px #10204033, -5px -5px 15px #FFFF;
+
+	--text-shadow: 0px 0px 0px var(--link), 1px 1px 1px var(--grey);
+	--title-text-shadow: -3px -3px 0px var(--text), -3px -2px 1px var(--grey), -2px -3px 1px var(--grey), -2px -2px 0px var(--grey), -1px -1px 0px var(--grey), 0px 0px 0px var(--grey);
 
 	transition: var(--trans);
 }
@@ -150,7 +149,7 @@ li,
 article li,
 .toc {
 	a {
-		font-weight: 600;
+		font-weight: 500;
 		transition: var(--quicktrans);
 		&:hover,
 		&:focus {
