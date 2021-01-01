@@ -1,15 +1,14 @@
 ---
 layout: wrapper
 ---
-<div class="row page-header">
-	<div class="one column">
+<div class="one column">
+	<div class="row page-header">
 		<h1>{{ page.title }}</h1>
 		<p>{{ page.description }}</p>
 	</div>
-</div>
-{% if page.toc == 1 %}
-	<div class="row toc">
-		<div class="one column">
+
+	{% if page.toc == true %}
+		<div class="row toc">
 			<h2>
 				{% if page.lang == 'it' %}
 					Indice
@@ -17,14 +16,19 @@ layout: wrapper
 					Table of contents
 				{% endif %}
 			</h2>
-		{% include toc.html html=content sanitize=true %}
-	</div>
-</div>
-{% endif %}
-<div class="row">
-	<div class="one column">
+			{% include toc.html html=content sanitize=true %}
+		</div>
+	{% endif %}
+
+	<div class="row">
 		<article class="note">
 			{% include anchor-parser.html html=content %}
 		</article>
 	</div>
+
+	<div class="row">
+		{% include edit.html %}
+		{% include share.html %}
+	</div>
+
 </div>

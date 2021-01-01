@@ -1,18 +1,17 @@
 ---
-title: Solution
-permalink: /solution
+title: Solutions
+permalink: /solutions
 ref: sol
 toc: true
 layout: page
-redirect_from: ["/sol", "/solutions"]
+redirect_from: ["/sol", "/solution"]
+description: "Being “social” without “Social Media” seems impossible. Nevertheless, it's a whole new life, full of surprises, excitement and authenticity, but, above all, <strong>freeedom</strong>. There are a few solutions which make life without Social Media connected and interactive anyway."
 ---
-Being “social” without “Social Media” seems impossible. Nevertheless, it's a whole new life, full of surprises, excitement and authenticity, but, above all, **freeedom**. There are a few solutions which make life without Social Media connected and interactive anyway.
-
 ## Briefly
 
-In short: after quitting social media, you won't become a misanthrope who lives in the woods and who is isolated from the rest of the world. You have awesome yet simple tools which replace in some way the tasks Social media.
+In short: after quitting Social Media, you won't become a misanthrope who lives in the woods and who is isolated from the rest of the world. Quitting Social Media does not mean abandoning the web for good; on the contrary, it means exploiting its real <u>independent and open values</u> in different ways. You may not believe it, there exist **a lot** of awesome yet simple tools which replace in some way the tasks Social media.
 
-The concept is this: to stay up to date, you can subscribe to any website's [RSS feed](#rss-feed), even to social media pages and profiles, YouTube channels… anything. To publish content, instead, the best way is to [**create your own website**](#website), or consider [healthier alternatives](#alternatives).
+The concept is this: to stay up to date, you can subscribe to any website's [RSS feed](#rss-feed), even to Social Media pages and profiles, YouTube channels… anything. To publish content, instead, the best way is to [**create your own website**](#website), start a newsletter, or consider [healthier Social Media platforms](#alternatives).
 
 <br>
 <br>
@@ -36,7 +35,7 @@ As pointed out in the [about](/about) page, this website isn't meant to explain 
 
 ## Alternatives
 
-We already [covered](/why) the reasons why Social Media platforms as we know them are bad. Nevertheless, there are plenty of platforms which solve some if not most of Social Media greatest issues. The most important features which all of them share that are worth noting is that they have **no ads**, user data collected is **the minimum** needed to make the service work, and they are open source: they will never die.
+We already covered [the reasons](/why "Why") why Social Media platforms as we know them are bad. Nevertheless, there are plenty of platforms which solve some if not most of Social Media greatest issues. The most important features which all of them share that are worth noting is that they have **no ads**, user data collected is **the minimum** needed to make the service work, and they are open source: they will never die.
 
 All of these platforms are free not only to subscribe to, but also to actually use! Anyone could take the code and install it on her/his own server. Imagine having a whole Facebook, completely owned by you. How cool would it be?
 
@@ -57,3 +56,18 @@ The last solution is the best one: build your own website! Whatever your technic
 ### Further info
 
 - [Get a Website Now! Don't be a Web Peasant!](https://youtu.be/bdKZVIGRAKQ "Get a Website Now! Don't be a Web Peasant!"), a YouTube video by [Luke Smith](https://lukesmith.xyz "Luke's personal website")
+
+<br>
+<br>
+
+## Experiment
+
+After quitting, instead of being [limited](/why#closed) you become free and your creativity is unbounded. Therefore, **start experimenting**!
+
+You may start a newsletter or record a podcast, they're very popular these days! Alternetively, you may consider focusing on more intimate and personal communications, sharing your life's milestones by sending [private messages](https://signal.org) to groups or individuals.
+
+<br>
+<br>
+
+Regardless of what you decide to do, you can start enjoying your freedom from Social Media.\
+At first, it's going to be quite hard, but on the long run it's going to be a great gain!

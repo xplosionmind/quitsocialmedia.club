@@ -1,0 +1,69 @@
+---
+title: Home
+ref: home
+permalink: /home
+---
+<div class="one column">
+	<div class="row">
+		<div class="page-header">
+			<h1>Quit Social Media</h1>
+			<p>All of the reasons why Social Media platforms are bad and possible solutions to live a happy life on the web without them</p>
+		</div>
+</div>
+
+	<div class="red box row">
+		<h2 class="title">WTF is this website?</h2>
+		<p>
+			<b>Short answer</b>: a place where all the reasons why social media are harmful are listed and several resources to deepen knowledge on the topic are provided.
+			<br />
+			<b>Long answer</b>: read the <a href="/about">About page</a>
+		</p>
+		<h3 class="title">Where to start</h3>
+		<p>
+			You probably are a busy person who doesn't have time to go through all of the stuff that's on here. Ok, I got you: just read this <a href="/quick">quick summary</a>
+		</p>
+		<p>
+			If devoting a bit more of your time to the dopic does not bother you, I ca assure you it's definitely worth it. I suggest you to follow <a href="/path" title="Path">this path</a>
+		</p>
+	</div>
+
+	{% for post in site.posts %}
+		{% if forloop.first %}
+			<div class="row">
+				<a href="/blog"><h2 class="title">Updates</h2></a>
+				<ul>
+					<li>{{ post.date | date_to_long_string }} - <a href="{{ post.url }}" title="{{ post.title }}"></a></li>
+		{% elsif forloop.last %}
+					<li>{{ post.date | date_to_long_string }} - <a href="{{ post.url }}" title="{{ post.title }}"></a></li>
+				</ul>
+			</div>
+		{% else %}
+					<li>{{ post.date | date_to_long_string }} - <a href="{{ post.url }}" title="{{ post.title }}"></a></li>
+		{% endif %}
+	{% else %}
+	{% endfor %}
+
+	<div class="blue box row">
+		<a href="/contribute"><h2 class="title">Contribute</h2></a>
+		{% for contrib in site.pages %}
+			{% if contrib.title == "Contribute" %}
+				{{ contrib.content | markdownify }}
+			{% endif %}
+		{% endfor %}
+	</div>
+
+	<div class="row">
+		<h2 class="title">Website pages</h2>
+		<p>An overview of all the pages in the website:</p>
+		<ul>
+			{% for p in site.pages %}
+				{% if p.lang == page.lang %}
+     				{% unless p.url contains '.json' or p.url contains '.csv' or p.url contains '.css' or p.url contains '.txt' or p.title contains '404' or p.url contains '.xml' or p.title == nil or p.title == 'Home' %}
+						<li><a href="{{ p.url }}" title="{{ p.title }}">{{ p.title }}</a> - {{ p.description }}</li>
+					{% endunless %}
+				{% endif %}
+			{% endfor %}
+		</ul>
+	</div>
+
+</div>

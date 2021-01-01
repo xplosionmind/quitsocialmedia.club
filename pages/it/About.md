@@ -2,11 +2,13 @@
 title: Info
 ref: about
 lang: it
-permalink: /it/about
-redirect_from: ["/about-it", "info"]
+permalink: /info
+redirect_from: ["/about-it", "/it/about"]
 layout: page
+tags: l10n
+description: "Cos'è quitsocialmedia.club, come è nato ed il suo fine"
 ---
-Sono Tommi, ho creato questo sito. Saltiamo la parte su di me, che si può leggere sul mio [sito web](https://tommi.space/tuffo#about).
+Sono Tommi, ho creato questo sito. Saltiamo la parte su di me, che si può leggere sul mio [sito web](https://tommi.space/about-it "Tommi").
 
 Dopo parecchi tormentati mesi passati a crucciarmi sui pregi e difetti dei social media, non ce la potevo fare più. Ero così stressato e ossessionato dai problemi etici che i social network di oggi pongono che ho conncluso che **abbandonarli** è l'unico modo per stare meglio.
 
@@ -15,6 +17,8 @@ Mi sono reso conto, tuttavia, che semplicemente abbandonarli senza fare altro è
 Solamente abbandonare i Social Media non cambia nulla.
 
 Siamo onesti: non avere un profilo su Facebook, Instagram né Twitter (eccetera) in questo momento potrebbe far credere che si è esclusi dalle e chiusi in una quieta, pacifica, ma isolata bolla. Però, se non sei da solo, non è affatto così.
+
+## Fine
 
 Questo sito web ha tre principali scopi:
 

@@ -1,12 +1,16 @@
 ---
-title: Why
-permalink: /why
-redirect_from: ["/arguments", "/reasons"]
+title: Perché
+tags: l10n
+permalink: /perché
+redirect_from: ["/it/why", "/why-it", "/perche", "/motivi"]
+lang: it
 ref: why
 toc: true
 layout: page
-description: "The heart of the matter: all of the reasons why we should quit Social Media"
+description: "Il cuore della questione: tutte le ragioni per cui dovremmo uscire dai Social Media"
 ---
+Quitting Social Media is a big step. This is why we have some pretty serious reasons and concerns to do it.
+
 I haven't found yet a place on the web where all of these reasons for why Social Media are bad were listed. You might not believe in one or two of them, and even a handful of them won't be sufficient to make you realize the gravity of the problem. Nevertheless, after going through all of the arguments, it's hard to negate that something has to be done. The most effective something we can do as individuals, before government actions, lawsuits and reports, is quitting.
 
 <br>

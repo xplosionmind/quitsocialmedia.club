@@ -25,9 +25,6 @@ exclude:
 keep_files:
   - images/
   - assets/
-collections:
-  levels:
-    output: false
 
 social:
   name: xplosionmind
@@ -60,13 +57,3 @@ defaults:
       lang: "en"
       img: "/images/preview.gif"
       comments: true
-
-  -
-    scope:
-      path: ""
-      type: levels
-    values:
-      layout: level
-      lang: en
-      permalink: /:title
-      hide: 0

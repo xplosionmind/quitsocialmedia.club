@@ -11,7 +11,7 @@
 
 html {
 	box-sizing: border-box;
-	cursor: url(https://assets.tommi.space/logos/cursor.svg) 16 16, crosshair;
+	cursor: url(https://assets.tommi.space/logos/red-cursor.svg) 16 16, crosshair;
 	background: var(--background);
 	scroll-behavior: smooth;
 }
@@ -160,52 +160,71 @@ article li,
 			text-shadow: none;
 			color: var(--link) !important;
 		}
-		&[href*="jar" i],
-		&[href*="marmellata" i] {
-			&::before {
-				content: "🍯 ";
-			}
-		}
 		&[href*="mailto" i] {
 		&::before {
 			content: "✉️ ";
 			}
 		}
-		&[href*="giri" i] {
-		&::before {
-			content: "🧳 ";
-			}
-		}
-		&[href*="visioni" i],
-		&[href*="visions" i] {
+		&[href*="/about" i] {
 			&::before {
-				content: "🖼 ";
-				/*content: "📷" */
+				content: "🙋🏻‍♂️ ";
 			}
 		}
-		&[href="/about" i],
-		&[href*="about-it" i] {
+		&[href*="development" i] {
 			&::before {
-				content: "🙋 ";
+				content: "💻 ";
 			}
 		}
-		&[href="/zibaldone" i],
-		&[href="/zibenglish" i],
-		&[href="/blog" i] {
+		&[href*="resources" i] {
 			&::before {
-				content: "📜 ";
-				/*content: "📖"; */
+				content: "📚 ";
 			}
 		}
-		&[href*="unive.it" i] {
+		&[href*="/path" i] {
 			&::before {
-				content: "🎓 ";
+				content: "🧭 ";
 			}
 		}
-		&[href^="/"],
-		&[href^="#"],
-		&[href*="https://tommi.space" i] {
-			color: var(--internal-link);
+		&[href*="/why" i] {
+			&::before {
+				content: "❓";
+			}
+		}
+		&[href*="l10n" i] {
+			&::before {
+				content: "🌎 ";
+			}
+		}
+		&[href*="learn" i] {
+			&::before {
+				content: "📖 ";
+			}
+		}
+		&[href*="/solution" i] {
+			&::before {
+				content: "💡 ";
+			}
+		}
+		&[href*="/quick" i] {
+			&::before {
+				content: "⏰ ";
+			}
+		}
+		&[href*="/watch" i] {
+			&::before {
+				content: "🍿 ";
+			}
+		}
+		&[href*="/delete" i],
+		&[href*="/quit" i] {
+			&::before {
+				content: "❌ ";
+			}
+		}
+		&[href="/contributors" i] {
+			&::before {
+				content: "🧑🏽‍💻 ";
+			}
 		}
 	}
 }
@@ -249,7 +268,7 @@ button,
 .button,
 .aa-suggestion,
 .embed-container {
-	cursor: url(https://assets.tommi.space/logos/cursor-hover.svg) 16 16, pointer;
+	cursor: url(https://assets.tommi.space/logos/red-cursor-hover.svg) 16 16, pointer;
 }
 
 
@@ -652,21 +671,14 @@ h2 {
 }
 
 footer {
-	margin: var(--bigger) 3%;
+	margin: 2vw;
 	overflow: hidden;
-	width: 94%;
-	padding: var(--big);
+	width: 96%;
+	padding: 2vw;
 	border-radius: var(--radius-l);
 	box-shadow: var(--shadow);
 	* {
 		text-align: center;
-	}
-	p {
-		opacity: .7;
-		&:hover,
-		&:focus {
-			opacity: 1;
-		}
 	}
 	img {
 		border-radius: 0;
@@ -793,16 +805,16 @@ button,
 	color: white !important;
 	border-color: var(--red) !important;
 	a {
-		color: var(--yellow);
+		color: var(--light-blue);
 	}
 }
 
 .blue {
-	background: var(--blue);
-	color: white !important;
-	border-color: var(--blue) !important;
+	background: var(--light-blue);
+	color: var(--blue) !important;
+	border-color: var(--light-blue) !important;
 	a {
-		color: var(--yellow);
+		color: var(--red);
 	}
 }
 

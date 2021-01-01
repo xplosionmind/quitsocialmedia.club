@@ -1,0 +1,10 @@
+<div class="one column row">
+	<div class="banner red box">
+		<h3>🚧 {% if page.lang == 'it' %}Traduzione in corso{% else %}Work in progress{% endif %} 🏗</h3>
+		{% if page.lang == 'it' %}
+		Il contenuto di questa pagina non è stato completamente tradotto; tutti gli articoli e le note con traduzione in sospeso sono contraddistinte dal tag <a href="/development-roadmap#l10n" title="tutte le traduzioni in corso"><em>l10n</em></a>.<br />Per visualizzare il contenuto aggiornato, <a {% for p in site.pages %}{% if p.ref == page.ref and p.lang == 'en' %}href="{{ p.url }}" title="{{ p.title }}"{% endif %}{% endfor %}>visualizza questa pagina in inglese</a>
+		{% else %}
+			Content of this page is not complete: unfinished notes and articles are tagged with <a href="/tags#draft" title="all of the pages tagged “draft”"><em>draft</em></a> tag
+		{% endif %}
+	</div>
+</div>

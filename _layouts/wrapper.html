@@ -18,6 +18,10 @@ layout: compress
 			{% include draft.html %}
 		{% endif %}
 
+		{% if page.tags contains 'l10n' %}
+			{% include l10n.html %}
+		{% endif %}
+
 		{{ content }}
 		{% include footer.html %}
 	</body>
