@@ -45,6 +45,11 @@ redirect_from: ["/home-it", "/it-home", "/home/it"]
 	{% else %}
 	{% endfor %}
 
+	<div class="row">
+		<h2 class="title">Contatti</h2>
+		<p>Se hai domande o suggerimenti, non esitare a <a href="mailto:{{ site.email | encode_email }}" target="_blank" rel="noopener noreferrer" title="Send me an email">scrivermi</a> (<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/D435660C86733BA1C4C22F4D922BA2D96336049E" title="PGP Key hello@quitsocialmedia.club">PGP key</a>).</p>
+	</div>
+
 	<div class="blue box row">
 		<a href="/contribute"><h2 class="title">Contribuisci</h2></a>
 		{% for contrib in site.pages %}

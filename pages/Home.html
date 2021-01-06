@@ -43,6 +43,11 @@ permalink: /home
 	{% else %}
 	{% endfor %}
 
+	<div class="row">
+		<h2 class="title">Get in touch!</h2>
+		<p>If you have any questions or suggestions, please don't hesitate to <a href="mailto:{{ site.email | encode_email }}" target="_blank" rel="noopener noreferrer" title="Send me an email">write me an email</a> (<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/D435660C86733BA1C4C22F4D922BA2D96336049E" title="PGP Key hello@quitsocialmedia.club">PGP key</a>).</p>
+	</div>
+
 	<div class="blue box row">
 		<a href="/contribute"><h2 class="title">Contribute</h2></a>
 		{% for contrib in site.pages %}

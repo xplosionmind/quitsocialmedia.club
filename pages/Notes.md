@@ -3,11 +3,13 @@ aliases: ["QSM", "Quit Social Media"]
 permalink: /notes
 redirect_from: ["/quit-social-media", "/qsm-notes", "/quit-social-media-notes", "/appunti"]
 ---
-Content in this page are random, pretty messed up and both in English and Italian, since these are quick notes for the website content creation.
-{:.red .box}
+<div class="red box">
+	Content in this page are random, pretty messed up and both in English and Italian, since these are quick notes for the website content creation.
+</div>
 
-To-do list, progress status and purposes are tracked on the [roadmap](https://quitsocialmedia.club/roadmap)
-{:.box}
+<div class="box">
+	To-do list, progress status and purposes are tracked on the <a href="/roadmap">Roadmap</a>
+</div>
 
 <br>
 
@@ -28,6 +30,8 @@ To-do list, progress status and purposes are tracked on the [roadmap](https://qu
 	- want to earn money? Invent new ways to monetize your work (Patreon, etc.)
 - Add *The Great Hack* alongside *The Social Dilemma*
 - ***what*** are social media?
+- Ethical ads?
+- <https://okuna.io>
 - add donate button:
 ```
 <script src="https://liberapay.com/tommi/widgets/button.js"></script>

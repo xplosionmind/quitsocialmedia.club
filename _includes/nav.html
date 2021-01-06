@@ -9,6 +9,7 @@
 			<li>{% if page.lang == 'it' %}<a href="/perché">Perché{% else %}<a href="/why">Why{% endif %}</a></li>
        		<li>{% if page.lang == 'it' %}<a href="/percorso">Percorso{% else %}<a href="/path">Path{% endif %}</a></li>
        		<li>{% if page.lang == 'it' %}<a href="/soluzioni">Soluzioni{% else %}<a href="/solutions">Solutions{% endif %}</a></li>
+       		<li><a href="{% if page.lang == 'it' %}/domande{% else %}/faq{% endif %}">FAQ</a></li>
 			{% unless page.ref == nil %}
 			<li id="language-selector" class="dropdown"><a onclick="langdropdown()" href="#!" title="language selector">🌏</a>
 				<ul class="dropdown-content">

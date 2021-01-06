@@ -226,6 +226,11 @@ article li,
 				content: "🧑🏽‍💻 ";
 			}
 		}
+		&[href*="keys.openpgp.org" i] {
+			&::before {
+				content: "🔑 ";
+			}
+		}
 	}
 }
 
