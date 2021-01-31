@@ -2,123 +2,148 @@
 title: Perché
 tags: l10n
 permalink: /perché
-redirect_from: ["/it/why", "/why-it", "/perche", "/motivi"]
+redirect_from: ["/it/why", "/why-it", "/perche", "/motivi", "/perchè"]
 lang: it
 ref: why
 toc: true
 layout: page
 description: "Il cuore della questione: tutte le ragioni per cui dovremmo uscire dai Social Media"
 ---
-Quitting Social Media is a big step. This is why we have some pretty serious reasons and concerns to do it.
-
-I haven't found yet a place on the web where all of these reasons for why Social Media are bad were listed. You might not believe in one or two of them, and even a handful of them won't be sufficient to make you realize the gravity of the problem. Nevertheless, after going through all of the arguments, it's hard to negate that something has to be done. The most effective something we can do as individuals, before government actions, lawsuits and reports, is quitting.
-
-<br>
-<br>
-
-## Anger
-
-It's scientifically proven that negative emotions engage users way more than positive emotions. Feed composition algorithms are tailored to maximize engagement and interaction, they don't actually care about how users feel. Our emotions are governed by a machine: you get angry for something you see, you react to it, and you'll start seeing more of it. The more anger, the more engagement, the better.
+Non ho ancora trovato un luogo su internet in cui siano riportate e riassunte *tutte* le diverse ragioni per cui i Social Media sono pericolosi e dannosi. Potresti non fidarti e non credere ad alcuni di questi, oppure perfino la maggioranza non saranno sufficienti a convincerti.   
+Tuttavia, dopo aver analizzato ogni singola spiegazione, è difficile negare che ci sia qualcosa che non va e che sia necessario agire.   
+Prima di cause e processi, regolamentazioni e leggi, l'azione più importante ed efficace che possiamo intraprendere come individui è **abbandonarli**.
 
 <br>
 <br>
 
-## Hate
+## Rabbia
 
-Strictly connected with [anger](#anger). When you get angry, you do something about it. This is exactly what Social Media platforms wait for. It doesn't matter how much the debate is fired up, as long as you're interacting a lot, it's good. The problem is you get more hateful: you can't discuss with people who have a different idea without judging them. Social Media allow us to report content which contains hate or insults, but one thing which can't be reported are **emotions**.
-
-<br>
-<br>
-
-## Polarization
-
-It goes without saying that hateful speech and anger lead to a strong polarization in society.\
-“Polarization” is a word we are hearing a lot in these days, but the surprising fact is that it isn't linked to one bad side only; division and extremism are fostered by people with different ideas who can't listen to each other. Social Media platforms don't do much to allow a more peaceful way of sharing ideas and a greater openness to different positions.
+È scientificamente provato che le emozioni negative coinvolgano le persone molto più di quelle positive. Gli algoritmi che compongono i *feed* sui social sono programmati specificamente per massimizzare il coinvolgimento e le interazioni, senza curarsi veramente di come gli utenti possano sentirsi (anche perché un algoritmo, per adesso, non sa provare emozioni).   
+I nostri sentimenti sono governati da una macchina: ci arrabbiamo per qualcosa che vediamo, reagiamo, e cominciamo a visualizzare sempre più contenuti al riguardo.   
+Maggiore è la rabbia, maggiore è l'interazione, meglio è.
 
 <br>
 <br>
 
-## Misinformation
+## Odio
 
-This is one of the key points of 2020, and of the last months in general: Social Media platforms make it very hard to understand what's true and what's not. Of course, it's not only a problem which appears on Social Media platforms, but it got dangerous because of them. Donald Trump's and highly influential people's posts may be checked, but it is virtually impossible for platforms owners to keep up with what's going on and be certain that no fake information is being shared. Around this key point, and whose responsibility is it if something goes wrong, is rotating the debate about [Section 230](https://en.wikipedia.org/wiki/Section_230 "Section 230 on Wikipedia"), which basically states that it's not the platform's owner of employee responsibility if something against the law is published on a cretain platform. Everybody should be responsible for what he/she shares, and publishing content should be done regardless of Social Media.
+Strettamente connesso alla [rabbia](#rabbia): quando ci arrabbiamo, facciamo qualcosa al riguardo. Questo è esattamebte quello che le piattaforme *social* aspettano. Non importa quanto il dibattito sia acceso: finché noi discutiamo, commentiamo, scrolliamo, va tutto bene. Il problema è che tendiamo a diventare più aggressivi: perdiamo la capacità di discutere con persone che sostengono un'opinione diversa dalla nostra senza giudicarli o andare in collera.   
+Tutte le piattaforme permettono di segnalare contenuti che contengono odio, offese o insulti, ma non esiste un modo oggettivo ed efficace per segnalare le **emozioni**.
 
-### Further reading
+<br>
+<br>
+
+## Polarizzazione
+
+*Ça va sans dir* che linguaggio aggressivo, odio e rabbia portino a una forte polarizzazione della società.   
+“Polarizzazione” è una parola che sentiamo parecchio in questi giorni, ma il particolare sorprendente è che non riguarda solo i “cattivi”, da qualunque parte stiano, ma tutte le parti riguardo a qualunque tematica. Per definizione, la polarizzazione allontana e estremizza ogni posizione possibile, polverizzando le sfumature e le vie di mezzo.   
+Divisione ed estremismo sono alimentati da gruppi di persone che hanno idee differenti e non sanno più ascoltarsi reciprocamente.   
+I *Social Media* non fanno molto per favorire un modo più pacifico di esprimere la propria idea e stimolare una maggiore apertura verso idee differenti.
+
+<br>
+<br>
+
+## Disinformazione
+
+Questo è uno dei principali punti di discussione del 2020: le pittaforme social rendono davvero difficile comprendere cosa è vero e cosa non lo è. Ovviamente, questo problema non dipende unicamente dai Social Media, ma è strettamente legato ad essi e per colpa loro la sua pericolosità si accentua enormemente. Post di Donald Trump, così come quelli di persone molto influenti, possono essere controllati (e abbiamo visto com'è andata a finire con l'ex-presidente), ma è praticamente imposibile riuscire a seguire e verificare efficacemente l'autenticità e la veridicità dei contenuti pubblicati. Non esiste un modo infallibile per essere totalmente certi che qualcosa che viene pubblicato non sia una tanto famigerata e vituperata *fake news*.   
+Intorno a questo punto si sta svolgendo un grande dibattito, che riguarda specificamente la [Sezione 230](https://en.wikipedia.org/wiki/Section_230 "Sezione 230 on Wikipedia") del Communications Decency Act americano: di chi è la responsabilità se una notizia falsa e pericolosa viene pubblicata? Delle piattaforme su cui un post è stato esposto oppure di chi ne è l'autore? Soprattutto, chi verrà perseguito legalmente se il contenuto pubblicato dovesse avere delle ripercussioni negative nel mondo reale?
+
+### Approfondimento
 
 - [Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech.](https://www.eff.org/deeplinks/2020/11/dont-blame-section-230-big-techs-failures-blame-big-tech "Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech. - EFF") by Elliot Harmon on [EFF](https://eff.org "EFF official website")
 
 <br>
 <br>
 
-## Bubble
+## Bolla
 
-Since algorithms which govern Social Media aim to keep users hooked to their platform the more they can, they attempt to show us content they know users will like. We're not talking about advertisements alone, we're talking about suggestions inside the platform. “You may also like”, “similar to this” … are just other ways of telling you “keep browsing more, stay here!”. The problem isn't only being [hooked](#addiction), but also ending up living in a bubble, where the vast majority of the content is likeable to you or in line with your ideas, while other things are a remote, unimportant matter. Think about a political election you voted to in the last few years: if you get informed about politics through social media, you probably believed that your side, whatever it was, was gonna win, even if it didn't. This is the simplest example of living in a bubble: you perceive a distorted view of reality.
+Dal momento che gli algoritmi che governano i Social Media puntano a tenere gli utenti attaccati alla propria piattaforma più che possono, essi provano a mostrarci contenuti che sanno ci piaceranno. Non si parla esclusivamente di pubblicità, ma anche di suggerimenti di contenuti non sponsorizzati al suo interno. “Potrebbe anche piacerti”, “simile al video che hai appena visto”… sono solo modi diversi per dirci “continua a navigare qui, scrolla ancora!”. Il problema che ne consegue, non è unicamente la [dipendenza](#dipendenza), ma anche il finire per **vivere in una bolla**, in cui la gran parte dei contenuti è in linea con le tue idee e ti piace, mentre tutto il resto è una lontana, poco importante, realtà. O questo, oppure l'opposto, la [rabbia](#rabbia).
 
-<br>
-<br>
-
-## Quality
-
-In what proportion is your social media feed populated by meaningful, qualitative content as opposed to selfies of friends, pictures of models, memes and puppies? The great concern, in this case, is that the quality, profoundness, meaningfulness of the contents we enjoy everyday is getting terribly low. Because of social media [we get distracted](#distraction) too often by stuff which most of the time is irrelevant and not insightful. In general, we tend to have less to do with culture, knowledge, leargning, while spending time on empty entertainment.\
-Note: I'm not criticizing low level entrateinment and silly funny images or videos, I'm preoccupied by how much they're taking over more important and meaningful content.
+Pensa all'ultima elezione politica a cui hai votato: se solitamente ti informi di politica attraverso i social, probabilmente avrai creduto che la tua parte, qualunque essa fosse, sarebbe stata in grande maggioranza, e probabilmente avrebbe vinto, anche se poi non sarebbe accaduto così.   
+Quello precedente è solamente uno fra i più semplici esempi del vivere in un bolla: si percepisce una visione distorta della realtà.
 
 <br>
 <br>
 
-## Addiction
+## Qualità
 
-It may be a matter of push notifications, and the ringtone of our smartphone always buzzing and capturing our attention, requiring us to look at who commented on our latest post; nevertheless, it's not just this, it's about how Social Media are designed and built: they require us to be satisfied so much by what we experience that we start to somewhat *need* it.\
-Ok, anyone may reply to this argument “come on, it's very few people! I'm not addicted!”. If you dare, uninstall all of your social media apps for one month, just out of curiosity, as an experiment; you probably wouldn't repeat this again.
+In che proporzione il nostro feed sui social media è popolato da contenuti significativi e di qualità, contro selfie di amici, foto di modelli o modelle, meme e animaletti coccolosi? Bisogna riconoscere che è preoccupante riconoscere che solitamente la qualità, profondità e il significato dei contenuti che fruiamo ogni giorno sta diventando terribilmente più bassa ogni giorno. Per colpa dei Social Media [siamo distratti](#distrazione) troppo spesso da cose che spesso sono irrilevanti o poco significative. In generale, stiamo tendendo ad avere meno a che fare con cultura, conoscenza, e crescita personale, buttanto sempre più tempo in vacuo intrattenimento.
 
-<br>
-<br>
-
-## Distraction
-
-Of course, distraction and [addiction](#addiction) go hand in hand: the more we need to check all of our apps for new likes or posts, the less we focus on things which actually matter to us. It's mostly a matter of [time](#time), but it's also a matter of focus and commitment: Social Media make us endlessly jump from one content to another at great speed; at most, our eyes stay put on a picture for five seconds. It follows that in our everyday lives focusing on something for a long time requires an innatuaral amount of effort.\
-Again: it's not that if someone isn't focused it's because of Social Media, but for sure spending time scrolling our feed does not halp us being more focused.
+Nota: non sto criticando l'intrattenimento di basso livello, i contenuti trash o video e immagini stupidi e divertenti, sono sempre più preoccupato di come questi stiano soppiantando contenuti dal maggiore valore emotivo e conoscitivo.
 
 <br>
 <br>
 
-## Data
+## Dipendenza
 
-Whether we want this or not, even by passively using Social Media, so by browsing around, whatcing videos and pictures or reading posts, we give Social Media platforms owners a huge amount of data about us and about what we like, for free. Such data, even if it's “deliberately” shared, is piled up day after day, month after month and year after year. The result is scary… what all of this information about us is used for? The answer is [user profilation](#profilation).
-
-<br>
-<br>
-
-## Profilation
-
-Probably this is one of the main reasons why people delete their social media accounts. The matter is very simple, too: our data is used to understand who we are. If the answer was limited to this, it could also be acceptable. In the end, if we want to use the internet, something about us is leaked some way or another. The problem is how our identity, our intrests, our fears, our desires, our hate are managed and what they're used for.
-
-It's not a secret: our identity is sold to addvertisers to show (or better, flood our feed) with ads “of our interest”. This may be even good if it was used solely for marketing purposes, but, unfortunately, it's not: we may be (and probably we are) targeted by political ads, which don't aim to sell us something or make install some app, but their purpose is to condition our behavior and distort our view of the world, further enforcing the [bubble](#bubble) we are uncounsciously trapped in.
+Potrebbe essere una questione dovuta soprattutto alle notifiche *push*, e la suoneria del nostro telefono che ronda in continuazione e cattura la nostra attenzione, richiedendoci di visualizzare chi ha commentato il nostro ultimo post; tuttavia, non è *solo* questo, la nostra più o meno grave dipendenza dai social si basa su *come* i Social Media sono studiati e costruiti: siamo spinti così tanto ad essere soddisfatti che ad un certo punto ne abbiamo addirittura bisogno.\
+Ok, ora naturalmente chiunque risponderà a questo punto dicendo “ma dai! Sono solo una minoranza quelli che sono davvero dipendenti, in questo modo!”.\
+Se ne hai il coraggio, disinstalla tutte le tue applicazioni social per un mese. Solo per curiosità, come esperimento; probabilmente non obietteresti di nuovo.
 
 <br>
 <br>
 
-## Monopolization
+## Distrazione
 
-Is there any way to become an influencer, to promore a product, to share a political point of view, to condemn an injustice, to display a piece of art or to communicate anything to the public which doesn't involve Social Media? Regardless of Social Media being good or bad, the fact that being heard or noticed in this messy world is *only* through platforms owned by giant corporations which use our content to grow tremendously and endlessly, by earning an incredible amount of money is deeply unjust. Social Media corporations are monopolies which don't allow any competition to mess with them, by either buying competitors, or by being so much bigger that if a tiny slice of the market is stolen it doesn't change much.
-
-Facebook is now being sued in the US by the government and by several states, exactly with the accusation of unlawfully acquiring and avoiging competitors.
-
-<br>
-<br>
-
-## Standardization
-
-What does creativity have to do with all of this? As seen in [monopolization](#monopolization), there is little if no alternative to have a public online presence if not by taking advantage of a social media profile. Unless you were previously known for some reason, it's very unlikely for you to be considered by a broad audience without a social media profile. From these considerations stems that the vast majority of people online necessarily show their content and their public image on a page which has the same layout, the same rules, the same colors. You can be as creative as you wish in editing and posting, but you will always be constrained by the same standard.
-
-Social media are killing diversity: they are standardizing the way people present themselves, the way in which communicators can be listened, and, more importantly, the way in which pictures are displayed. The context loses all of its meaning. Personality and identity are masked behind the same layer and behind a profile which is the same for everybody.
+Naturalmente, distrazione e [dipendenza](#dipendenza) sono strettamente correlate: più abbiamo bisogno di controllare su tutte le nostre app nuovi post o commenti, meno ci concentriamo su ciò che realmente ci interessa. È principalmente una questione di [tempo](#time), ma si tratta anche di allenare la concentrazione e la dedizione: i Social Media ci abituano a saltare incessantemente da un contenuto ad un altro a grandissima velocità; al massimo, i nostri occhi di solito si fermano su un'immagine per cinque secondi. Da ciò consegue che nella nostra quotidianità concentrarsi su qualcosa per lungo tempo richiede uno sforzo sovrannaturale.\
+Ancora una volta: se una persona è fortemente distratta e non sa concentrarsi, non è *necessariamente* causa dei Social Media, ma trascorrere parecchio tempo a scrollare il nostro feed di certo non aiuta.
 
 <br>
 <br>
 
-## Content ownership
+## Dati
 
-Is what we publish on Social Media actually ours? The answer comes straight from the two major social media platform policies.
+Indipendentemente dalla nostra volontà, anche se utilizziamo i social passivamente, dunue navigando, guardando video e immgini e leggendo post, regaliamo ai proprietari dei Social Media una immensa mole di dati su di noi e su cosa ci piace. Questi dati, anche se in teoria sono “deliberatmente” concessi, sono accumulati sempre più, giorno dopo giorno, mese dopo mese, anno dopo anno. Il risultato è spaventoso. Per cosa vengono utilizzate tutte queste informazioni? La risposta è [profilazione degli utenti](#profilazione)
 
-**Spoiler** - The short answer is yes, but the actual one is no: we retain ownership rights on our content, but it means that almost nothing, since platforms can do whatever they whant with it, and we cann't do anything about it: once we published something, **it's not over our control anymore**. So: we own our content but we can't control it. Is this actual ownership?
+<br>
+<br>
+
+## Profilazione
+
+Probabilmente, questa è una delle ragioni principali per cui le persone scelgono di eliminare i propri account sui social media.\
+La questione è tanto semplice quanto preoccupante: tutti i dati raccolti su di noi vengono aggregati e analizzati per capire **chi siamo**. Se la profilazione si limitasse a questo, potremmo forse ritenerla accettabile; alla fine, se vogliamo usare internet senza essere dei tecnici o degli esperti, qualche informazione su di noi trapela, in un modo o nell'altro. Il problem fondamentale è **come** la nostra identità, formata dai noisti interessi, le nostre paure, le nostre più recondite pulsioni e la nostra rabbia sono gestite e per cosa sono usate.
+
+Non è un segreto: tutto ciò che ho appena elencato è venduto a caro prezzo ad inserzionisti per mostrarci (o meglio, per sommergere il nostro feed con) pubblicità “di nostro interesse”. Questo potrebbe essere addirittura considerato un aspetto positivo se fosse sfruttato solo per fini di marketing, ma, sfortunatamente, non è così: potremmo (e probabilmente siamo) puntati da inserzioni e campagne politiche, che non puntano a venderci qualcosa, ma mirano a condizionare il nostro comportamento e distorcere la nostra interpretazione del mondo, rinforzando ulteriormente la [bolla](#bolla) in cui viviamo e, ovviamente, manipolando la nostra scelta di voto.
+
+<br>
+<br>
+
+## Monopolizzazione
+
+Esiste un modo per diventare influencer, promuovere un prodotto, condividere un'opinione politica, mettere in mostra un'opera darte o comunicare qualunque cosa con il pubblico senza utilizzare, direttamente o indirettamente, i Social Media?   
+Indipendentemente dal loro essere una cosa positiva o negativa, il fatto che l'unico modo per essere considerati, ascoltati, o anche solo notati in questo mondo confuso sia fare affidamento su piattaforme che sono possedute da immense *corporations* che utilizzano i nostri contenuti per crescere a dismisura e incessantemente, guadagnando impronunciabili somme di denaro, è profondamente ingiusto.   
+Le aziende che possiedono i Social Media sono monopoli che non permettono a nessuno di competere con loro, o acquistando e inglobando le società che entrano con loro in collisione, oppure essendo così tanto più grandi da schiacciarle.
+
+Facebook è stato denunciato ed è ora sotto processo da parte del governo statunitense e molti altri stati del mondo, precisamente con l'accusa di aver comprato illegalmente la competizione.
+
+<br>
+<br>
+
+## Tempo
+
+Non sei spaventato da quanto tempo passi a fissare uno schermo?
+
+Guarda le statistiche di utilizzo dei tuoi dispositivi.
+
+<br>
+<br>
+
+## Standardizzazione
+
+Come si rapporta la **creatività** con tutto quanto scritto finora? Come sottolineato in [monopolizzazione](#monopolizzazione), ci sono poche o zero alternative per avere una presenza pubblica online senza sfruttare un profilo sui Social Media. A meno che tu per qualche ragione non fossi già conosciuto, è fortemente improbabile che tu possa venire considerato da un vasto pubblico senza un account o una pagina su almeno un social network.
+
+A queste considerazioni consegue che la maggioranza delle persone mostra le proprie immagini o creazioni su una pagina che necessariamente condivide lo stesso layout, la stessa grafica, segue le stesse regole e gli stessi schemi di tutti i miliardi delle altre esistenti. Puoi essere creativo come e quanto desideri nel pubblicare e modificare ciò che intendi condividere, ma sarai sempre limitato dagli stessi canoni.
+
+I Social Media stanno uccidendo la diversità: stanno standardizzando il modo in cui le persone di presentano, i canoni di efficacia affinché in messaggio venga recepito e rimanca impresso e, soprattutto, il modo in cui appaiono e sono valutate le immagini. Il contenuto perde tutto il suo significato originale. La personalità e l'identità sono mascherate dallo stesso livello di artificialità dietro un profilo che è lo stesso per tutti.
+
+<br>
+<br>
+
+## Diritti sui contenuti
+
+Quello che pubblichiamo sui Social Media è veramente nostro? La risposta giace all'interno delle privacy policy degli stessi. 
+
+**Spoiler** - La risposta veloce è sì, ma quella reale è no: manteniamo i diritti di proprietà sul nostro contenuto, ma non vuol dire quasi nulla, poiché allo stesso tempo acconsentiamo che le piattaforme online ne facciano ciò che vogliono; noi non possiamo farci nulla: una volta pubblicato qualcosa, <u>non è più sotto il nostro controllo</u>. Quindi: il contenuto è tuo ma non puoi farci nulla. È davvero proprietà?
 
 ### Facebook
 
@@ -138,7 +163,7 @@ From Twitter's [Terms of Service](https://twitter.com/en/tos "Twitter Terms of S
 
 <br>
 
-## Tik Tok
+### Tik Tok
 
 From Tik Tok's [Terms of use](https://www.tiktok.com/legal/terms-of-use "Tik Tok Terms of Service")
 
@@ -166,70 +191,76 @@ Important passage:
 
 ## Hurry
 
-As noted in [distraction](#distraction), we look at anything which appears on our feed very quickly. We double tap and like hundreds of posts every day, and we do it so much that we don't mind anymore the importance of the content. We may look at one of our friends taking a selfie with her new make-up and immediately after this a video of a forest being devastated by wildfire. Isn't it strongly unethical? Is it right to dedicate few seconds, or even milliseconds, to such different topics, jumping from hard and touching images, to silly and funny ones? I believe this is not how human nature is. To learn something, we need to take time and commit ourselves to it, 100%.
+Come esposto in [distraction](#distrazione), guardiamo in modo estremamente veloce tutto ciò che appare nella nostra timeline. Facciamo doppio tap e mettiamo *like* a centinaia di post ogni giorno, e lo facciamo così tanto che non veniamo più toccati dalla potenza di un contenuto. Può capitare di vedere un'immagine di una nostra amica mentre si scatta una foto con il nuovo make-up e immediatamente dopo un video di una foresta devastata da incendi dolosi. Non è questo fortemente amorale? Ci sembra corretto dedicare alcuni secondi, o addirittura millesimi di secondo, ad argomenti così differenti, saltando in un battito di ciglia da immagini dure e toccanti, contenuti pregnanti e emotivamente forti, a immagini divertenti e ridicole?\
+Credo che questo non corrisponda al modo in cui la natura umana ci spinge a vivere la realtà. Per scoprire ed imparare qualcosa, servono tempo e dedizione.
 
-Social Media make everything appear similar by flattening every post and putting it into the same, identical, container. In this way, we lose empathy, compassion and we can't distinguish anymore what's important and what's worrying to what's a joke.
+I Social Media fanno apparire tutto uguale appiattendo ogni post e inserendolo nel medesimo contenitore. Così facendo, perdiamo empatia e compassione, senza essere più in grado di distinguere cosa è davvero importante e pericoloso è cosa è una montatura mediatica concepita fondamentalmente come scherzo.
 
 <br>
 <br>
 
 ## Simplicity vs simplification
 
-On Social Media, everything is gameified, and everything looks so simple. Truth is not simple, though. Neither are the world we live in and its inhabitants. The Universe is complex, hard to understand, full of confusing and conflicting events. Social Media simplify everything, as if knowledge was always at hand and everything could be easily learned. Unfortunately, it's not quite so. While on the web developers attempt to pursue simplicity and minimalism, Social Media fight fo simlification of matters which are not. There may be no actual right or wrong concerning an argument, but algorithms detect what's our inclination and display us what enforces it, so we become convinced of something which appears very simple, while in the end it's not, and we miss a whole point of view, the one from the other side.
+Sui Social Media, tutto è reso un gioco, tutto appare molto semplice. L'essenza ontologica della realtà, tuttavia, non è affatto semplice. Non lo è nemmeno il mondo in cui viviamo e i suoi abitanti. L'Universo è complesso, arduo da decifrare, ricco di elementi confusivi ed in conflitto fra loro. I Social Media semplificano tutto, come se la conoscenza fosse a portata di mano e qualunque informazione facilmente comprensibile. Purtroppo, non è così. Mentre gli sviluppatori di *software* generalmente cercano di perseguire la semplicità e il minimalismo, i Social Media combattono per la **semplificazione** di argomenti e temi che non lo sono affatto. Potrebbe non esserci un chiaro “giusto” o “sbagliato” per quanto riguarda una discussione, ma gli algoritmi percepiscono qual è la nostra inclinazione e ci mostrano ciò che la rafforza, così diventiamo sempre più convinti di qualcosa che appare molto semplice, ma che in fondo non lo è, perdendo un punto di vista molto importante, l'altra faccia della medaglia.
 
-Simplification is bad, simplicity is good, but it can't be everywhere. Let's quit social media to look at the other site of the coin and embrace the comlexity of our reality.
+La semplificazione è un concetto negativo, mentre la semplicità è stupenda ed efficace, ma non può essere ovunque e sempre. Dobbiamo abbandonare i Social Media per aprire gli occhi e osseervare l'altra faccia della medaglia, riconoscendo e sposando la diversità della realtà.
 
 <br>
 <br>
 
-## Being always connected
+## Essere perennemente connessi
 
-The paragraph title says it all. Do we really need to be this connected? Do we really need to look at the hundreds of media pubished and shared by the ones we follow, everyday?
-
-I believe the answer is no, and I'm not the only one.
+Il titolo del paragrafo dice tutto. Davvero ci serve essere così connessi? Se la risposta fosse affermativa, possiamo aggiungere inoltre che l'iperconnessione è benefica? Come saremmo se non guardassimo centinaia di migliaia di contenuti pubblicati da coloro che seguiamo, incessantemente?
 
 <br>
 <br>
 
 ## Environment
 
-This may be the weaker argument among the ones in this page. It is worth mentioning it, anyway.
+Questo potrebbe essere il motivo più debole degli altri in questa pagina, ma può essere utile menzionarlo.
 
-Facebook stated that by the end of 2030 it will commit 100% to renewable energy; it has also dedicated [a whole website](https://sustainability.fb.com "Facebook Sustainability") to the topic of sustainability. Nevertheless, services provided by Social Media companies are powered by an undisclosed number of indefinitely big (probably huge) servers all over the world. Such servers are super powerful computers conneced to the internet all of the day, everyday; they are responsible for the effective publication of what we share, and they make sure everything is accessible to anyone, anywhere on the planet (actually, not everything, we are kind of in a [bubble](#bubble)). As it's easy to imagine, these servers consume an astounding amount of energy, and, even if it comes from renewable sources, it still has a great impact on our planet's environment.
+Facebook ha annunciato che entro il 2030 si applicherà per utilizzare esclusivamente energia rinnovabile; ha anche dedicato [un intero sito web](https://sustainability.fb.com "Facebook Sustainability") all'argomento. Nonostante ciò, i “servizi” forniti dai Social Media sono resi possibili da un numero sconosciuto di server indefinitamente (probabilmente, molto) grandi che sorgono in ogni angolo del pianeta. Tali server sono computer estremamente potenti connessi ad internet tutto il giorno, tutti i giorni; essi sono i responsabili del processo dietro le quinte che permette la pubblicazione di ciò che carichiamo e che assicura che tutto sia accessibile a chiunque, in qualunque luogo nel mondo. Come è facile immaginare, questi server consumano una gigantesca quantità di energia, e, anche se proviene da fonti rinnovabili, ha comunque un forte impatto sull'ambiente.
 
-A personal note: not dumb people aknowledge that the greatest and most worrying issue for us in this time in history (setting asite the pandemic for one moment) is the global warming emergency; it is strongly affecting our lives and it's very likely to devastate them unless we do something in the near future. Even if it may not seem justified, my concern about Social Media is somewhat greater: if global warming can be observed, objectively measured and monitored, the decline of internet freedom is something subtle, happening in the shadows and with a growing but still very little attention, if compared to the dimensions of the problem. We should quit social media to make the world better.
-
-<br>
-<br>
-
-## Closed
-
-Let's imagine I am an influencer and I want to move to another social networking platform (it may be Mastodon, Pixelfed, Friendica, Diaspora…), which is very little known and much less used, if compared to Social Media giantes everybody knows. How can I do it? Outside of my social media profiles, unless I have a great fanbase, I have no followers, no audience, no tool outside of the great Social Media platforms I used up to now. The only way I can continue to do my job is by building a new fanbase from scratch.
-
-This is a little mind experiment (and probably even not the most effective one) to give you an idea of how closed Social Media are. These platforms don't interact among each other, instead, they compete. If all of a sudden for some reason Twitter shuts down, there is no way to go on using Twitter anymore. Social Media as we know them are limited to and by the ones who own them, and it is as a world without them does not exist. We can prove the contrary.
+Una nota personale: chiunque non sia un imbecille riconosce che il più grande e preoccupante pericolo per noi in questo momento storico (tralasciando per un attimo la pandemia) è il surriscaldamento globale; sta fortemente impattando le nostre vite ed è probabile che le devasterà, a meno che non faremo qualcosa nel prossimo futuro. Anche se potrebbe non sembrare giustificato, il mio timore per quanto riguarda i Social Media è forse più grande: se il surriscaldamento globale può essere osservato, oggettivamente misurato e monitorato, il declino della libertà sul web è subdolo, ccade nell'ombra e con una crescente ma comunque minima attenzione, se comparata alle dimensioni del problema. Inoltre, anche un ignorante in materia ambientale può comprendere i rudimenti del perché il pianeta si stia surriscaldando e il motivo per cui questo è un grande rischio; al contrario, per riconoscere i rischi dell'ineguaglianza e la scomparsa della privacy sul web, occorre avere delle conoscenze tecniche che in Italia non siamo educati per recepire intuiticamente. Doremmo abbandonare i Social Media per rendere il mondo un luogo migliore.
 
 <br>
 <br>
 
-## Saturation
+## Chiusura
 
-Social Media business plan is to provide a “free” “service” to their users by displaying ads. I already wrote about what and how bad those ads are, but now the focus is on their sustainability. I'm not using Instagram since one year ago, but, last I checked, there was an ad every three stories I watched. The same, or even worse, with posts.
+Immaginiamo che io sia un influencer (lo so, improbabile assai) e che io voglia spostarmi su un'altra piattaforma di *social networking* meno conosciuta (come potrebbe essere Mastodon, Friendica, Pixelfed, Diaspora…) e minuscola, se comparata alle piattaforme che tutti conosciamo. Come posso farlo? Al di fuori dei miei profili sui Social Media (se ho basato solo su di essi la mia celebrità) nonostante io possa avere una vasta *fanbase*, non avrei followers, nessun pubblico, nessuno strumento al di fuori delle piatteforme che ho usato finora, e che scelgo di lasciare. L'unico modo per continuare a lavorare è ricostruire da capo la mia *fanbase* altrove.\
+I Social Media agiscono fuori dall'etica anche perché non riconoscono un mondo al di fuori di sé: tutto è in funzione di essi e cambiare prospettiva appare confuso e complicato.
 
-Social Media current business plan is becoming less rewarding everyday. There is a worrying saturation of ads and media which makes the single adversisement worth a fraction of what it was worth several months ago. Social Media need to change, sooner or later. They are bound to shut down unless they find other ways to make profit. They are getting close to the edge and an evolution is required to them to continue to surf the wave of dominance over the world.
+C'è un piccolo interessante esperimento mentale per rendere l'idea di quanto i Social Media sono chiusi. Se improvvisamente, per qualche misteriosa ragione, Twitter si spegnesse ovunque, per sempre, non esiste un modo per continuare ad utilizzarlo. Il software che lo fa funzionare è chiuso e inaccessibile a chi non lavora per l'azienda.\
 
-In the meanwhile, we can get out of this mess, so that it can't concern us. Once we deleted Social Media accounts, we become independent and free, and how much an ad is worth or how many of them are clummed into a feed is not of our interest anymore.
+I Social Media che noi conosciamo sono limitati a e da coloro che li possiedono e li governano, ed è come se un mondo senza di essi non esistesse.\
+Noi possiamo provare il contrario.
 
 <br>
 <br>
 
-## Being used
+## Saturazione
 
-If we think carefully, we may realize that we don't actually use Social Media: Social Media use us. Think about something you can do thanks to Social Media: isn't it possible to do it without them? Often, the answer is “yes, but I wouldn't get such good results”. The fact is that quitting is hard mainly because we get out of a system which is [closed](#closed) and it doesn't work according to rules we can influence. Either Social Media are ok as they are, or we can't use them. We, as individuals, have no voice whatsoever in how Social Media platforms should work.
+Il modello economico dei Social Media è di fornire un “servizio” “gratuito” ai propri “utenti” mostrando “pubblicità”. Ho già scritto di come e quanto pericolosi questi siano, ma ora concentriamoci sulla loro sostenibilità a lungo termine.
 
-Social Media impose on us so many rules, boundaries, systems and preconceptions that we're not the true users anymore. Our interactions, our posts, our likes, our comments, everything produces value and earnings, but not for us. We are used to produce wealth for those who control the platforms we use to produce it, and the excuse is that we connect, we interact, we make friends or we even find love thanks to them. It is not true: we might be able to do all of this, maybe even in a better way, without Social Media, but we can't.
+Non sto usando Instagram da un anno e, l'ultima volta che ho controllato, c'era una pubblicità ogni tre storie che guardavo; lo stesso, oppure peggio, con i post.
 
-It's impossible for us to change Social Media and stop being used by them unless we completely quit. There is no middle way, there is no compromise. Using Social Media consciously is a joke as much as claiming that they do not influence society.
+L'attuale *business plan* dei Social Media sta diventando meno redditizio ogni giorno. C'è una spaventosa saturazione di annunci e pubblicità che rende il valore di una specifica inserzione una frazione di quello che era mesi fa. I Social Media *hanno bisogno* di cambiare, prima o poi. Sono destinati a chiudere e scomparire, a meno che non trovino altri sistemi per ottenere un profitto. Stanno raggiungendo il limite e un'evoluzione è necessaria per permettere loro di cavalcare l'onda del dominio sul mondo.
 
-In our hand we have the power to say no, to stop the trend, to give back diversity, empathy, calm, peace, meaning, art, and authentic feelings to the world.
+Nel frattempo, noi possiamo uscire da questo pasticcio, in modo che non ci riguardi. Una volta abbandonati i Social Media, diventiamo indipendenti e liberi, e quanto valga un annuncio e quanti di essi riempiano i feed non sarà più un nostro interesse.
 
-It's not easy, and it's quite painful at the beginning, but you can do it, we can do it, if we're not alone.
+<br>
+<br>
+
+## Essere usati
+
+Se ci pensiamo attentamente, possiamo realizzare che in realtà non usiamo i Social Media, sono i Social Media a usare lui.
+Pensa a qualcosa che puoi fare grazie ai Social Media: non è possibile farlo senza di essi? Spesso, la risposta è “sì, ma otterrei risultati nemmeno lontanamente comparabilli”. Il fatto è che uscire dai social è difficile perché abbandoniamo un sistema che è chiuso e non funziona secondo regole che possiamo influenzare. O i Social Media vanno bene così come sono, o non possiamo usarli. Noi, come individui, non abbiamo voce in capitolo nello stabilire le regole del loro funzionamento.
+
+I Social Media ci impongono così tante regole, limiti, strutture e preconcetti che i veri utenti non siamo più noi. Le nostre interazioni, ciò che pubblichiamo, così come tutto quello a cui regiamo, producono valore e guadagno, ma non per noi. Siamo abituati a produrre e regalare beni per coloro che controllano le piattaforme che usiamo per produrli, con la scusa che grazie ad essi ci connettiamo, interagiamo, stringiamo e rafforziamo amicizie o addirittura troviamo l'amore. Non è così! Potremmo essere in grado di fare tutto ciò, magari in modo anche migliore, senza i Social Media, ma, ora come ora, non possiamo.
+
+È impossibile per noi cambiare i Social Media e smettere di essere usati da essi, a meno che non li abbandoniamo completamente. Non esistono vie di mezzo, il compromesso del “facciamo una rivoluzione dall'interno” è inefficace, poco audace, inutile. “Utilizzare i Social Media in modo consapevole” è una barzelletta tanto quanto affermare che non hanno influenza sulla società.
+
+Nelle nostre mani abbiamo la possibilità di dire no, di fermare la tendenza, di alimentare diversità, empatia, quiete, significato, arte ed autenticitò al mondo.
+
+Non è facile ed è piuttosto soloroso all'inizio, ma puoi farlo, possiamo farlo, se non siamo soli.

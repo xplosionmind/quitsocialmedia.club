@@ -4,7 +4,7 @@ redirect_from: ["/level-1", "/level1", "/l01", "/l1", "/l-01", "/l-1", "/awarene
 ref: learn
 level: "1"
 nextlevel: "2"
-description: "<strong>Level 1</strong>: learn what's wrong with Social Media platform and become more concious"
+description: "Learn what's wrong with Social Media platform and become more concious"
 layout: level
 ---
 Before taking action, you should learn the most you can about Social Media, and you should [grasp the purpose](/why) of quitting.
@@ -21,6 +21,5 @@ Start by diving deeper.
 
 Some content to start from:
 
-- Watch **[*The Social Dilemma*](https://thesocialdilemma.com)** for a general overview
-- Read [*Ten Arguments for Deleting Your Social Media Accounts*](http://jaronlanier.com/tenarguments.html) by the legendary [**Jaron Lanier**](http://jaronlanier.com/general.html); [here](https://tommi.space/lanier-social-media-notes) you can read notes and quotes selected by Tommi 
-- by Jaron Lanier
+- Watch **[*The Social Dilemma*](https://thesocialdilemma.com "The Social Dilemma")** for a general overview
+- Read [*Ten Arguments for Deleting Your Social Media Accounts*](http://jaronlanier.com/tenarguments.html "Ten Arguments For Deleting Your Social Media Accounts") by the legendary [**Jaron Lanier**](http://jaronlanier.com/general.html "Jaron Lanier official website"); [here](https://tommi.space/lanier-social-media-notes "Notes on “Ten Arguments”") you can read notes and quotes selected by Tommi 

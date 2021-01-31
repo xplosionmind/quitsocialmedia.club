@@ -1,17 +1,17 @@
 <section id="nav" class="nav">
 	<div id="home">
-		<a href="{% if page.lang == 'it' %}/it/home{% else %}/home{% endif %}" title="home">Quit Social Media</a>
+		<a href="{% if page.lang == 'it' %}/it/home{% else %}/home{% endif %}" title="Home">Quit Social Media</a>
 	</div>
 	<nav>
 		<a class="nav-mobile" href="javascript:void(0);" onclick="navtoggle()"><span></span></a>
 		<ul class="nav-list">
-			<li>{% if page.lang == 'it' %}<a href="/info">Info{% else %}<a href="/about">About{% endif %}</a></li>
-			<li>{% if page.lang == 'it' %}<a href="/perché">Perché{% else %}<a href="/why">Why{% endif %}</a></li>
-       		<li>{% if page.lang == 'it' %}<a href="/percorso">Percorso{% else %}<a href="/path">Path{% endif %}</a></li>
-       		<li>{% if page.lang == 'it' %}<a href="/soluzioni">Soluzioni{% else %}<a href="/solutions">Solutions{% endif %}</a></li>
-       		<li><a href="{% if page.lang == 'it' %}/domande{% else %}/faq{% endif %}">FAQ</a></li>
+			<li>{% if page.lang == 'it' %}<a href="/info" title="Informazioni su questo sito">Info{% else %}<a href="/about">About{% endif %}</a></li>
+			<li>{% if page.lang == 'it' %}<a href="/perché" title="Perché">Perché{% else %}<a href="/why">Why{% endif %}</a></li>
+			<li>{% if page.lang == 'it' %}<a href="/percorso" title="Percorso">Percorso{% else %}<a href="/path">Path{% endif %}</a></li>
+			<li>{% if page.lang == 'it' %}<a href="/soluzioni" title="Soluzioni">Soluzioni{% else %}<a href="/solutions" title="Solutions and alternatives">Solutions{% endif %}</a></li>
+			<li><a href="{% if page.lang == 'it' %}/domande{% else %}/faq{% endif %}" title="Objections and Replies">FAQ</a></li>
 			{% unless page.ref == nil %}
-			<li id="language-selector" class="dropdown"><a onclick="langdropdown()" href="#!" title="language selector">🌏</a>
+			<li id="language-selector" class="dropdown"><a onclick="langdropdown()" href="#!" title="language selector">&ensp;🌏</a>
 				<ul class="dropdown-content">
 					{% for cosa in site.pages %}
 					{% if cosa.ref == page.ref %}
@@ -23,7 +23,7 @@
 				</ul>
 			</li>
 			{% endunless %}
-   		</ul>
+		</ul>
 	</nav>
 </section>
 

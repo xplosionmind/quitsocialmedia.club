@@ -21,7 +21,7 @@ anchor: false
 	<li><strong>Level 0</strong>: <a href="/about" title="About quitsocialmedia.club">about</a> this website and <strong>its <a href="/about#purpose" "Purpose - quitsocialmedia.club">purpose</a></strong></li>
 	{% for level in site.pages %}
 		{% if level.level != nil and level.lang == page.lang %}
-			<li><strong>Level {{ level.level }}</strong>: <a href="{{ level.url }}" target="_blank" title="{{ level.title }}">{{ level.title }}</a> - {{ level.description }}</li>
+			<li><strong>Level {{ level.level }}</strong>: <a href="{{ level.url }}" target="_blank" title="Level {{ level.level}}: {{ level.title }}">{{ level.title }}</a> - {{ level.description }}</li>
 		{% endif %}
 	{% endfor %}
 </ul>

@@ -165,7 +165,9 @@ article li,
 			content: "✉️ ";
 			}
 		}
-		&[href*="/about" i] {
+		&[href*="/about" i],
+		&[href="/info" i],
+		&[href*="tommi.space" i] {
 			&::before {
 				content: "🙋🏻‍♂️ ";
 			}
@@ -180,13 +182,16 @@ article li,
 				content: "📚 ";
 			}
 		}
-		&[href*="/path" i] {
+		&[href*="/path" i],
+		&[href*="/percorso" i] {
 			&::before {
 				content: "🧭 ";
 			}
 		}
-		&[href*="/why" i] {
-			&::before {
+		&[href*="/why" i],
+		&[href*="/perch%C3%A9" i],
+		&[href*="/perche" i] {
+			&::after {
 				content: "❓";
 			}
 		}
@@ -205,7 +210,8 @@ article li,
 				content: "💡 ";
 			}
 		}
-		&[href*="/quick" i] {
+		&[href*="/quick" i],
+		&[href*="/veloce" i] {
 			&::before {
 				content: "⏰ ";
 			}
@@ -215,8 +221,8 @@ article li,
 				content: "🍿 ";
 			}
 		}
-		&[href*="/delete" i],
-		&[href*="/quit" i] {
+		&[href="/delete" i],
+		&[href="/quit" i] {
 			&::before {
 				content: "❌ ";
 			}
@@ -226,9 +232,22 @@ article li,
 				content: "🧑🏽‍💻 ";
 			}
 		}
+		&[href*="liberapay" i],
+		&[href*="/contribute" i],
+		&[href*="/contribuisci" i] {
+			&::before {
+				content: "🎁 ";
+			}
+		}
 		&[href*="keys.openpgp.org" i] {
 			&::before {
 				content: "🔑 ";
+			}
+		}
+		&[href="/share" i],
+		&[href="/condividi" i] {
+			&::before {
+				content: "📢 ";
 			}
 		}
 	}
@@ -239,28 +258,6 @@ article li,
 	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
-}
-
-#feed .flex.box {
-	justify-content: space-between;
-}
-
-.grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-	grid-gap: var(--regular);
-	h3 {
-		text-align: center;
-	}
-	p {
-		font-size: .8em;
-		font-weight: 300;
-		line-height: 1em;
-	}
-	.box {
-		margin: 0;
-		padding: 3%;
-	}
 }
 
 .vertical {
@@ -312,9 +309,6 @@ li {
 .poetry,
 .serif {
 	font-family: "EB Garamond", Garamond, "Simoncini Garamond", Georgia, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-	p {
-		line-height: 1.5em;
-	}
 }
 
 .post {
@@ -409,11 +403,11 @@ code {
 }
 
 blockquote {
-  	margin: 0 3vw;
+	margin: 1vw 4vw;
 	padding: 0;
 	p {
-		font: 1em "EB Garamond", Garamond, "Simoncini Garamond", Georgia, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-		opacity: .9;
+		font-size: .8em;
+		line-height: 1.5em
 	}
 }
 
@@ -425,11 +419,11 @@ tr {
 
 th {
 	padding: var(--small) var(--regular-less);
-    
+	
 	/* making the header sticky */
 	position: sticky;
-    top: 0;
-    background: var(--background);
+	top: 0;
+	background: var(--background);
 }
 
 td {
@@ -609,7 +603,6 @@ h2 {
 }
 
 .box {
-	max-height: 80vh;
 	max-width: 100%;
 	color: var(--text);
 	padding: var(--big);

@@ -1,11 +1,12 @@
 ---
-title: Solutions
+title: Solutions and alternatives
 permalink: /solutions
 ref: sol
 toc: true
 layout: page
 redirect_from: ["/sol", "/solution"]
 description: "Being “social” without “Social Media” seems impossible. Nevertheless, it's a whole new life, full of surprises, excitement and authenticity, but, above all, <strong>freeedom</strong>. There are a few solutions which make life without Social Media connected and interactive anyway."
+tags: l10n
 ---
 ## Briefly
 
@@ -18,7 +19,7 @@ The concept is this: to stay up to date, you can subscribe to any website's [RSS
 
 ## RSS feed
 
-You may have no idea [what a RSS feed is](https://en.wikipedia.org/wiki/RSS), or you may recall it as something old and remote. It's a simple tool which keeps you anonymous and isn't owned by anyone, which keeps you anonymous. It has no algorithms and nobody uses watches your actions for [advertising purposes](/why#profilation).
+You may have no idea [what a RSS feed is](https://en.wikipedia.org/wiki/RSS "“RSS” on Wikipedia"), or you may recall it as something old and remote. It's a simple tool which keeps you anonymous, it isn't owned by anyone and it needs no dedicated server to work. It has no algorithms and nobody uses watches your actions for [advertising purposes](/why#profilation).
 
 Some say it's dead because of Social Media, the thing is it's EVERYWHERE instead, we just don't see it. Starting to use it is trivial.
 
@@ -31,11 +32,21 @@ As pointed out in the [about](/about) page, this website isn't meant to explain 
 - RSS is fundamental in one field in particular: **podcasting**. Anyone who has a podcast publishes it in one place (a podcasting platform or a website) and all of the other podcasting platforms [get new episodes through its RSS feed](https://yewtu.be/TU5zc-u6dhY?t=159).
 
 <br>
+
+### Using Social Media without being on Social Media
+
+It can happen that you end up sad and you miss how much Social Media allowed you to connect with your loved ones in a way you could never replace with other systems, if they don't want to follow you in abandoning those platforms. It's understandable, even if the ideal solution would be if you all quit. Nevertheless, as always, there's a very smart and useful workaround, a tool which allows you to <u>convert Social Media timelines in RSS feeds</u>.
+
+Tools like that are actually more than one, but the most famous and developed one is [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge "RSS-Bridge on GitHub").
+
+You are welcome to test and use the RSS-Bridge instance I host on my server by visiting <https://rss-bridge.tommi.space>. (mantaining and renting a server is no cheap matter. I am happy of offering my RSS-Bridge, nonetheless, if you started using it a lot, [a symbolic contribution](https://it.liberapay.com/tommi/donate "Dona a Tommi su Liberapay") would really help me).
+
+<br>
 <br>
 
 ## Alternatives
 
-We already covered [the reasons](/why "Why") why Social Media platforms as we know them are bad. Nevertheless, there are plenty of platforms which solve some if not most of Social Media greatest issues. The most important features which all of them share that are worth noting is that they have **no ads**, user data collected is **the minimum** needed to make the service work, and they are open source: they will never die.
+We already covered [the reasons](/why "Why") why Social Media platforms as we know them are bad. Nevertheless, there are plenty of platforms which solve most, if not all, of Social Media greatest issues. The key features which all of them share is that they have **no ads**, user data collected are **the minimum** needed to make the service work, and they are open source: they will never die. Furthermore, since the software is open and anyone can use it, there are several different instances 
 
 All of these platforms are free not only to subscribe to, but also to actually use! Anyone could take the code and install it on her/his own server. Imagine having a whole Facebook, completely owned by you. How cool would it be?
 
@@ -44,7 +55,15 @@ All of these platforms are free not only to subscribe to, but also to actually u
 - [Friendica](https://friendi.ca "Friendica official website") it something like Facebook.
 - [PeerTube](https://joinpeertube.org "PeerTube") is a great paltform built by the French Framasoft. As the name suggests, it's like YouTube, but it relies on peer-to-peer video sharing to avoid stressing the servers which host the existing instances.
 
-The most awesome thing is that all of these platforms are connected among each other: I can follof from my mastodon account someone on PixelFed, as well as a PeerTube channel. This is possible because these healthier alternative Social Media platforms are based on the same protocol, [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub "ActivityPub on Wikipedia"). Thanks to this federation, all of these platforms can interact with each other and together they composed what is wonderfully called the [*Fediverse*](https://www.wikiwand.com/en/Fediverse "Fediverse on Wikipedia") (which stands for *Federated (Social Media) Universe*)
+The most awesome thing is that all of these platforms are connected among each other: I can follof from my mastodon account someone on PixelFed, as well as a PeerTube channel. This is possible because these healthier alternative Social Media platforms are based on the same protocol, [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub "“ActivityPub„ on Wikipedia"). Thanks to this federation, all of these platforms can interact with each other and together they composed what is wonderfully called the [*Fediverse*](https://www.wikiwand.com/en/Fediverse "“Fediverse„ on Wikipedia") (which stands for *Federated (Social Media) Universe*)
+
+## Run your own
+
+Run your own social networking platform! It's awesome and, in the end, it's not so hard. About this topic, everything is perfectly explained in [runyourown.social](https://runyourown.social "Run Your Own Social"); once you get to the end of that quite long (yet super interesting and insightful) page, you'll want nothing more than starting your own platform.
+
+<div class="blue box">
+	<strong>Note</strong>: one thing which has to be pointed out in advance is that running your own social <u>does not mean</u> at all that you have to build one from scratch or that it will be “yet another social media platform” where the user base is so tiny that the social platform itself is useless. Instead, one of the most awesome features of running your own social is that your platform can connect to all of the other Fediverse platforms in the world, hence making your potential connections everything but limited!
+</div>
 
 <br>
 <br>

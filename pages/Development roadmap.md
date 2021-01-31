@@ -1,16 +1,17 @@
 ---
-title: Development roadmap
+title: Development
 layout: page
-title: Development roadmap
-permalink: /development-roadmap
-redirect_from: ["/dev-roadmap", "/dev", "/dev-path", "/development"]
+permalink: /development
+redirect_from: ["/dev-roadmap", "/dev", "/dev-path", "/development-roadmap"]
 description: "Technical stuff to do"
 ---
-My personal roadmap to Internet Freedom is [here](https://tommi.space/internet-freedom-roadmap "Path to Internet Freedom - tommi.space")
-{:.box}
+<div>
+	My personal roadmap to Internet Freedom, where <q>quitting Social Media</q> is at the top of the list, can be found <a href="https://tommi.space/path-to-internet-freedom" rel="noopener noreferrer" target="_blank" title="Tommi's path to Internet Freedom">here</a>.
+</div>
 
-More detailed data in the <a href="/notes" title="Notes page">notes</a>
-{:.blue .box}
+<div class="blue box">
+	More detailed data in the <a href="https://tommi.space/qsm" title="Notes on quitsocialmedia.club">notes</a>
+</div>
 
 <br>
 <br>
