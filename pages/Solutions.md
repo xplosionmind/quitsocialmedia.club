@@ -46,23 +46,33 @@ You are welcome to test and use the RSS-Bridge instance I host on my server by v
 
 ## Alternatives
 
-We already covered [the reasons](/why "Why") why Social Media platforms as we know them are bad. Nevertheless, there are plenty of platforms which solve most, if not all, of Social Media greatest issues. The key features which all of them share is that they have **no ads**, user data collected are **the minimum** needed to make the service work, and they are open source: they will never die. Furthermore, since the software is open and anyone can use it, there are several different instances 
+We already covered [the reasons](/why "Why") why Social Media platforms as we know them are bad. Nevertheless, there are plenty of platforms which solve most, if not all, of Social Media greatest issues. The key features which all of them share is that they have **no ads**, user data collected are **the minimum** needed to make the service work, and they are open source: they will never die.
 
-All of these platforms are free not only to subscribe to, but also to actually use! Anyone could take the code and install it on her/his own server. Imagine having a whole Facebook, completely owned by you. How cool would it be?
+All of these platforms are free not only to subscribe to, but also to actually use! Anyone could take the code and [install it on her/his own server](#run-your-own). Imagine having a whole Facebook, completely owned by you. How cool would it be?
 
-- [Mastodon](https://joinmastodon.org "Join Mastodon") is the most famous one. Think of it as a healthier version of Twitter.
+- [Mastodon](https://joinmastodon.org "Join Mastodon"), with more than **four active million users** all around the world, is by far the most popular and developed one; its structure and functioning make it very similar to Twitter.
 - [Pixelfed](https://pixelfed.org "Pixelfed official website") is almost identical to Instagram. It has stories, too!
 - [Friendica](https://friendi.ca "Friendica official website") it something like Facebook.
 - [PeerTube](https://joinpeertube.org "PeerTube") is a great paltform built by the French Framasoft. As the name suggests, it's like YouTube, but it relies on peer-to-peer video sharing to avoid stressing the servers which host the existing instances.
+- [Alternative Social Networks](https://github.com/redecentralize/alternative-internet#social-networks "Alternative Internet repository on GitHub"), the section of the [Alternative Internet](https://github.com/redecentralize/alternative-internet#social-networks "“Alternative Internet” repository on GitHub") GitHub repository by [Redecentralize](https://github.com/redecentralize "Redecentralize on GitHub")
 
 The most awesome thing is that all of these platforms are connected among each other: I can follof from my mastodon account someone on PixelFed, as well as a PeerTube channel. This is possible because these healthier alternative Social Media platforms are based on the same protocol, [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub "“ActivityPub„ on Wikipedia"). Thanks to this federation, all of these platforms can interact with each other and together they composed what is wonderfully called the [*Fediverse*](https://www.wikiwand.com/en/Fediverse "“Fediverse„ on Wikipedia") (which stands for *Federated (Social Media) Universe*)
 
+### Further reading
+
+- [Redecentralize blog](https://redecentralize.org/blog "Redecentralize’s blog"), an independent, volunteer-driven organisation promoting the decentralisation of our digital technology.
+- [Internet of People](https://iop.global "Internet of People")
+
+
+<br>
+<br>
+
 ## Run your own
 
-Run your own social networking platform! It's awesome and, in the end, it's not so hard. About this topic, everything is perfectly explained in [runyourown.social](https://runyourown.social "Run Your Own Social"); once you get to the end of that quite long (yet super interesting and insightful) page, you'll want nothing more than starting your own platform.
+Run your own social networking platform! It is awesome and, in the end, it is not so complicated. Literally everything about this topic is perfectly explained in [runyourown.social](https://runyourown.social "Run Your Own Social"); once you get to the end of that quite long (yet super interesting and insightful) page, you will want nothing more than starting your own platform.
 
 <div class="blue box">
-	<strong>Note</strong>: one thing which has to be pointed out in advance is that running your own social <u>does not mean</u> at all that you have to build one from scratch or that it will be “yet another social media platform” where the user base is so tiny that the social platform itself is useless. Instead, one of the most awesome features of running your own social is that your platform can connect to all of the other Fediverse platforms in the world, hence making your potential connections everything but limited!
+	<strong>Note</strong>: one thing which has to be pointed out in advance is that running your own social <u>does not mean</u> at all that you have to build one from scratch or that it will be “yet another social media platform” where the user base is so tiny that the social platform itself is useless. Instead, one of the most awesome features of running your own social is that <u>your platform can connect to all of the other Fediverse platforms in the world</u>, hence making your potential connections everything but limited!
 </div>
 
 <br>

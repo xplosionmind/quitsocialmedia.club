@@ -7,22 +7,38 @@ toc: true
 layout: page
 description: "The heart of the matter: all of the reasons why we should quit Social Media"
 ---
-I haven't found yet a place on the web where all of these reasons for why Social Media are bad were listed. You might not believe in one or two of them, and even a handful of them won't be sufficient to make you realize the gravity of the problem. Nevertheless, after going through all of the arguments, it's hard to negate that something has to be done. The most effective something we can do as individuals, before government actions, lawsuits and reports, is quitting.
+## Introduction
+
+Up to now, I could not find a place on the web where **all** of the reasons why Social Media are bad are listed; therefore, I decided to create one.\
+Among the arguments presented below, you might not believe in one or two or them, and even a handful of them may not be sufficient to make you realize the gravity of the problem. Nevertheless, after going through all of the following points, it's hard to negate that you cannot continue to go on using Social Media as they were no problem.\
+<u>The most effective “something„ we can do</u>, as individuals, without waiting for government actions, lawsuits and reports, <u>is quitting</u>.
 
 <br>
 <br>
 
 ## Anger
 
-It's scientifically proven that negative emotions engage users way more than positive emotions. Feed composition algorithms are tailored to maximize engagement and interaction, they don't actually care about how users feel. Our emotions are governed by a machine: you get angry for something you see, you react to it, and you'll start seeing more of it. The more anger, the more engagement, the better.
+<u>It is scientifically proven that negative emotions engage users way more than positive emotions</u>. Algorithms which compose our feeds are tailored to maximize engagement and interaction, they do not actually care about how users feel. Our emotions are governed by a machine: some gets angry for something you see, she reacts to it, and she will start seeing more of it. <u>The more anger, the more engagement</u>, the better it is.
+
+### Further reading
+
+- [more](/links#anger "More resources about anger and Social Media")
 
 <br>
 <br>
 
 ## Hate
 
-Strictly connected with [anger](#anger "Anger"). When you get angry, you do something about it. This is exactly what Social Media platforms wait for. It doesn't matter how much the debate is fired up, as long as you're interacting a lot, it's good. The problem is you get more hateful: you can't discuss with people who have a different idea without judging them.   
-Social Media allow us to report content which contains hate or insults, but one thing which can't be reported are **emotions**.
+[Hate](#hate "Hate") is strictly connected with [anger](#anger "Anger"): when you get angry, you do something about it. This is exactly what Social Media platforms wait for. It doesn't matter how much the debate is fired up. As long as you're interacting a lot, everything is good. The problem is users get more hateful: the cannot discuss anymore with who has a different idea without judging her.   
+Social Media allow us to report content which contains hate or insults, but the one thing which cannot be reported is a **feeling**. Social Media owners can attempt to moderate their posts, but they do not always do it, and, most importantly, they practically are unable to: there are too many publications, and it is virtually impossible to check all of them!
+
+### Further reading
+
+- [Facebook can’t fix itself](https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself "Facebook can’t fix itself"), an article by [Andrew Marantz](https://en.wikipedia.org/wiki/Andrew_Marantz "Andrew Marantz on Wikipedia") on [<cite>The New Yorker</cite>]
+- [Facebook Executives Shut Down Efforts to Make the Site Less Divisive](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499 "Facebook Executives Shut Down Efforts to Make the Site Less Divisive"), an article on [The Wall Street Journal](https://www.wsj.com "The Wall Street Journal")
+- [more](/links#hate "More resources related to hate and Social Media")
+
+
 
 <br>
 <br>
@@ -30,7 +46,12 @@ Social Media allow us to report content which contains hate or insults, but one 
 ## Polarization
 
 It goes without saying that hateful speech and anger lead to a strong polarization in society.\
-“Polarization” is a word we are hearing a lot in these days, but the surprising fact is that it isn't linked to one bad side only; division and extremism are fostered by people with different ideas who can't listen to each other. Social Media platforms don't do much to allow a more peaceful way of sharing ideas and a greater openness to different positions.
+“Polarization” is a word we are hearing a lot in these days, but the surprising fact is that it is not linked to one bad side only; division and extremism are fostered by people with different ideas who are unable listen to each other. Social Media platforms do not do much to allow a more peaceful way of sharing ideas and a greater openness to different positions.
+
+### Further reading
+
+- <cite><a href="https://thesocialdilemma.com" rel="noopener noreferrer" target="_blank" title="The Social Dilemma">The Social Dilemma</a></cite>, a <mark class="red">documentary</mark> by [Jeff Orlowski](https://en.wikipedia.org/wiki/Jeff_Orlowski "Jeff Orlowski")
+- [more](/links#polarization "More resources on Polarization and Social Media")
 
 <br>
 <br>
@@ -42,6 +63,7 @@ This is one of the key points of 2020, and of the last months in general: Social
 ### Further reading
 
 - [Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech.](https://www.eff.org/deeplinks/2020/11/dont-blame-section-230-big-techs-failures-blame-big-tech "Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech. - EFF") by Elliot Harmon on [EFF](https://eff.org "EFF official website")
+- [more](/links#misinformation "More resources about misinformation and Social Media")
 
 <br>
 <br>
@@ -49,6 +71,11 @@ This is one of the key points of 2020, and of the last months in general: Social
 ## Bubble
 
 Since algorithms which govern Social Media aim to keep users hooked to their platform the more they can, they attempt to show us content they know users will like. We're not talking about advertisements alone, we're talking about suggestions inside the platform. “You may also like”, “similar to this” … are just other ways of telling you “keep browsing more, stay here!”. The problem isn't only being [hooked](#addiction "Addiction"), but also ending up living in a bubble, where the vast majority of the content is likeable to you or in line with your ideas, while other things are a remote, unimportant matter. Think about a political election you voted to in the last few years: if you get informed about politics through social media, you probably believed that your side, whatever it was, was gonna win, even if it didn't. This is the simplest example of living in a bubble: you perceive a distorted view of reality.
+
+### Further reading
+
+- [The Future of Privacy](https://philosophy247.org/podcasts/the-future-of-privacy/ "Philosophy 24/7 The Future of Privacy"), a <mark class="blue">podcast</mark> interview to [Carissa Véliz](https://carissaveliz.com "Carissa Véliz"), specifically speaking about “the bubble” at minute `4:00`
+- [more](/links#bubble "External links about “Bubble”")
 
 <br>
 <br>
@@ -81,6 +108,10 @@ Again: it's not that if someone isn't focused it's because of Social Media, but 
 
 Whether we want this or not, even by passively using Social Media, so by browsing around, whatcing videos and pictures or reading posts, we give Social Media platforms owners a huge amount of data about us and about what we like, for free. Such data, even if it's “deliberately” shared, are piled up day after day, month after month and year after year. The result is scary… what all of this information about us is used for? The answer is [user profilation](#profilation "Profilation").
 
+### Further reading
+
+- [How tech companies deceive you into giving up your data and privacy](https://www.ted.com/talks/finn_lutzow_holm_myrstad_how_tech_companies_deceive_you_into_giving_up_your_data_and_privacy "How tech companies deceive you into giving up your data and privacy"), a <mark class="red">TED Talk</mark> by [Finn Lützow-Holm Myrstad](https://www.ted.com/speakers/finn_myrstad "Finn Lützow-Holm Myrstad")
+
 <br>
 <br>
 
@@ -90,6 +121,11 @@ Probably this is one of the main reasons why people delete their social media ac
 
 It's not a secret: our identity is sold to addvertisers to show (or better, flood our feed) with ads “of our interest”. This may be even good if it was used solely for marketing purposes, but, unfortunately, it's not: we may be (and probably we are) targeted by political ads, which don't aim to sell us something, but their purpose is to condition our behavior and distort our view of the world, further enforcing the [bubble](#bubble "Bubble") we are uncounsciously trapped in.
 
+### Further reading
+
+- [The Cambridge Analytica Story, Explained](https://www.wired.com/amp-stories/cambridge-analytica-explainer/ "The Cambridge Analytica Story, Explained"), by [WIRED](https://wired.com)
+- [Facebook's role in Brexit — and the threat to democracy](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy "Facebook's role in Brexit — and the threat to democracy"), a <mark class="red">TED Talk</mark> by [Carole Cadwalladr](https://en.wikipedia.org/wiki/Carole_Cadwalladr "Carole Cadwalladr on Wikipedia")
+
 <br>
 <br>
 
@@ -98,6 +134,13 @@ It's not a secret: our identity is sold to addvertisers to show (or better, floo
 Is there any way to become an influencer, to promore a product, to share a political point of view, to condemn an injustice, to display a piece of art or to communicate anything to the public which doesn't involve Social Media? Regardless of Social Media being good or bad, the fact that being heard or noticed in this messy world is *only* through platforms owned by giant corporations which use our content to grow tremendously and endlessly, by earning an incredible amount of money is deeply unjust. Social Media corporations are monopolies which don't allow any competition to mess with them, by either buying competitors, or by being so much bigger that if a tiny slice of the market is stolen it doesn't change much.
 
 Facebook is now being sued in the US by the government and by several states, exactly with the accusation of unlawfully acquiring and avoiding competitors.
+
+### Further reading
+
+- [FTC Sues Facebook for Illegal Monopolization](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization "FTC Sues Facebook for Illegal Monopolization"), the press release in which the Federal Trade Commission announces to sue Facebook
+- [WIRED’s Guide to Net Neutrality](https://www.wired.com/story/guide-net-neutrality/ "WIRED’s Guide to Net Neutrality")
+- [Facebook's 'monopoly power' hurts user privacy, finds Congress](https://mashable.com/article/house-antitrust-report-facebook-privacy-misinformation/ "“Facebook's 'monopoly power' hurts user privacy, finds Congress” on Mashable"), an article on [Mashable](https://mashable.com "Mashable")
+- [more](/links#monopolization "More resources related to the Monopolization and Social Media")
 
 <br>
 <br>
@@ -248,3 +291,16 @@ It's impossible for us to change Social Media and stop being used by them, unles
 In our hand we have the power to say no, to stop the trend, to give back diversity, empathy, calm, peace, meaning, art, and authentic feelings to the world.
 
 It's not easy, and it's quite painful at the beginning, but you can do it, we can do it, if we're not alone.
+
+### Further reading
+
+- [<cite>Who does that server really serve?</cite>](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html "Who does that server really serve?"), by [Richard Stallman](https://richardstallman.org "Richard Stallman’s personal website") on [GNU.org](https://gnu.org "GNU official website")
+
+<br>
+<br>
+<br>
+
+## What to do now?
+
+Probably, it is about time.\
+[Delete](/delete "Delete your Social Media accounts") your Social Media accounts.

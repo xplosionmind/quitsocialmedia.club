@@ -28,3 +28,11 @@ By “Social Media”, we mean Facebook, Twitter, TikTok, YouTube, Snapchat and 
 So, which platforms should be abandoned and which ones not?
 
 The answer is not definite and clear, but it's easy to have an idea of how bad a networking platform is by confronting the [Why](/why) page with the Privacy Policy of the service you are interested in.
+
+<br>
+<br>
+
+## Further reading
+
+- [Social Media statistics](https://chrissniderdesign.com/blog/resources/social-media-statistics/ "Social Media statistics"): active users, revenue, data about the main Social Media platforms
+- [Facebook ads library](https://www.facebook.com/ads/library/ "Facebook ads Library"), look for ads and advertisers

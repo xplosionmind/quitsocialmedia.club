@@ -6,20 +6,21 @@ ref: sol
 toc: true
 layout: page
 redirect_from: ["/sol-it", "/it/sol", "/soluzione", "/it/solutions"]
-description: "Essere “social” senza “Social Media” sembra impossibile. Tuttavia, è veramente una nuova vita, straordinaria, piena di sorprese, scoperte, autenticità ed eccitazione, ma, soprattutto, <strong>libera</strong>. Esistono alcune favolose soluzioni talmente perfette che danno apparire i Social Media quasi inutili e stupidi."
+description: "Essere “social” senza “<i>Social Media</i>” sembra impossibile. Tuttavia, quella senza <em>Social Media</em> una nuova vita, straordinaria, piena di sorprese, scoperte, autenticità ed eccitazione, ma, soprattutto, <strong>libera</strong>. Esistono alcune favolose soluzioni talmente perfette che danno apparire i <i>Social Media</i> quasi inutili e stupidi."
+tags: l10n
 ---
 ## Brevemente
 
 In sintesi: dopo aver abbandonato i *Social Media*, non diventerai un misantropo che vive nella foresta ed è isolato dal resto del mondo. Tutt'altro: abbandonare i *Social Media* non significa abbandonare il web per sempre, ma sfruttare <u>i suoi reali valori di indipendenza e apertura</u> in maniera diversa. Potrebbe essere difficile crederci, ma esistono **molti** grandiosi e semplici strumenti che possono facilmente rimpiazzare i *Social Media*.
 
-Il concetto fondamentale è: per essere aggiornato e seguire l'attività di persone ed enti, puoi iscriverti al [feed RSS ](#rss-feed) del loro sito web, con [qualche passo in più](#usare-i-social-senza-essere-sui-social), puoi generare un feed RSS anche per canali YouTube, pagine Facebook, profili Instagram e Twitter… <u><strong>qualunque cosa</strong> si trovi su internet</u>. even to Social Media pages and profiles, YouTube channels… anything. To publish content, instead, the best way is to [**create your own website**](#website), start a newsletter, or consider [healthier Social Media platforms](#alternatives).
+Il concetto fondamentale è: per essere aggiornato e seguire l'attività di persone ed enti, è possibile iscriversi al [feed RSS ](#rss-feed) del loro sito web, con [qualche passo in più](#usare-i-social-senza-essere-sui-social), si può addirittura generare un feed RSS anche per canali YouTube, pagine Facebook, profili Instagram e Twitter… <u>per <strong>qualunque cosa</strong> si trovi su internet</u>. Per pubblicare contenuti propri, invece, è molto semplice [**creare il proprio sito web**](#sito-web), esordire con una newsletter, o considerare [piattaforme alternative più sane](#alternative)
 
 <br>
 <br>
 
 ## RSS feed
 
-Potresti on avere idea di [cosa sia un feed RSS feed](https://it.wikipedia.org/wiki/RSS "“RSS” su Wikipedia"), o potresti averne sentito parlare come di qualcosa di vecchio e obsoleto. Tuttavia, è uno strumento semplicissimo che preserva l'anonimato, non è posseduto da nessuno e non necessita di alcun server dedicato per funzionare. Non è governato da algoritmi e nessuno può sapere chi segui, cosa leggi, ascolti o credi, tantomeno è possibile utilizzare dati per [fini commerciali](/perché#profilazione), dato che non vengono raccolte informazioni su di te (nella maggior parte dei casi).
+Potresti on avere idea di [cosa sia un feed RSS feed](https://it.wikipedia.org/wiki/RSS "“RSS” su Wikipedia"), o potresti averne sentito parlare come di qualcosa di vecchio e obsoleto. Tuttavia, è uno strumento semplicissimo che preserva l'anonimato, non è posseduto da nessuno e non necessita di alcun server dedicato per funzionare. Non è governato da algoritmi e nessuno può sapere chi segui, cosa leggi, ascolti o credi, tantomeno è possibile utilizzare dati per [fini commerciali](/perché#profilazione "Profilazione"), dato che non vengono raccolte informazioni su di te (nella maggior parte dei casi).
 
 Alcuni dicono che i feed RSS sono morti, uccisi dai *Social Media*. In realtà, sono imperituri, e sono tuttora **ovunque** sul web. Per fare un esempio, tutti i podcast del mondo sfruttano i feed RSS per apparire su diverse piattaforme e per essere condivisi e riprodotti.
 
@@ -37,24 +38,24 @@ Utilizzare RSS è molto semplice. Come sottolineato nelle [info](/info "Informaz
 
 Dopo un po', è facile finire per essere piuttosto malinconici e rendersi conto che i *Social Media*, utilizzati da quasi ogni persona si conosca, sono l'unico modo per mantenere contatti con amici lontani ed essere aggiornati su cosa succede nelle vite di coloro a cui si vuole bene. È comprensibile, anche se l'ideale sarebbe che tutti si convertissero e abbandonassero i *Social*. Tuttavia, se non si avessero alternative, anche in questo caso, esiste uno strumento favoloso per <u>convertire in feed RSS le timeline dei social network</u>.
 
-Gli strumenti esistendi sono più di uno, ma il più celebre è [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge "RSS-Bridge si GitHub").
+Gli strumenti esistenti sono più di uno, il più celebre di questi è [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge "RSS-Bridge si GitHub").
 
-È possibile <u>utilizzare gratuitamente quello ospitato sul mio server</u>, visitando <https://rss-bridge.tommi.space>. (mantenere un server non costa poco. Sono felice di offrire il mio RSS-Bridge, ma se ne faceste un utilizzo intensivo apprezzerei [un piccolo contributo](https://it.liberapay.com/tommi/donate "Dona a Tommi su Liberapay"))
+È possibile <u>utilizzare gratuitamente <a href="https://rss-bridge.tommi.space" rel="noopener noreferrer" target="_blank" title="RSS-Bridge di Tommi">quello ospitato sul mio server</a></u>.\
+(mantenere un server non costa poco: sono felice di offrire il mio RSS-Bridge, ma se ne faceste un utilizzo intensivo apprezzerei [un piccolo contributo](https://it.liberapay.com/tommi/donate "Dona a Tommi su Liberapay"))
 
 <br>
 <br>
 
 ## Alternative
 
-Ho già trattato [le ragioni](/perché "Perché") per cui i *Social Media* così come noi li conosciamo siano preoccupantemente dannosi. Peraltro, esistono innumerevoli piattaforme che risolvono molti, se non tutti, i più importanti problema dei grandi e antipatici *Social*. Le caratteristiche distintive di tali piattaforme è che <u>non contengono pubblicità</u>, di nessun tipo, i dati personali raccolti sono il minimo indispensabile e <u>non vengono sfruttati per profilare gli utenti</u>, ma, soprttutto, sono liberi, aperti e indipendenti, anche se tutti connessi fra loro. Ogni piattaforma ha le proprie regole.
+Ho già trattato [le ragioni](/perché "Perché") per cui i *Social Media* così come noi li conosciamo siano preoccupantemente dannosi. Peraltro, esistono innumerevoli piattaforme che ne risolvono molti, se non tutti, i più importanti problemi. Le caratteristiche distintive di tali piattaforme sono <u>la totale assenza di pubblicità</u>, la minima raccolta di dati personali, <u>non sfruttati per profilare gli utenti</u>, ma, soprttutto, <u>sono liberi, aperti e indipendenti</u>.
 
-Queste piattaforme non sono solo gratis da utilizzare, ma anche liberamente replicabili e facilmente connesse fra loro. 
-All of these platforms are free not only to subscribe to, but also to actually use! Anyone could take the code and install it on her/his own server. Imagine having a whole Facebook, completely owned by you. How cool would it be?
+Questi *Social Network* alternativi non sono solo gratis da utilizzare, ma anche liberamente replicabili: chiunque può [installarli sul proprio server](#crea-il-tuo) e facilmente connesse fra loro. Immagina di avere il tuo proprio Facebook. Quanto sarebbe favoloso?
 
-- [Mastodon](https://joinmastodon.org "Join Mastodon") is the most famous one. Think of it as a healthier version of Twitter.
-- [Pixelfed](https://pixelfed.org "Pixelfed official website") is almost identical to Instagram. It has stories, too!
+- [Mastodon](https://joinmastodon.org "Mastodon"), con più di **quattro milioni di utenti** in tutto il mondo, è di gran lunga la piattaforma più diffusa e conosciuta; il suo funzionamento e la sua struttura sono molto simili a quelli di Twitter.
+- [Pixelfed](https://pixelfed.org "Pixelfed") is almost identical to Instagram. It has stories, too!
 - [Friendica](https://friendi.ca "Friendica official website") it something like Facebook.
-- [PeerTube](https://joinpeertube.org "PeerTube") is a great paltform built by the French Framasoft. As the name suggests, it's like YouTube, but it relies on peer-to-peer video sharing to avoid stressing the servers which host the existing instances.
+- [PeerTube](https://joinpeertube.org "PeerTube official website") is a great paltform built by the French Framasoft. As the name suggests, it's like YouTube, but it relies on peer-to-peer video sharing to avoid stressing the servers which host the existing instances.
 
 The most awesome thing is that all of these platforms are connected among each other: I can follof from my mastodon account someone on PixelFed, as well as a PeerTube channel. This is possible because these healthier alternative Social Media platforms are based on the same protocol, [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub "ActivityPub on Wikipedia"). Thanks to this federation, all of these platforms can interact with each other and together they composed what is wonderfully called the [*Fediverse*](https://www.wikiwand.com/en/Fediverse "Fediverse on Wikipedia") (which stands for *Federated (Social Media) Universe*)
 

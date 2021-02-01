@@ -5,7 +5,7 @@ lang: en
 permalink: /about
 redirect_from: ["/who", "/purpose"]
 layout: page
-description: "What quitsocialmedia.club is, how it's born and what its purposes are"
+description: "What <cite>quitsocialmedia.club</cite> is, how it's born and what its purposes are"
 ---
 Hi, I'm Tommi, and I created this website. Let's skip the part [about me](https://tommi.space/about "About - tommi.space"), you can read it [on my website](https://tommi.space/ "tommi.space, Tommi's personal website").
 
@@ -42,8 +42,6 @@ Quitting Social Media might be a great start.
 
 <br />
 
-## Notes
+## Something is missing?
 
-- I chose the `.club` domain because it was among the cheapest and, in the end, it makes sense.
-- I want to point out I have absolutely **no personal gain** in creating this website and in spamming it everywhere. On the contrary, I invested so much time in writhing these words and building this virtual place (I’m not a developer) that I became very tired and stressed and I came close to giving up (few months ago, I was so sleepy that by mistake I deleted the working directory of this website, irremediably losing months of hard work). If you appreciate what I did, please [consider contributing](/contribute "Contribute")
-- I don’t expect for this website to become viral, but, deep inside me, I strongly hope so. Please help me by [sharing this](/share "Share")!
+If you have some questions or doubts which this page could not answer, please check the [Objections and Replies](/faq "Objections and Replies") (<abbr title="Also Known As">a.k.a.</abbr> <abbr title="Frequently Asked Questions">FAQ</abbr>).

@@ -14,7 +14,7 @@ permalink: /home
 	<div class="red box row">
 		<h2 class="title">WTF is this website?</h2>
 		<p>
-			<b>Short answer</b>: a place where all the reasons why social media are harmful are listed and several resources to deepen knowledge on the topic are provided.
+			<b>Short answer</b>: a place where all the reasons why social media are harmful are listed and several resources to deepen knowledge on the topic are provided, together with valid solutions and alternatives.
 			<br />
 			<b>Long answer</b>: read the <a href="/about">About page</a>
 		</p>
@@ -63,7 +63,7 @@ permalink: /home
 		<ul>
 			{% for p in site.pages %}
 				{% if p.lang == page.lang %}
-     				{% unless p.url contains '.json' or p.url contains '.csv' or p.url contains '.css' or p.url contains '.txt' or p.title contains '404' or p.url contains '.xml' or p.title == nil or p.title == 'Home' %}
+					{% unless p.url contains '.json' or p.url contains '.csv' or p.url contains '.css' or p.url contains '.txt' or p.title contains '404' or p.url contains '.xml' or p.title == nil or p.title == 'Home' %}
 						<li><a href="{{ p.url }}" title="{{ p.title }}">{{ p.title }}</a> - {{ p.description }}</li>
 					{% endunless %}
 				{% endif %}

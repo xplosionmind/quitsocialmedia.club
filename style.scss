@@ -4,10 +4,53 @@
 @import "../_sass/search";
 @import "../_sass/highlight";
 @import "../_sass/nav";
-@import "../_sass/root";
 @import "{{ site.fonts }}/inter/inter.css";
 @import "{{ site.fonts }}/ubuntu-mono/ubuntu-mono.css";
 @import "{{ site.fonts }}/eb-garamond/eb-garamond.css";
+
+:root {
+	--black-ish: #222;
+	--white-ish: #F1FAEE;
+	--dark-grey: #555;
+	--light-grey: #AAA;
+	--yellow: #FCC920;
+	--dark-yellow: #D0A00E;
+	--light-blue: #A8DADC;
+	--blue: #1D3557;
+	--red: #E63946;
+	--green: #20CE88;
+	--razzmatazz: #EC0868;
+	--purple: #884EE1;
+	--dark: #533066;
+	
+	color-scheme: dark light;
+
+	--yellow-gradient: linear-gradient(145deg, #DAAE1B, #FFD23E);
+	--blue-gradient: linear-gradient(145deg, #4c96ff, #226dd7);
+
+	--tiny: .2rem;
+	--tinyem: .2em;
+	--small: .5rem;
+	--smallem: .5em;
+	--regular-less: .9rem;
+	--regular: 1.1rem;
+	--regular-em: 1.1em;
+	--regular-more: 1.3rem;
+	--regular-more-em: 1.3em;
+	--big: 1.6rem;
+	--bigger: 1.8rem;
+	--twice: 2.2rem;
+	--height: 3.1rem;
+	--mastodon: 4.4rem;
+	--margin: 6.5rem;
+	--trans: .5s;
+	--quicktrans: .2s;
+	--radius-s: 5px;
+	--radius-m: .6rem;
+	--radius-l: 1rem;
+
+	--title-text-shadow-hover: none;
+}
 
 html {
 	box-sizing: border-box;
@@ -102,6 +145,8 @@ mark {
 	background: var(--primary);
 	color: var(--background);
 	font-weight: 500;
+	padding: 0 4px;
+	border-radius: var(--radius-s)
 }
 
 ::selection {
@@ -109,8 +154,14 @@ mark {
 	background: var(--primary);
 }
 
-.top {
-	right: 3%;
+.top,
+.bottom {
+	right: 3vw;
+}
+
+.bottom {
+	transform: rotate(.5turn);
+	box-shadow: none !important;
 }
 
 .theme-toggle {
@@ -177,9 +228,11 @@ article li,
 				content: "💻 ";
 			}
 		}
+		&[href*="link" i],
 		&[href*="resources" i] {
 			&::before {
 				content: "📚 ";
+				/* content: "🔗 "; */
 			}
 		}
 		&[href*="/path" i],
@@ -248,6 +301,12 @@ article li,
 		&[href="/condividi" i] {
 			&::before {
 				content: "📢 ";
+			}
+		}
+		&[href^="/ob" i],
+		&[href*="/faq" i] {
+			&::before {
+				content: "🤔 ";
 			}
 		}
 	}
@@ -365,10 +424,6 @@ hr {
 			}
 		}
 	}
-}
-
-.anchor {
-	height: var(--regular-more);
 }
 
 pre,
@@ -572,11 +627,11 @@ h1, h2, h3, h4, h5, h6 {
 	text-transform: uppercase;
 	&:hover {
 		.anchor {
-			display: inline-block;
+			opacity: 1;
 		}
 	}
 	.anchor {
-		display: none;
+		opacity: 0;
 	}
 }
 
@@ -696,6 +751,12 @@ footer {
 	}
 	.stuff-logo {
 		margin-top: var(--bigger)
+	}
+	.column > .row {
+		& > p,
+		& > ul > li {
+			margin: var(--regular) 10%;
+		}
 	}
 }
 
