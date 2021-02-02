@@ -44,6 +44,19 @@ Gli strumenti esistenti sono più di uno, il più celebre di questi è [RSS-Brid
 (mantenere un server non costa poco: sono felice di offrire il mio RSS-Bridge, ma se ne faceste un utilizzo intensivo apprezzerei [un piccolo contributo](https://it.liberapay.com/tommi/donate "Dona a Tommi su Liberapay"))
 
 <br>
+
+## Proxy
+
+Nella maggior parte dei casi, se non ti interessa seguire un account e non perdere nessun suo post, puoi utilizzare dei siti che ti permettono di vedere i principali *Social Media* senza dover accedere o utilizzare l’interfaccia originale, che solitamente traccia gli utenti.
+
+- [Nitter](https://nitter.net "Nitter") è un proxy di Twitter, che ti permette anche di iscriversi ai Fedd RSS dei singoli profili
+- [Bibliogram](https://bibliogram "Bibliogram"), un proxy di Instagram
+- [Teddit](https://teddit.net/ "Teddit"), a un proxy di Reddit
+- [Invidious](https://invidio.us "Invidious"), un proxy di YouTube (nota: la principale istanza di Invidious ha chiuso qualche mese fa. Dalla pagina precedentemente linkata si possono raggiungere altre istanze, quella che io uso è <https://yewtu.be>)
+
+[Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect "Privacy Redirect") è una favolosa estensione per la maggiorparte dei browser che trasforma automaticamente link dei Social supportati in link ai relativi proxy. Ad esempio, se io volessi visitare <https://twitter.com/xplosionmind>, l'estensione automaticamente mi reindirizzerebbe a <https://nitter.net/xplosionmind>.
+
+<br>
 <br>
 
 ## Alternative

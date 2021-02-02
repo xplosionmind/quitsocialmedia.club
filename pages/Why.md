@@ -6,6 +6,9 @@ ref: why
 toc: true
 layout: page
 description: "The heart of the matter: all of the reasons why we should quit Social Media"
+todo:
+  - "Scientifically proven link"
+  - "Convert “Further reading” to ?"
 ---
 ## Introduction
 
@@ -22,6 +25,7 @@ Among the arguments presented below, you might not believe in one or two or them
 
 ### Further reading
 
+- [Digital Discrimination: How Systemic Bias Is Built Into the Internet](https://thereboot.com/digital-discrimination-how-systemic-bias-is-built-into-the-internet/ "Digital Discrimination: How Systemic Bias Is Built Into the Internet") by Sanjana Varghese on [The Reboot](https://thereboot.com/ "The Reboot")
 - [more](/links#anger "More resources about anger and Social Media")
 
 <br>
@@ -63,6 +67,7 @@ This is one of the key points of 2020, and of the last months in general: Social
 ### Further reading
 
 - [Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech.](https://www.eff.org/deeplinks/2020/11/dont-blame-section-230-big-techs-failures-blame-big-tech "Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech. - EFF") by Elliot Harmon on [EFF](https://eff.org "EFF official website")
+- [Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies](https://thereboot.com/control-stifle-censor-social-media-toxic-double-edged-policies/ "Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies") by Jillian C. York on [The Reboot](https://thereboot.com/ "The Reboot")
 - [more](/links#misinformation "More resources about misinformation and Social Media")
 
 <br>
@@ -74,6 +79,7 @@ Since algorithms which govern Social Media aim to keep users hooked to their pla
 
 ### Further reading
 
+- [The Obsession With Big Tech Is Distorting the Big Picture](https://thereboot.com/the-obsession-with-big-tech-is-distorting-the-big-picture/ "The Obsession With Big Tech Is Distorting the Big Picture") by Karl Bode on [The Reboot](https://thereboot.com/ "The Reboot")
 - [The Future of Privacy](https://philosophy247.org/podcasts/the-future-of-privacy/ "Philosophy 24/7 The Future of Privacy"), a <mark class="blue">podcast</mark> interview to [Carissa Véliz](https://carissaveliz.com "Carissa Véliz"), specifically speaking about “the bubble” at minute `4:00`
 - [more](/links#bubble "External links about “Bubble”")
 
@@ -125,6 +131,7 @@ It's not a secret: our identity is sold to addvertisers to show (or better, floo
 
 - [The Cambridge Analytica Story, Explained](https://www.wired.com/amp-stories/cambridge-analytica-explainer/ "The Cambridge Analytica Story, Explained"), by [WIRED](https://wired.com)
 - [Facebook's role in Brexit — and the threat to democracy](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy "Facebook's role in Brexit — and the threat to democracy"), a <mark class="red">TED Talk</mark> by [Carole Cadwalladr](https://en.wikipedia.org/wiki/Carole_Cadwalladr "Carole Cadwalladr on Wikipedia")
+- [How Surveillance Advertising Seized Our Data and Hijacked the Web](https://thereboot.com/how-surveillance-advertising-seized-our-data-and-hijacked-the-web/ "How Surveillance Advertising Seized Our Data and Hijacked the Web") by Matthew Crain on [The Reboot](https://thereboot.com/ "The Reboot")
 
 <br>
 <br>
@@ -137,6 +144,7 @@ Facebook is now being sued in the US by the government and by several states, ex
 
 ### Further reading
 
+- [Monopoly Machine: Understanding the System That Shapes the Internet](https://thereboot.com/monopoly-machine-understanding-the-system-that-shapes-the-internet/ "Monopoly Machine: Understanding the System That Shapes the Internet"), an article by Emma Johanningsmeier on [The Reboot](https://thereboot.com/ "The Reboot")
 - [FTC Sues Facebook for Illegal Monopolization](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization "FTC Sues Facebook for Illegal Monopolization"), the press release in which the Federal Trade Commission announces to sue Facebook
 - [WIRED’s Guide to Net Neutrality](https://www.wired.com/story/guide-net-neutrality/ "WIRED’s Guide to Net Neutrality")
 - [Facebook's 'monopoly power' hurts user privacy, finds Congress](https://mashable.com/article/house-antitrust-report-facebook-privacy-misinformation/ "“Facebook's 'monopoly power' hurts user privacy, finds Congress” on Mashable"), an article on [Mashable](https://mashable.com "Mashable")
@@ -265,6 +273,11 @@ A personal note: not dumb people aknowledge that the greatest and most worrying 
 Let's imagine I am an influencer and I want to move to another social networking platform (it may be Mastodon, Pixelfed, Friendica, Diaspora…), which is very little known and much less used, if compared to Social Media giantes everybody knows. How can I do it? Outside of my social media profiles, unless I have a great fanbase, I'd have no followers, no audience, no tool outside of the great Social Media platforms I used up to now. The only way I can continue to do my job is by building a new fanbase from scratch.
 
 This is a little mind experiment (and probably even not the most effective one) to give you an idea of how closed Social Media are. These platforms don't interact among each other, instead, they compete. If all of a sudden for some reason Twitter shuts down, there is no way to go on using Twitter anymore. Social Media as we know them are limited to and by the ones who own them, and it is as a world without them does not exist. We can prove the contrary.
+
+### Further Reading
+
+- [Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems](https://thereboot.com/data-liberation-a-step-toward-fixing-big-techs-competition-problems/ "Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems") by Gabriel Nicholas on [The Reboot](https://thereboot.com "The Reboot")
+- [Breaking Tech Open: Why Social Platforms Should Work More Like Email](https://thereboot.com/breaking-tech-open-why-social-platforms-should-work-more-like-email/ "Breaking Tech Open: Why Social Platforms Should Work More Like Email"), by Karissa McKelvey on [The Reboot](https://thereboot.com "The Reboot")
 
 <br>
 <br>

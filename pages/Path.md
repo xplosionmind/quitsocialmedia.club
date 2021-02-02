@@ -6,10 +6,8 @@ description: "Too much information got you disoriented? This is the path to foll
 layout: page
 anchor: false
 ---
-<p>
-	You should not rush it (and very likely you don't even want to): don't delete any account straight away.<br />
-	Before you get there, <em>if</em> you do, there's an awareness path to follow.
-</p>
+You should not rush it (and very likely you don't even want to): don't delete any account straight away.\
+Before you get there, *if* you do, there's an awareness path to follow.
 
 <div class="red box">
 	Since you can take action at different levels, actions which get you closer to <a href="https://tommi.space/internet-freedom" target="_blank" title="“Internet Freedom” in Tommi's notes">Internet Freedom</a> are gameified and displayed as levels, from <a href="/l00">Level 0</a> to <a href="l1000">Level 1000</a>.
@@ -17,8 +15,12 @@ anchor: false
 
 <br>
 
+- **Level 0**: Find out more [about](/about "About quitsocialmedia.club") this website and [its purpose](/about#purpose "Purpose - quitsocialmedia.club")
+- **Level 1**: understand [why](/why "Why") you should quit Social Media
+- **Level 2**: find out resources 
+- **Level 3**: try **Taking control** by first taking some [intermediate steps](https://www.humanetech.com/take-control "Take Control - Humane Center of Technology")
+
 <ul>
-	<li><strong>Level 0</strong>: <a href="/about" title="About quitsocialmedia.club">about</a> this website and <strong>its <a href="/about#purpose" "Purpose - quitsocialmedia.club">purpose</a></strong></li>
 	{% for level in site.pages %}
 		{% if level.level != nil and level.lang == page.lang %}
 			<li><strong>Level {{ level.level }}</strong>: <a href="{{ level.url }}" target="_blank" title="Level {{ level.level}}: {{ level.title }}">{{ level.title }}</a> - {{ level.description }}</li>

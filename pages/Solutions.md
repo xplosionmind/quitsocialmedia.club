@@ -42,6 +42,19 @@ Tools like that are actually more than one, but the most famous and developed on
 You are welcome to test and use the RSS-Bridge instance I host on my server by visiting <https://rss-bridge.tommi.space>. (mantaining and renting a server is no cheap matter. I am happy of offering my RSS-Bridge, nonetheless, if you started using it a lot, [a symbolic contribution](https://it.liberapay.com/tommi/donate "Dona a Tommi su Liberapay") would really help me).
 
 <br>
+
+### Proxies
+
+Most of the time, if you do not need to follow someone or something and you do not care about missing about her/his/its posts, you can use websites which allow you to view the main Social Media from a different interface, without needing to log in nor to be tracked by the original websites’ cookies.
+
+- [Nitter](https://nitter.net "Nitter") is a Twitter proxy which allows to suubscribe to profiles’ RSS feeds, too
+- [Bibliogram](https://bibliogram "Bibliogram"), an Instagram proxy
+- [Teddit](https://teddit.net/ "Teddit"), a Reddit proxy
+- [Invidious](https://invidio.us "Invidious"), a YouTube proxy (note: the main Invidious instance shut down few months ago. From the homepage linked before, you can choose other instances, I use <https://yewtu.be>)
+
+[Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect "Privacy Redirect") is a very cool extension which automatically converts links containing the original URLs of the services to their correspondent proxy websites. For example, if I wanted to go to <https://twitter.com/xplosionmind>, I’d be redirected to <https://nitter.net/xplosionmind>.
+
+<br>
 <br>
 
 ## Alternatives
@@ -60,6 +73,7 @@ The most awesome thing is that all of these platforms are connected among each o
 
 ### Further reading
 
+- [Creating Decentralized Social Media Alternatives to Facebook and Twitter](https://thereboot.com/creating-decentralized-social-media-alternatives-to-facebook-and-twitter/ "Creating Decentralized Social Media Alternatives to Facebook and Twitter") by Robert W. Gehl on [The Reboot](https://thereboot.com/ "The Reboot")
 - [Redecentralize blog](https://redecentralize.org/blog "Redecentralize’s blog"), an independent, volunteer-driven organisation promoting the decentralisation of our digital technology.
 - [Internet of People](https://iop.global "Internet of People")
 

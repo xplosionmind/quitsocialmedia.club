@@ -2,7 +2,7 @@
 title: Objections and replies
 ref: faq
 permalink: /faq
-redirect_from: ["/wtf", "/frequently-asked-questions", "/replies-and-objections"]
+redirect_from: ["/wtf", "/frequently-asked-questions", "/replies-and-objections", "/objections-replies", "/objections-and-replies", "/replies-objections"]
 layout: page
 description: "As most of writers do, I sent an early preview of this website to friends and people I admire to share their impressions. In a philosopher-like style, I address some of their objections and questions in this page."
 toc: true
@@ -12,7 +12,8 @@ toc: true
 ##### *It's incoherent: <u>you are sharing <cite><a href="/">quitsocialmedia.club</a></cite> <b>on</b> Social Media</u>. If you promote the idea of abandoning social media and you use them to share your perspective, you go against the very idea of quitting them!*
 
 Not quite so. Think about this: if I love the strawberry flavour of the ice cream, I won't speak about how much strawberries are delicious with a friend who is eating a strawberry ice cream, I'll try to make my friend who is eating a chocolate ice cream taste a spoon of my strawberry one. Similarly, it makes no sense to quit Social Media and share this choice *off* Social Media: people who may quit are the ones who didn't quit yet, and, guess what, they can be reached by social media exclusively, since there is no other valid alternative.   
-This apparently incoherent decision conceals in itself one of the very reasons of quitting: you have no way (or if you do, it's very unlikely) of being noticed or reaching some audience unless it's done through those platforms.
+This apparently incoherent decision conceals in itself one of the very reasons of quitting: you have no way (or if you do, it's very unlikely) of being noticed or reaching some audience unless it's done through those platforms.   
+The authors of <cite><a href="https://thesocialdilemma.com" rel="noopener noreferrer" target="_blank" title="The Social Dilemma">The Social Dilemma</a></cite> created official Social Media accounts of the movie, [giving a similar explanation](https://www.thesocialdilemma.com/code-of-ethics/ "The Social Dilemma’s Code of Ethics").
 
 ##### *If you quit social media, you should quit **all*** Social Media. *Why do you consider only the big platforms?*
 

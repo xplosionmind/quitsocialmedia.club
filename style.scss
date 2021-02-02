@@ -258,7 +258,8 @@ article li,
 				content: "📖 ";
 			}
 		}
-		&[href*="/solution" i] {
+		&[href*="/solution" i],
+		&[href*="/soluz" i] {
 			&::before {
 				content: "💡 ";
 			}
@@ -269,9 +270,16 @@ article li,
 				content: "⏰ ";
 			}
 		}
-		&[href*="/watch" i] {
+		&[href*="/watch" i],
+		&[href*="/guarda" i] {
 			&::before {
 				content: "🍿 ";
+			}
+		}
+		&[href*="/listen" i],
+		&[href*="/ascolta" i] {
+			&::before {
+				content: "🎧 ";
 			}
 		}
 		&[href="/delete" i],
@@ -307,6 +315,12 @@ article li,
 		&[href*="/faq" i] {
 			&::before {
 				content: "🤔 ";
+			}
+		}
+		&[href="/ma" i],
+		&[href="/but" i] {
+			&::before {
+				content: "🤨 ";
 			}
 		}
 	}
@@ -816,13 +830,6 @@ button,
 	.button {
 		margin-right: var(--small);
 		padding: .4rem;
-	}
-}
-
-.listen-on {
-	background: var(--deep);
-	.button {
-		margin-right: .5rem;
 	}
 }
 

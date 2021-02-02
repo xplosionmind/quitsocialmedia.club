@@ -8,7 +8,7 @@ layout: page
 ---
 There are several ways to contribute to this website, and any of it is very much appreciated.
 
-- [**Spread the word**](/share "Share")
+- **Spread the word**: chat with friends and colleagues about what is written in these pages, especially in [why](/why "Why"), pose yourself questions about the topic and form your point of view on the matter
 - [**Translate**](/l10n "Localization page") the website's content
 - **Add knowledge**: suggest videos, talks, researches, articles, etc.
 - **Improve content**: fix typos, suggest better ways to explain things, report incorrect data or unreliable sources
