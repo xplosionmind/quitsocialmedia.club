@@ -12,7 +12,7 @@
 			<li>{% if page.lang == 'it' %}<a href="/soluzioni" title="Soluzioni">Soluzioni{% else %}<a href="/solutions" title="Solutions and alternatives">Solutions{% endif %}</a></li>
 			<li><a href="{% if page.lang == 'it' %}/domande{% else %}/faq{% endif %}" title="Objections and Replies">FAQ</a></li>
 			{% unless page.ref == nil %}
-			<li id="language-selector" class="dropdown"><a onclick="langdropdown()" href="#!" title="language selector">&ensp;🌏</a>
+			<li id="language-selector" class="dropdown"><a onclick="langdropdown()" href="javascript:void(0);" title="language selector">&ensp;🌏</a>
 				<ul class="dropdown-content">
 					{% for cosa in site.pages %}
 					{% if cosa.ref == page.ref %}

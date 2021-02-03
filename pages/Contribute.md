@@ -12,4 +12,6 @@ There are several ways to contribute to this website, and any of it is very much
 - [**Translate**](/l10n "Localization page") the website's content
 - **Add knowledge**: suggest videos, talks, researches, articles, etc.
 - **Improve content**: fix typos, suggest better ways to explain things, report incorrect data or unreliable sources
-- [Tommi](https://tommi.space "Tommi's personal website") is a student, he has no income and nevertheless he spent months [studying](/why "Why") the topic, developing the idea, building this website, and curating its content. You might consider **[making a donation](https://liberapay.com/tommi/donate "Make a donation through Liberapay")** for the time he devoted to quitsocialmedia.club.
+<!--{% comment %}- [Tommi](https://tommi.space "Tommi's personal website") is a student, he has no income and nevertheless he spent months [studying](/why "Why") the topic, developing the idea, building this website, and curating its content. You might consider **[making a donation](https://liberapay.com/tommi/donate "Make a donation through Liberapay")** for the time he devoted to quitsocialmedia.club.{% endcomment %}-->
+
+The last two points can be achieved by forking this website’s [repository](https://github.com/xplosionmind/quitsocialmedia.club/ "quitsocialmedia.club source code on GitHub") and opening a pull request, or by [opening an issue](https://github.com/xplosionmind/quitsocialmedia.club/issues "quitsocialmedia.club repository issues on GitHub") on GitHub.

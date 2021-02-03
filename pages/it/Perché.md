@@ -7,7 +7,7 @@ lang: it
 ref: why
 toc: true
 layout: page
-description: "Perché abbandonare i *Social Media*?"
+description: "Perché abbandonare i <i>Social Media</i>?"
 ---
 Non ho ancora trovato un luogo su internet in cui siano riportate e riassunte *tutte* le diverse ragioni per cui i Social Media sono pericolosi e dannosi. È facile non fidarsi e non credere ad alcuni di questi, oppure perfino la maggioranza non saranno sufficienti per convincere chi leggerà.   
 Tuttavia, dopo aver analizzato ogni singola spiegazione, <u>è difficile negare che ci sia qualcosa che non va</u> e che sia necessario agire.   
@@ -25,6 +25,7 @@ Maggiore è la rabbia, maggiore è l'interazione, meglio è.
 ### Maggiori informazioni
 
 - [Digital Discrimination: How Systemic Bias Is Built Into the Internet](https://thereboot.com/digital-discrimination-how-systemic-bias-is-built-into-the-internet/ "Digital Discrimination: How Systemic Bias Is Built Into the Internet") un articolo di Sanjana Varghese su [The Reboot](https://thereboot.com/ "The Reboot")
+- [Facebook Will Permanently Stop Promoting Political Groups](https://www.forbes.com/sites/rachelsandler/2021/01/27/facebook-will-permanently-stop-promoting-political-groups/ "Facebook Will Permanently Stop Promoting Political Groups"), un articolo di [Rachel Sandler](https://www.forbes.com/sites/rachelsandler/ "Rachel Sandler’s articles") su [Forbes](https://forbes.com "Forbes"), un sintomo del fatto che le raccomandazioni su Facebook sono più dannose per la società che utili per gli utenti
 - [more](/links#anger "More resources about anger and Social Media")
 
 <br>
@@ -53,6 +54,7 @@ I *Social Media* non fanno molto per favorire un modo più pacifico di esprimere
 
 ### Maggiori informazioni
 
+- [How Facebook profits from polarization](https://ted.com/talks/yael_eisenstat_how_facebook_profits_from_polarization "How Facebook profits from polarization"), un <mark class="red">TED Talk</mark> di [Yael Eisenstat](https://en.wikipedia.org/wiki/Yael_Eisenstat "Yael Eisenstat on Wikipedia")
 - <cite><a href="https://thesocialdilemma.com" rel="noopener noreferrer" target="_blank" title="The Social Dilemma">The Social Dilemma</a></cite>, a <mark class="red">documentario</mark> di [Jeff Orlowski](https://it.wikipedia.org/wiki/Jeff_Orlowski "Jeff Orlowski")
 - [altri contenuti](/links#polarization "More resources on Polarization and Social Media")
 
@@ -167,7 +169,13 @@ Facebook è stato denunciato ed è ora sotto processo da parte del governo statu
 
 ## Socialità
 
-+++ tradurre! [sociality](/why#sociality)
+Alla fine, i cosiddetti “social” media, non sono poi così tanto *social*. A pensarci bene, sono sempre più incentrati su tutto eccetto che la socialità. Siamo bombardati da annunci, suggerimenti di nuove funzionalità, [contanuti di basso livello](#qualità), e si perdono di vista i valori fondamentali su cui tali piattaforme dovrebbero basarsi, che dovrebbero essere il centro di tutto: **le relazioni umane**.
+
+Perché non possiamo socializzare, scambiare idee, confrontarci con amici e conoscenti senza dover accettare il compromesso di abbuffarci di contenuti che in realtà non ci interessano, oppure senza regalare un sacco di soldi a coloro che possiedono queste piattaforme?
+
+### Maggiori informazioni
+
+- [Do virtual social networks destroy the social fabric?](https://medium.com/swlh/do-virtual-social-networks-destroy-the-social-fabric-b1e96de514db "Do virtual social networks destroy the social fabric?") un articolo di Jürgen Derlath
 
 <br>
 <br>

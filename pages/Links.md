@@ -14,8 +14,10 @@ toc: true
 ## General
 
 - Check out the [**Center for Humane Technology**’s website](https://www.humanetech.com "Center for Humane Technology") and its podcast, <cite><a href="https://www.humanetech.com/podcast" rel="noopener noreferrer" target="_blank" title="Your Undivided Attention">Your Undivided Attention</a></cite>.
+- [Delete Facebook](https://deletefacebook.com "DeleteFacebook.com") is the main website you want to refer to. Keep in mind that both Instagram and WhatsApp are owned by Facebook.
+- [quitfacebook.org](https://quitfacebook.org "Quit Facebook"), a website which is something like this page: a list of links to resources
 
-Go back to the [homepage](/ "Home")
+Go back to the [homepage](/home "Home")
 
 <br>
 

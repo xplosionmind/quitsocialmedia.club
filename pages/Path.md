@@ -5,6 +5,7 @@ ref: path
 description: "Too much information got you disoriented? This is the path to follow to free yourself from Social Media dependence."
 layout: page
 anchor: false
+toc: false
 ---
 You should not rush it (and very likely you don't even want to): don't delete any account straight away.\
 Before you get there, *if* you do, there's an awareness path to follow.
@@ -17,9 +18,12 @@ Before you get there, *if* you do, there's an awareness path to follow.
 
 - **Level 0**: Find out more [about](/about "About quitsocialmedia.club") this website and [its purpose](/about#purpose "Purpose - quitsocialmedia.club")
 - **Level 1**: understand [why](/why "Why") you should quit Social Media
-- **Level 2**: find out resources 
+- **Level 2**: go through [more resources](/links "Links") and deepen your knowledge, also by [watching videos](/watch "Watch") and [listening to podcasts](/listen "Listen").
 - **Level 3**: try **Taking control** by first taking some [intermediate steps](https://www.humanetech.com/take-control "Take Control - Humane Center of Technology")
+- **Level 4**: [delete](/delete "Delete") your Social Media accounts
+- **Level 5**: [Contribute](/contribute "Contribute") to this website
 
+{% comment %}
 <ul>
 	{% for level in site.pages %}
 		{% if level.level != nil and level.lang == page.lang %}
@@ -28,30 +32,7 @@ Before you get there, *if* you do, there's an awareness path to follow.
 	{% endfor %}
 </ul>
 
-{% comment %}
-
-## About
-
-First of all, you should aknowledge [the purpose](/about) of this website, who created it, and why it's much needed.
-
 <br>
-
-
-## Why
-
-[Why](/why) should you quit Social Media?
-
-More importantly, are they that bad? The short answer is yes, they do. They're awesome for some things, but there are many other terrifying aspects to consider which objectively strongly overweight the pros.
-
-The [why page](/why) is too long? Start from [here](/quick)
-{:.blue .box}
-
-<br>
-
-## Act
-
-You 
-
 <br>
 
 ## Free Software

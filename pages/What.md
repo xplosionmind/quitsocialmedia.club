@@ -4,7 +4,7 @@ permalink: /what
 ref: what
 layout: page
 redirect_from: ["/what-social", "/what-are-social-media"]
-description: "This website is about quitting Social Media, we got that. But *what* does a Social Medium actually is? Here, we aren't speaking of ***all*** Social Media platforms, but only some of them."
+description: "This website is about quitting Social Media, we got that. But <i>what</i> does a Social Medium actually is? Here, we aren't speaking of <b><i>all</i></b> Social Media platforms, but only some of them."
 ---
 The first few rows of the entry “[Social Media](https://en.wikipedia.org/wiki/Social_media "“Social Media„ on Wikipedia")„ on Wikipedia recite the following words:
 

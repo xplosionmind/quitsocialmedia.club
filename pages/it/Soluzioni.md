@@ -6,8 +6,7 @@ ref: sol
 toc: true
 layout: page
 redirect_from: ["/sol-it", "/it/sol", "/soluzione", "/it/solutions"]
-description: "Essere “social” senza “<i>Social Media</i>” sembra impossibile. Tuttavia, quella senza <em>Social Media</em> una nuova vita, straordinaria, piena di sorprese, scoperte, autenticità ed eccitazione, ma, soprattutto, <strong>libera</strong>. Esistono alcune favolose soluzioni talmente perfette che danno apparire i <i>Social Media</i> quasi inutili e stupidi."
-tags: l10n
+description: "Essere “social” senza “<i>Social Media</i>” sembra impossibile. Tuttavia, quella senza <i>Social Media</i> una nuova vita, straordinaria, piena di sorprese, scoperte, autenticità ed eccitazione, ma, soprattutto, <strong>libera</strong>. Esistono alcune favolose soluzioni talmente perfette che danno apparire i <i>Social Media</i> quasi inutili e stupidi."
 ---
 ## Brevemente
 
@@ -66,34 +65,35 @@ Ho già trattato [le ragioni](/perché "Perché") per cui i *Social Media* così
 Questi *Social Network* alternativi non sono solo gratis da utilizzare, ma anche liberamente replicabili: chiunque può [installarli sul proprio server](#crea-il-tuo) e facilmente connesse fra loro. Immagina di avere il tuo proprio Facebook. Quanto sarebbe favoloso?
 
 - [Mastodon](https://joinmastodon.org "Mastodon"), con più di **quattro milioni di utenti** in tutto il mondo, è di gran lunga la piattaforma più diffusa e conosciuta; il suo funzionamento e la sua struttura sono molto simili a quelli di Twitter.
-- [Pixelfed](https://pixelfed.org "Pixelfed") is almost identical to Instagram. It has stories, too!
-- [Friendica](https://friendi.ca "Friendica official website") it something like Facebook.
-- [PeerTube](https://joinpeertube.org "PeerTube official website") is a great paltform built by the French Framasoft. As the name suggests, it's like YouTube, but it relies on peer-to-peer video sharing to avoid stressing the servers which host the existing instances.
+- [Pixelfed](https://pixelfed.org "Pixelfed") è praticamente identico a Instagram; ha anche le storie.
+- [Friendica](https://friendi.ca "Friendica") è qualcosa di simile a Facebook
+- [PeerTube](https://joinpeertube.org "PeerTube official website") è una grandiosa piattaforma di video streaming, sviluppata dalla francese [Framasoft](https://framasoft.org/it/ "Framasoft"). Come il nome suggerisce, è come YouTube, ma sfrutta anche un geniale sistema di streaming peer-to-peer dei video per stressare meno i server che contengono video particolarmente popolari.
 
-The most awesome thing is that all of these platforms are connected among each other: I can follof from my mastodon account someone on PixelFed, as well as a PeerTube channel. This is possible because these healthier alternative Social Media platforms are based on the same protocol, [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub "ActivityPub on Wikipedia"). Thanks to this federation, all of these platforms can interact with each other and together they composed what is wonderfully called the [*Fediverse*](https://www.wikiwand.com/en/Fediverse "Fediverse on Wikipedia") (which stands for *Federated (Social Media) Universe*)
+Il dettaglio più sorprendente e grandioso è che tutte queste piattaforme, per quanto diverse, sono connesse fra loro: dal mio account su Mastodon posso seguire qualcuno su Pixelfed, così come un canale su PeerTube. Questo è possibile poiché questi *Social Media* alternativi sono basati su un protocollo chiamato [ActivityPub](https://it.wikipedia.org/wiki/ActivityPub "ActivityPub su Wikipedia"). Grazie a questo “federamento” le persone non solo su server, ma anche su *Social Media* differenti possono comunicare fra loro. Avere un account in uno di questi *Social* significa essere parte del magico [*Fediverse*](https://it.wikipedia.org/wiki/Fediverse "Fediverse on Wikipedia") (che sta per *Federated* (Social Media) *Universe*)
 
 <br>
 <br>
 
-## Website
+## Sito Web
 
-The last solution is the best one: build your own website! Whatever your technical skills may be, you can be your own social media provider and create your online world by yourself. [Wordpress](https://wordpress.com "Wordpress") is the most popular and it's easiest way to start, but if you'd like to learn web development, I suggest [Jekyll](https://jekyllrb.com "Jekyll official website"), which I used for my personal site as well as this one!
+L’ultima soluzione è di gran lunga la migliore, la più soddisfacente ed inimitabile: costruire il proprio sito web! Qualunque possano essere le tue skill tecniche, si può essere il proprio *Social Media* *provider* e creare il proprio mondo online.\
+[Wordpress](https://wordpress.com "Wordpress") è il programma più diffuso e semplice da utilizzare, ma in caso si intendesse approfondir ebasiche nozioni di sviluppo web, io suggerisco  [Jekyll](https://jekyllrb.com "Jekyll"), che è stato utilizzato per creare questo stesso sito.
 
-### Further info
+### Maggiori informazioni
 
 - [Get a Website Now! Don't be a Web Peasant!](https://youtu.be/bdKZVIGRAKQ "Get a Website Now! Don't be a Web Peasant!"), a YouTube video by [Luke Smith](https://lukesmith.xyz "Luke's personal website")
 
 <br>
 <br>
 
-## Experiment
+## Sperimentare
 
-After quitting, instead of being [limited](/why#closed) you become free and your creativity is unbounded. Therefore, **start experimenting**!
+Una volta eliminati i propri profili, invece di essere [limitati](/perché#chiusura "Perché > Choisura") si diventa liberi e privi di compromessi; per questo, **cominciare a sperimentare** potrebbe essere una ottima idea!
 
-You may start a newsletter or record a podcast, they're very popular these days! Alternetively, you may consider focusing on more intimate and personal communications, sharing your life's milestones by sending [private messages](https://signal.org) to groups or individuals.
+Potresti voler iniziare *una newsletter* o registrare un podcast, sono molto di moda, ultimamente. In alternativa, potrebbe essere una saggia scelta concentrarsi per un po' su comunicazioni più intime e personali, condividendo momenti importanti della propria vita inviando [messaggi privati](https://signal.org "Signal") a gruppi o persone.
 
 <br>
 <br>
 
-Regardless of what you decide to do, you can start enjoying your freedom from Social Media.\
-At first, it's going to be quite hard, but on the long run it's going to be a great gain!
+Indipendentemente da cosa si possa decidere di fare, è importante cominciare a godere gradualmente di una sempre maggiore libertà ed indipendenza dai *Social Media*.\
+All’inizio, sar àsicuramente dura, ma a lungo termine sarà un immenso guadagno!

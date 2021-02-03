@@ -6,6 +6,7 @@ level: "1"
 nextlevel: "2"
 description: "Learn what's wrong with Social Media platform and become more concious"
 layout: level
+published: false
 ---
 Before taking action, you should learn the most you can about Social Media, and you should [grasp the purpose](/why) of quitting.
 

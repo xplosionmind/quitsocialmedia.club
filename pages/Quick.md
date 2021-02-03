@@ -22,3 +22,6 @@ layout: page
 	- They [standardize](/why#standardization) rules and parameters by making everything look the same
 	- Everything is built to be [quick](/why#hurry) and rewarding; slow reading and focus are losing their crucial importance
 	- [They use us](/why#being-used), while we believe we are using them instead.
+- You may now say <q>I agree, but…</q>: [I got you covered](/but "“But…”")
+- Still not convinced enough? Read the [FAQs](/faq "Objections and Replies")
+- Everything done? Good. Now [delete your accounts](/delete "Delete")

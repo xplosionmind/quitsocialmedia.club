@@ -1,12 +1,12 @@
 ---
+tags: wip
 title: Ma…
 ref: ma
 lang: it
 permalink: /ma
 redirect_from: ["/però", "/pero", "/obiezioni"]
 layout: page
-description: "Come ci sono diverse valide motivazioni per abbandonare i *Social Media*, ce ne sono innumerevoli, probabilmente di più, per non farlo. Qui affrontiamo le più comuni."
-tags: wip
+description: "Come ci sono diverse valide motivazioni per abbandonare i <i>Social Media</i>, ce ne sono innumerevoli, probabilmente di più, per non farlo. Qui affrontiamo le più comuni."
 ---
 ## Ma io ci lavoro!
 

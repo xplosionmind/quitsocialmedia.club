@@ -26,6 +26,7 @@ Among the arguments presented below, you might not believe in one or two or them
 ### Further reading
 
 - [Digital Discrimination: How Systemic Bias Is Built Into the Internet](https://thereboot.com/digital-discrimination-how-systemic-bias-is-built-into-the-internet/ "Digital Discrimination: How Systemic Bias Is Built Into the Internet") by Sanjana Varghese on [The Reboot](https://thereboot.com/ "The Reboot")
+- [Facebook Will Permanently Stop Promoting Political Groups](https://www.forbes.com/sites/rachelsandler/2021/01/27/facebook-will-permanently-stop-promoting-political-groups/ "Facebook Will Permanently Stop Promoting Political Groups"), an article by [Rachel Sandler](https://www.forbes.com/sites/rachelsandler/ "Rachel Sandler’s articles") on [Forbes](https://forbes.com "Forbes"), which underscores the point that in the end Facebook suggestions are more harmful than useful to the users
 - [more](/links#anger "More resources about anger and Social Media")
 
 <br>
@@ -54,6 +55,7 @@ It goes without saying that hateful speech and anger lead to a strong polarizati
 
 ### Further reading
 
+- [How Facebook profits from polarization](https://ted.com/talks/yael_eisenstat_how_facebook_profits_from_polarization "How Facebook profits from polarization"), a <mark class="red">TED Talk</mark> by [Yael Eisenstat](https://en.wikipedia.org/wiki/Yael_Eisenstat "Yael Eisenstat on Wikipedia")
 - <cite><a href="https://thesocialdilemma.com" rel="noopener noreferrer" target="_blank" title="The Social Dilemma">The Social Dilemma</a></cite>, a <mark class="red">documentary</mark> by [Jeff Orlowski](https://en.wikipedia.org/wiki/Jeff_Orlowski "Jeff Orlowski")
 - [more](/links#polarization "More resources on Polarization and Social Media")
 
@@ -155,9 +157,13 @@ Facebook is now being sued in the US by the government and by several states, ex
 
 ## Sociality
 
-In the end, so called “Social” Media are not really *social* anymore. If you think about it, they are more and more focused on everything except sociality, every day. You are bombarded with ads, suggestions of new features, [low quality content](#quality "Quality") every second, and you lose sight of the core principle of those platforms, which should be the one valued the most: **human relationships**.
+In the end, so called “Social” Media are not really *social* anymore. If you think about it, they are more and more focused on everything except sociality. You are bombarded with ads, suggestions of new features, [low quality content](#quality "Quality") every second, and you lose sight of the core principle of those platforms, which should be the one valued the most: **human relationships**.
 
 Why can't we just spend time exchanging opinions with our friends and reading what other people has to say about a topic without getting distracted by the other hundred things designed by Social Media owners to make more money?
+
+### Further information
+
+- [Do virtual social networks destroy the social fabric?](https://medium.com/swlh/do-virtual-social-networks-destroy-the-social-fabric-b1e96de514db "Do virtual social networks destroy the social fabric?") an article by Jürgen Derlath
 
 <br>
 <br>

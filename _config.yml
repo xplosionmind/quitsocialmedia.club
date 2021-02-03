@@ -1,7 +1,7 @@
 title: Quit Social Media
 email: hi@quitsocialmedia.club
 description: >- # this means to ignore newlines until "baseurl:"
-    Whys and hows about quitting Social Media
+    Why and how to quit Social Media.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://quitsocialmedia.club" # the base hostname & protocol for your site, e.g. http://example.com
 author: Tommi
@@ -13,6 +13,8 @@ future: true
 profile: true
 livereload: true
 strict_front_matter: true
+favicon: "https://assets.tommi.space/qsm/favicon.svg"
+image: "https://assets.tommi.space/qsm/qsm.svg"
 images: "https://assets.tommi.space/images"
 post-images: "https://assets.tommi.space/images/posts"
 assets: "https://assets.tommi.space/assets"
@@ -55,5 +57,5 @@ defaults:
     values:
       layout: "wrapper"
       lang: "en"
-      img: "/images/preview.gif"
+      image: "https://assets.tommi.space/qsm/qsm.svg"
       comments: true

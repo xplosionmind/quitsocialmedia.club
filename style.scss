@@ -669,6 +669,19 @@ h1 {
 
 h2 {
 	font-size: var(--bigger);
+	.anchor {
+		&::after {
+			content: '#';
+		}
+	}
+}
+
+h3 {
+	.anchor {
+		&::after {
+			content: '##';
+		}
+	}
 }
 
 .box {

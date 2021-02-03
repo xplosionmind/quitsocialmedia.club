@@ -6,7 +6,6 @@ permalink: /info
 redirect_from: ["/about-it", "/it/about", "/informazioni", "/it/l00", "/it/l0", "/it/level-0", "/it/level0"]
 layout: page
 description: "Cos'è <cite>quitsocialmedia.club</cite>, come e perché è nato ed il suo fine"
-level: "0"
 ---
 Sono Tommi, ho creato questo sito. Saltiamo la parte su di me, che si può leggere sul mio [sito web](https://tommi.space/about-it "Tommi").
 
