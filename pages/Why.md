@@ -1,7 +1,7 @@
 ---
 title: Why
 permalink: /why
-redirect_from: ["/arguments", "/reasons"]
+redirect_from: ["/arguments", "/reasons", "/l1", "/l01", "/l-01", "/level01", "/level1", "/level-1", "/level-01"]
 ref: why
 toc: true
 layout: page
@@ -23,6 +23,8 @@ Among the arguments presented below, you might not believe in one or two or them
 
 <u>It is scientifically proven that negative emotions engage users way more than positive emotions</u>. Algorithms which compose our feeds are tailored to maximize engagement and interaction, they do not actually care about how users feel. Our emotions are governed by a machine: some gets angry for something you see, she reacts to it, and she will start seeing more of it. <u>The more anger, the more engagement</u>, the better it is.
 
+<br>
+
 ### Further reading
 
 - [Digital Discrimination: How Systemic Bias Is Built Into the Internet](https://thereboot.com/digital-discrimination-how-systemic-bias-is-built-into-the-internet/ "Digital Discrimination: How Systemic Bias Is Built Into the Internet") by Sanjana Varghese on [The Reboot](https://thereboot.com/ "The Reboot")
@@ -36,6 +38,8 @@ Among the arguments presented below, you might not believe in one or two or them
 
 [Hate](#hate "Hate") is strictly connected with [anger](#anger "Anger"): when you get angry, you do something about it. This is exactly what Social Media platforms wait for. It doesn't matter how much the debate is fired up. As long as you're interacting a lot, everything is good. The problem is users get more hateful: the cannot discuss anymore with who has a different idea without judging her.   
 Social Media allow us to report content which contains hate or insults, but the one thing which cannot be reported is a **feeling**. Social Media owners can attempt to moderate their posts, but they do not always do it, and, most importantly, they practically are unable to: there are too many publications, and it is virtually impossible to check all of them!
+
+<br>
 
 ### Further reading
 
@@ -53,6 +57,8 @@ Social Media allow us to report content which contains hate or insults, but the 
 It goes without saying that hateful speech and anger lead to a strong polarization in society.\
 “Polarization” is a word we are hearing a lot in these days, but the surprising fact is that it is not linked to one bad side only; division and extremism are fostered by people with different ideas who are unable listen to each other. Social Media platforms do not do much to allow a more peaceful way of sharing ideas and a greater openness to different positions.
 
+<br>
+
 ### Further reading
 
 - [How Facebook profits from polarization](https://ted.com/talks/yael_eisenstat_how_facebook_profits_from_polarization "How Facebook profits from polarization"), a <mark class="red">TED Talk</mark> by [Yael Eisenstat](https://en.wikipedia.org/wiki/Yael_Eisenstat "Yael Eisenstat on Wikipedia")
@@ -66,6 +72,8 @@ It goes without saying that hateful speech and anger lead to a strong polarizati
 
 This is one of the key points of 2020, and of the last months in general: Social Media platforms make it very hard to understand what's true and what's not. Of course, it's not only a problem which appears on Social Media platforms, but it got dangerous because of them. Donald Trump's and highly influential people's posts may be checked, but it is virtually impossible for platforms owners to keep up with what's going on and be certain that no fake information is being shared. Around this key point, and whose responsibility is it if something goes wrong, is rotating the debate about [Section 230](https://en.wikipedia.org/wiki/Section_230 "Section 230 on Wikipedia"), which basically states that it's not the platform's owner or employees' responsibility if something against the law is published on a cretain platform. Everybody should be responsible for what he/she shares, and publishing content should be done regardless of Social Media.
 
+<br>
+
 ### Further reading
 
 - [Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech.](https://www.eff.org/deeplinks/2020/11/dont-blame-section-230-big-techs-failures-blame-big-tech "Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech. - EFF") by Elliot Harmon on [EFF](https://eff.org "EFF official website")
@@ -78,6 +86,8 @@ This is one of the key points of 2020, and of the last months in general: Social
 ## Bubble
 
 Since algorithms which govern Social Media aim to keep users hooked to their platform the more they can, they attempt to show us content they know users will like. We're not talking about advertisements alone, we're talking about suggestions inside the platform. “You may also like”, “similar to this” … are just other ways of telling you “keep browsing more, stay here!”. The problem isn't only being [hooked](#addiction "Addiction"), but also ending up living in a bubble, where the vast majority of the content is likeable to you or in line with your ideas, while other things are a remote, unimportant matter. Think about a political election you voted to in the last few years: if you get informed about politics through social media, you probably believed that your side, whatever it was, was gonna win, even if it didn't. This is the simplest example of living in a bubble: you perceive a distorted view of reality.
+
+<br>
 
 ### Further reading
 
@@ -116,6 +126,8 @@ Again: it's not that if someone isn't focused it's because of Social Media, but 
 
 Whether we want this or not, even by passively using Social Media, so by browsing around, whatcing videos and pictures or reading posts, we give Social Media platforms owners a huge amount of data about us and about what we like, for free. Such data, even if it's “deliberately” shared, are piled up day after day, month after month and year after year. The result is scary… what all of this information about us is used for? The answer is [user profilation](#profilation "Profilation").
 
+<br>
+
 ### Further reading
 
 - [How tech companies deceive you into giving up your data and privacy](https://www.ted.com/talks/finn_lutzow_holm_myrstad_how_tech_companies_deceive_you_into_giving_up_your_data_and_privacy "How tech companies deceive you into giving up your data and privacy"), a <mark class="red">TED Talk</mark> by [Finn Lützow-Holm Myrstad](https://www.ted.com/speakers/finn_myrstad "Finn Lützow-Holm Myrstad")
@@ -128,6 +140,8 @@ Whether we want this or not, even by passively using Social Media, so by browsin
 Probably this is one of the main reasons why people delete their social media accounts. The matter is very simple, too: our data is used to understand who we are. If the answer was limited to this, it could also be acceptable. In the end, if we want to use the internet, something about us is leaked some way or another. The problem is how our identity, our intrests, our fears, our desires, our anger are managed and what they're used for.
 
 It's not a secret: our identity is sold to addvertisers to show (or better, flood our feed) with ads “of our interest”. This may be even good if it was used solely for marketing purposes, but, unfortunately, it's not: we may be (and probably we are) targeted by political ads, which don't aim to sell us something, but their purpose is to condition our behavior and distort our view of the world, further enforcing the [bubble](#bubble "Bubble") we are uncounsciously trapped in.
+
+<br>
 
 ### Further reading
 
@@ -143,6 +157,8 @@ It's not a secret: our identity is sold to addvertisers to show (or better, floo
 Is there any way to become an influencer, to promore a product, to share a political point of view, to condemn an injustice, to display a piece of art or to communicate anything to the public which doesn't involve Social Media? Regardless of Social Media being good or bad, the fact that being heard or noticed in this messy world is *only* through platforms owned by giant corporations which use our content to grow tremendously and endlessly, by earning an incredible amount of money is deeply unjust. Social Media corporations are monopolies which don't allow any competition to mess with them, by either buying competitors, or by being so much bigger that if a tiny slice of the market is stolen it doesn't change much.
 
 Facebook is now being sued in the US by the government and by several states, exactly with the accusation of unlawfully acquiring and avoiding competitors.
+
+<br>
 
 ### Further reading
 
@@ -160,6 +176,8 @@ Facebook is now being sued in the US by the government and by several states, ex
 In the end, so called “Social” Media are not really *social* anymore. If you think about it, they are more and more focused on everything except sociality. You are bombarded with ads, suggestions of new features, [low quality content](#quality "Quality") every second, and you lose sight of the core principle of those platforms, which should be the one valued the most: **human relationships**.
 
 Why can't we just spend time exchanging opinions with our friends and reading what other people has to say about a topic without getting distracted by the other hundred things designed by Social Media owners to make more money?
+
+<br>
 
 ### Further information
 
@@ -191,6 +209,8 @@ Social media are killing diversity: they are standardizing the way people presen
 Is what we publish on Social Media actually ours? The answer comes straight from the two major social media platform policies.
 
 **Spoiler** - The short answer is yes, but the actual one is no: we retain ownership rights on our content, but it means that almost nothing, since platforms can do whatever they whant with it, and we can't do anything about it: once we published something, **it's not over our control anymore**. So: we own our content but we can't control it. Is this actual ownership?
+
+<br>
 
 ### Facebook
 
@@ -280,6 +300,8 @@ Let's imagine I am an influencer and I want to move to another social networking
 
 This is a little mind experiment (and probably even not the most effective one) to give you an idea of how closed Social Media are. These platforms don't interact among each other, instead, they compete. If all of a sudden for some reason Twitter shuts down, there is no way to go on using Twitter anymore. Social Media as we know them are limited to and by the ones who own them, and it is as a world without them does not exist. We can prove the contrary.
 
+<br>
+
 ### Further Reading
 
 - [Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems](https://thereboot.com/data-liberation-a-step-toward-fixing-big-techs-competition-problems/ "Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems") by Gabriel Nicholas on [The Reboot](https://thereboot.com "The Reboot")
@@ -310,6 +332,8 @@ It's impossible for us to change Social Media and stop being used by them, unles
 In our hand we have the power to say no, to stop the trend, to give back diversity, empathy, calm, peace, meaning, art, and authentic feelings to the world.
 
 It's not easy, and it's quite painful at the beginning, but you can do it, we can do it, if we're not alone.
+
+<br>
 
 ### Further reading
 

@@ -3,9 +3,9 @@ title: About
 ref: about
 lang: en
 permalink: /about
-redirect_from: ["/who", "/purpose"]
+redirect_from: ["/who", "/purpose", "/l00", "/l0", "/l-0", "/l-00", "/level0", "/level-0", "/level-00", "/level00"]
 layout: page
-description: "What <cite>quitsocialmedia.club</cite> is, how it's born and what its purposes are"
+description: "What <cite>quitsocialmedia.club</cite> is, how it's born and what its purposes are."
 ---
 Hi, I'm Tommi, and I created this website. Let's skip the part [about me](https://tommi.space/about "About - tommi.space"), you can read it [on my website](https://tommi.space/ "tommi.space, Tommi's personal website").
 
