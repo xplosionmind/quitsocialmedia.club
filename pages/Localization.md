@@ -3,8 +3,7 @@ title: Localization
 permalink: /l10n
 redirect_from: ["/it/l10n", "/localization", "/translate", "/translation"]
 description: "Localization and translation guidelines"
-layout: page
-toc: 0
+toc: false
 ---
 Localizing a content means translating it in another language to make it available to a broader public. If you'd like to do it, first of all thank you very much, secondly, there are a few things you need to know.
 

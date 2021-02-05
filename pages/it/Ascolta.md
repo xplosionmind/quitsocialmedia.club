@@ -1,6 +1,5 @@
 ---
 title: Ascolta
-layout: page
 lang: it
 description: "Invece di leggere o guardare contemuti sull’argomento, potresti preferire dei podcast. eccone alcuni"
 permalink: /ascolta

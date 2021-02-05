@@ -3,9 +3,7 @@ title: Objections and replies
 ref: faq
 permalink: /faq
 redirect_from: ["/wtf", "/frequently-asked-questions", "/replies-and-objections", "/objections-replies", "/objections-and-replies", "/replies-objections"]
-layout: page
 description: "As most of writers do, I sent an early preview of this website to friends and people I admire to share their impressions. In a philosopher-like style, I address some of their objections and questions in this page."
-toc: true
 ---
 ## Coherence
 
@@ -14,6 +12,8 @@ toc: true
 Not quite so. Think about this: if I love the strawberry flavour of the ice cream, I won't speak about how much strawberries are delicious with a friend who is eating a strawberry ice cream, I'll try to make my friend who is eating a chocolate ice cream taste a spoon of my strawberry one. Similarly, it makes no sense to quit Social Media and share this choice *off* Social Media: people who may quit are the ones who didn't quit yet, and, guess what, they can be reached by social media exclusively, since there is no other valid alternative.   
 This apparently incoherent decision conceals in itself one of the very reasons of quitting: you have no way (or if you do, it's very unlikely) of being noticed or reaching some audience unless it's done through those platforms.   
 The authors of <cite><a href="https://thesocialdilemma.com" rel="noopener noreferrer" target="_blank" title="The Social Dilemma">The Social Dilemma</a></cite> created official Social Media accounts of the movie, [giving a similar explanation](https://www.thesocialdilemma.com/code-of-ethics/ "The Social Dilemma’s Code of Ethics").
+
+<br>
 
 ##### *If you quit social media, you should quit **all*** Social Media. *Why do you consider only the big platforms?*
 
@@ -28,6 +28,8 @@ Please refer to [what](/what) for further info.
 ##### *Why <cite>Quit Social Media</cite> and not <cite>Tommi quits Social Media</cite>?*
 
 I thoroughly explain the main reasons in the [About page](/about "About - quitsocialmedia.club"), but it's important to specify that I did not want to build a whole website to explain why *I* quit Social Media, or I would've done this on [my personal website](https://tommi.space "tommi.space"); I did this because I couldn't find a comprehensive list of reasons [why](/why "Why Quit Social Media") Social Media are bad anywhere on the web: there were articles (which I linked), videos and papers, but they all focused on very few points, never providing the whole picture. Since making this website has been a stressful, long and intense work, I believe it's not about me or my personal reasons for quitting, but it extensively covers all of the possible negative arguments which would make someone quit.
+
+<br>
 
 ##### *Why the `.club` domain?*
 

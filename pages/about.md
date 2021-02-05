@@ -4,8 +4,8 @@ ref: about
 lang: en
 permalink: /about
 redirect_from: ["/who", "/purpose", "/l00", "/l0", "/l-0", "/l-00", "/level0", "/level-0", "/level-00", "/level00"]
-layout: page
 description: "What <cite>quitsocialmedia.club</cite> is, how it's born and what its purposes are."
+toc: false
 ---
 Hi, I'm Tommi, and I created this website. Let's skip the part [about me](https://tommi.space/about "About - tommi.space"), you can read it [on my website](https://tommi.space/ "tommi.space, Tommi's personal website").
 
@@ -32,8 +32,9 @@ This website has three main purposes:
 
 I know there are many other [great communities](/communities "Internet Freedom communities") which promote **internet freedom** and **independence** from big ugly social media corporations, but I feel that there’s an important point which isn't stressed out enough: **individual choices and actions are the key to global change**. **We shouldn't wait** for policies and laws to be rolled out; similarly, we can’t expect someone else will make everything better, someday. We need to understand (if possible) what's going on and steer towards [healthy solutions](/solutions "Solutions").
 
-<b>!!</b> I absolutely don’t want to force anyone to quit social media, and I definitely don’t want to convince you it’s the best thing to do. I want everybody who lands here to <U>carefully go through <a href="/why">the exposed arguments</a></u>, <u>to acquire enough knowledge to decide by him/herself what's the best thing to do</u>.
-{:.red .box}
+<div class="red box">
+	<b>!!</b> I absolutely don’t want to force anyone to quit social media, and I definitely don’t want to convince you it’s the best thing to do. I want everybody who lands here to <U>carefully go through <a href="/why">the exposed arguments</a></u>, <u>to acquire enough knowledge to decide by him/herself what's the best thing to do</u>.
+</div>
 
 We need to understand what’s happening and look for a way to make our internet experience better.\
 Then, unite, stand out and be (part of) the change.
@@ -42,6 +43,6 @@ Quitting Social Media might be a great start.
 
 <br />
 
-## Something is missing?
+## Is something missing?
 
 If you have some questions or doubts which this page could not answer, please check the [Objections and Replies](/faq "Objections and Replies") (<abbr title="Also Known As">a.k.a.</abbr> <abbr title="Frequently Asked Questions">FAQ</abbr>).

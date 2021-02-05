@@ -3,8 +3,6 @@ title: Why
 permalink: /why
 redirect_from: ["/arguments", "/reasons", "/l1", "/l01", "/l-01", "/level01", "/level1", "/level-1", "/level-01"]
 ref: why
-toc: true
-layout: page
 description: "The heart of the matter: all of the reasons why we should quit Social Media"
 todo:
   - "Scientifically proven link"

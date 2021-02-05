@@ -2,10 +2,9 @@
 title: Links
 permalink: /links
 redirect_from: ["/bibliography", "/resources", "/link"]
-layout: page
 description: "Links to related topics"
 tags: wip
-toc: true
+ref: links
 ---
 <div>
 	If you are a podcast lover, please notice that audio content is <mark>highlighted in blue</mark>, while if you prefer to watch to talks or documentaries, look for <mark>what is highlighted in red</mark>

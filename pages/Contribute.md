@@ -1,10 +1,10 @@
 ---
 title: Contribute
 permalink: /contribute
-ref: contribute
+ref: contrib
 description: "If you think this website is useful, insightful, necessary and/or important, you should consider contributing to make it even better!"
 redirect_from: ["/contribution", "/contribution-guide", "/contrib", "/l1000", "/l-1000", "/l-1000", "/level05", "/level-1000", "/level1000"]
-layout: page
+toc: false
 ---
 There are several ways to contribute to this website, and any of it is very much appreciated.
 

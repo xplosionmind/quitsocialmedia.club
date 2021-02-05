@@ -3,9 +3,7 @@ title: Obiezioni e risposte
 ref: faq
 permalink: /it/faq
 redirect_from: ["/risposte-e-obiezioni", "/obiezioni-e-risposte", "/risposte-obiezioni", "/obiezioni-risposte", "/domande", "/domande-frequenti", "/domande-e-risposte", "/domande-risposte"]
-layout: page
 description: "Come fanno gli scrittori seri, ho inviato in anteprima questo sito a persone particolarmente informate su questi temi e di cui valuto molto l'opinione affinché condividessero con me le loro impressioni. In stile pseudo-filosofico, affronto alcune delle loro domande ed obiezioni qui di seguito."
-toc: true
 lang: it
 ---
 ## Coerenza

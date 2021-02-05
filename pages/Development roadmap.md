@@ -1,9 +1,9 @@
 ---
 title: Development
-layout: page
 permalink: /development
 redirect_from: ["/dev-roadmap", "/dev", "/dev-path", "/development-roadmap"]
 description: "Technical stuff to do"
+toc: false
 ---
 <div>
 	My personal roadmap to Internet Freedom, where <q>quitting Social Media</q> is at the top of the list, can be found <a href="https://tommi.space/path-to-internet-freedom" rel="noopener noreferrer" target="_blank" title="Tommi's path to Internet Freedom">here</a>.

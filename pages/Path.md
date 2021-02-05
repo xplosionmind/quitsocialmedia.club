@@ -4,8 +4,6 @@ permalink: /path
 redirect_from: ["/pathway"]
 ref: path
 description: "Too much information got you disoriented? This is the path to follow to free yourself from Social Media dependence."
-layout: page
-anchor: false
 toc: false
 ---
 You should not rush it (and very likely you don't even want to): don't delete any account straight away.\

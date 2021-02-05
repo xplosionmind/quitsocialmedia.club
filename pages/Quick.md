@@ -3,7 +3,7 @@ title: Quick
 permalink: /quick
 ref: quick
 description: "You don't have time to read through everything and you just want to know the key points? This is the right page to read."
-layout: page
+toc: false
 ---
 1. This website was created by [Tommi](https://tommi.space "Tommi's personal website") because he felt people should acknowledge that social media aren't **only bad**, but their *cons* strongly overweight their *pro*s and, most importantly, that the individual's actions are the key to improve digital wellbeing and make the internet a healthier place. More in the [about page](/about "About quitsocialmedia.club")
 2. The final purpose to [delete your social media accounts](/delete) (duh), but there are some [intermediate steps](/path) which could make your life a lot better

@@ -2,8 +2,6 @@
 title: Solutions and alternatives
 permalink: /solutions
 ref: sol
-toc: true
-layout: page
 redirect_from: ["/sol", "/solution"]
 description: "Being “social” without “Social Media” seems impossible. Nevertheless, it's a whole new life, full of surprises, excitement and authenticity, but, above all, <strong>freedom</strong>. There are a few solutions which make life without Social Media connected and interactive anyway."
 tags: l10n
