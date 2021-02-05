@@ -91,7 +91,7 @@ Quello precedente è solamente uno fra i più semplici esempi del vivere in un b
 
 <br>
 
-## Maggiori informazioni
+### Maggiori informazioni
 
 - [The Obsession With Big Tech Is Distorting the Big Picture](https://thereboot.com/the-obsession-with-big-tech-is-distorting-the-big-picture/ "The Obsession With Big Tech Is Distorting the Big Picture"), un articolo di Karl Bode su [The Reboot](https://thereboot.com/ "The Reboot")
 - [The Future of Privacy](https://philosophy247.org/podcasts/the-future-of-privacy/ "Philosophy 24/7 The Future of Privacy"), un <mark class="blue">podcast</mark> con un'intervista a [Carissa Véliz](https://carissaveliz.com "Carissa Véliz"), parlando specificamente della “bolla” al minuto `4:00`
@@ -108,7 +108,7 @@ Nota: non sto criticando l'intrattenimento di basso livello, i contenuti trash o
 
 <br>
 
-## Maggiori informazioni
+### Maggiori informazioni
 
 +++
 
@@ -356,7 +356,7 @@ Non è facile ed è piuttosto soloroso all'inizio, ma puoi farlo, possiamo farlo
 <br>
 <br>
 
-### Cosa fare, ora?
+## Cosa fare, ora?
 
 È arrivato il momento.\
 [Elimina](/elimina) i tuoi account.
