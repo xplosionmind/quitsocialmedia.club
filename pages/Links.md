@@ -58,6 +58,8 @@ Go back to the [homepage](/home "Home")
 - [runyourown.social](https://runyourown.social "Run Your Own Social")
 - [Get a Website Now! Don't be a Web Peasant!](https://youtu.be/bdKZVIGRAKQ "Get a Website Now! Don't be a Web Peasant!"), a YouTube video by [Luke Smith](https://lukesmith.xyz "Luke's personal website")
 - [<cite>Together, we can rebuild the system</cite>](https://www.humanetech.com/rebuild "Together, we can align technology with humanity’s best interests"), on the website of the [<cite>Center for Humane Technology</cite>](https://www.humanetech.com/ "Center for Humane Technology")
+- [Okuna](https://about.okuna.io "Okuna"), <q>an ethical social network for a brighter tomorrow</q>.
+- [Living without Social Media](https://youtu.be/3E7hkPZ-HTk "Quit social media | Dr. Cal Newport | TEDxTysons"), a <mark class="red">TED Talk</mark> by dr. Cal Newport
 
 <br>
 <br>
@@ -88,14 +90,17 @@ Go back to [Why > Hate](/why#hate "Hate")
 - [A Decade After the Arab Spring, Platforms Have Turned Their Backs on Critical Voices in the Middle East and North Africa](https://www.eff.org/deeplinks/2020/12/decade-after-arab-spring-platforms-have-turned-their-backs-critical-voices-middle "A Decade After the Arab Spring, Platforms Have Turned Their Backs on Critical Voices in the Middle East and North Africa")
 
 <br>
-{% comment %}
 
 ## Polarization
 
+- [How Facebook profits from polarization](https://ted.com/talks/yael_eisenstat_how_facebook_profits_from_polarization "How Facebook profits from polarization"), a <mark class="red">TED Talk</mark> by [Yael Eisenstat](https://en.wikipedia.org/wiki/Yael_Eisenstat "Yael Eisenstat on Wikipedia")
+- [Facebook Can’t Fix what it won’t admit to](https://www.wired.com/story/plaintext-facebook-cant-fix-what-it-wont-admit-to/ "Facebook Can’t Fix what it won’t admit to") by [Steven Levy](https://en.wikipedia.org/wiki/Steven_Levy "Steven Levy on Wikipedia") on [Wired](https://wired.com "Wired")
+- [Exposure to opposing views on social media canincrease political polarization](https://www.pnas.org/content/pnas/115/37/9216.full.pdf "Exposure to opposing views on social media canincrease political polarization"), a paper by Christopher A. Baila,b,c,1, Brian Guaya,d,2, Emily Maloneya,b,2, Aidan Combsa,b, D. Sunshine Hillygusa,c,d,Friedolin Merhouta,e, Deen Freelonf, and Alexander Volfovskya
+
 Go back to [Why > Polarization](/why#polarization "Polarization")
 
+
 <br>
-{% endcomment %}
 
 ## Misinformation
 
@@ -158,6 +163,8 @@ Go back to [Why > Monopolization](/why#monopolization "Monopolization")
 
 - [Facebook is a social network monopoly that buys, copies or kills competitors, antitrust committee finds](https://www.cnbc.com/2020/10/06/house-antitrust-committee-facebook-monopoly-buys-kills-competitors.html "Facebook is a social network monopoly that buys, copies or kills competitors, antitrust committee finds"), by Salvador Rodriguez on CNBC
 - [The end of the Facebook crime spree](https://mattstoller.substack.com/p/the-end-of-the-facebook-crime-spree "The end of the Facebook crime spree"), by [Matt Stoller](https://mattstoller.substack.com/people/759128-matt-stoller "Matt Stoller on Substack")
+- [Behind Washington’s one-eighty on Facebook: A rethink of monopoly power](https://www.politico.com/news/2020/12/13/facebook-antitrust-flip-flop-444652), an article by [Leah Nylen](https://www.politico.com/staff/leah-nylen "Leah Nylen") on [Politico](https://www.politico.com "Politico")
+- [U.S. and States Say Facebook Illegally Crushed Competition](https://www.nytimes.com/2020/12/09/technology/facebook-antitrust-monopoly.html?smid=url-share "U.S. and States Say Facebook Illegally Crushed Competition | New York Times") by Cecilia Kang and Mike Isaac on [The New York Times](https://nytimes.com "New York Times")
 {% comment %}
 
 <br>

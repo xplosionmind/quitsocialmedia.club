@@ -1,6 +1,5 @@
 ---
 title: Perché
-tags: l10n
 permalink: /perché
 redirect_from: ["/it/why", "/why-it", "/perche", "/motivi", "/perchè", "/it/l1", "/it/l01", "/it/l-01", "/it/level01", "/it/level1", "/it/level-1", "/it/level-01"]
 lang: it
@@ -183,10 +182,10 @@ Facebook è stato denunciato ed è ora sotto processo da parte del governo statu
 
 ### Maggiori informazioni
 
+- [Un’intervista a Jaron Lanier di *Codice*](https://www.raiplay.it/video/2019/08/Codice-intervista-esclusiva-a-Jaron-Lanier-pioniere-della-realta-virtuale-98a38fd9-6fa9-46d6-9b49-f9deccc7d1c6.html "Intervista a Jaron Lanier | Codice | Rai Play"), su <mark class="red">Rai Play</mark>
 - [Monopoly Machine: Understanding the System That Shapes the Internet](https://thereboot.com/monopoly-machine-understanding-the-system-that-shapes-the-internet/ "Monopoly Machine: Understanding the System That Shapes the Internet"), un articolo di Emma Johanningsmeier su [The Reboot](https://thereboot.com/ "The Reboot")
 - [FTC Sues Facebook for Illegal Monopolization](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization "FTC Sues Facebook for Illegal Monopolization"), the press release in which the Federal Trade Commission announces to sue Facebook
 - [WIRED’s Guide to Net Neutrality](https://www.wired.com/story/guide-net-neutrality/ "WIRED’s Guide to Net Neutrality")
-- [Facebook's 'monopoly power' hurts user privacy, finds Congress](https://mashable.com/article/house-antitrust-report-facebook-privacy-misinformation/ "“Facebook's 'monopoly power' hurts user privacy, finds Congress” on Mashable"), un articolo su [Mashable](https://mashable.com "Mashable")
 - [more](/it/links#monopolization "More resources related to the Monopolization and Social Media")
 
 <br>
@@ -197,6 +196,10 @@ Facebook è stato denunciato ed è ora sotto processo da parte del governo statu
 Alla fine, i cosiddetti “social” media, non sono poi così tanto *social*. A pensarci bene, sono sempre più incentrati su tutto eccetto che la socialità. Siamo bombardati da annunci, suggerimenti di nuove funzionalità, [contenuti di basso livello](#qualità) e si perdono di vista i valori fondamentali su cui tali piattaforme dovrebbero basarsi e che dovrebbero essere il centro di tutto: **le relazioni umane**.
 
 Perché non possiamo socializzare, scambiare idee, confrontarci con amici e conoscenti senza dover accettare il compromesso di abbuffarci di contenuti che in realtà non ci interessano, oppure senza regalare un sacco di soldi a coloro che possiedono queste piattaforme?
+
+### Maggiori informazioni
+
+- [Don Alberto Ravagnani su Muschio Selvaggio](https://youtu.be/aZ2pn0tNoGQ?t=3625 "Ep.33 Don Alberto - Muschio Selvaggio Podcast") che racconta quanto sia pericoloso per i più piccoli avere spesso il telefono in mano
 
 <br>
 

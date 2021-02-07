@@ -10,13 +10,15 @@ lang: it
 	<strong>Tutti i link</strong> sono in <a href="/links"><em>Links</em></a>. Qui di seguito sono riportati esclusivamente quelli in italiano.
 </div>
 
-{% comment %}
 ## Generale
+
+- [Un’intervista a Jaron Lanier di *Codice*](https://www.raiplay.it/video/2019/08/Codice-intervista-esclusiva-a-Jaron-Lanier-pioniere-della-realta-virtuale-98a38fd9-6fa9-46d6-9b49-f9deccc7d1c6.html "Intervista a Jaron Lanier | Codice | Rai Play"), su <mark class="red">Rai Play</mark>
 
 Torna alla [home](/it/home "Home")
 
 <br>
 
+{% comment %}
 ## Rabbia
 
 <br>
@@ -84,12 +86,16 @@ Torna a [Perché > Profilation](/perché#profilation "Profilation")
 ## Monopolization
 
 Torna a [Perché > Monopolization](/perché#monopolization "Monopolization")
+{% endcomment %}
 
 <br>
 
 ## Sociality
 
 Torna a [Perché > Sociality](/perché#sociality "Sociality")
+
+- [Don Alberto Ravagnani su Muschio Selvaggio](https://youtu.be/aZ2pn0tNoGQ?t=3625 "Ep.33 Don Alberto - Muschio Selvaggio Podcast") che racconta quanto sia pericoloso per i più piccoli avere spesso il telefono in mano
+{% comment %}
 
 <br>
 

@@ -4,9 +4,6 @@ permalink: /why
 redirect_from: ["/arguments", "/reasons", "/l1", "/l01", "/l-01", "/level01", "/level1", "/level-1", "/level-01"]
 ref: why
 description: "The heart of the matter: all of the reasons why we should quit Social Media"
-todo:
-  - "Scientifically proven link"
-  - "Convert “Further reading” to ?"
 ---
 ## Introduction
 
@@ -62,6 +59,7 @@ It goes without saying that hateful speech and anger lead to a strong polarizati
 
 - [How Facebook profits from polarization](https://ted.com/talks/yael_eisenstat_how_facebook_profits_from_polarization "How Facebook profits from polarization"), a <mark class="red">TED Talk</mark> by [Yael Eisenstat](https://en.wikipedia.org/wiki/Yael_Eisenstat "Yael Eisenstat on Wikipedia")
 - [Facebook Can’t Fix what it won’t admit to](https://www.wired.com/story/plaintext-facebook-cant-fix-what-it-wont-admit-to/ "Facebook Can’t Fix what it won’t admit to") by [Steven Levy](https://en.wikipedia.org/wiki/Steven_Levy "Steven Levy on Wikipedia") on [Wired](https://wired.com "Wired")
+- [The Polarization Lab](https://www.polarizationlab.com/ "The Polarization Lab")
 - [more](/links#polarization "More resources on Polarization and Social Media")
 
 <br>
@@ -114,6 +112,7 @@ Ok, anyone may reply to this argument “come on, it's very few people! I'm not 
 ### Further information
 
 - [An Exploratory Study of Gambling Operators’ Use of Social Media and the Latent Messages Conveyed](https://link.springer.com/article/10.1007/s10899-015-9525-2 "An Exploratory Study of Gambling Operators’ Use of Social Media and the Latent Messages Conveyed")
+- [Sean Parker says Facebook was designed to be addictive](https://adage.com/article/digital/sean-parker-worries-facebook-rotting-children-s-brains/311238 "") by [Garret Sloane](https://adage.com/author/garett-sloane/7062 "Garret Sloane") on [Adage](https://adage.com "Adage")
 
 <br>
 <br>
