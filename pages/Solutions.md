@@ -8,7 +8,7 @@ tags: l10n
 ---
 ## Briefly
 
-In short: after quitting Social Media, you won't become a misanthrope who lives in the woods and who is isolated from the rest of the world. Quitting Social Media does not mean abandoning the web for good; on the contrary, it means exploiting its real <u>independent and open values</u> in different ways. You may not believe it, there exist **a lot** of awesome yet simple tools which replace in some way the tasks Social media.
+In short: after quitting Social Media, you will not become a misanthrope who lives in the woods and who is isolated from the rest of the world. <u>Quitting Social Media does not mean abandoning the web for good</u>; on the contrary, it means <u>exploiting the actual <strong>independent</strong> and <strong>open</strong> values</u> at its core in different ways. You may not believe it, there exist **a lot** of awesome yet simple tools which replace in some way the tasks Social media.
 
 The concept is this: to stay up to date, you can subscribe to any website's [RSS feed](#rss-feed), even to Social Media pages and profiles, YouTube channels… anything. To publish content, instead, the best way is to [**create your own website**](#website), start a newsletter, or consider [healthier Social Media platforms](#alternatives).
 
@@ -23,9 +23,9 @@ Some say it's dead because of Social Media, the thing is it's EVERYWHERE instead
 
 As pointed out in the [about](/about) page, this website isn't meant to explain what it contains, but simply put together data, so I won't explain what RSS is, but link to some explanations:
 
-- [What is RSS?](https://yewtu.be/6HNUqDL-pI8?quality=dash&dark_mode=true&player_style=youtube&subtitles=en%2Cit), a YouTube video
-- [What is RSS](https://www.digitaltrends.com/computing/what-is-an-rss-feed/), an article
-- [RSS on Wikipedia](https://en.wikipedia.org/wiki/RSS) (or, even better, [Web feed](https://en.wikipedia.org/wiki/Web_feed) on Wikipedia)
+- [What is RSS?](https://yewtu.be/6HNUqDL-pI8?quality=dash&dark_mode=true&player_style=youtube&subtitles=en%2Cit "What is RSS?"), a YouTube <mark class="red">video</mark>
+- [What is RSS](https://www.digitaltrends.com/computing/what-is-an-rss-feed/ "What is an RSS feed"), an article
+- [RSS on Wikipedia](https://en.wikipedia.org/wiki/RSS "RSS on Wikipedia") (or, even better, [Web feed](https://en.wikipedia.org/wiki/Web_feed "Web feed on Wikipedia") on Wikipedia)
 - [RSS before Social Media](https://yewtu.be/watch?v=0klgLsSxGsU&quality=dash&dark_mode=true&player_style=youtube&subtitles=en), a very interesting YouTube video to watch: it shows how before the diffusion of Social Media RSS really was the best way to stay updated.
 - RSS is fundamental in one field in particular: **podcasting**. Anyone who has a podcast publishes it in one place (a podcasting platform or a website) and all of the other podcasting platforms [get new episodes through its RSS feed](https://yewtu.be/TU5zc-u6dhY?t=159).
 
@@ -37,7 +37,7 @@ It can happen that you end up sad and you miss how much Social Media allowed you
 
 Tools like that are actually more than one, but the most famous and developed one is [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge "RSS-Bridge on GitHub").
 
-You are welcome to test and use the RSS-Bridge instance I host on my server by visiting <https://rss-bridge.tommi.space>. (mantaining and renting a server is no cheap matter. I am happy of offering my RSS-Bridge, nonetheless, if you started using it a lot, [a symbolic contribution](https://it.liberapay.com/tommi/donate "Dona a Tommi su Liberapay") would really help me).
+You are welcome to test and use the RSS-Bridge instance I host on my server by visiting <https://rss-bridge.tommi.space>. (mantaining and renting a server is no cheap matter. I am happy of offering my RSS-Bridge, nonetheless, if you started using it a lot, [a symbolic contribution](https://it.liberapay.com/tommi/donate "Dona a Tommi su Liberapay") would mean a lot).
 
 <br>
 
@@ -69,7 +69,7 @@ All of these platforms are free not only to subscribe to, but also to actually u
 
 The most awesome thing is that all of these platforms are connected among each other: I can follof from my mastodon account someone on PixelFed, as well as a PeerTube channel. This is possible because these healthier alternative Social Media platforms are based on the same protocol, [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub "“ActivityPub„ on Wikipedia"). Thanks to this federation, all of these platforms can interact with each other and together they composed what is wonderfully called the [*Fediverse*](https://www.wikiwand.com/en/Fediverse "“Fediverse„ on Wikipedia") (which stands for *Federated (Social Media) Universe*)
 
-### Further reading
+### Further information
 
 - [Creating Decentralized Social Media Alternatives to Facebook and Twitter](https://thereboot.com/creating-decentralized-social-media-alternatives-to-facebook-and-twitter/ "Creating Decentralized Social Media Alternatives to Facebook and Twitter") by Robert W. Gehl on [The Reboot](https://thereboot.com/ "The Reboot")
 - [Redecentralize blog](https://redecentralize.org/blog "Redecentralize’s blog"), an independent, volunteer-driven organisation promoting the decentralisation of our digital technology.
@@ -94,7 +94,7 @@ Run your own social networking platform! It is awesome and, in the end, it is no
 
 The last solution is the best one: build your own website! Whatever your technical skills may be, you can be your own social media provider and create your online world by yourself. [Wordpress](https://wordpress.com "Wordpress") is the most popular and it's easiest way to start, but if you'd like to learn web development, I suggest [Jekyll](https://jekyllrb.com "Jekyll official website"), which I used for my personal site as well as this one!
 
-### Further info
+### Further information
 
 - [Get a Website Now! Don't be a Web Peasant!](https://youtu.be/bdKZVIGRAKQ "Get a Website Now! Don't be a Web Peasant!"), a YouTube video by [Luke Smith](https://lukesmith.xyz "Luke's personal website")
 
@@ -112,3 +112,12 @@ You may start a newsletter or record a podcast, they're very popular these days!
 
 Regardless of what you decide to do, you can start enjoying your freedom from Social Media.\
 At first, it's going to be quite hard, but on the long run it's going to be a great gain!
+
+<br>
+<br>
+
+## Further information
+
+Some more links on alternatives and solutions to Social Media.
+
+- [<cite>Together, we can rebuild the system</cite>](https://www.humanetech.com/rebuild "Together, we can align technology with humanity’s best interests"), on the website of the [<cite>Center for Humane Technology</cite>](https://www.humanetech.com/ "Center for Humane Technology")

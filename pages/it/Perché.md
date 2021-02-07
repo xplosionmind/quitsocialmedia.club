@@ -18,9 +18,10 @@ Prima di cause e processi, regolamentazioni e leggi, l’azione più importante,
 
 ## Rabbia
 
-È scientificamente provato che le emozioni negative coinvolgano le persone molto più di quelle positive. Gli algoritmi che compongono i *feed* sui *social* sono programmati specificamente per massimizzare il coinvolgimento e le interazioni, senza curarsi veramente di come gli utenti possano sentirsi (anche perché un algoritmo, per adesso, non sa provare emozioni).   
-I nostri sentimenti sono governati da una macchina: ci arrabbiamo per qualcosa che vediamo, reagiamo, e cominciamo a visualizzare sempre più contenuti al riguardo.   
-Maggiore è la rabbia, maggiore è l'interazione, meglio è.
+<u>È scientificamente provato che le emozioni negative coinvolgano le persone molto più di quelle positive</u>. Gli algoritmi che compongono i *feed* sui *social* sono programmati specificamente per massimizzare il coinvolgimento e le interazioni, senza curarsi veramente di come gli utenti possano sentirsi (anche perché un algoritmo, per adesso, non sa provare emozioni).   
+I nostri sentimenti sono governati da una macchina: ci arrabbiamo per qualcosa che vediamo, reagiamo, e cominciamo a visualizzare sempre più contenuti al riguardo.
+
+<br>
 
 ### Maggiori informazioni
 
@@ -43,6 +44,7 @@ Inoltre, è stato riportato da diverse fonti che i moderatori di contenuti sono 
 
 - [Facebook can’t fix itself](https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself "Facebook can’t fix itself"), un articolo di [Andrew Marantz](https://en.wikipedia.org/wiki/Andrew_Marantz "Andrew Marantz on Wikipedia") su [<cite>The New Yorker</cite>]
 - [Facebook Executives Shut Down Efforts to Make the Site Less Divisive](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499 "Facebook Executives Shut Down Efforts to Make the Site Less Divisive"), un articolo sul [Wall Street Journal](https://www.wsj.com "The Wall Street Journal")
+- [Bodies in seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa "Bodies in seats"), by [Casey Newton](https://www.theverge.com/authors/casey-newton "Casey Newton author page on The Verge") on [The Verge](https://www.theverge.com "The Verge")
 - [altri contenuti](/links#hate "More resources related to hate and Social Media")
 
 <br>
@@ -61,6 +63,7 @@ I *Social Media* non fanno molto per favorire un modo più pacifico di esprimere
 
 - [How Facebook profits from polarization](https://ted.com/talks/yael_eisenstat_how_facebook_profits_from_polarization "How Facebook profits from polarization"), un <mark class="red">TED Talk</mark> di [Yael Eisenstat](https://en.wikipedia.org/wiki/Yael_Eisenstat "Yael Eisenstat on Wikipedia")
 - <cite><a href="https://thesocialdilemma.com" rel="noopener noreferrer" target="_blank" title="The Social Dilemma">The Social Dilemma</a></cite>, a <mark class="red">documentario</mark> di [Jeff Orlowski](https://it.wikipedia.org/wiki/Jeff_Orlowski "Jeff Orlowski")
+- [Facebook Can’t Fix what it won’t admit to](https://www.wired.com/story/plaintext-facebook-cant-fix-what-it-wont-admit-to/ "Facebook Can’t Fix what it won’t admit to") by [Steven Levy](https://en.wikipedia.org/wiki/Steven_Levy "Steven Levy on Wikipedia") on [Wired](https://wired.com "Wired")
 - [altri contenuti](/links#polarizzazione "More resources on Polarization and Social Media")
 
 <br>
@@ -75,8 +78,9 @@ Intorno a questo punto si sta svolgendo un grande dibattito, che riguarda specif
 
 ### Maggiori informazioni
 
-- [Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech.](https://www.eff.org/deeplinks/2020/11/dont-blame-section-230-big-techs-failures-blame-big-tech "Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech. - EFF"), by Elliot Harmon su [EFF](https://eff.org "EFF official website")
-- [Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies](https://thereboot.com/control-stifle-censor-social-media-toxic-double-edged-policies/ "Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies"), by Jillian C. York su [The Reboot](https://thereboot.com/ "The Reboot")
+- [How to save Facebook from democracy](https://www.foreignaffairs.com/articles/united-states/2020-11-24/fukuyama-how-save-democracy-technology "How to save Facebook from democracy"), by Francis Fukuyama, Barak Richman, and Ashish Goel on [Foreign Affairs](https://www.foreignaffairs.com "Foreign Affairs")
+- [Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech.](https://www.eff.org/deeplinks/2020/11/dont-blame-section-230-big-techs-failures-blame-big-tech "Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech. - EFF") by Elliot Harmon on [EFF](https://eff.org "EFF official website")
+- [Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies](https://thereboot.com/control-stifle-censor-social-media-toxic-double-edged-policies/ "Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies") by Jillian C. York on [The Reboot](https://thereboot.com/ "The Reboot")
 - [altri contenuti](/links#misinformation "More resources about misinformation and Social Media")
 
 <br>
@@ -120,6 +124,12 @@ Nota: non sto criticando l'intrattenimento di basso livello, i contenuti trash o
 Potrebbe essere una questione dovuta soprattutto alle notifiche *push*, e la suoneria del nostro telefono che ronza in continuazione, catturando la nostra attenzione e invitandoci a visualizzare chi ha commentato il nostro ultimo post; tuttavia, non si tratta **esclusivamente** di questo, la nostra più o meno grave dipendenza dai *social* si basa su **come** questi sono studiati e costruiti: <u>siamo spinti così tanto ad essere soddisfatti che ad un certo punto ne abbiamo addirittura bisogno</u>.\
 Naturalmente chiunque potrà rispondere a questo punto dicendo “ma dai! Sono solo una minoranza quelli che sono davvero dipendenti, in questo modo!”.\
 Se ne hai il coraggio, disinstalla tutte le tue applicazioni social per un mese. Solo per curiosità, come esperimento; probabilmente non obietteresti di nuovo.
+
+<br>
+
+### Maggiori informazioni
+
+- [An Exploratory Study of Gambling Operators’ Use of Social Media and the Latent Messages Conveyed](https://link.springer.com/article/10.1007/s10899-015-9525-2 "An Exploratory Study of Gambling Operators’ Use of Social Media and the Latent Messages Conveyed")
 
 <br>
 <br>
@@ -358,5 +368,4 @@ Non è facile ed è piuttosto soloroso all'inizio, ma puoi farlo, possiamo farlo
 
 ## Cosa fare, ora?
 
-È arrivato il momento.\
-[Elimina](/elimina) i tuoi account.
+Il prossimo passo è il livello successivo nel [percorso](/percorso "Percorso") verso la libertà online

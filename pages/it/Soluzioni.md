@@ -64,12 +64,16 @@ Ho già trattato [le ragioni](/perché "Perché") per cui i *Social Media* così
 
 Questi *Social Network* alternativi non sono solo gratis da utilizzare, ma anche liberamente replicabili: chiunque può [installarli sul proprio server](#crea-il-tuo) e facilmente connesse fra loro. Immagina di avere il tuo proprio Facebook. Quanto sarebbe favoloso?
 
-- [Mastodon](https://joinmastodon.org "Mastodon"), con più di **quattro milioni di utenti** in tutto il mondo, è di gran lunga la piattaforma più diffusa e conosciuta; il suo funzionamento e la sua struttura sono molto simili a quelli di Twitter.
+- [Mastodon](https://mastodon.it "Mastodon"), con più di **quattro milioni di utenti** in tutto il mondo, è di gran lunga la piattaforma più diffusa e conosciuta; il suo funzionamento e la sua struttura sono molto simili a quelli di Twitter.
 - [Pixelfed](https://pixelfed.org "Pixelfed") è praticamente identico a Instagram; ha anche le storie.
 - [Friendica](https://friendi.ca "Friendica") è qualcosa di simile a Facebook
 - [PeerTube](https://joinpeertube.org "PeerTube official website") è una grandiosa piattaforma di video streaming, sviluppata dalla francese [Framasoft](https://framasoft.org/it/ "Framasoft"). Come il nome suggerisce, è come YouTube, ma sfrutta anche un geniale sistema di streaming peer-to-peer dei video per stressare meno i server che contengono video particolarmente popolari.
 
 Il dettaglio più sorprendente e grandioso è che tutte queste piattaforme, per quanto diverse, sono connesse fra loro: dal mio account su Mastodon posso seguire qualcuno su Pixelfed, così come un canale su PeerTube. Questo è possibile poiché questi *Social Media* alternativi sono basati su un protocollo chiamato [ActivityPub](https://it.wikipedia.org/wiki/ActivityPub "ActivityPub su Wikipedia"). Grazie a questo “federamento” le persone non solo su server, ma anche su *Social Media* differenti possono comunicare fra loro. Avere un account in uno di questi *Social* significa essere parte del magico [*Fediverse*](https://it.wikipedia.org/wiki/Fediverse "Fediverse on Wikipedia") (che sta per *Federated* (Social Media) *Universe*)
+
+### Maggiori informazioni
+
+- [Mastodon, il social media libero e decentralizzato](https://video.linux.it/videos/watch/3f6460c5-c1a9-4362-b0c9-824e0d1f8f86 "Mastodon, il social media libero e decentralizzato"), un video di spiegazione di [Filippo Della Bianca](https://mastodon.uno/@filippodb "@filippodb su mastodon.uno"), amministratore di [mastodon.uno](https://mastodon.uno "mastodon.uno")
 
 <br>
 <br>
@@ -81,7 +85,7 @@ L’ultima soluzione è di gran lunga la migliore, la più soddisfacente ed inim
 
 ### Maggiori informazioni
 
-- [Get a Website Now! Don't be a Web Peasant!](https://youtu.be/bdKZVIGRAKQ "Get a Website Now! Don't be a Web Peasant!"), a YouTube video by [Luke Smith](https://lukesmith.xyz "Luke's personal website")
+- [Get a Website Now! Don’t be a Web Peasant!](https://youtu.be/bdKZVIGRAKQ "Get a Website Now! Don't be a Web Peasant!"), a YouTube video by [Luke Smith](https://lukesmith.xyz "Luke's personal website")
 
 <br>
 <br>
@@ -96,4 +100,13 @@ Potresti voler iniziare *una newsletter* o registrare un podcast, sono molto di 
 <br>
 
 Indipendentemente da cosa si possa decidere di fare, è importante cominciare a godere gradualmente di una sempre maggiore libertà ed indipendenza dai *Social Media*.\
-All’inizio, sar àsicuramente dura, ma a lungo termine sarà un immenso guadagno!
+All’inizio, sar àsicuramente dura, ma a lungo termine sarà un immenso guadagno.
+
+<br>
+<br>
+
+## Maggiori informazioni
+
+Alcuni altri link a soluzioni ed alternative dopo l’abbandono dei Social Media:
+
+- [<cite>Together, we can rebuild the system</cite>](https://www.humanetech.com/rebuild "Together, we can align technology with humanity’s best interests"), sul sito deb del [<cite>Center for Humane Technology</cite>](https://www.humanetech.com/ "Center for Humane Technology")

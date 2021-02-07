@@ -1,48 +1,49 @@
 ---
 title: Link
 permalink: /it/links
-redirect_from: ["/bibliografia", "/risorse", "/it/link"]
+redirect_from: ["/bibliografia", "/risorse", "/it/link", "/link"]
 layout: page
-description: "Link a risorse citate o utilizzate."
+description: "Tutti i link alle risorse citate o utilizzate."
 lang: it
 ---
 <div class="blue box">
-	I link a <strong>tutte le risorse</strong> sono in <a href="/links"><em>Links</em></a>. Qui di seguito sono elencate esclusivamente quelle in italiano.
+	<strong>Tutti i link</strong> sono in <a href="/links"><em>Links</em></a>. Qui di seguito sono riportati esclusivamente quelli in italiano.
 </div>
 
-## General
+{% comment %}
+## Generale
 
 Torna alla [home](/it/home "Home")
 
 <br>
 
-## Anger
+## Rabbia
 
 <br>
 
-## Hate
+## Odio
 
-Torna a [Perché > Hate](/perché#hate "Hate")
+Torna a [Perché > Hate](/perché#odio "Hate")
 
-
-<br>
-
-## Polarization
-
-Torna a [Perché > Polarization](/perché#polarization "Polarization")
 
 <br>
 
-## Misinformation
+## Polarizzazione
 
-Torna a [Perché > Misinformation](/perché#disinformation "Disinformation")
+Torna a [Perché > Polarization](/perché#polarizzazione"Polarizzazione")
+
+<br>
+
+## Disinformazione
+
+Torna a [Perché > Misinformation](/perché#disinformazione"Disinformazione")
 
 
 <br>
 
 ## Bubble
 
-Torna a [Perché > Bubble](/perché#bubble "Bubble")
+Torna a [Perché > Bubble](/perché#bolla "Bolla")
 
 <br>
 
@@ -67,6 +68,7 @@ Torna a [Perché > Distraction](/perché#distraction "Distraction")
 ## Data
 
 Torna a [Perché > Data](/perché#data "Data")
+{% endcomment %}
 
 <br>
 
@@ -75,6 +77,7 @@ Torna a [Perché > Data](/perché#data "Data")
 Torna a [Perché > Profilation](/perché#profilation "Profilation")
 
 - [Gli algoritmi non sono cose, ma disposizioni di potere che riorganizzano la nostra società](http://www.vita.it/it/interview/2021/01/26/gli-algoritmi-non-sono-cose-ma-disposizioni-di-potere-che-riorganizzan/397/ "Gli algoritmi non sono cose, ma disposizioni di potere che riorganizzano la nostra società"), di Marco Dotti su [Vita](https://www.vita.it)
+{% comment %}
 
 <br>
 
@@ -105,12 +108,14 @@ Torna a [Perché > Content ownership](/perché#content-ownership "Content Owners
 ## Hurry
 
 Torna a [Perché > Hurry](/perché#hurry "Hurry")
+{% endcomment %}
 
 <br>
 
 ## Simplicity vs simplification
 
 Torna a [Perché > Simplicity vs Simplification](/perché#simplicity-vs-simplification "Simplicity vs Simplification")
+{% comment %}
 
 <br>
 
@@ -141,5 +146,4 @@ Torna a [Perché > Saturation](/perché#saturation "Saturation")
 ## Being used
 
 Torna a [Perché > Being used](/perché#being-used "Being used")
-
-- [Who does that server really serve?](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html "Who does that server really serve?"), by [Richard Stallman](https://stallman.org "Richard Stallman’s personal website") on [GNU.org](https://gnu.org "GNU")
+{% endcomment %}

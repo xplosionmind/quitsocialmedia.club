@@ -19,11 +19,11 @@ Among the arguments presented below, you might not believe in one or two or them
 
 ## Anger
 
-<u>It is scientifically proven that negative emotions engage users way more than positive emotions</u>. Algorithms which compose our feeds are tailored to maximize engagement and interaction, they do not actually care about how users feel. Our emotions are governed by a machine: some gets angry for something you see, she reacts to it, and she will start seeing more of it. <u>The more anger, the more engagement</u>, the better it is.
+<u>It is scientifically proven</u>[^1] <u>that negative emotions engage users way more than positive emotions</u>. Algorithms which compose our feeds are tailored to maximize engagement and interaction, they do not actually care about how users feel. Our emotions are governed by a machine: some gets angry for something you see, she reacts to it, and she will start seeing more of it. <u>The more anger, the more engagement</u>, the better it is.
 
 <br>
 
-### Further reading
+### Further information
 
 - [Digital Discrimination: How Systemic Bias Is Built Into the Internet](https://thereboot.com/digital-discrimination-how-systemic-bias-is-built-into-the-internet/ "Digital Discrimination: How Systemic Bias Is Built Into the Internet") by Sanjana Varghese on [The Reboot](https://thereboot.com/ "The Reboot")
 - [Facebook Will Permanently Stop Promoting Political Groups](https://www.forbes.com/sites/rachelsandler/2021/01/27/facebook-will-permanently-stop-promoting-political-groups/ "Facebook Will Permanently Stop Promoting Political Groups"), an article by [Rachel Sandler](https://www.forbes.com/sites/rachelsandler/ "Rachel Sandler’s articles") on [Forbes](https://forbes.com "Forbes"), which underscores the point that in the end Facebook suggestions are more harmful than useful to the users
@@ -39,10 +39,11 @@ Social Media allow us to report content which contains hate or insults, but the 
 
 <br>
 
-### Further reading
+### Further information
 
 - [Facebook can’t fix itself](https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself "Facebook can’t fix itself"), an article by [Andrew Marantz](https://en.wikipedia.org/wiki/Andrew_Marantz "Andrew Marantz on Wikipedia") on [<cite>The New Yorker</cite>]
 - [Facebook Executives Shut Down Efforts to Make the Site Less Divisive](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499 "Facebook Executives Shut Down Efforts to Make the Site Less Divisive"), an article on [The Wall Street Journal](https://www.wsj.com "The Wall Street Journal")
+- [Bodies in seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa "Bodies in seats"), by [Casey Newton](https://www.theverge.com/authors/casey-newton "Casey Newton author page on The Verge") on [The Verge](https://www.theverge.com "The Verge")
 - [more](/links#hate "More resources related to hate and Social Media")
 
 
@@ -57,10 +58,10 @@ It goes without saying that hateful speech and anger lead to a strong polarizati
 
 <br>
 
-### Further reading
+### Further information
 
 - [How Facebook profits from polarization](https://ted.com/talks/yael_eisenstat_how_facebook_profits_from_polarization "How Facebook profits from polarization"), a <mark class="red">TED Talk</mark> by [Yael Eisenstat](https://en.wikipedia.org/wiki/Yael_Eisenstat "Yael Eisenstat on Wikipedia")
-- <cite><a href="https://thesocialdilemma.com" rel="noopener noreferrer" target="_blank" title="The Social Dilemma">The Social Dilemma</a></cite>, a <mark class="red">documentary</mark> by [Jeff Orlowski](https://en.wikipedia.org/wiki/Jeff_Orlowski "Jeff Orlowski")
+- [Facebook Can’t Fix what it won’t admit to](https://www.wired.com/story/plaintext-facebook-cant-fix-what-it-wont-admit-to/ "Facebook Can’t Fix what it won’t admit to") by [Steven Levy](https://en.wikipedia.org/wiki/Steven_Levy "Steven Levy on Wikipedia") on [Wired](https://wired.com "Wired")
 - [more](/links#polarization "More resources on Polarization and Social Media")
 
 <br>
@@ -72,8 +73,9 @@ This is one of the key points of 2020, and of the last months in general: Social
 
 <br>
 
-### Further reading
+### Further information
 
+- [How to save Facebook from democracy](https://www.foreignaffairs.com/articles/united-states/2020-11-24/fukuyama-how-save-democracy-technology "How to save Facebook from democracy"), by Francis Fukuyama, Barak Richman, and Ashish Goel on [Foreign Affairs](https://www.foreignaffairs.com "Foreign Affairs")
 - [Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech.](https://www.eff.org/deeplinks/2020/11/dont-blame-section-230-big-techs-failures-blame-big-tech "Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech. - EFF") by Elliot Harmon on [EFF](https://eff.org "EFF official website")
 - [Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies](https://thereboot.com/control-stifle-censor-social-media-toxic-double-edged-policies/ "Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies") by Jillian C. York on [The Reboot](https://thereboot.com/ "The Reboot")
 - [more](/links#misinformation "More resources about misinformation and Social Media")
@@ -87,7 +89,7 @@ Since algorithms which govern Social Media aim to keep users hooked to their pla
 
 <br>
 
-### Further reading
+### Further information
 
 - [The Obsession With Big Tech Is Distorting the Big Picture](https://thereboot.com/the-obsession-with-big-tech-is-distorting-the-big-picture/ "The Obsession With Big Tech Is Distorting the Big Picture") by Karl Bode on [The Reboot](https://thereboot.com/ "The Reboot")
 - [The Future of Privacy](https://philosophy247.org/podcasts/the-future-of-privacy/ "Philosophy 24/7 The Future of Privacy"), a <mark class="blue">podcast</mark> interview to [Carissa Véliz](https://carissaveliz.com "Carissa Véliz"), specifically speaking about “the bubble” at minute `4:00`
@@ -109,6 +111,10 @@ Note: I'm not criticizing low level entrateinment and silly funny images or vide
 It may be a matter of push notifications, and the ringtone of our smartphone always buzzing and capturing our attention, requiring us to look at who commented on our latest post; nevertheless, it's not just this, it's about how Social Media are designed and built: they require us to be satisfied so much by what we experience that we start to somewhat *need* it.\
 Ok, anyone may reply to this argument “come on, it's very few people! I'm not addicted!”. If you dare, uninstall all of your social media apps for one month, just out of curiosity, as an experiment; you probably wouldn't repeat this again.
 
+### Further information
+
+- [An Exploratory Study of Gambling Operators’ Use of Social Media and the Latent Messages Conveyed](https://link.springer.com/article/10.1007/s10899-015-9525-2 "An Exploratory Study of Gambling Operators’ Use of Social Media and the Latent Messages Conveyed")
+
 <br>
 <br>
 
@@ -126,7 +132,7 @@ Whether we want this or not, even by passively using Social Media, so by browsin
 
 <br>
 
-### Further reading
+### Further information
 
 - [How tech companies deceive you into giving up your data and privacy](https://www.ted.com/talks/finn_lutzow_holm_myrstad_how_tech_companies_deceive_you_into_giving_up_your_data_and_privacy "How tech companies deceive you into giving up your data and privacy"), a <mark class="red">TED Talk</mark> by [Finn Lützow-Holm Myrstad](https://www.ted.com/speakers/finn_myrstad "Finn Lützow-Holm Myrstad")
 
@@ -141,11 +147,12 @@ It's not a secret: our identity is sold to addvertisers to show (or better, floo
 
 <br>
 
-### Further reading
+### Further information
 
 - [The Cambridge Analytica Story, Explained](https://www.wired.com/amp-stories/cambridge-analytica-explainer/ "The Cambridge Analytica Story, Explained"), by [WIRED](https://wired.com)
 - [Facebook's role in Brexit — and the threat to democracy](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy "Facebook's role in Brexit — and the threat to democracy"), a <mark class="red">TED Talk</mark> by [Carole Cadwalladr](https://en.wikipedia.org/wiki/Carole_Cadwalladr "Carole Cadwalladr on Wikipedia")
 - [How Surveillance Advertising Seized Our Data and Hijacked the Web](https://thereboot.com/how-surveillance-advertising-seized-our-data-and-hijacked-the-web/ "How Surveillance Advertising Seized Our Data and Hijacked the Web") by Matthew Crain on [The Reboot](https://thereboot.com/ "The Reboot")
+- [more](/links#profilation)
 
 <br>
 <br>
@@ -158,7 +165,7 @@ Facebook is now being sued in the US by the government and by several states, ex
 
 <br>
 
-### Further reading
+### Further information
 
 - [Monopoly Machine: Understanding the System That Shapes the Internet](https://thereboot.com/monopoly-machine-understanding-the-system-that-shapes-the-internet/ "Monopoly Machine: Understanding the System That Shapes the Internet"), an article by Emma Johanningsmeier on [The Reboot](https://thereboot.com/ "The Reboot")
 - [FTC Sues Facebook for Illegal Monopolization](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization "FTC Sues Facebook for Illegal Monopolization"), the press release in which the Federal Trade Commission announces to sue Facebook
@@ -246,7 +253,7 @@ Important passage:
 
 <br>
 
-### Further readings
+### Further informations
 
 - SocialMediaToday: [Who Owns Your Content Online?](https://www.socialmediatoday.com/content/who-owns-your-content-online)
 - TechJunkie: [Does Instagram Own the Pictures & Photos you Post?](https://social.techjunkie.com/instagram-own-photos-pictures/)
@@ -259,6 +266,12 @@ Important passage:
 As noted in [distraction](#distraction "Distraction"), we look at anything which appears on our feed very quickly. We double tap and like hundreds of posts every day, and we do it so much that we don't mind anymore the importance of the content. We may look at one of our friends taking a selfie with her new make-up and immediately after this a video of a forest being devastated by wildfire. Isn't it strongly unethical? Is it right to dedicate few seconds, or even milliseconds, to such different topics, jumping from hard and touching images, to silly and funny ones? I believe this is not how human nature is. To learn something, we need to take time and commit ourselves to it, 100%.
 
 Social Media make everything appear similar by flattening every post and putting it into the same, identical, container. In this way, we lose empathy, compassion and we can't distinguish anymore what's important and what's worrying to what's a joke.
+
+<br>
+
+### Further reading
+
+- [Why PixelFed won't save us from Instagram](https://victoria.dev/blog/why-pixelfed-wont-save-us-from-instagram/ "Why PixelFed won't save us from Instagram"), an article by [Victoria Drake](https://victoria.dev/ "Victoria Drake")
 
 <br>
 <br>
@@ -333,7 +346,7 @@ It's not easy, and it's quite painful at the beginning, but you can do it, we ca
 
 <br>
 
-### Further reading
+### Further information
 
 - [<cite>Who does that server really serve?</cite>](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html "Who does that server really serve?"), by [Richard Stallman](https://richardstallman.org "Richard Stallman’s personal website") on [GNU.org](https://gnu.org "GNU official website")
 
@@ -343,5 +356,6 @@ It's not easy, and it's quite painful at the beginning, but you can do it, we ca
 
 ## What to do now?
 
-Probably, it is about time.\
-[Delete](/delete "Delete your Social Media accounts") your Social Media accounts.
+See what’s next on the [path](/path "Path")
+
+[^1]: From <cite>Ten Arguments for Deleting your Social Media Accounts Right Now</cite>, by Jaron Lanier: <q>The prime directive to be engaging reinforces itself, and no one even notices that negative emotions are being amplified more than positive ones. Engagement is not meant to serve any particular purpose other than its own enhancement, and yet the result is an unnatural global amplification of the “easy” emotions, which happen to be the negative ones.</q>
