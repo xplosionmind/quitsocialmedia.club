@@ -3,7 +3,7 @@ title: Obiezioni e risposte
 ref: faq
 permalink: /it/faq
 redirect_from: ["/risposte-e-obiezioni", "/obiezioni-e-risposte", "/risposte-obiezioni", "/obiezioni-risposte", "/domande", "/domande-frequenti", "/domande-e-risposte", "/domande-risposte"]
-description: "Come fanno gli scrittori seri, ho inviato in anteprima questo sito a persone particolarmente informate su questi temi e di cui valuto molto l'opinione affinché condividessero con me le loro impressioni. In stile pseudo-filosofico, affronto alcune delle loro domande ed obiezioni qui di seguito."
+description: "Come fanno gli intellettuali seri, ho inviato in anteprima questo sito a persone particolarmente informate su questi temi e di cui apprezzo molto l'opinione affinché condividessero con me le loro impressioni. In stile pseudo-filosofico, affronto alcune delle loro domande ed obiezioni qui di seguito."
 lang: it
 ---
 ## Coerenza
@@ -60,9 +60,9 @@ Il mio guadagno è strettamente personale e corrisponde alla felicità di fare l
 
 ##### *Una volta completato il sito, cosa farai?*
 
-Una premessa: questo sito web, come ogni antra cosa su internet, non potrà mai essere **completamente terminato**. Tutto ciò che esiste su internet, è in realtà un *processo infinito*.
+Una premessa: questo sito web, come ogni altra cosa su internet, non potrà mai essere **completamente terminato**. Tutto ciò che esiste su internet, è in realtà un *processo infinito*.
 Lo spammerò ovunque e ne parlerò in qualunque conversazione con chiunque. A parte questo, sono uno [*structured procrastinator*](http://structuredprocrastination.com "Structured Procrastination") e sono troppo distratto da altre mille questioni per riuscire a mantenere questo sito aggiornato e aggiungere nuovi contenuti; tuttavia, se fossi desideroso di migliorare e aggiornare *quitsocialmedia.club*, [puoi farlo tu stesso](/contribuisci "Contribuisci")!\
-Per quanto riguarda gli aspetti tecnici: se qualcuno fosse così gentile da aiutaemi a pagarlo, il dominio `.club` continuerà ad essere utilizzato, mentre l'*hosting* è offerto gratis da [Netlify](https://netlify.com "Netlify"), quindi non c’è problema.
+Per quanto riguarda gli aspetti tecnici: se qualcuno fosse così gentile da aiutarmi a pagarlo, il dominio `.club` continuerà ad essere utilizzato, mentre l'*hosting* è offerto gratis da [Netlify](https://netlify.com "Netlify"), quindi non c’è problema.
 
 <br>
 

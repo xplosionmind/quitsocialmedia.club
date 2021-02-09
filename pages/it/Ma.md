@@ -16,7 +16,7 @@ La bellezza degli esperimenti è che possono essere svolti illimitatamente per l
 
 ## Ma poi rimango isolato dal mondo!
 
-Questa è probabilmente la replica che più comunemente ricevo. Se dicessi che non è vero, mentirei spudoratamente. Anche a me, in molti casi, viene una voglia matta di guardare le storie su instagram di amici che non vedo da un pezzo, o quando un amico mi porge il telefono per guardare una meme su un social, mi trovo a perdere alcuni minuti a scrollare il suo feed, come se mi fossi dimenticato della sua esistenza.
+Questa è probabilmente la replica che più comunemente ricevo. Se dicessi che non è vero, mentirei. Anche a me, in molti casi, viene una voglia matta di guardare le storie su instagram di amici che non vedo da un pezzo, o quando un amico mi porge il telefono per guardare una meme su un social, mi trovo a perdere alcuni minuti a scrollare il suo feed, come se mi fossi dimenticato della sua esistenza.
 
 Fra le [soluzioni](/soluzioni) ci sono molteplici sistemi per minimizzare la distanza il più possibile, ma ovviamente non sarà mai possibile fare come se nulla fosse.
 

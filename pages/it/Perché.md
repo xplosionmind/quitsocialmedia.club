@@ -41,7 +41,7 @@ Inoltre, è stato riportato da diverse fonti che i moderatori di contenuti sono 
 
 ### Maggiori informazioni
 
-- [Facebook can’t fix itself](https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself "Facebook can’t fix itself"), un articolo di [Andrew Marantz](https://en.wikipedia.org/wiki/Andrew_Marantz "Andrew Marantz on Wikipedia") su [<cite>The New Yorker</cite>]
+- [Facebook can’t fix itself](https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself "Facebook can’t fix itself"), un articolo di [Andrew Marantz](https://en.wikipedia.org/wiki/Andrew_Marantz "Andrew Marantz on Wikipedia") su [<cite>The New Yorker</cite>](https://www.newyorker.com "The Newyorker")
 - [Facebook Executives Shut Down Efforts to Make the Site Less Divisive](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499 "Facebook Executives Shut Down Efforts to Make the Site Less Divisive"), un articolo sul [Wall Street Journal](https://www.wsj.com "The Wall Street Journal")
 - [Bodies in seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa "Bodies in seats"), by [Casey Newton](https://www.theverge.com/authors/casey-newton "Casey Newton author page on The Verge") on [The Verge](https://www.theverge.com "The Verge")
 - [altri contenuti](/links#hate "More resources related to hate and Social Media")
@@ -166,6 +166,7 @@ Non è un segreto: tutto ciò che ho appena elencato è venduto a caro prezzo ad
 - [The Cambridge Analytica Story, Explained](https://www.wired.com/amp-stories/cambridge-analytica-explainer/ "The Cambridge Analytica Story, Explained"), di [WIRED](https://wired.com)
 - [Facebook's role in Brexit — and the threat to democracy](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy "Facebook's role in Brexit — and the threat to democracy"), un <mark class="red">TED Talk</mark> di [Carole Cadwalladr](https://en.wikipedia.org/wiki/Carole_Cadwalladr "Carole Cadwalladr on Wikipedia")
 - [How Surveillance Advertising Seized Our Data and Hijacked the Web](https://thereboot.com/how-surveillance-advertising-seized-our-data-and-hijacked-the-web/ "How Surveillance Advertising Seized Our Data and Hijacked the Web") di Matthew Crain su [The Reboot](https://thereboot.com/ "The Reboot")
+- [How to Destroy Surveillance Capitalism](https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59 "How to Destroy Surveillance Capitalism"), di [Cory Doctorow](https://pluralistic.net "Pluralistic - Cory Doctorow")
 
 <br>
 <br>
@@ -176,7 +177,7 @@ Esiste un modo per diventare influencer, promuovere un prodotto, condividere un'
 Indipendentemente dal loro essere una cosa positiva o negativa, il fatto che l'unico modo per essere considerati, ascoltati, o anche solo notati in questo mondo confuso sia fare affidamento su piattaforme che sono possedute da immense *corporations* che utilizzano i nostri contenuti per crescere a dismisura e incessantemente, guadagnando impronunciabili somme di denaro, è profondamente ingiusto.   
 Le aziende che possiedono i *Social Media* sono <u>monopoli che non permettono a nessuno di competere con loro</u>, o acquistano e inglobano le società che entrano con loro in collisione, oppure ancora essendo così tanto più grandi da schiacciarle.
 
-Facebook è stato denunciato ed è ora sotto processo da parte del governo statunitense e molti altri stati del mondo, precisamente con l'accusa di aver comprato illegalmente la competizione.
+Facebook è stato denunciato ed è ora sotto processo da parte del governo statunitense e molti altri stati del mondo, precisamente con l'accusa di aver comprato illegalmente le società concorrenti.
 
 <br>
 
@@ -359,11 +360,11 @@ Pensa a qualcosa che puoi fare grazie ai *Social Media*: non è possibile farlo 
 
 I *Social Media* ci impongono così tante regole, limiti, strutture e preconcetti che i veri utenti non siamo più noi. Le nostre interazioni, ciò che pubblichiamo, così come tutto quello a cui regiamo, produce valore e guadagno, ma non per noi. Siamo abituati a produrre e regalare beni per coloro che controllano le piattaforme che usiamo per produrli, con la scusa che grazie ad essi ci connettiamo, interagiamo, stringiamo e rafforziamo amicizie o addirittura troviamo l'amore. Non è così! Potremmo essere in grado di fare tutto ciò, magari in modo anche migliore, <u>senza</u> i *Social Media*, ma, ora come ora, non possiamo.
 
-È davvero artudo per noi per noi cambiare i *Social Media* e smettere di essere usati da essi, ma possiamo liberarci abbandonandoli completamente. Non esistono vie di mezzo, il compromesso del “facciamo una rivoluzione dall'interno” è inefficace, poco audace, inutile. “Utilizzare i *Social Media* in modo consapevole” è una barzelletta tanto quanto affermare che non hanno influenza sulla società.
+È davvero arduo per noi per noi cambiare i *Social Media* e smettere di essere usati da essi, ma possiamo liberarci abbandonandoli completamente. Non esistono vie di mezzo, il compromesso del “facciamo una rivoluzione dall'interno” è inefficace, poco audace, inutile. “Utilizzare i *Social Media* in modo consapevole” è una barzelletta tanto quanto affermare che non hanno influenza sulla società.
 
 Nelle nostre mani abbiamo la possibilità di dire no, di fermare la tendenza, di alimentare diversità, empatia, quiete, significato, arte ed autenticitò al mondo.
 
-Non è facile ed è piuttosto soloroso all'inizio, ma puoi farlo, possiamo farlo, se non siamo soli.
+Non è facile ed è piuttosto doloroso all'inizio, ma puoi farlo, possiamo farlo, se non siamo soli.
 
 <br>
 <br>

@@ -6,7 +6,7 @@ ref: sol
 toc: true
 layout: page
 redirect_from: ["/sol-it", "/it/sol", "/soluzione", "/it/solutions"]
-description: "Essere “social” senza “<i>Social Media</i>” sembra impossibile. Tuttavia, quella senza <i>Social Media</i> una nuova vita, straordinaria, piena di sorprese, scoperte, autenticità ed eccitazione, ma, soprattutto, <strong>libera</strong>. Esistono alcune favolose soluzioni talmente perfette che danno apparire i <i>Social Media</i> quasi inutili e stupidi."
+description: "Essere “social” senza “<i>Social Media</i>” sembra impossibile. Tuttavia, quella senza <i>Social Media</i> è una nuova vita, straordinaria, piena di sorprese, scoperte, autenticità ed eccitazione, ma, soprattutto, <strong>libera</strong>. Esistono alcune favolose soluzioni talmente perfette da far apparire i <i>Social Media</i> quasi inutili e stupidi."
 ---
 ## Brevemente
 
@@ -19,7 +19,7 @@ Il concetto fondamentale è: per essere aggiornato e seguire l'attività di pers
 
 ## RSS feed
 
-Potresti on avere idea di [cosa sia un feed RSS feed](https://it.wikipedia.org/wiki/RSS "“RSS” su Wikipedia"), o potresti averne sentito parlare come di qualcosa di vecchio e obsoleto. Tuttavia, è uno strumento semplicissimo che preserva l'anonimato, non è posseduto da nessuno e non necessita di alcun server dedicato per funzionare. Non è governato da algoritmi e nessuno può sapere chi segui, cosa leggi, ascolti o credi, tantomeno è possibile utilizzare dati per [fini commerciali](/perché#profilazione "Profilazione"), dato che non vengono raccolte informazioni su di te (nella maggior parte dei casi).
+Potresti non avere idea di [cosa sia un feed RSS feed](https://it.wikipedia.org/wiki/RSS "“RSS” su Wikipedia"), o potresti averne sentito parlare come di qualcosa di vecchio e obsoleto. Tuttavia, è uno strumento semplicissimo che preserva l'anonimato, non è posseduto da nessuno e non necessita di alcun server dedicato per funzionare. Non è governato da algoritmi e nessuno può sapere chi segui, cosa leggi, ascolti o credi, tantomeno è possibile utilizzare dati per [fini commerciali](/perché#profilazione "Profilazione"), dato che non vengono raccolte informazioni su di te (nella maggior parte dei casi).
 
 Alcuni dicono che i feed RSS sono morti, uccisi dai *Social Media*. In realtà, sono imperituri, e sono tuttora **ovunque** sul web. Per fare un esempio, tutti i podcast del mondo sfruttano i feed RSS per apparire su diverse piattaforme e per essere condivisi e riprodotti.
 
@@ -60,7 +60,7 @@ Nella maggior parte dei casi, se non ti interessa seguire un account e non perde
 
 ## Alternative
 
-Ho già trattato [le ragioni](/perché "Perché") per cui i *Social Media* così come noi li conosciamo siano preoccupantemente dannosi. Peraltro, esistono innumerevoli piattaforme che ne risolvono molti, se non tutti, i più importanti problemi. Le caratteristiche distintive di tali piattaforme sono <u>la totale assenza di pubblicità</u>, la minima raccolta di dati personali, <u>non sfruttati per profilare gli utenti</u>, ma, soprttutto, <u>sono liberi, aperti e indipendenti</u>.
+Ho già trattato [le ragioni](/perché "Perché") per cui i *Social Media* così come noi li conosciamo siano preoccupantemente dannosi. Peraltro, esistono innumerevoli piattaforme che ne risolvono molti, se non tutti, i più importanti problemi. Le caratteristiche distintive di tali piattaforme sono <u>la totale assenza di pubblicità</u>, la minima raccolta di dati personali, <u>non sfruttati per profilare gli utenti</u>, ma, soprattutto, <u>sono liberi, aperti e indipendenti</u>.
 
 Questi *Social Network* alternativi non sono solo gratis da utilizzare, ma anche liberamente replicabili: chiunque può [installarli sul proprio server](#crea-il-tuo) e facilmente connesse fra loro. Immagina di avere il tuo proprio Facebook. Quanto sarebbe favoloso?
 
@@ -100,7 +100,7 @@ Potresti voler iniziare *una newsletter* o registrare un podcast, sono molto di 
 <br>
 
 Indipendentemente da cosa si possa decidere di fare, è importante cominciare a godere gradualmente di una sempre maggiore libertà ed indipendenza dai *Social Media*.\
-All’inizio, sar àsicuramente dura, ma a lungo termine sarà un immenso guadagno.
+All’inizio, sarà sicuramente dura, ma a lungo termine sarà un immenso guadagno.
 
 <br>
 <br>
@@ -110,5 +110,6 @@ All’inizio, sar àsicuramente dura, ma a lungo termine sarà un immenso guadag
 Alcuni altri link a soluzioni ed alternative dopo l’abbandono dei Social Media:
 
 - [Living without Social Media](https://youtu.be/3E7hkPZ-HTk "Quit social media | Dr. Cal Newport | TEDxTysons"), un <mark class="red">TED Talk</mark> di dr. Cal Newport
+- [My personal wishlist for a decentralized social network](https://carter.sande.duodecima.technology/decentralized-wishlist/ "My personal wishlist for a decentralized social network"), by Carter Sande
 - [<cite>Together, we can rebuild the system</cite>](https://www.humanetech.com/rebuild "Together, we can align technology with humanity’s best interests"), sul sito deb del [<cite>Center for Humane Technology</cite>](https://www.humanetech.com/ "Center for Humane Technology")
 - [Okuna](https://about.okuna.io "Okuna"), <q>an ethical social network for a brighter tomorrow</q>.

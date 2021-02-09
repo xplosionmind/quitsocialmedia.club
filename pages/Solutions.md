@@ -122,4 +122,5 @@ Some more links on alternatives and solutions to Social Media.
 
 - [Living without Social Media](https://youtu.be/3E7hkPZ-HTk "Quit social media | Dr. Cal Newport | TEDxTysons"), a <mark class="red">TED Talk</mark> by dr. Cal Newport
 - [<cite>Together, we can rebuild the system</cite>](https://www.humanetech.com/rebuild "Together, we can align technology with humanity’s best interests"), on the website of the [<cite>Center for Humane Technology</cite>](https://www.humanetech.com/ "Center for Humane Technology")
+- [My personal wishlist for a decentralized social network](https://carter.sande.duodecima.technology/decentralized-wishlist/ "My personal wishlist for a decentralized social network"), by Carter Sande
 - [Okuna](https://about.okuna.io "Okuna"), <q>an ethical social network for a brighter tomorrow</q>.

@@ -57,9 +57,10 @@ Go back to the [homepage](/home "Home")
 - [Internet of People](https://iop.global "Internet of People")
 - [runyourown.social](https://runyourown.social "Run Your Own Social")
 - [Get a Website Now! Don't be a Web Peasant!](https://youtu.be/bdKZVIGRAKQ "Get a Website Now! Don't be a Web Peasant!"), a YouTube video by [Luke Smith](https://lukesmith.xyz "Luke's personal website")
+- [Living without Social Media](https://youtu.be/3E7hkPZ-HTk "Quit social media | Dr. Cal Newport | TEDxTysons"), a <mark class="red">TED Talk</mark> by dr. Cal Newport
+- [My personal wishlist for a decentralized social network](https://carter.sande.duodecima.technology/decentralized-wishlist/ "My personal wishlist for a decentralized social network"), by Carter Sande
 - [<cite>Together, we can rebuild the system</cite>](https://www.humanetech.com/rebuild "Together, we can align technology with humanity’s best interests"), on the website of the [<cite>Center for Humane Technology</cite>](https://www.humanetech.com/ "Center for Humane Technology")
 - [Okuna](https://about.okuna.io "Okuna"), <q>an ethical social network for a brighter tomorrow</q>.
-- [Living without Social Media](https://youtu.be/3E7hkPZ-HTk "Quit social media | Dr. Cal Newport | TEDxTysons"), a <mark class="red">TED Talk</mark> by dr. Cal Newport
 
 <br>
 <br>
@@ -153,7 +154,11 @@ Go back to [Why > Data](/why#data "Data")
 
 Go back to [Why > Profilation](/why#profilation "Profilation")
 
+- [How to Destroy Surveillance Capitalism](https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59 "How to Destroy Surveillance Capitalism"), di [Cory Doctorow](https://pluralistic.net "Pluralistic - Cory Doctorow")
 - [Twenty years of surveillance marketing](https://www.wired.com/beyond-the-beyond/2018/11/twenty-years-surveillance-marketing/ "Twenty years of surveillance marketing"), by [Bruce Sterling](https://en.wikipedia.org/wiki/Bruce_Sterling "Bruce Sterling on Wikipedia") on [Wired](https://wired.com "Wired")
+- [The Cambridge Analytica Story, Explained](https://www.wired.com/amp-stories/cambridge-analytica-explainer/ "The Cambridge Analytica Story, Explained"), by [WIRED](https://wired.com)
+- [Facebook's role in Brexit — and the threat to democracy](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy "Facebook's role in Brexit — and the threat to democracy"), a <mark class="red">TED Talk</mark> by [Carole Cadwalladr](https://en.wikipedia.org/wiki/Carole_Cadwalladr "Carole Cadwalladr on Wikipedia")
+- [How Surveillance Advertising Seized Our Data and Hijacked the Web](https://thereboot.com/how-surveillance-advertising-seized-our-data-and-hijacked-the-web/ "How Surveillance Advertising Seized Our Data and Hijacked the Web") by Matthew Crain on [The Reboot](https://thereboot.com/ "The Reboot")
 
 <br>
 
