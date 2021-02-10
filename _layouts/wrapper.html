@@ -26,6 +26,16 @@ layout: compress
 			}
 		</script>
 		<input id="search" rel="search" type="search" class="tool" />
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+		<script type="text/javascript">
+			algoliasearchNetlify({
+				appId: 'RGL65NK0OK',
+				apiKey: 'a3a856d5e19b018ae4ccfa9e7152af98',
+				siteId: 'c5a2f8f0-e22a-4ae4-82e4-bcdea06adf7c',
+				branch: 'main',
+				selector: 'input#search',
+			});
+		{% endcomment %}
 		{% include nav.html %}
 
 		{% if page.tags contains 'draft' or page.tags contains 'wip' %}
