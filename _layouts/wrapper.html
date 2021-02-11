@@ -25,6 +25,7 @@ layout: compress
 				}
 			}
 		</script>
+		{% comment %}
 		<input id="search" rel="search" type="search" class="tool" />
 		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
 		<script type="text/javascript">
@@ -36,6 +37,7 @@ layout: compress
 				selector: 'input#search',
 			});
 		</script>
+		{% endcomment %}
 		{% include nav.html %}
 
 		{% if page.tags contains 'draft' or page.tags contains 'wip' %}
