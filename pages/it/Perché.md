@@ -4,13 +4,24 @@ permalink: /perché
 redirect_from: ["/it/why", "/why-it", "/perche", "/motivi", "/perchè", "/it/l1", "/it/l01", "/it/l-01", "/it/level01", "/it/level1", "/it/level-1", "/it/level-01"]
 lang: it
 ref: why
-toc: true
 layout: page
+toc: false
 description: "Perché abbandonare i <i>Social Media</i>?"
 ---
-Non ho ancora trovato un luogo su internet in cui siano riportate e riassunte *tutte* le diverse ragioni per cui i Social Media sono pericolosi e dannosi. È facile non fidarsi e non credere ad alcuni di questi, oppure perfino la maggioranza non saranno sufficienti per convincere chi leggerà.   
+Non ho ancora trovato un luogo su internet in cui siano riportate e riassunte *tutte* le diverse ragioni per cui i *Social Media* sono pericolosi e dannosi. Fra quelli di seguito, sarà facile non fidarsi e non credere ad alcuni di questi, oppure perfino la maggioranza non saranno sufficienti per convincere chi leggerà.   
 Tuttavia, dopo aver analizzato ogni singola spiegazione, <u>è difficile negare che ci sia qualcosa che non va</u> e che sia necessario agire.   
 Prima di cause e processi, regolamentazioni e leggi, l’azione più importante, urgente ed efficace che possiamo intraprendere come individui è **abbandonare** le piattaforme che non hanno una giusta morale.
+
+<br>
+<br>
+
+<div class="blue box" style="margin:0">
+	<h2 style="hyphens:none" id="ascolta-il-podcast">Ascolta il podcast!</h2>
+	<p>Se questa pagina è troppo noiosa e lunga da leggere, puoi ascoltare l’episodio di <em><a href="https://sconnesso.link" target="_blank" title="Sconnesso">Sconnesso</a></em>, il mio pseudo-podcast, in cui viene letta. La trovi di seguito.</p>
+	<div class="flex row">
+	<a class="red smaller button" href="https://tommi.space/sconnesso/quitsocialmedia" target="_blank" title="Sconnesso - Abbandonare i Social Media">Ascolta</a>
+	</div>
+</div>
 
 <br>
 <br>
@@ -110,12 +121,6 @@ In che proporzione il nostro feed sui *Social Media* è popolato da contenuti si
 Nota: non sto criticando l'intrattenimento di basso livello, i contenuti trash o video e immagini stupidi e divertenti; tuttavia, sono sempre più preoccupato di come questi stiano soppiantando contenuti dal maggiore valore emotivo e conoscitivo.
 
 <br>
-
-### Maggiori informazioni
-
-+++
-
-<br>
 <br>
 
 ## Dipendenza
@@ -201,11 +206,6 @@ Perché non possiamo socializzare, scambiare idee, confrontarci con amici e cono
 ### Maggiori informazioni
 
 - [Don Alberto Ravagnani su Muschio Selvaggio](https://youtu.be/aZ2pn0tNoGQ?t=3625 "Ep.33 Don Alberto - Muschio Selvaggio Podcast") che racconta quanto sia pericoloso per i più piccoli avere spesso il telefono in mano
-
-<br>
-
-### Maggiori informazioni
-
 - [Do virtual social networks destroy the social fabric?](https://medium.com/swlh/do-virtual-social-networks-destroy-the-social-fabric-b1e96de514db "Do virtual social networks destroy the social fabric?") un articolo di Jürgen Derlath
 
 <br>
@@ -216,6 +216,12 @@ Perché non possiamo socializzare, scambiare idee, confrontarci con amici e cono
 Non sei spaventato da quanto tempo passi a fissare uno schermo?
 
 Guarda le statistiche di utilizzo dei tuoi dispositivi.
+
+<br>
+
+### Maggiori informazioni
+
+- <cite><a href="https://deditore.com/prodotto/cronofagia/" rel="noopener noreferrer" target="_blank" title="Cronofagia">Cronofagia</a></cite>, un <mark class="purple">libro</mark> di Davide Mazzocco
 
 <br>
 <br>
@@ -325,7 +331,7 @@ Una nota personale: chiunque non sia un imbecille riconosce che il più grande e
 Immaginiamo che io sia un influencer (lo so, improbabile assai) e che io voglia spostarmi su un'altra piattaforma di *social networking* meno conosciuta (come potrebbero essere Mastodon, Friendica, Pixelfed, Diaspora…) e minuscola, se comparata alle piattaforme che tutti conosciamo. Come posso farlo? Al di fuori dei miei profili sui *Social Media* (se ho basato solo su di essi la mia celebrità) nonostante io possa avere una vasta *fanbase*, non avrei followers, nessun pubblico, nessuno strumento al di fuori delle piatteforme che ho usato finora, e che scelgo di lasciare. L'unico modo per continuare a lavorare è ricostruire da capo la mia *fanbase* altrove.\
 I *Social Media* agiscono fuori dall'etica anche perché non riconoscono un mondo al di fuori di sé: tutto è in funzione di essi e cambiare prospettiva appare confuso e complicato.
 
-C'è un piccolo interessante esperimento mentale per rendere l'idea di quanto i *Social Media* sono chiusi. Se, improvvisamente, per qualche misteriosa ragione, Twitter si spegnesse ovunque, per sempre, non esiste un modo per continuare ad utilizzarlo. Il software che lo fa funzionare è chiuso e inaccessibile a chi non lavora per l'azienda. Questo non potrebbe mai accadere, ad esempio, con [Social Network federati](/soluzioni#alternative).\
+C'è un piccolo interessante esperimento mentale per rendere l'idea di quanto i *Social Media* sono chiusi. Se, improvvisamente, per qualche misteriosa ragione, Twitter si spegnesse ovunque, per sempre, non esiste un modo per continuare ad utilizzarlo. Il software che lo fa funzionare è chiuso e inaccessibile a chi non lavora per l'azienda. Questo non potrebbe mai accadere, ad esempio, con [Social Network federati](/soluzioni#alternative).
 
 I *Social Media* che noi conosciamo sono limitati a e da coloro che li possiedono e li governano, ed è come se un mondo senza di essi non esistesse.\
 Noi possiamo provare il contrario.

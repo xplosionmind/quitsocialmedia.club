@@ -27,7 +27,8 @@ ref: links
 
 ### Books
 
-- [<cite>Ten Arguments for Deleting Your Social Media Accounts Right Now</cite>](https://jaronlanier.com/tenarguments.html "Ten Arguments on Jaron Lanier’s official website"), by the legendary [Jaron Lanier](https://jaronlanier.com "Jaron Lanier")
+- [<cite>Ten Arguments for Deleting Your Social Media Accounts Right Now</cite>](https://jaronlanier.com/tenarguments.html "Ten Arguments on Jaron Lanier’s official website"), a <mark class="purple">book</mark> by the legendary [Jaron Lanier](https://jaronlanier.com "Jaron Lanier")
+- [<cite>The Age of Surveillance Capitalism</cite>](https://shoshanazuboff.com/book/about/ "The Age of Surveillance Capitalism"), a <mark class="purple">book</mark> by [Shoshana Zuboff](https://shoshanazuboff.com "Shoshana Zuboff")
 
 <br>
 
@@ -57,7 +58,7 @@ Go back to the [homepage](/home "Home")
 - [Internet of People](https://iop.global "Internet of People")
 - [runyourown.social](https://runyourown.social "Run Your Own Social")
 - [Get a Website Now! Don't be a Web Peasant!](https://youtu.be/bdKZVIGRAKQ "Get a Website Now! Don't be a Web Peasant!"), a YouTube video by [Luke Smith](https://lukesmith.xyz "Luke's personal website")
-- [Living without Social Media](https://youtu.be/3E7hkPZ-HTk "Quit social media | Dr. Cal Newport | TEDxTysons"), a <mark class="red">TED Talk</mark> by dr. Cal Newport
+- [Living without Social Media](https://youtu.be/3E7hkPZ-HTk "Quit social media - Dr. Cal Newport - TEDxTysons"), a <mark class="red">TED Talk</mark> by dr. Cal Newport
 - [My personal wishlist for a decentralized social network](https://carter.sande.duodecima.technology/decentralized-wishlist/ "My personal wishlist for a decentralized social network"), by Carter Sande
 - [<cite>Together, we can rebuild the system</cite>](https://www.humanetech.com/rebuild "Together, we can align technology with humanity’s best interests"), on the website of the [<cite>Center for Humane Technology</cite>](https://www.humanetech.com/ "Center for Humane Technology")
 - [Okuna](https://about.okuna.io "Okuna"), <q>an ethical social network for a brighter tomorrow</q>.
@@ -169,7 +170,7 @@ Go back to [Why > Monopolization](/why#monopolization "Monopolization")
 - [Facebook is a social network monopoly that buys, copies or kills competitors, antitrust committee finds](https://www.cnbc.com/2020/10/06/house-antitrust-committee-facebook-monopoly-buys-kills-competitors.html "Facebook is a social network monopoly that buys, copies or kills competitors, antitrust committee finds"), by Salvador Rodriguez on CNBC
 - [The end of the Facebook crime spree](https://mattstoller.substack.com/p/the-end-of-the-facebook-crime-spree "The end of the Facebook crime spree"), by [Matt Stoller](https://mattstoller.substack.com/people/759128-matt-stoller "Matt Stoller on Substack")
 - [Behind Washington’s one-eighty on Facebook: A rethink of monopoly power](https://www.politico.com/news/2020/12/13/facebook-antitrust-flip-flop-444652), an article by [Leah Nylen](https://www.politico.com/staff/leah-nylen "Leah Nylen") on [Politico](https://www.politico.com "Politico")
-- [U.S. and States Say Facebook Illegally Crushed Competition](https://www.nytimes.com/2020/12/09/technology/facebook-antitrust-monopoly.html?smid=url-share "U.S. and States Say Facebook Illegally Crushed Competition | New York Times") by Cecilia Kang and Mike Isaac on [The New York Times](https://nytimes.com "New York Times")
+- [U.S. and States Say Facebook Illegally Crushed Competition](https://www.nytimes.com/2020/12/09/technology/facebook-antitrust-monopoly.html?smid=url-share "U.S. and States Say Facebook Illegally Crushed Competition - New York Times") by Cecilia Kang and Mike Isaac on [The New York Times](https://nytimes.com "New York Times")
 {% comment %}
 
 <br>

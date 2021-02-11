@@ -15,6 +15,8 @@ description: "Tutte le ragioni per cui i <em>Social Media</em>, per come li cono
 		</div>
 	</div>
 
+	<br />
+
 	<div class="red box row">
 		<h2 class="title">Cosa cavolo è questo sito?</h2>
 		<p>
@@ -22,7 +24,7 @@ description: "Tutte le ragioni per cui i <em>Social Media</em>, per come li cono
 			<br />
 			<b>Risposta lunga</b>: leggi le <a href="/info">info</a>.
 		</p>
-		<h3 class="title">Da dove partire</h3>
+		<h3 class="title" style="margin-top:var(--twice)">Da dove partire</h3>
 		<p>
 			Probabilmente sarai una persona impegnata e non avrai tempo da perdere per queste sciocchezze. Ok, ti capisco: ho scritto <a href="/veloce">un veloce riassunto</a> per te.
 		</p>
@@ -47,10 +49,14 @@ description: "Tutte le ragioni per cui i <em>Social Media</em>, per come li cono
 	{% else %}
 	{% endfor %}
 
+	<br />
+
 	<div class="row">
 		<h2 class="title">Contatti</h2>
-		<p>Se hai domande o suggerimenti, non esitare a <a href="mailto:{{ site.email | encode_email }}" target="_blank" rel="noopener noreferrer" title="Send me an email">scrivermi</a> (<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/D435660C86733BA1C4C22F4D922BA2D96336049E" title="PGP Key hello@quitsocialmedia.club">PGP key</a>).</p>
+		<p class="center">Se hai domande o suggerimenti, non esitare a <a href="mailto:{{ site.email | encode_email }}" target="_blank" rel="noopener noreferrer" title="Send me an email">scrivermi</a> (<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/D435660C86733BA1C4C22F4D922BA2D96336049E" title="PGP Key hello@quitsocialmedia.club">PGP key</a>).</p>
 	</div>
+
+	<br />
 
 	<div class="blue box row">
 		<a href="/contribuisci"><h2 class="title">Contribuisci</h2></a>
@@ -61,7 +67,9 @@ description: "Tutte le ragioni per cui i <em>Social Media</em>, per come li cono
 		{% endfor %}
 	</div>
 
-	<div class="row">
+	<br />
+
+	<div class="margin row">
 		<h2 class="title">Pagine</h2>
 		<p>Un'anteprima di tutte le pagine del sito in italiano:</p>
 		<ul>
@@ -74,5 +82,8 @@ description: "Tutte le ragioni per cui i <em>Social Media</em>, per come li cono
 			{% endfor %}
 		</ul>
 	</div>
+
+	<br />
+	<br />
 
 </div>

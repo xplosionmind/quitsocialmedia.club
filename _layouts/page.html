@@ -19,6 +19,18 @@ layout: wrapper
 			{% include toc.html html=content sanitize=true %}
 		</div>
 	{% endif %}
+	{% if page.ref == 'why' %}
+		<div class="row toc">
+			<h2>
+				{% if page.lang == 'it' %}
+					Indice
+				{% else %}
+					Table of contents
+				{% endif %}
+			</h2>
+			{% include toc.html html=content sanitize=true h_max=2 %}
+		</div>
+	{% endif %}
 
 	<div class="row">
 		<article class="note">

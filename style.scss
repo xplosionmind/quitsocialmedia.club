@@ -20,8 +20,7 @@
 	--red: #E63946;
 	--green: #20CE88;
 	--razzmatazz: #EC0868;
-	--purple: #884EE1;
-	--dark: #533066;
+	--purple: #592176;
 	
 	color-scheme: dark light;
 
@@ -767,6 +766,12 @@ footer {
 	& > .row {
 		justify-content: space-between;
 	}
+	time {
+		font-family: 'Ubuntu Mono', 'Roboto Mono', 'Fira Code', mono, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	}
+	.time {
+		line-height: 1.1em;
+	}
 }
 
 @media only screen and (max-width: 950px) {
@@ -779,11 +784,11 @@ footer {
 	.stuff-logo {
 		margin-top: var(--bigger)
 	}
-	.column > .row {
-		& > p,
-		& > ul > li {
-			margin: var(--regular) 10%;
-		}
+	.margin {
+		margin: 0 10%;
+	}
+	article {
+		padding: var(--twice) 7% var(--mastodon);
 	}
 }
 
@@ -894,6 +899,15 @@ button,
 	border-color: var(--light-blue) !important;
 	a {
 		color: var(--red);
+	}
+}
+
+.purple {
+	background: var(--purple);
+	color: var(--white-ish) !important;
+	border-color: var(--purple) !important;
+	a {
+		color: var(--light-blue);
 	}
 }
 

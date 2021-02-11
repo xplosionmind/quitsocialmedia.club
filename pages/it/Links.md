@@ -12,10 +12,17 @@ lang: it
 
 ## Generale
 
-- [Un’intervista a Jaron Lanier di *Codice*](https://www.raiplay.it/video/2019/08/Codice-intervista-esclusiva-a-Jaron-Lanier-pioniere-della-realta-virtuale-98a38fd9-6fa9-46d6-9b49-f9deccc7d1c6.html "Intervista a Jaron Lanier | Codice | Rai Play"), su <mark class="red">Rai Play</mark>
-
 Torna alla [home](/it/home "Home")
 
+- [Un’intervista a Jaron Lanier di *Codice*](https://www.raiplay.it/video/2019/08/Codice-intervista-esclusiva-a-Jaron-Lanier-pioniere-della-realta-virtuale-98a38fd9-6fa9-46d6-9b49-f9deccc7d1c6.html "Intervista a Jaron Lanier - Codice - Rai Play"), su <mark class="red">Rai Play</mark>
+
+<br>
+
+### Libri
+
+- <cite><a href="https://deditore.com/prodotto/cronofagia/" rel="noopener noreferrer" target="_blank" title="Cronofagia">Cronofagia</a></cite>, un libro di Davide Mazzocco
+
+<br>
 <br>
 
 {% comment %}
@@ -74,9 +81,9 @@ Torna a [Perché > Data](/perché#data "Data")
 
 <br>
 
-## Profilation
+## Profilazione
 
-Torna a [Perché > Profilation](/perché#profilation "Profilation")
+Torna a [Perché > Profilazione](/perché#profilazione "Profilazione")
 
 - [Gli algoritmi non sono cose, ma disposizioni di potere che riorganizzano la nostra società](http://www.vita.it/it/interview/2021/01/26/gli-algoritmi-non-sono-cose-ma-disposizioni-di-potere-che-riorganizzan/397/ "Gli algoritmi non sono cose, ma disposizioni di potere che riorganizzano la nostra società"), di Marco Dotti su [Vita](https://www.vita.it)
 {% comment %}
@@ -90,9 +97,9 @@ Torna a [Perché > Monopolization](/perché#monopolization "Monopolization")
 
 <br>
 
-## Sociality
+## Socialità
 
-Torna a [Perché > Sociality](/perché#sociality "Sociality")
+Torna a [Perché > Socialità](/perché#socialità "Socialità")
 
 - [Don Alberto Ravagnani su Muschio Selvaggio](https://youtu.be/aZ2pn0tNoGQ?t=3625 "Ep.33 Don Alberto - Muschio Selvaggio Podcast") che racconta quanto sia pericoloso per i più piccoli avere spesso il telefono in mano
 {% comment %}
@@ -118,9 +125,9 @@ Torna a [Perché > Hurry](/perché#hurry "Hurry")
 
 <br>
 
-## Simplicity vs simplification
+## Semplicità vs semplificazione
 
-Torna a [Perché > Simplicity vs Simplification](/perché#simplicity-vs-simplification "Simplicity vs Simplification")
+Torna a [Perché > Semplicità vs semplificazione](/perché#semplicità-vs-semplificazione "Semplicità vs semplificazione")
 {% comment %}
 
 <br>

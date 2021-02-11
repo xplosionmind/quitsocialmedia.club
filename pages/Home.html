@@ -13,6 +13,8 @@ toc: false
 		</div>
 </div>
 
+	<br />
+
 	<div class="red box row">
 		<h2 class="title">WTF is this website?</h2>
 		<p>
@@ -20,12 +22,12 @@ toc: false
 			<br />
 			<b>Long answer</b>: read the <a href="/about">About page</a>
 		</p>
-		<h3 class="title">Where to start</h3>
+		<h3 class="title" style="margin-top:var(--twice)">Where to start</h3>
 		<p>
-			You probably are a busy person who doesn't have time to go through all of the stuff that's on here. Ok, I got you: just read this <a href="/quick">quick summary</a>
+			You probably are a busy person who does not have time to go through all of the stuff that is on here. Ok, I got you: just read this <a href="/quick">quick summary</a>
 		</p>
 		<p>
-			If devoting a bit more of your time to the dopic does not bother you, I ca assure you it's definitely worth it. I suggest you to follow <a href="/path" title="Path">this path</a>
+			If devoting a bit more of your time to the topic does not bother you, I can assure you it’s definitely worth it. I suggest you to follow <a href="/path" title="Path">this path</a>
 		</p>
 	</div>
 
@@ -45,10 +47,14 @@ toc: false
 	{% else %}
 	{% endfor %}
 
+	<br />
+
 	<div class="row">
 		<h2 class="title">Get in touch!</h2>
 		<p>If you have any questions or suggestions, please don't hesitate to <a href="mailto:{{ site.email | encode_email }}" target="_blank" rel="noopener noreferrer" title="Send me an email">write me an email</a> (<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/D435660C86733BA1C4C22F4D922BA2D96336049E" title="PGP Key hello@quitsocialmedia.club">PGP key</a>).</p>
 	</div>
+
+	<br />
 
 	<div class="blue box row">
 		<a href="/contribute"><h2 class="title">Contribute</h2></a>
@@ -59,7 +65,9 @@ toc: false
 		{% endfor %}
 	</div>
 
-	<div class="row">
+	<br />
+
+	<div class="margin row">
 		<h2 class="title">Website pages</h2>
 		<p>An overview of all the pages in the website:</p>
 		<ul>
@@ -72,5 +80,8 @@ toc: false
 			{% endfor %}
 		</ul>
 	</div>
+
+	<br />
+	<br />
 
 </div>

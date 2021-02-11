@@ -109,7 +109,7 @@ All’inizio, sarà sicuramente dura, ma a lungo termine sarà un immenso guadag
 
 Alcuni altri link a soluzioni ed alternative dopo l’abbandono dei Social Media:
 
-- [Living without Social Media](https://youtu.be/3E7hkPZ-HTk "Quit social media | Dr. Cal Newport | TEDxTysons"), un <mark class="red">TED Talk</mark> di dr. Cal Newport
+- [Living without Social Media](https://youtu.be/3E7hkPZ-HTk "Quit social media - Dr. Cal Newport - TEDxTysons"), un <mark class="red">TED Talk</mark> di dr. Cal Newport
 - [My personal wishlist for a decentralized social network](https://carter.sande.duodecima.technology/decentralized-wishlist/ "My personal wishlist for a decentralized social network"), by Carter Sande
 - [<cite>Together, we can rebuild the system</cite>](https://www.humanetech.com/rebuild "Together, we can align technology with humanity’s best interests"), sul sito deb del [<cite>Center for Humane Technology</cite>](https://www.humanetech.com/ "Center for Humane Technology")
 - [Okuna](https://about.okuna.io "Okuna"), <q>an ethical social network for a brighter tomorrow</q>.
