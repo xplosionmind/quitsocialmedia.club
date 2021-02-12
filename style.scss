@@ -275,6 +275,12 @@ article li,
 				content: "🍿 ";
 			}
 		}
+		&[href*="/note" i],
+		&[href="/roadmap" i] {
+			&::before {
+				content: "📝 ";
+			}
+		}
 		&[href*="/listen" i],
 		&[href*="/ascolta" i] {
 			&::before {

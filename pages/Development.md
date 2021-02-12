@@ -10,7 +10,7 @@ toc: false
 </div>
 
 <div class="blue box">
-	More detailed data in the <a href="https://tommi.space/qsm" title="Notes on quitsocialmedia.club">notes</a>
+	More detailed data in the <a href="/notes" title="Notes on quitsocialmedia.club">notes</a>
 </div>
 
 <br>
