@@ -144,12 +144,16 @@ Torna a [Perché > Environment](/perché#environment "Environment")
 
 <br>
 
-## Closed
+{% endcomment %}
+## Chiusura
 
-Torna a [Perché > Closed](/perché#closed "Closed")
+- [Quanto siamo dipendenti da una singola piattaforma online?](https://funkwhale.it/library/tracks/1380/ "Quanto siamo dipendenti da una singola piattaforma online?"), episodio 10 del <mark class="blue">podcast</mark> di [Daniele Scasciafratte](https://daniele.tech "Daniele Scasciafratte")
+
+Torna a [Perché > Chiusura](/perché#chiusura "Chiusura")
 
 <br>
 
+{% endcomment %}
 ## Saturation
 
 Torna a [Perché > Saturation](/perché#saturation "Saturation")

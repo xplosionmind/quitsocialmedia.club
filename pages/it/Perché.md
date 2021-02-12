@@ -340,6 +340,7 @@ Noi possiamo provare il contrario.
 
 ### Maggiori informazioni
 
+- [Quanto siamo dipendenti da una singola piattaforma online?](https://funkwhale.it/library/tracks/1380/ "Quanto siamo dipendenti da una singola piattaforma online?"), episodio 10 del <mark class="blue">podcast</mark> di [Daniele Scasciafratte](https://daniele.tech "Daniele Scasciafratte")
 - [Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems](https://thereboot.com/data-liberation-a-step-toward-fixing-big-techs-competition-problems/ "Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems") by Gabriel Nicholas on [The Reboot](https://thereboot.com "The Reboot")
 - [Breaking Tech Open: Why Social Platforms Should Work More Like Email](https://thereboot.com/breaking-tech-open-why-social-platforms-should-work-more-like-email/ "Breaking Tech Open: Why Social Platforms Should Work More Like Email"), by Karissa McKelvey on [The Reboot](https://thereboot.com "The Reboot")
 
