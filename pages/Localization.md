@@ -34,6 +34,6 @@ Localizing a content means translating it in another language to make it availab
 	1. **Update all the links** in all the pages, to match the permalink of the localized page.
 	1. Add your name in the [`Translators` section](/contributors#translators) of the [Contributors page](https://github.com/xplosionmind/quitsocialmedia.club/tree/main/pages/Contributors.md).
 
-If you have trouble or you need any kind of help, please [open an issue](https://github.com/xplosionmind/quitsocialmedia.club/issues "Issues of this website's repository on GitHub").
+If you are in trouble or you need any kind of help, please [open an issue](https://github.com/xplosionmind/quitsocialmedia.club/issues "Issues of this website's repository on GitHub").
 
 [Email me](mailto:{{ site.email | encode_email }}) if you know nothing about what I wrote about up to now but you would like to contribute to translation anyway.

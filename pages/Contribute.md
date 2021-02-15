@@ -6,7 +6,7 @@ description: "If you think this website is useful, insightful, necessary and/or 
 redirect_from: ["/contribution", "/contribution-guide", "/contrib", "/l1000", "/l-1000", "/l-1000", "/level05", "/level-1000", "/level1000"]
 toc: false
 ---
-There are several ways to contribute to this website, and any of it is very much appreciated.
+There are several ways to contribute to this website, and any of these is very much appreciated.
 
 - **Spread the word**: chat with friends and colleagues about what is written in these pages, especially in [why](/why "Why"), pose yourself questions about the topic and form your point of view on the matter
 - [**Translate**](/l10n "Localization page") the website's content
