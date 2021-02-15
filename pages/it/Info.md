@@ -33,7 +33,7 @@ Questo sito web ha tre principali scopi:
 
 Conosco e seguo con passione innumerevoli fantastiche *communities* che promuovono la libertà e l'apertura di internet e l'indipendenza dalle colossali, ricchissime e chiuse aziende che ci forniscono [la maggioranza](/it/what "Cos’è un Social Media") dei servizi di *social networking*. Nonostante questo, sento ci sia un elemento fondamentale che non viene sufficientemente sottolineato: **<u>le decisioni e le azioni di ognuno di noi sono la chiave per il cambiamento globale</u>**. Non dovremmo aspettare che vengano promosse regolamentazioni e leggi; allo stesso modo, non possiamo credere che un giorno qualcuno arriverà e renderà tutto migliore.
 
-**!!** Non intendo assolutamente costringervi ad abbandonare e uscire dai *Social Media*, né convincervi che sia la migliore cosa da fare, anche se ne sono assolutamente certo. Vorrei che chiunque arrivi qui <u>analizzi attentamente i contenuti del sito</u> e tutto il materiale riportato, per decidere autonomamente cosa fare.
+**!!** Non intendo assolutamente costringervi ad abbandonare dai *Social Media* ed eliminare i vostri account, né convincervi che sia la migliore cosa da fare, anche se ne sono assolutamente certo. Vorrei che chiunque arrivi qui <u>analizzasse attentamente i contenuti del sito</u> e tutto il materiale riportato, per decidere autonomamente cosa fare.
 
 <br>
 
