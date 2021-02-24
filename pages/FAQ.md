@@ -42,7 +42,7 @@ I chose the `.club` domain because it was among the cheapest, but it also makes 
 
 ##### *Why did you spend all of this time and effort creating this website?*
 
-Deep inside me, to be honest, I do not know; I just feel I need this, as strongly as I feel that I need to delete my Social Media accounts. Nevertheless, of course I devoted so many resources to this website because I frimly beliese in what is written here.
+Deep inside me, to be honest, I do not know; I just feel I need this, as strongly as I feel that I need to delete my Social Media accounts. Nevertheless, of course I devoted so many resources to this website because I firmly beliese in what is written here.
 
 <br>
 
