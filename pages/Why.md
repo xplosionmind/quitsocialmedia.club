@@ -32,7 +32,7 @@ Among the arguments presented below, you might not believe in one or two or them
 
 ## Hate
 
-[Hate](#hate "Hate") is strictly connected with [anger](#anger "Anger"): when you get angry, you do something about it. This is exactly what Social Media platforms wait for. It doesn't matter how much the debate is fired up. As long as you're interacting a lot, everything is good. The problem is users get more hateful: the cannot discuss anymore with who has a different idea without judging her.   
+[Hate](#hate "Hate") is strictly connected with [anger](#anger "Anger"): when you get angry, you do something about it. This is exactly what Social Media platforms wait for. It doesn't matter how much the debate is fired up. As long as you're interacting a lot, everything is good. The problem is users get more hateful: they cannot discuss anymore with who has a different idea without judging them.   
 Social Media allow us to report content which contains hate or insults, but the one thing which cannot be reported is a **feeling**. Social Media owners can attempt to moderate their posts, but they do not always do it, and, most importantly, they practically are unable to: there are too many publications, and it is virtually impossible to check all of them!
 
 <br>
@@ -99,8 +99,8 @@ Since algorithms which govern Social Media aim to keep users hooked to their pla
 
 ## Quality
 
-In what proportion is your social media feed populated by meaningful, qualitative content as opposed to selfies of friends, pictures of models, memes and puppies? The great concern, in this case, is that the quality, profoundness, meaningfulness of the contents we enjoy everyday is getting terribly low. Because of social media [we get distracted](#distraction "Distraction") too often by stuff which most of the time is irrelevant and not insightful. In general, we tend to have less to do with culture, knowledge, leargning, while spending time on empty entertainment.\
-Note: I'm not criticizing low level entrateinment and silly funny images or videos, I'm preoccupied by how much they're taking over more important and meaningful content.
+In what proportion is your social media feed populated by meaningful, qualitative content as opposed to selfies of friends, pictures of models, memes and puppies? The great concern, in this case, is that the quality, profoundness, meaningfulness of the contents we enjoy everyday is getting terribly low. Because of social media [we get distracted](#distraction "Distraction") too often by stuff which most of the time is irrelevant and not insightful. In general, we tend to have less to do with culture, knowledge, learning, while spending time on empty entertainment.\
+Note: I'm not criticizing low level entertainment and silly funny images or videos, I'm preoccupied by how much they're taking over more important and meaningful content.
 
 <br>
 <br>
@@ -121,14 +121,14 @@ Ok, anyone may reply to this argument “come on, it's very few people! I'm not 
 ## Distraction
 
 Of course, distraction and [addiction](#addiction "Addiction") go hand in hand: the more we need to check all of our apps for new likes or posts, the less we focus on things which actually matter to us. It's mostly a matter of [time](#time "Time"), but it's also a matter of focus and commitment: Social Media make us endlessly jump from one content to another at great speed; at most, our eyes stay put on a picture for five seconds. It follows that in our everyday lives focusing on something for a long time requires an innatuaral amount of effort.\
-Again: it's not that if someone isn't focused it's because of Social Media, but for sure spending time scrolling our feed does not halp us being more focused.
+Again: it's not that if someone isn't focused it's because of Social Media, but for sure spending time scrolling our feed does not help us being more focused.
 
 <br>
 <br>
 
 ## Data
 
-Whether we want this or not, even by passively using Social Media, so by browsing around, whatcing videos and pictures or reading posts, we give Social Media platforms owners a huge amount of data about us and about what we like, for free. Such data, even if it's “deliberately” shared, are piled up day after day, month after month and year after year. The result is scary… what all of this information about us is used for? The answer is [user profilation](#profilation "Profilation").
+Whether we want this or not, even by passively using Social Media, so by browsing around, watching videos and pictures or reading posts, we give Social Media platforms owners a huge amount of data about us and about what we like, for free. Such data, even if it's “deliberately” shared, are piled up day after day, month after month and year after year. The result is scary… what all of this information about us is used for? The answer is [user profilation](#profilation "Profilation").
 
 <br>
 
@@ -141,9 +141,9 @@ Whether we want this or not, even by passively using Social Media, so by browsin
 
 ## Profilation
 
-Probably this is one of the main reasons why people delete their social media accounts. The matter is very simple, too: our data is used to understand who we are. If the answer was limited to this, it could also be acceptable. In the end, if we want to use the internet, something about us is leaked some way or another. The problem is how our identity, our intrests, our fears, our desires, our anger are managed and what they're used for.
+Probably this is one of the main reasons why people delete their social media accounts. The matter is very simple, too: our data is used to understand who we are. If the answer was limited to this, it could also be acceptable. In the end, if we want to use the internet, something about us is leaked some way or another. The problem is how our identity, our interests, our fears, our desires, our anger are managed and what they're used for.
 
-It's not a secret: our identity is sold to addvertisers to show (or better, flood our feed) with ads “of our interest”. This may be even good if it was used solely for marketing purposes, but, unfortunately, it's not: we may be (and probably we are) targeted by political ads, which don't aim to sell us something, but their purpose is to condition our behavior and distort our view of the world, further enforcing the [bubble](#bubble "Bubble") we are uncounsciously trapped in.
+It's not a secret: our identity is sold to advertisers to show (or better, flood our feed) with ads “of our interest”. This may be even good if it was used solely for marketing purposes, but, unfortunately, it's not: we may be (and probably we are) targeted by political ads, which don't aim to sell us something, but their purpose is to condition our behavior and distort our view of the world, further enforcing the [bubble](#bubble "Bubble") we are uncounsciously trapped in.
 
 <br>
 
@@ -213,7 +213,7 @@ Social media are killing diversity: they are standardizing the way people presen
 
 Is what we publish on Social Media actually ours? The answer comes straight from the two major social media platform policies.
 
-**Spoiler** - The short answer is yes, but the actual one is no: we retain ownership rights on our content, but it means that almost nothing, since platforms can do whatever they whant with it, and we can't do anything about it: once we published something, **it's not over our control anymore**. So: we own our content but we can't control it. Is this actual ownership?
+**Spoiler** - The short answer is yes, but the actual one is no: we retain ownership rights on our content, but it means that almost nothing, since platforms can do whatever they want with it, and we can't do anything about it: once we published something, **it's not over our control anymore**. So: we own our content but we can't control it. Is this actual ownership?
 
 <br>
 
@@ -278,16 +278,16 @@ Social Media make everything appear similar by flattening every post and putting
 
 ## Simplicity vs simplification
 
-On Social Media, everything is gameified, and everything looks so simple. Truth is not simple, though. Neither are the world we live in and its inhabitants. The Universe is complex, hard to understand, full of confusing and conflicting events. Social Media simplify everything, as if knowledge was always at hand and everything could be easily learned. Unfortunately, it's not quite so. While on the web developers attempt to pursue simplicity and minimalism, Social Media fight fo simlification of matters which are not. There may be no actual right or wrong concerning an argument, but algorithms detect what's our inclination and display us what enforces it, so we become convinced of something which appears very simple, while in the end it's not, and we miss a whole point of view, the one from the other side.
+On Social Media, everything is gamified, and everything looks so simple. Truth is not simple, though. Neither are the world we live in and its inhabitants. The Universe is complex, hard to understand, full of confusing and conflicting events. Social Media simplify everything, as if knowledge was always at hand and everything could be easily learned. Unfortunately, it's not quite so. While on the web developers attempt to pursue simplicity and minimalism, Social Media fight for simplification of matters which are not. There may be no actual right or wrong concerning an argument, but algorithms detect what's our inclination and display us what enforces it, so we become convinced of something which appears very simple, while in the end it's not, and we miss a whole point of view, the one from the other side.
 
-Simplification is bad, simplicity is good, but it can't be everywhere. Let's quit social media to look at the other side of the coin and embrace the comlexity of our reality.
+Simplification is bad, simplicity is good, but it can't be everywhere. Let's quit social media to look at the other side of the coin and embrace the complexity of our reality.
 
 <br>
 <br>
 
 ## Being always connected
 
-The paragraph title says it all. Do we really need to be this connected? Do we really need to look at the hundreds of media pubished and shared by the ones we follow, everyday?
+The paragraph title says it all. Do we really need to be this connected? Do we really need to look at the hundreds of media published and shared by the ones we follow, everyday?
 
 I believe the answer is no, and I'm not the only one.
 
@@ -298,16 +298,16 @@ I believe the answer is no, and I'm not the only one.
 
 This may be the weaker argument among the ones in this page. It is worth mentioning it, anyway.
 
-Facebook stated that by the end of 2030 it will commit 100% to renewable energy; it has also dedicated [a whole website](https://sustainability.fb.com "Facebook Sustainability") to the topic of sustainability. Nevertheless, services provided by Social Media companies are powered by an undisclosed number of indefinitely big (probably huge) servers all over the world. Such servers are super powerful computers conneced to the internet all of the day, everyday; they are responsible for the effective publication of what we share, and they make sure everything is accessible to anyone, anywhere on the planet (actually, not everything, we are kind of in a [bubble](#bubble "Bubble")). As it's easy to imagine, these servers consume an astounding amount of energy, and, even if it comes from renewable sources, it still has a great impact on our planet's environment.
+Facebook stated that by the end of 2030 it will commit 100% to renewable energy; it has also dedicated [a whole website](https://sustainability.fb.com "Facebook Sustainability") to the topic of sustainability. Nevertheless, services provided by Social Media companies are powered by an undisclosed number of indefinitely big (probably huge) servers all over the world. Such servers are super powerful computers connected to the internet all of the day, everyday; they are responsible for the effective publication of what we share, and they make sure everything is accessible to anyone, anywhere on the planet (actually, not everything, we are kind of in a [bubble](#bubble "Bubble")). As it's easy to imagine, these servers consume an astounding amount of energy, and, even if it comes from renewable sources, it still has a great impact on our planet's environment.
 
-A personal note: not dumb people aknowledge that the greatest and most worrying issue for us in this time in history (setting asite the pandemic for one moment) is the global warming emergency; it is strongly affecting our lives and it's very likely to devastate them unless we do something in the near future. Even if it may not seem justified, my concern about Social Media is somewhat greater: if global warming can be observed, objectively measured and monitored, the decline of internet freedom is something subtle, happening in the shadows and with a growing but still very little attention, if compared to the dimensions of the problem. We should quit social media to make the world better.
+A personal note: not dumb people acknowledge that the greatest and most worrying issue for us in this time in history (setting asite the pandemic for one moment) is the global warming emergency; it is strongly affecting our lives and it's very likely to devastate them unless we do something in the near future. Even if it may not seem justified, my concern about Social Media is somewhat greater: if global warming can be observed, objectively measured and monitored, the decline of internet freedom is something subtle, happening in the shadows and with a growing but still very little attention, if compared to the dimensions of the problem. We should quit social media to make the world better.
 
 <br>
 <br>
 
 ## Closed
 
-Let's imagine I am an influencer and I want to move to another social networking platform (it may be Mastodon, Pixelfed, Friendica, Diaspora…), which is very little known and much less used, if compared to Social Media giantes everybody knows. How can I do it? Outside of my social media profiles, unless I have a great fanbase, I'd have no followers, no audience, no tool outside of the great Social Media platforms I used up to now. The only way I can continue to do my job is by building a new fanbase from scratch.
+Let's imagine I am an influencer and I want to move to another social networking platform (it may be Mastodon, Pixelfed, Friendica, Diaspora…), which is very little known and much less used, if compared to Social Media giants everybody knows. How can I do it? Outside of my social media profiles, unless I have a great fanbase, I'd have no followers, no audience, no tool outside of the great Social Media platforms I used up to now. The only way I can continue to do my job is by building a new fanbase from scratch.
 
 This is a little mind experiment (and probably even not the most effective one) to give you an idea of how closed Social Media are. These platforms don't interact among each other, instead, they compete. If all of a sudden for some reason Twitter shuts down, there is no way to go on using Twitter anymore. Social Media as we know them are limited to and by the ones who own them, and it is as a world without them does not exist. We can prove the contrary.
 
