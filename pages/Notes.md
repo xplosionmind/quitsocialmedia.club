@@ -19,6 +19,7 @@ description: "Notes on tasks to complete and the development roadmap"
 
 ### Content
 
+- in [ma](/ma): ma prendere soluzioni così drastiche, nella storia, non è mai servito a nulla
 - la differenza generazionale
 - differenza con la TV
 - l'educazione e la difficoltà
