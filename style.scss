@@ -6,7 +6,6 @@
 @import "../_sass/nav";
 @import "{{ site.fonts }}/inter/inter.css";
 @import "{{ site.fonts }}/ubuntu-mono/ubuntu-mono.css";
-@import "{{ site.fonts }}/eb-garamond/eb-garamond.css";
 
 :root {
 	--black-ish: #222;
@@ -384,11 +383,6 @@ li {
 	height: var(--regular);
 }
 
-.poetry,
-.serif {
-	font-family: "EB Garamond", Garamond, "Simoncini Garamond", Georgia, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-}
-
 .post {
 	& > p:first-of-type::first-letter {
 		initial-letter: 4;
@@ -703,9 +697,6 @@ h3 {
 		margin-bottom: var(--regular-less);
 		max-height: unset;
 		padding: var(--small);
-		.serif {
-			margin: 0 var(--regular);
-		}
 		.date {
 			margin: 0 var(--regular);
 		}
