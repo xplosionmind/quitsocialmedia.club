@@ -17,16 +17,4 @@
 	<meta property="og:article:published_time" content="{{ page.date | date_to_xmlschema }}" />
 	<meta property="og:locale:alternate" content="{% if page.lang == 'it' %}en{% else %}it{% endif %}" />
 
-	<!-- Algolia search -->
-	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@0/dist/algoliasearchNetlify.js" crossorigin="anonymous"></script>
-	<script type="text/javascript">
-		algoliasearchNetlify({
-			appId: 'RGL65NK0OK',
-			apiKey: '2496a32ec63dd08b35a329a1e0738524',
-			siteId: 'c5a2f8f0-e22a-4ae4-82e4-bcdea06adf7c',
-			branch: 'main',
-			selector: 'input#search',
-			sitemap: 'https://quitsocialmedia.club/sitemap.xml',
-		});
-	</script>
 </head>
