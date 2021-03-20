@@ -4,8 +4,8 @@
 /*@import "../_sass/search";*/
 @import "../_sass/highlight";
 @import "../_sass/nav";
-@import "{{ site.fonts }}/inter/inter.css";
-@import "{{ site.fonts }}/ubuntu-mono/ubuntu-mono.css";
+@import "../_sass/inter";
+@import "../_sass/ubuntu-mono";
 
 :root {
 	--black-ish: #222;
