@@ -13,15 +13,14 @@ future: true
 profile: true
 livereload: true
 strict_front_matter: true
-favicon: "https://assets.tommi.space/qsm/favicon.svg"
-image: "https://assets.tommi.space/qsm/qsm.svg"
-images: "https://assets.tommi.space/images"
-post-images: "https://assets.tommi.space/images/posts"
+favicon: "/favicon.svg"
+image: "/logos/qsm.svg"
+images: "/images"
 assets: "https://assets.tommi.space/assets"
 video: "https://assets.tommi.space/video"
 audio: "https://assets.tommi.space/audio"
-logos: "https://assets.tommi.space/logos"
-fonts: "https://assets.tommi.space/fonts"
+logos: "/logos"
+fonts: "https://tommi.space/fonts"
 exclude:
   - riordinare/
 keep_files:
@@ -64,6 +63,6 @@ defaults:
     values:
       layout: "page"
       lang: "en"
-      image: "https://assets.tommi.space/qsm/qsm.png"
+      image: "https://tommi.space/qsm/qsm.png"
       toc: true
       anchors: true

@@ -52,7 +52,7 @@
 
 html {
 	box-sizing: border-box;
-	cursor: url(https://assets.tommi.space/logos/red-cursor.svg) 16 16, crosshair;
+	cursor: url(/logos/red-cursor.svg) 16 16, crosshair;
 	background: var(--background);
 	scroll-behavior: smooth;
 }
@@ -347,7 +347,7 @@ button,
 .button,
 .aa-suggestion,
 .embed-container {
-	cursor: url(https://assets.tommi.space/logos/red-cursor-hover.svg) 16 16, pointer;
+	cursor: url(/logos/red-cursor-hover.svg) 16 16, pointer;
 }
 
 
