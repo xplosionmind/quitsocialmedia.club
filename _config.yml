@@ -16,9 +16,9 @@ strict_front_matter: true
 favicon: "/favicon.svg"
 image: "/logos/qsm.svg"
 images: "/images"
-assets: "https://assets.tommi.space/assets"
-video: "https://assets.tommi.space/video"
-audio: "https://assets.tommi.space/audio"
+assets: "/assets"
+video: "/video"
+audio: "/audio"
 logos: "/logos"
 fonts: "https://tommi.space/fonts"
 exclude:
@@ -63,6 +63,6 @@ defaults:
     values:
       layout: "page"
       lang: "en"
-      image: "https://tommi.space/qsm/qsm.png"
+      image: "/images/qsm.png"
       toc: true
       anchors: true
