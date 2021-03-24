@@ -58,6 +58,26 @@ html {
 }
 
 /* DARK THEME */
+@media screen and (prefers-color-scheme: dark) {
+	--background: var(--blue);
+	--text: var(--white-ish);
+	--deep: #102040;
+	--link: var(--primary);
+	--primary: var(--light-blue);
+	--secondary: var(--red);
+	--internal-link: var(--primary);
+	--grey: var(--dark-grey);
+	--other-grey: var(--light-grey);
+	--shadow: 5px 5px 20px #102040BB, -5px -5px 20px #FFFFFF11;
+	--little-shadow: 2px 2px 3px #102040EF, -2px -2px 3px #FFFFFF22;
+	--button-shadow: 3px 3px 8px #102040AA, -3px -3px 8px #FFFFFF11;
+	--inner-shadow: inset 3px 3px 5px #10204088, inset -3px -3px 5px #FFF2;
+	--inner-little-shadow: inset 2px 2px 3px #102040AA, inset -2px -2px 3px #FFF1;
+	--header-shadow: 5px 5px 15px #102040DD, -5px -5px 15px #FFF2;
+
+	transition: var(--trans);
+}
+
 .dark {
 	--background: var(--blue);
 	--text: var(--white-ish);

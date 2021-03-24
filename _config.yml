@@ -63,6 +63,6 @@ defaults:
     values:
       layout: "page"
       lang: "en"
-      image: "/images/qsm.png"
+      image: "/logos/qsm.svg"
       toc: true
       anchors: true
