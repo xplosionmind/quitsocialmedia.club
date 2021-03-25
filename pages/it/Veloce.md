@@ -27,5 +27,5 @@ lang: it
 	- Tutto su di essi è concepito per massimizzare il guadagno e la [velocità](/perché#velocità "Perché > Velocità")
 	- [Ci sfruttano](/perché#essere-usati "Perché > Essere usati"), mentre noi crediamo che siamo noi a sfruttare loro.
 1. Sicuramente, ora avrai qualche obiezione. Naturale. Tuttavia, [Non c’è “ma…” che tenga](/ma "“Ma…”"), o, se c’è, <a href="mailto:{{ site.email | encode_email }}" rel="noopener noreferrer" target="_blank" title="Scrivimi un’email">scrivimi</a> e proverò a replicare
-2. Ancora non sei sufficientemente convinto? Leggi le [Obiezioni e Risposte]("/it/faq" "Obiezioni e Risposte")
+2. Ancora non sei sufficientemente convinto? Leggi le [Obiezioni e Risposte](/it/faq "Obiezioni e Risposte")
 3. Ora, [elimina i tuoi account](/elimina "Elimina i tuoi account")
