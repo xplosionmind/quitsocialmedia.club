@@ -14,7 +14,7 @@ profile: true
 livereload: true
 strict_front_matter: true
 favicon: "/favicon.svg"
-image: "/logos/qsm.svg"
+image: "/logos/qsm.png"
 images: "/images"
 assets: "/assets"
 video: "/video"
@@ -63,6 +63,6 @@ defaults:
     values:
       layout: "page"
       lang: "en"
-      image: "/logos/qsm.svg"
+      image: "/logos/qsm.png"
       toc: true
       anchors: true
