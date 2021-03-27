@@ -8,7 +8,7 @@ lang: it
 ---
 ## Coerenza
 
-##### *Non è coerente: <u>stai condividendo <cite><a href="/">quitsocialmedia.club</a></cite> **sui** Social Media</u>. Se promuovi l'idea di abbandonare i* Social *e li usi per condividere questa prospettiva, vai contro l'idea stessa di abbandonarli!*
+##### *Non è coerente: <u>stai condividendo <cite><a href="/it/home">quitsocialmedia.club</a></cite> <em>sui</em> Social Media</u>. Se promuovi l'idea di abbandonare i* Social *e li usi per condividere questa prospettiva, vai contro l'idea stessa di abbandonarli!*
 
 Non proprio. Pensa a questo: se io amo il gelato alla fragola, non parlerò di quanto sono gustose le fragole con un mio amico che sta addentando un cono alla fragola; piuttosto, proverò a far assaggiare un cucchiaio del mio gelato alla fragola ad un mio amico che sta mangiando il gelato al cioccolato. Allo stesso modo, non ha senso abbandonare i *Social Media* e condividere questa idea **fuori** dalle piattaforme interessate: le persone che *possono* eliminare i propri account sono quelle che non l'hanno ancora fatto e, conseguentemente, sono coloro che possono essere raggiunti unicamente tramite *Social Media*.   
 Questo metodo di condivisione apparentemente incoerente nasconde in realtà al suo interno proprio una delle ragioni per cui si dovrebbe abbandonare i *Social*: non esiste un modo (e, se c'è, è molto poco considerato) per essere notato o ascoltato se non attraverso le piattaforme in questione.   

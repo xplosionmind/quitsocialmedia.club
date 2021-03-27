@@ -3,7 +3,7 @@ title: Solutions and alternatives
 permalink: /solutions
 ref: sol
 redirect_from: ["/sol", "/solution"]
-description: "Being “social” without “Social Media” seems impossible. Nevertheless, it's a whole new life, full of surprises, excitement and authenticity, but, above all, <strong>freedom</strong>. There are a few solutions which make life without Social Media connected and interactive anyway."
+description: "Being “social” without “Social Media” seems impossible. Nevertheless, it is a whole new life, full of surprises, excitement and authenticity, but, above all, <strong>freedom</strong>. There are a few solutions which make life without Social Media connected and interactive anyway."
 tags: l10n
 ---
 ## Briefly
@@ -17,7 +17,7 @@ The concept is this: to stay up to date, you can subscribe to any website's [RSS
 
 ## RSS feed
 
-You may have no idea [what a RSS feed is](https://en.wikipedia.org/wiki/RSS "“RSS” on Wikipedia"), or you may recall it as something old and remote. It's a simple tool which keeps you anonymous, it isn't owned by anyone and it needs no dedicated server to work. It has no algorithms and nobody uses watches your actions for [advertising purposes](/why#profilation).
+You may have no idea [what a RSS feed is](https://en.wikipedia.org/wiki/RSS "“RSS” on Wikipedia"), or you may recall it as something old and remote. It is a simple tool which keeps you anonymous, it is not owned by anyone and it needs no dedicated server to work. It has no algorithms and nobody uses watches your actions for [advertising purposes](/why#profilation).
 
 Some say it's dead because of Social Media, the thing is it's EVERYWHERE instead, we just don't see it. Starting to use it is trivial.
 
@@ -33,7 +33,7 @@ As pointed out in the [about](/about) page, this website isn't meant to explain 
 
 ### Using Social Media without being on Social Media
 
-It can happen that you end up sad and you miss how much Social Media allowed you to connect with your loved ones in a way you could never replace with other systems, if they don't want to follow you in abandoning those platforms. It's understandable, even if the ideal solution would be if you all quit. Nevertheless, as always, there's a very smart and useful workaround, a tool which allows you to <u>convert Social Media timelines in RSS feeds</u>.
+It can happen that you end up sad and you miss how much Social Media allowed you to connect with your loved ones in a way you could never replace with other systems, if they don't want to follow you in abandoning those platforms. It is understandable, even if the ideal solution would be if you all quit. Nevertheless, as always, there's a very smart and useful workaround, a tool which allows you to <u>convert Social Media timelines in RSS feeds</u>.
 
 Tools like that are actually more than one, but the most famous and developed one is [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge "RSS-Bridge on GitHub").
 
@@ -50,7 +50,7 @@ Most of the time, if you do not need to follow someone or something and you do n
 - [Teddit](https://teddit.net/ "Teddit"), a Reddit proxy
 - [Invidious](https://invidio.us "Invidious"), a YouTube proxy (note: the main Invidious instance shut down few months ago. From the homepage linked before, you can choose other instances, I use <https://yewtu.be>)
 
-[Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect "Privacy Redirect") is a very cool extension which automatically converts links containing the original URLs of the services to their correspondent proxy websites. For example, if I wanted to go to <https://twitter.com/xplosionmind>, I’d be redirected to <https://nitter.net/xplosionmind>.
+[Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect "Privacy Redirect") is a very cool extension which automatically converts links containing the original URLs of the services to their correspondent proxy websites. For example, if I wanted to go to <https://twitter.com/esa>, I would be redirected to <https://nitter.net/esa>.
 
 <br>
 <br>

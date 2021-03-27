@@ -53,27 +53,29 @@ Nella maggior parte dei casi, se non ti interessa seguire un account e non perde
 - [Teddit](https://teddit.net/ "Teddit"), a un proxy di Reddit
 - [Invidious](https://invidio.us "Invidious"), un proxy di YouTube (nota: la principale istanza di Invidious ha chiuso qualche mese fa. Dalla pagina precedentemente linkata si possono raggiungere altre istanze, quella che io uso è <https://yewtu.be>)
 
-[Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect "Privacy Redirect") è una favolosa estensione per la maggiorparte dei browser che trasforma automaticamente link dei Social supportati in link ai relativi proxy. Ad esempio, se io volessi visitare <https://twitter.com/xplosionmind>, l'estensione automaticamente mi reindirizzerebbe a <https://nitter.net/xplosionmind>.
+[Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect "Privacy Redirect") è una favolosa estensione per la maggiorparte dei browser che trasforma automaticamente link dei Social supportati in link ai relativi proxy. Ad esempio, se io volessi visitare <https://twitter.com/ESA_Italia>, l'estensione automaticamente mi reindirizzerebbe a <https://nitter.net/ESA_Italia>.
 
 <br>
 <br>
 
 ## Alternative
 
-Ho già trattato [le ragioni](/perché "Perché") per cui i *Social Media* così come noi li conosciamo siano preoccupantemente dannosi. Peraltro, esistono innumerevoli piattaforme che ne risolvono molti, se non tutti, i più importanti problemi. Le caratteristiche distintive di tali piattaforme sono <u>la totale assenza di pubblicità</u>, la minima raccolta di dati personali, <u>non sfruttati per profilare gli utenti</u>, ma, soprattutto, <u>sono liberi, aperti e indipendenti</u>.
+Ho già trattato [le ragioni](/perché "Perché") per cui i *Social Media* così come noi li conosciamo siano preoccupantemente dannosi. Peraltro, esistono innumerevoli piattaforme che ne risolvono molti, se non tutti, i più importanti problemi. Le caratteristiche distintive di tali favolose piattaforme sono <u>la totale assenza di pubblicità</u>, la minima raccolta di dati personali, <u>non sfruttati per profilare gli utenti</u>, non contengono algoritmi che analizzano o riordinano i contenuti, ma, soprattutto, <u>sono liberi, aperti e indipendenti</u>.
 
-Questi *Social Network* alternativi non sono solo gratis da utilizzare, ma anche liberamente replicabili: chiunque può [installarli sul proprio server](#crea-il-tuo) e facilmente connesse fra loro. Immagina di avere il tuo proprio Facebook. Quanto sarebbe favoloso?
+Questi *Social Network* alternativi non sono solo gratis da utilizzare, ma anche liberamente replicabili: chiunque può [installarli sul proprio server](#crea-il-tuo "Crea il tuo social") e facilmente connesse fra loro. Immagina di avere il tuo Facebook. Quanto sarebbe figo?
 
 - [Mastodon](https://mastodon.it "Mastodon"), con più di **quattro milioni di utenti** in tutto il mondo, è di gran lunga la piattaforma più diffusa e conosciuta; il suo funzionamento e la sua struttura sono molto simili a quelli di Twitter.
 - [Pixelfed](https://pixelfed.org "Pixelfed") è praticamente identico a Instagram; ha anche le storie.
 - [Friendica](https://friendi.ca "Friendica") è qualcosa di simile a Facebook
 - [PeerTube](https://joinpeertube.org "PeerTube official website") è una grandiosa piattaforma di video streaming, sviluppata dalla francese [Framasoft](https://framasoft.org/it/ "Framasoft"). Come il nome suggerisce, è come YouTube, ma sfrutta anche un geniale sistema di streaming peer-to-peer dei video per stressare meno i server che contengono video particolarmente popolari.
 
-Il dettaglio più sorprendente e grandioso è che tutte queste piattaforme, per quanto diverse, sono connesse fra loro: dal mio account su Mastodon posso seguire qualcuno su Pixelfed, così come un canale su PeerTube. Questo è possibile poiché questi *Social Media* alternativi sono basati su un protocollo chiamato [ActivityPub](https://it.wikipedia.org/wiki/ActivityPub "ActivityPub su Wikipedia"). Grazie a questo “federamento” le persone non solo su server, ma anche su *Social Media* differenti possono comunicare fra loro. Avere un account in uno di questi *Social* significa essere parte del magico [*Fediverse*](https://it.wikipedia.org/wiki/Fediverse "Fediverse on Wikipedia") (che sta per *Federated* (Social Media) *Universe*)
+Il dettaglio più sorprendente e grandioso è che tutte queste piattaforme, per quanto diverse, sono connesse fra loro: dal mio account su Mastodon posso seguire qualcuno su Pixelfed, così come un canale su PeerTube. Questo è possibile poiché questi *Social Media* alternativi sono basati su un protocollo chiamato [ActivityPub](https://it.wikipedia.org/wiki/ActivityPub "ActivityPub su Wikipedia"). Grazie a questo “federamento” le persone non solo su server, ma anche su *Social Media* differenti possono comunicare fra loro. Avere un account in uno di questi *Social* significa essere parte del magico [*Fediverse*](https://it.wikipedia.org/wiki/Fediverse "Fediverse on Wikipedia") (che sta per *Federated* (Social Media) *Universe*).
+
+<br>
 
 ### Maggiori informazioni
 
-- [Mastodon, il social media libero e decentralizzato](https://video.linux.it/videos/watch/3f6460c5-c1a9-4362-b0c9-824e0d1f8f86 "Mastodon, il social media libero e decentralizzato"), un video di spiegazione di [Filippo Della Bianca](https://mastodon.uno/@filippodb "@filippodb su mastodon.uno"), amministratore di [mastodon.uno](https://mastodon.uno "mastodon.uno")
+- [Mastodon, il social media libero e decentralizzato](https://video.linux.it/videos/watch/3f6460c5-c1a9-4362-b0c9-824e0d1f8f86 "Mastodon, il social media libero e decentralizzato"), un video di spiegazione di [Filippo Della Bianca](https://mastodon.uno/@filippodb "@filippodb su mastodon.uno"), amministratore di [mastodon.uno](https://mastodon.uno "mastodon.uno") (la più grande istanza Mastodon italiana)
 
 <br>
 <br>
@@ -92,7 +94,7 @@ L’ultima soluzione è di gran lunga la migliore, la più soddisfacente ed inim
 
 ## Sperimentare
 
-Una volta eliminati i propri profili, invece di essere [limitati](/perché#chiusura "Perché > Choisura") si diventa liberi e privi di compromessi; per questo, **cominciare a sperimentare** potrebbe essere una ottima idea!
+Una volta eliminati i propri profili, invece di essere [limitati](/perché#chiusura "Perché > Chiusura") si diventa liberi e privi di compromessi; per questo, **cominciare a sperimentare** potrebbe essere una ottima idea!
 
 Potresti voler iniziare *una newsletter* o registrare un podcast, sono molto di moda, ultimamente. In alternativa, potrebbe essere una saggia scelta concentrarsi per un po' su comunicazioni più intime e personali, condividendo momenti importanti della propria vita inviando [messaggi privati](https://signal.org "Signal") a gruppi o persone.
 
@@ -109,6 +111,7 @@ All’inizio, sarà sicuramente dura, ma a lungo termine sarà un immenso guadag
 
 Alcuni altri link a soluzioni ed alternative dopo l’abbandono dei Social Media:
 
+- [Le Alternative](https://lealternative.net "Le Alternative"), un sito web pieno di risorse curiose e interessanti per evitare di usare sempre e solo gli onnipresenti servizi dei monopoli del *Big Tech*.
 - [Living without Social Media](https://youtu.be/3E7hkPZ-HTk "Quit social media - Dr. Cal Newport - TEDxTysons"), un <mark class="red">TED Talk</mark> di dr. Cal Newport
 - [My personal wishlist for a decentralized social network](https://carter.sande.duodecima.technology/decentralized-wishlist/ "My personal wishlist for a decentralized social network"), by Carter Sande
 - [<cite>Together, we can rebuild the system</cite>](https://www.humanetech.com/rebuild "Together, we can align technology with humanity’s best interests"), sul sito deb del [<cite>Center for Humane Technology</cite>](https://www.humanetech.com/ "Center for Humane Technology")
