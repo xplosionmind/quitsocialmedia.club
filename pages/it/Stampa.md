@@ -13,9 +13,9 @@ Si prega di [contattare Tommi via email]({{ "tommi@quitsocialmedia.club" | uri_e
 <br>
 <br>
 
-## Mentions
+## Interviste e pubblicazioni
 
-A list of links to publications where quitsocialmedia appears:
+Una lista di link a video, articoli ed interviste in cui appare quitsocialmedia.club:
 
 <ul>
 	{% for article in site.data.press %}
