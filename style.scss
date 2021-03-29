@@ -231,7 +231,13 @@ article li,
 		}
 		&[href*="mailto" i] {
 		&::before {
-			content: "✉️ ";
+			content: "  ✉️ ";
+			}
+		}
+		&[href^="/stampa" i] {
+		&[href^="/press" i] {
+			&::before {
+				content: "📰 ";
 			}
 		}
 		&[href*="/about" i],
