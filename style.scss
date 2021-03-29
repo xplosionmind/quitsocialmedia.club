@@ -318,7 +318,9 @@ article li,
 				content: "❌ ";
 			}
 		}
-		&[href="/contributors" i] {
+		&[href^="/contributors" i],
+		&[href^="/it/cont" i],
+		&[href="/partecipanti" i] {
 			&::before {
 				content: "🧑🏽‍💻 ";
 			}
