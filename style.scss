@@ -234,7 +234,7 @@ article li,
 			content: "  ✉️ ";
 			}
 		}
-		&[href^="/stampa" i] {
+		&[href^="/stampa" i],
 		&[href^="/press" i] {
 			&::before {
 				content: "📰 ";
