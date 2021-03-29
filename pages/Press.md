@@ -25,7 +25,7 @@ A list of links to publications where quitsocialmedia appears:
 			{% else %}
 				🇬🇧 
 			{% endif %}
-			<a href="{{ article.url }}" rel="noopener noreferrer" target="_blank" title="{{ article.title }}">{{ article.title }}</a>, {{ article.date | date_to_long_string }}
+			<a href="{{ article.url }}" rel="noopener noreferrer" target="_blank" title="{{ article.title }}">{{ article.title }}</a> by {{ article.author }} on {{ article.amasthead }}, {{ article.date | date_to_long_string }}
 		</li>
 	{% endfor %}
 </ul>
