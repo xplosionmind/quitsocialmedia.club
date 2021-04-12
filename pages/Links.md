@@ -59,9 +59,10 @@ Go back to the [homepage](/home "Home")
 - [runyourown.social](https://runyourown.social "Run Your Own Social")
 - [Get a Website Now! Don't be a Web Peasant!](https://youtu.be/bdKZVIGRAKQ "Get a Website Now! Don't be a Web Peasant!"), a YouTube video by [Luke Smith](https://lukesmith.xyz "Luke's personal website")
 - [Living without Social Media](https://youtu.be/3E7hkPZ-HTk "Quit social media - Dr. Cal Newport - TEDxTysons"), a <mark class="red">TED Talk</mark> by dr. Cal Newport
-- [My personal wishlist for a decentralized social network](https://carter.sande.duodecima.technology/decentralized-wishlist/ "My personal wishlist for a decentralized social network"), by Carter Sande
 - [<cite>Together, we can rebuild the system</cite>](https://www.humanetech.com/rebuild "Together, we can align technology with humanity’s best interests"), on the website of the [<cite>Center for Humane Technology</cite>](https://www.humanetech.com/ "Center for Humane Technology")
+- [My personal wishlist for a decentralized social network](https://carter.sande.duodecima.technology/decentralized-wishlist/ "My personal wishlist for a decentralized social network"), by Carter Sande
 - [Okuna](https://about.okuna.io "Okuna"), <q>an ethical social network for a brighter tomorrow</q>.
+- [How did your life change after quitting social media?](https://www.quora.com/How-did-your-life-change-after-leaving-social-media "How did your life change after quitting social media?") question on Quora
 
 <br>
 <br>
