@@ -1,7 +1,7 @@
 ---
 title: Perché
 permalink: /perché
-redirect_from: ["/it/why", "/why-it", "/perche", "/motivi", "/perchè", "/it/l1", "/it/l01", "/it/l-01", "/it/level01", "/it/level1", "/it/level-1", "/it/level-01"]
+redirect_from: ["/it/why", "/why-it", "/perche", "/motivi", "/perchè", "/it/l1", "/it/l01", "/it/l-01", "/it/level01", "/it/level1", "/it/level-1", "/it/level-01", "/prché", "/pk", "/xke", "/xké", "/xk", "/pké", "/pke"]
 lang: it
 ref: why
 layout: page
