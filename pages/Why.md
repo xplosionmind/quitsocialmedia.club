@@ -13,6 +13,10 @@ Among the arguments presented below, you might not believe in one or two or them
 <u>The most effective “something„ we can do</u>, as individuals, without waiting for government actions, lawsuits and reports, <u>is quitting</u>.
 
 <br>
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1782365368/size=small/bgcol=f1faee/linkcol=e63946/track=3748954062/transparent=true/" seamless><a href="https://evangreer.bandcamp.com/album/spotify-is-surveillance">Spotify is Surveillance by Evan Greer</a></iframe>
+
+<br>
 <br>
 
 ## Anger
