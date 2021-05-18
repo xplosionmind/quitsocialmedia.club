@@ -46,7 +46,7 @@ I nostri sentimenti sono governati da una macchina: ci arrabbiamo per qualcosa c
 
 Strettamente connesso alla [rabbia](#rabbia): quando ci arrabbiamo, facciamo qualcosa al riguardo. Questo è esattamente quello che gli algoritmi aspettano. Non importa quanto il dibattito sia acceso: finché noi discutiamo, commentiamo, scrolliamo, va tutto bene. Il problema è che tendiamo a diventare più aggressivi: perdiamo la capacità di discutere con persone che sostengono un'opinione diversa dalla nostra senza giudicarli o andare in collera.   
 Tutte le piattaforme permettono di segnalare contenuti che contengono odio, offese o insulti, ma non esiste un modo oggettivo ed efficace per segnalare le **emozioni**.\
-Inoltre, è stato riportato da diverse fonti che i moderatori di contenuti sono sottopagati, hanno orari di lavoro estenuanti e devono moderare i contenuti di più di un milardo di utenti attivi, ogni giorno.
+Inoltre, è stato riportato da diverse fonti che i moderatori di contenuti sono sottopagati, hanno orari di lavoro estenuanti e devono moderare i contenuti di più di un miliardo di utenti attivi, ogni giorno.
 
 <br>
 
@@ -148,7 +148,7 @@ Ancora una volta: se una persona è fortemente distratta e non sa concentrarsi, 
 
 ## Dati
 
-Indipendentemente dalla nostra volontà, anche se utilizziamo i social passivamente, dunque navigando, guardando video e immgini e leggendo post, <u>regaliamo ai proprietari dei <i>Social Media</i> una immensa mole di dati su di noi</u> e su cosa ci piace. Questi dati, anche se in teoria sono “deliberatamente” concessi, sono accumulati sempre più, giorno dopo giorno, mese dopo mese, anno dopo anno. Il risultato è spaventoso. Per cosa vengono utilizzate tutte queste informazioni? La risposta è [profilazione degli utenti](#profilazione)
+Indipendentemente dalla nostra volontà, anche se utilizziamo i social passivamente, dunque navigando, guardando video e immagini e leggendo post, <u>regaliamo ai proprietari dei <i>Social Media</i> una immensa mole di dati su di noi</u> e su cosa ci piace. Questi dati, anche se in teoria sono “deliberatamente” concessi, sono accumulati sempre più, giorno dopo giorno, mese dopo mese, anno dopo anno. Il risultato è spaventoso. Per cosa vengono utilizzate tutte queste informazioni? La risposta è [profilazione degli utenti](#profilazione)
 
 ### Maggiori informazioni
 
