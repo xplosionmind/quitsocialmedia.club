@@ -53,7 +53,7 @@ Go back to the [homepage](/home "Home")
 - [Friendica](https://friendi.ca "Friendica official website") it something like Facebook.
 - [PeerTube](https://joinpeertube.org "PeerTube") is a great paltform built by the French Framasoft. As the name suggests, it's like YouTube, but it relies on peer-to-peer video sharing to avoid stressing the servers which host the existing instances.
 - [Alternative Social Networks](https://github.com/redecentralize/alternative-internet#social-networks "Alternative Internet repository on GitHub"), the section of the [Alternative Internet](https://github.com/redecentralize/alternative-internet#social-networks "“Alternative Internet” repository on GitHub") GitHub repository by [Redecentralize](https://github.com/redecentralize "Redecentralize on GitHub")
-- [Creating Decentralized Social Media Alternatives to Facebook and Twitter](https://thereboot.com/creating-decentralized-social-media-alternatives-to-facebook-and-twitter/ "Creating Decentralized Social Media Alternatives to Facebook and Twitter") by Robert W. Gehl on [The Reboot](https://thereboot.com/ "The Reboot")
+- [Creating Decentralized Social Media Alternatives to Facebook and Twitter](https://thereboot.com/creating-decentralized-social-media-alternatives-to-facebook-and-twitter/ "Creating Decentralized Social Media Alternatives to Facebook and Twitter") by Robert W. Gehl on [The Reboot]
 - [Redecentralize blog](https://redecentralize.org/blog "Redecentralize’s blog"), an independent, volunteer-driven organisation promoting the decentralisation of our digital technology.
 - [Internet of People](https://iop.global "Internet of People")
 - [runyourown.social](https://runyourown.social "Run Your Own Social")
@@ -83,9 +83,9 @@ Go back to the [homepage](/home "Home")
 
 Go back to [Why > Hate](/why#hate "Hate")
 
-- [Content Moderation on the Fediverse vs on Big Social media](https://conf.tube/videos/watch/d8c8ed69-79f0-4987-bafe-84c01f38f966 "Decentralized Social Networks vs. The Trolls"), a <video class="red">video</mark> by [Derek Caelin](https://mastodon.technology/@Argus "[Derek Caelin on Mastodon") on conf.tube
-- [Bodies in seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa "Bodies in seats"), by [Casey Newton](https://www.theverge.com/authors/casey-newton "Casey Newton author page on The Verge") on [The Verge](https://www.theverge.com "The Verge")
-- [Facebook can’t fix itself](https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself "Facebook can’t fix itself"), an article by [Andrew Marantz](https://en.wikipedia.org/wiki/Andrew_Marantz "Andrew Marantz on Wikipedia") on [<cite>The New Yorker</cite>]
+- [Content Moderation on the Fediverse vs on Big Social media](https://conf.tube/videos/watch/d8c8ed69-79f0-4987-bafe-84c01f38f966 "Decentralized Social Networks vs. The Trolls"), a <mark class="red">video</mark> by [Derek Caelin](https://mastodon.technology/@Argus "[Derek Caelin on Mastodon") on conf.tube
+- [Bodies in seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa "Bodies in seats"), by [Casey Newton](https://www.theverge.com/authors/casey-newton "Casey Newton author page on The Verge") on [The Verge]
+- [Facebook can’t fix itself](https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself "Facebook can’t fix itself"), an article by [Andrew Marantz](https://en.wikipedia.org/wiki/Andrew_Marantz "Andrew Marantz on Wikipedia") on [The New Yorker]
 - [Facebook Executives Shut Down Efforts to Make the Site Less Divisive](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499 "Facebook Executives Shut Down Efforts to Make the Site Less Divisive"), an article on [The Wall Street Journal](https://www.wsj.com "The Wall Street Journal")
 - [Facebook admits it was used to 'incite offline violence' in Myanmar](https://www.bbc.com/news/world-asia-46105934 "Facebook admits it was used to 'incite offline violence' in Myanmar") on BBC News
 - [YouTube’s algorithm seems to be funneling people to alt-right videos](https://www.technologyreview.com/2020/01/29/276000/a-study-of-youtube-comments-shows-how-its-turning-people-onto-the-alt-right/ "YouTube’s algorithm seems to be funneling people to alt-right videos") on MIT Technology Review
@@ -111,8 +111,8 @@ Go back to [Why > Misinformation](/why#misinformation "DMisinformation")
 
 - [How to save Facebook from democracy](https://www.foreignaffairs.com/articles/united-states/2020-11-24/fukuyama-how-save-democracy-technology "How to save Facebook from democracy"), by Francis Fukuyama, Barak Richman, and Ashish Goel on [Foreign Affairs](https://www.foreignaffairs.com "Foreign Affairs")
 - [Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech.](https://www.eff.org/deeplinks/2020/11/dont-blame-section-230-big-techs-failures-blame-big-tech "Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech. - EFF") by Elliot Harmon on [EFF](https://eff.org "EFF official website")
-- [Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies](https://thereboot.com/control-stifle-censor-social-media-toxic-double-edged-policies/ "Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies") by Jillian C. York on [The Reboot](https://thereboot.com/ "The Reboot")
-- [Mark Zuckerberg Is an Arbiter of Truth—Whether He Likes It or Not](https://www.wired.com/story/mark-zuckerberg-is-an-arbiter-of-truth-whether-he-likes-it-or-not/ "Mark Zuckerberg Is an Arbiter of Truth—Whether He Likes It or Not"), by Steven Levy on [WIRED](https://wired.com "WIRED")
+- [Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies](https://thereboot.com/control-stifle-censor-social-media-toxic-double-edged-policies/ "Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies") by Jillian C. York on [The Reboot]
+- [Mark Zuckerberg Is an Arbiter of Truth—Whether He Likes It or Not](https://www.wired.com/story/mark-zuckerberg-is-an-arbiter-of-truth-whether-he-likes-it-or-not/ "Mark Zuckerberg Is an Arbiter of Truth—Whether He Likes It or Not"), by Steven Levy on [WIRED]
 
 <br>
 
@@ -158,9 +158,9 @@ Go back to [Why > Profilation](/why#profilation "Profilation")
 
 - [How to Destroy Surveillance Capitalism](https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59 "How to Destroy Surveillance Capitalism"), di [Cory Doctorow](https://pluralistic.net "Pluralistic - Cory Doctorow")
 - [Twenty years of surveillance marketing](https://www.wired.com/beyond-the-beyond/2018/11/twenty-years-surveillance-marketing/ "Twenty years of surveillance marketing"), by [Bruce Sterling](https://en.wikipedia.org/wiki/Bruce_Sterling "Bruce Sterling on Wikipedia") on [Wired](https://wired.com "Wired")
-- [The Cambridge Analytica Story, Explained](https://www.wired.com/amp-stories/cambridge-analytica-explainer/ "The Cambridge Analytica Story, Explained"), by [WIRED](https://wired.com)
+- [The Cambridge Analytica Story, Explained](https://www.wired.com/amp-stories/cambridge-analytica-explainer/ "The Cambridge Analytica Story, Explained"), by [WIRED]
 - [Facebook's role in Brexit — and the threat to democracy](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy "Facebook's role in Brexit — and the threat to democracy"), a <mark class="red">TED Talk</mark> by [Carole Cadwalladr](https://en.wikipedia.org/wiki/Carole_Cadwalladr "Carole Cadwalladr on Wikipedia")
-- [How Surveillance Advertising Seized Our Data and Hijacked the Web](https://thereboot.com/how-surveillance-advertising-seized-our-data-and-hijacked-the-web/ "How Surveillance Advertising Seized Our Data and Hijacked the Web") by Matthew Crain on [The Reboot](https://thereboot.com/ "The Reboot")
+- [How Surveillance Advertising Seized Our Data and Hijacked the Web](https://thereboot.com/how-surveillance-advertising-seized-our-data-and-hijacked-the-web/ "How Surveillance Advertising Seized Our Data and Hijacked the Web") by Matthew Crain on [The Reboot]
 
 <br>
 
@@ -240,3 +240,8 @@ Go back to [Why > Saturation](/why#saturation "Saturation")
 - [Who does that server really serve?](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html "Who does that server really serve?"), by [Richard Stallman](https://stallman.org "Richard Stallman’s personal website") on [GNU.org](https://gnu.org "GNU")
 
 Go back to [Why > Being used](/why#being-used "Being used")
+
+[The New Yorker]: https://www.newyorker.com/ 'The New Yorker'
+[WIRED]: https://wired.com 'Wired'
+[The Reboot]: https://thereboot.com/ 'The Reboot'
+[The Verge]: https://www.theverge.com 'The Verge'

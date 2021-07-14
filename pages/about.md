@@ -22,7 +22,7 @@ Nevertheless, I concluded that <u>just quitting and doing nothing else is useles
 
 Simply abandoning social media platforms changes nothing.
 
-I looked online for information and arguments to understand how Social Media work, but every publication always focused on few of them, and none was absolutely comprehensive; therefore, I decided to put everything together by myself
+I looked online for information and arguments to understand how Social Media work, but every publication always focused on few of them, and none was absolutely comprehensive; therefore, I decided to put everything together by myself.
 
 This website has three main purposes:
 
