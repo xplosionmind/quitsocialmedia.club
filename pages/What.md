@@ -23,7 +23,7 @@ Nevertheless, it is not quite so. This website focuses on **some** Social Media,
 
 Unfortunately, there is no easy term or definition to demarcate which Social Media platforms are included or not in the points made by this website; as a shorthand, to avoid over-complicating the matter—which is very subtle and complicate by itself— we will be calling “Social Media” the platforms most of the inhabitants of planet Earth would think about immediately after reading or hearing those two words, even if it's not completely correct.
 
-By “Social Media”, we mean Facebook, Twitter, TikTok, YouTube, Snapchat and Instagram, but, even if they are the main ones, it must be aknowledge that there is a great number of other little or even tiny ones which are no better than the ones formerly written.
+By “Social Media”, we mean Facebook, Twitter, TikTok, YouTube, Snapchat and Instagram, but, even if they are the main ones, it must acknowledge that there is a great number of other little or even tiny ones which are no better than the ones formerly written.
 
 So, which platforms should be abandoned and which ones not?
 
