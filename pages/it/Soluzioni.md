@@ -60,7 +60,7 @@ Nella maggior parte dei casi, se non ti interessa seguire un account e non perde
 
 ## Alternative
 
-Ho già trattato [le ragioni](/perché "Perché") per cui i *Social Media* così come noi li conosciamo siano preoccupantemente dannosi. Peraltro, esistono innumerevoli piattaforme che ne risolvono molti, se non tutti, i più importanti problemi. Le caratteristiche distintive di tali favolose piattaforme sono <u>la totale assenza di pubblicità</u>, la minima raccolta di dati personali, <u>non sfruttati per profilare gli utenti</u>, non contengono algoritmi che analizzano o riordinano i contenuti, ma, soprattutto, <u>sono liberi, aperti e indipendenti</u>.
+Ho già trattato [le ragioni](/perché "Perché") per cui i *Social Media* così come noi li conosciamo siano preoccupantemente dannosi. Peraltro, esistono diverse favolose piattaforme che ne risolvono molti, se non tutti, i più importanti problemi. Le caratteristiche distintive di tali piattaforme sono <u>la totale assenza di pubblicità</u>, la minima raccolta di dati personali, <u>non sfruttati per profilare gli utenti</u>, non contengono algoritmi che analizzano o riordinano i contenuti, ma, soprattutto, <u>sono liberi, aperti e indipendenti</u>.
 
 Questi *Social Network* alternativi non sono solo gratis da utilizzare, ma anche liberamente replicabili: chiunque può [installarli sul proprio server](#crea-il-tuo "Crea il tuo social") e facilmente connesse fra loro. Immagina di avere il tuo Facebook. Quanto sarebbe figo?
 
@@ -69,7 +69,7 @@ Questi *Social Network* alternativi non sono solo gratis da utilizzare, ma anche
 - [Friendica](https://friendi.ca "Friendica") è qualcosa di simile a Facebook
 - [PeerTube](https://joinpeertube.org "PeerTube official website") è una grandiosa piattaforma di video streaming, sviluppata dalla francese [Framasoft](https://framasoft.org/it/ "Framasoft"). Come il nome suggerisce, è come YouTube, ma sfrutta anche un geniale sistema di streaming peer-to-peer dei video per stressare meno i server che contengono video particolarmente popolari.
 
-Il dettaglio più sorprendente e grandioso è che tutte queste piattaforme, per quanto diverse, sono connesse fra loro: dal mio account su Mastodon posso seguire qualcuno su Pixelfed, così come un canale su PeerTube. Questo è possibile poiché questi *Social Media* alternativi sono basati su un protocollo chiamato [ActivityPub](https://it.wikipedia.org/wiki/ActivityPub "ActivityPub su Wikipedia"). Grazie a questo “federamento” le persone non solo su server, ma anche su *Social Media* differenti possono comunicare fra loro. Avere un account in uno di questi *Social* significa essere parte del magico [*Fediverse*](https://it.wikipedia.org/wiki/Fediverse "Fediverse on Wikipedia") (che sta per *Federated* (Social Media) *Universe*).
+Il dettaglio più sorprendente e grandioso è che tutte queste piattaforme, per quanto diverse, sono connesse fra loro: dal mio account su Mastodon posso seguire qualcuno su Pixelfed, così come un canale su PeerTube. Questo è possibile poiché questi *Social Media* alternativi sono basati su un protocollo chiamato [ActivityPub](https://it.wikipedia.org/wiki/ActivityPub "ActivityPub su Wikipedia"). Grazie a questa “federazione” le persone possono comunicare fra loro indifferentemente dal Social Media e dal server su cui si trovano. Avere un account in uno di questi *Social* significa essere parte del magico [*Fediverse*](https://it.wikipedia.org/wiki/Fediverse "Fediverse on Wikipedia") (che sta per *Federated* (Social Media) *Universe*).
 
 <br>
 
