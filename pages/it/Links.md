@@ -12,9 +12,9 @@ lang: it
 
 ## Generale
 
-Torna alla [home](/it/home "Home")
-
 - [Un’intervista a Jaron Lanier di *Codice*](https://www.raiplay.it/video/2019/08/Codice-intervista-esclusiva-a-Jaron-Lanier-pioniere-della-realta-virtuale-98a38fd9-6fa9-46d6-9b49-f9deccc7d1c6.html "Intervista a Jaron Lanier - Codice - Rai Play"), su <mark class="red">Rai Play</mark>
+
+Torna alla [home](/it/home "Home")
 
 <br>
 
@@ -25,63 +25,68 @@ Torna alla [home](/it/home "Home")
 <br>
 <br>
 
+## Perché
 {% comment %}
-## Rabbia
+### Rabbia
 
 <br>
 
-## Odio
+### Odio
 
 Torna a [Perché > Hate](/perché#odio "Hate")
 
 
 <br>
 
-## Polarizzazione
+### Polarizzazione
 
 Torna a [Perché > Polarization](/perché#polarizzazione"Polarizzazione")
 
 <br>
 
-## Disinformazione
+### Disinformazione
 
 Torna a [Perché > Misinformation](/perché#disinformazione"Disinformazione")
 
+{% endcomment %}
 
 <br>
 
-## Bubble
+### Bolla
 
-Torna a [Perché > Bubble](/perché#bolla "Bolla")
+- [Silicon Valley Pretends That Algorithmic Bias Is Accidental. It’s Not.](https://slate.com/technology/2021/07/silicon-valley-algorithmic-bias-structural-racism.html), by [Amber M. Hamilton](http://ambermhamilton.com 'Amber M. Hamilton personal website') on [Slate]
 
-<br>
-
-## Quality
-
-Torna a [Perché > Quality](/perché#quality "Quality")
+Torna a [Perché > Bolla](/perché#bolla "Bolla")
 
 <br>
 
-## Addiction
+{% comment %}
+### Qualità
 
-Torna a [Perché > Addiction](/perché#addiction "Addiction")
+Torna a [Perché > Qualità](/perché#qualità "Qualità")
 
 <br>
 
-## Distraction
+### Dipendenza
+
+Torna a [Perché > Dipendenza](/perché#dipendenza 'Dipendenza')
+
+<br>
+
+### Distraction
 
 Torna a [Perché > Distraction](/perché#distraction "Distraction")
 
 <br>
 
-## Data
+### Data
 
 Torna a [Perché > Data](/perché#data "Data")
-{% endcomment %}
 
 <br>
 
-## Profilazione
+{% endcomment %}
+### Profilazione
 
 Torna a [Perché > Profilazione](/perché#profilazione "Profilazione")
 
@@ -90,62 +95,60 @@ Torna a [Perché > Profilazione](/perché#profilazione "Profilazione")
 
 <br>
 
-## Monopolization
+### Monopolization
 
 Torna a [Perché > Monopolization](/perché#monopolization "Monopolization")
 {% endcomment %}
 
 <br>
 
-## Socialità
+### Socialità
 
 Torna a [Perché > Socialità](/perché#socialità "Socialità")
 
 - [Don Alberto Ravagnani su Muschio Selvaggio](https://youtu.be/aZ2pn0tNoGQ?t=3625 "Ep.33 Don Alberto - Muschio Selvaggio Podcast") che racconta quanto sia pericoloso per i più piccoli avere spesso il telefono in mano
+
+<br>
+
 {% comment %}
+### Standardizzazione
+
+Torna a [Perché > Standardizzazione](/perché#standardizzazione "Standardizzazione")
 
 <br>
 
-## Standardization
-
-Torna a [Perché > Standardization](/perché#standardization "Standardization")
-
-<br>
-
-## Content ownership
+### Content ownership
 
 Torna a [Perché > Content ownership](/perché#content-ownership "Content Ownership")
 
 <br>
 
-## Hurry
+### Velocità
 
-Torna a [Perché > Hurry](/perché#hurry "Hurry")
-{% endcomment %}
+Torna a [Perché > Velocità](/perché#velocità 'Velocità')
 
 <br>
 
-## Semplicità vs semplificazione
+### Semplicità vs semplificazione
 
 Torna a [Perché > Semplicità vs semplificazione](/perché#semplicità-vs-semplificazione "Semplicità vs semplificazione")
-{% comment %}
 
 <br>
 
-## Being always connected
+### Being always connected
 
 Torna a [Perché > Being always connected](/perché#being-always-connected "Being Always Connected")
 
 <br>
 
-## Environment
+### Environment
 
 Torna a [Perché > Environment](/perché#environment "Environment")
 
 <br>
 
 {% endcomment %}
-## Chiusura
+### Chiusura
 
 - [Quanto siamo dipendenti da una singola piattaforma online?](https://funkwhale.it/library/tracks/1380/ "Quanto siamo dipendenti da una singola piattaforma online?"), episodio 10 del <mark class="blue">podcast</mark> di [Daniele Scasciafratte](https://daniele.tech "Daniele Scasciafratte")
 
@@ -154,13 +157,13 @@ Torna a [Perché > Chiusura](/perché#chiusura "Chiusura")
 <br>
 
 {% comment %}
-## Saturation
+### Saturazione
 
-Torna a [Perché > Saturation](/perché#saturation "Saturation")
+Torna a [Perché > Saturazione](/perché#saturazione "Saturazione")
 
 <br>
 
-## Being used
+### Being used
 
 Torna a [Perché > Being used](/perché#being-used "Being used")
 {% endcomment %}

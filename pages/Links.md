@@ -3,7 +3,6 @@ title: Links
 permalink: /links
 redirect_from: ["/bibliography", "/resources"]
 description: "Links to related topics"
-tags: wip
 ref: links
 ---
 <div>
@@ -119,14 +118,17 @@ Go back to [Why > Misinformation](/why#misinformation "DMisinformation")
 {% comment %}
 ## Bubble
 
+- [Silicon Valley Pretends That Algorithmic Bias Is Accidental. It’s Not.](https://slate.com/technology/2021/07/silicon-valley-algorithmic-bias-structural-racism.html), by [Amber M. Hamilton](http://ambermhamilton.com 'Amber M. Hamilton personal website') on [Slate]
+
 Go back to [Why > Bubble](/why#bubble "Bubble")
 
 <br>
 
+{% endcomment %}
+
 ## Quality
 
 Go back to [Why > Quality](/why#quality "Quality")
-{% endcomment %}
 
 <br>
 
@@ -245,3 +247,4 @@ Go back to [Why > Being used](/why#being-used "Being used")
 [WIRED]: https://wired.com 'Wired'
 [The Reboot]: https://thereboot.com/ 'The Reboot'
 [The Verge]: https://www.theverge.com 'The Verge'
+[Slate]: https://slate.com/ 'Slate'

@@ -1,10 +1,10 @@
 <div class="one column row">
 	<div class="banner red box">
-		<h3>🚧 {% if page.lang == 'it' %}Traduzione in corso{% else %}Work in progress{% endif %} 🏗</h3>
+		<h3>🚧 {% if page.lang == 'it' %}Traduzione in corso{% else %}Translation in progress{% endif %} 🏗</h3>
 		{% if page.lang == 'it' %}
-		Il contenuto di questa pagina non è stato completamente tradotto; tutti gli articoli e le note con traduzione in sospeso sono contraddistinte dal tag <a href="/development#l10n" title="tutte le traduzioni in corso"><code>l10n</code></a>.<br />Per visualizzare il contenuto aggiornato, <a {% for p in site.pages %}{% if p.ref == page.ref and p.lang == 'en' %}href="{{ p.url }}" title="{{ p.title }}"{% endif %}{% endfor %}>visualizza questa pagina in inglese</a>
+			Questa pagina non è stato completamente tradotta; tutti gli articoli e le note con traduzione in sospeso sono contraddistinte dal tag <a href="/development#l10n" title="tutte le traduzioni in corso"><code>l10n</code></a>.<br />Per visualizzare il contenuto aggiornato, <a {% for p in site.pages %}{% if p.ref == page.ref and p.lang == 'en' %}href="{{ p.url }}" title="{{ p.title }}"{% endif %}{% endfor %}>visualizza questa pagina in inglese</a>
 		{% else %}
-			Content of this page is not complete.
+		This page has not been completely translated from the language it was originally written in. You may seen chunks of it in other languages. Please, consider <a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repository }}/blob/main/{{ page.path | uri_escape }}" target="_blank" title="Edit “{{ page.title }} on GitHub”">helping out</a> in its translating it!
 		{% endif %}
 	</div>
 </div>

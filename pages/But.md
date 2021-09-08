@@ -4,9 +4,9 @@ ref: ma
 permalink: /but
 redirect_from: ["/yet", "/objections"]
 description: "There are a ton of reasons to abandon Social Media, but there are a lot of arguably equally valuable ones not to do so. Here I will go through the main ones and show how nuch they are not completely valid."
-tags: wip
+tags: l10n
 ---
-## But <u>I work</u> with Social Media!
+## …<u>I work</u> with Social Media!
 
 The great thing about experiments is that individually and in one’s own private life they can be pursued and changed without any bounds or constraints; unfortunately, almost any work today is somewhat entangled with Social Media.  
 Nevertheless, you can try to address your boss and explain them the matter, or even sharing with them this very website.
@@ -15,7 +15,7 @@ Please do not drop this just because you work with Social Media! You can be part
 
 <br>
 
-## But I will be alone and isolated from the rest of the world
+## …I will be alone and isolated from the rest of the world
 
 This is probably the objection I answer to the most. If I said this is not true, I would most definitely be lying. Often times (but less and less every day) I get a strong impulse of looking at my friends’ stories on Instagram, or when a friend hands me their phone to look at a meme, I find myself scrolling without control their feed, since I kind of missed it.
 

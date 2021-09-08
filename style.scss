@@ -240,8 +240,7 @@ article li,
 				content: "📰 ";
 			}
 		}
-		&[href*="/about" i],
-		&[href="/info" i],
+		&[href$="/about" i],
 		&[href*="tommi.space" i] {
 			&::before {
 				content: "🙋🏻‍♂️ ";

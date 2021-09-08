@@ -3,12 +3,12 @@ email: hi@quitsocialmedia.club
 description: >- # this means to ignore newlines until "baseurl:"
     Why and how to quit Social Media.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://quitsocialmedia.club" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://quitsocialmedia.club
 author: Tommi
 publisher: Tommi
 twitter_username: xplosionmind
 github_username: xplosionmind
-git_repository: "quitsocialmedia.club"
+git_repository: quitsocialmedia.club
 future: true
 profile: true
 livereload: true

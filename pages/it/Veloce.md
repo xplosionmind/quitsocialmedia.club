@@ -5,6 +5,7 @@ ref: quick
 description: "Non hai né il tempo né la voglia di leggere tutto ciò che è scritto qui e vuoi solo conoscerne i punti fondamentali? Questa è la pagina giusta per te."
 layout: page
 lang: it
+toc: false
 ---
 <div class="blue box">
 	Qui di seguito, una sintesi delle questioni affrontate su questo sito, tuttavia, è fortemente consigliato, per una conoscenza più esaustiva ed approfondita, di seguire <a href="/percorso" title="Percorso">questo percorso</a>.
