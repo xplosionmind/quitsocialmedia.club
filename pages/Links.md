@@ -14,6 +14,8 @@ ref: links
 - Check out the [**Center for Humane Technology**’s website](https://www.humanetech.com "Center for Humane Technology") and its podcast, <cite><a href="https://www.humanetech.com/podcast" rel="noopener noreferrer" target="_blank" title="Your Undivided Attention">Your Undivided Attention</a></cite>.
 - [Delete Facebook](https://deletefacebook.com "DeleteFacebook.com") is the main website you want to refer to. Keep in mind that both Instagram and WhatsApp are owned by Facebook.
 - [quitfacebook.org](https://quitfacebook.org "Quit Facebook"), a website which is something like this page: a list of links to resources
+- [quit.social](https://quit.social), a website to train yourself not to visit social media. Currently [working on merging it with this website](https://github.com/imjasonh/quit.social/issues/4 '“Merging quit.social with quitsocialmedia.club” issue on GitHub').
+- [Privacy vs “I have nothing to hide”](https://kevq.uk/privacy-vs-i-have-nothing-to-hide/ 'Privacy vs “I have nothing to hide”'), an article by [Kev Quirk](https://kevq.uk/ 'Kev’s website')
 
 <br>
 
@@ -158,11 +160,12 @@ Go back to [Why > Data](/why#data "Data")
 
 Go back to [Why > Profilation](/why#profilation "Profilation")
 
-- [How to Destroy Surveillance Capitalism](https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59 "How to Destroy Surveillance Capitalism"), di [Cory Doctorow](https://pluralistic.net "Pluralistic - Cory Doctorow")
+- [How to Destroy Surveillance Capitalism](https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59 "How to Destroy Surveillance Capitalism"), by [Cory Doctorow](https://pluralistic.net "Pluralistic - Cory Doctorow")
 - [Twenty years of surveillance marketing](https://www.wired.com/beyond-the-beyond/2018/11/twenty-years-surveillance-marketing/ "Twenty years of surveillance marketing"), by [Bruce Sterling](https://en.wikipedia.org/wiki/Bruce_Sterling "Bruce Sterling on Wikipedia") on [Wired](https://wired.com "Wired")
 - [The Cambridge Analytica Story, Explained](https://www.wired.com/amp-stories/cambridge-analytica-explainer/ "The Cambridge Analytica Story, Explained"), by [WIRED]
 - [Facebook's role in Brexit — and the threat to democracy](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy "Facebook's role in Brexit — and the threat to democracy"), a <mark class="red">TED Talk</mark> by [Carole Cadwalladr](https://en.wikipedia.org/wiki/Carole_Cadwalladr "Carole Cadwalladr on Wikipedia")
 - [How Surveillance Advertising Seized Our Data and Hijacked the Web](https://thereboot.com/how-surveillance-advertising-seized-our-data-and-hijacked-the-web/ "How Surveillance Advertising Seized Our Data and Hijacked the Web") by Matthew Crain on [The Reboot]
+- [How Social Media tracking works](https://twitter.com/RobertGReeve/status/1397032784703655938), a Twitter thread by [Robert G. Reeve](https://twitter.com/RobertGReeve 'Robert G. Reeve Twitter profile')
 
 <br>
 

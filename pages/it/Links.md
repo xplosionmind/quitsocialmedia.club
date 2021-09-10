@@ -12,7 +12,10 @@ lang: it
 
 ## Generale
 
+- [Una vita senza Big Tech](https://www.youtube.com/watch?v=VCg3PzbC9vY 'Una vita senza Big Tech, storie di chi cerca alternative ai giganti del web'), breve <mark class="red">documentario</mark> di [Andrea Lattanzi](https://it.linkedin.com/in/andrealattanzi 'Andrea Lattanzi su Linkedin') su [Repubblica](https://www.repubblica.it/ 'la Repubblica')
 - [Un’intervista a Jaron Lanier di *Codice*](https://www.raiplay.it/video/2019/08/Codice-intervista-esclusiva-a-Jaron-Lanier-pioniere-della-realta-virtuale-98a38fd9-6fa9-46d6-9b49-f9deccc7d1c6.html "Intervista a Jaron Lanier - Codice - Rai Play"), su <mark class="red">Rai Play</mark>
+- [Uscire dal BigBlue](https://noblogo.org/zainoinspalla/uscire-dal-big-blue 'Uscire dal Big Blue'), un articolo su [noblogo](https://noblogo.org 'noblogo')
+- [Perché ho deciso di lasciare Facebook](https://amreolog.duckdns.org/~/SoftwareLiberoEticaDigitale/perch%C3%A9-ho-deciso-di-lasciare-facebook 'Perché ho deciso di lasciare Facebook • Plume'), un articolo di [amreo](https://amreolog.duckdns.org/@/amreo 'amreo’s blog')
 
 Torna alla [home](/it/home "Home")
 
@@ -91,6 +94,8 @@ Torna a [Perché > Data](/perché#data "Data")
 Torna a [Perché > Profilazione](/perché#profilazione "Profilazione")
 
 - [Gli algoritmi non sono cose, ma disposizioni di potere che riorganizzano la nostra società](http://www.vita.it/it/interview/2021/01/26/gli-algoritmi-non-sono-cose-ma-disposizioni-di-potere-che-riorganizzan/397/ "Gli algoritmi non sono cose, ma disposizioni di potere che riorganizzano la nostra società"), di Marco Dotti su [Vita](https://www.vita.it)
+- [Il ruolo di Facebook nella Brexit e la minaccia alla democrazia](https://peertube.uno/videos/watch/e2875d76-2592-4f58-8f7a-3f749a3c6626?subtitle=it&autoplay=1 "Il ruolo di Facebook nella Brexit e la minaccia alla democrazia di Carole Cadwalladr"), un <mark class="red">TED Talk</mark> di [Carole Cadwalladr](https://it.wikipedia.org/wiki/Carole_Cadwalladr "Carole Cadwalladr su Wikipedia")
+
 {% comment %}
 
 <br>
