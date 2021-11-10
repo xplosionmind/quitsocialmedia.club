@@ -153,6 +153,14 @@ Torna a [Perché > Environment](/perché#environment "Environment")
 <br>
 
 {% endcomment %}
+### Ambiente
+
+- [Privacy e cambiamenti climatici](https://www.ilpost.it/carloblengino/2021/11/02/privacy-e-cambiamenti-climatici-alla-ricerca-di-una-buona-storia/ 'Privacy e cambiamenti climatici - Il Post'), di [Carlo Blengino](https://www.ilpost.it/carloblengino/ 'Pagina autore di Carlo Blengino su Il Post') su [Il Post](https://ilpost.it 'Il Post')
+
+Torna a [Perché > Ambiente](/perché#ambiente 'Ambiente')
+
+<br />
+
 ### Chiusura
 
 - [Quanto siamo dipendenti da una singola piattaforma online?](https://funkwhale.it/library/tracks/1380/ "Quanto siamo dipendenti da una singola piattaforma online?"), episodio 10 del <mark class="blue">podcast</mark> di [Daniele Scasciafratte](https://daniele.tech "Daniele Scasciafratte")
