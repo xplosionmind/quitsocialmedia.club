@@ -4,8 +4,8 @@
 	text-transform: uppercase;
 	font-weight: 700;
 	* {
-		border-radius: var(--radius-m);
-		list-style-type: none;
+		border-radius: $radius-m;
+		list-style-type: none !important;
 	}
 	/* activate the following if you choose to make the header fixed */
 	/*z-index: 9;
@@ -16,12 +16,20 @@
 }
 
 #home {
-	padding: 0 var(--regular);
-	float: left;
+	position: fixed;
+	top: 2vw;
+	left: 2vw;
+	padding: 0 $regular-less;
 	line-height: 2.8rem; 
-	font-size: var(--big);
+	font-size: $big;
 	background: var(--primary);
 	box-shadow: var(--shadow);
+	transform: rotate(-2deg);
+	color: var(--background);
+	&:hover,
+	&:focus {
+		transform: rotate(3deg);
+	}
 	a {
 		color: var(--background);
 		&:hover,
@@ -39,27 +47,24 @@
 nav {
 	float: right;
 	text-align: right;
-	padding: 0 var(--small);
+	padding: 0 $small;
 	box-shadow: var(--shadow);
-	svg {
-		width: var(--bigger);
-		margin: var(--small);
+	* {
+		margin: 0 !important;
 	}
 	ul {
-		list-style: none;
-		margin: 0;
 		padding: 0;
 		li {
 			float: left;
-			margin: 0;
-			a {
+			a,
+			label {
 				display: block;
 				color: var(--text) !important;
+				line-height: $height;
+				height: $height;
+				padding: 0 $small;
+				font-size: $regular-more;
 				font-weight: 700;
-				line-height: 2.8rem;
-				height: 2.8rem;
-				padding: 0 var(--small);
-				font-size: var(--regular-more);
 				&:hover,
 				&:focus{
 					text-shadow: var(--text-shadow);
@@ -78,25 +83,24 @@ nav {
 	}
 }
 
-.dropdown-content {
+.lang-list {
 	display: none;
+	top: 5rem;
+	right: -100px;
 	position: absolute;
-	margin-top: var(--small);
-	background: var(--background);
-	overflow: scroll;
 	box-shadow: var(--shadow);
 }
 
 /* Mobile nav */
 .nav-mobile {
 	display: none;
-	height: 2.8rem;
-	width: 2.8rem;
-	position: absolute;
-	top: 3vw;
-	right: 3vw;
-	background: var(--background);
+	height: $height;
+	width: $height;
+	position: fixed;
+	top: 3vh;
+	right: 3vh;
 	box-shadow: var(--shadow);
+	background: var(--background);
 	span {
 		top: 1.25rem;
 		left: .6rem;
@@ -109,10 +113,10 @@ nav {
 		background: var(--text);
 		position: absolute;
 		display: block;
-		content: "";
+		content: '';
 		box-shadow: var(--little-shadow);
-		border-radius: var(--radius-s) !important;
- 		transition: var(--quicktrans);
+		border-radius: $radius-s !important;
+ 		transition: $quicktrans;
 	}
 	span::before {
 		top: .65rem;
@@ -122,29 +126,47 @@ nav {
 	}
 }
 
+#langtoggle:checked + .lang-list {
+	display: block;
+	right: 3vh;
+}
+
 @media only screen and (max-width: 950px) {
+	#home {
+		top: 3vh;
+		left: 2vh;
+	}
+	.nav {
+		margin: 3vh;
+	}
 	.nav-mobile {
 		display: block;
 	}
 	.nav-list {
 		position: fixed;
-		top: var(--mastodon);
-		right: -500px;
+		min-width: 50vw;
+		top: 5rem;
+		right: -240px;
 		background: var(--background);
 		box-shadow: var(--shadow);
 		transition: .5s;
+		z-index: 9;
 	}
 	nav ul li {
 		float: none;
+		background: var(--background)
+	}
+	#langtoggle:checked + .lang-list {
+		right: 3vw;
 	}
 }
 
-.open-menu {
-	.nav-list {
-		right: var(--small);
+#menutoggle:checked {
+	& + .nav-list {
+		right: 3vh;
 		transition: .5s;
 	}
-	 .nav-mobile span {
+	& ~ .nav-mobile span {
 		background: transparent;
 		box-shadow: none;
 		&::before,
@@ -158,11 +180,5 @@ nav {
 		&::after {
 			transform: rotate(-45deg);
 		}
-	}
-}
-
-.dropdown.open-menu {
-	.dropdown-content {
-		display: block;
 	}
 }

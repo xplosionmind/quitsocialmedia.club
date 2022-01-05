@@ -1,48 +1,30 @@
-<section id="nav" class="nav">
-	<div id="home">
-		<a href="{% if page.lang == 'it' %}/it/home{% else %}/home{% endif %}" title="Home">Quit Social Media</a>
-	</div>
+<header id='nav' class='nav'>
+	<a id='home' href='{% case page.lang %}{% when 'it' %}/it/home{% when 'fr' %}/fr/home{% else %}/home{% endcase %}' title='Home'>Quit Social Media</a>
 	<nav>
-		<a class="nav-mobile" href="javascript:void(0);" onclick="navtoggle()"><span></span></a>
-		<ul class="nav-list">
-			<li>{% if page.lang == 'it' %}<a href="/info" title="Informazioni su questo sito">Info{% else %}<a href="/about">About{% endif %}</a></li>
-			<li>{% if page.lang == 'it' %}<a href="/perché" title="Perché">Perché{% else %}<a href="/why">Why{% endif %}</a></li>
-			<li>{% if page.lang == 'it' %}<a href="/ma" title="Obiezioni"><q>Ma…</q>{% else %}<a href="/but"><q>But…</q>{% endif %}</a></li>
-			<li>{% if page.lang == 'it' %}<a href="/percorso" title="Percorso">Percorso{% else %}<a href="/path">Path{% endif %}</a></li>
-			<li>{% if page.lang == 'it' %}<a href="/soluzioni" title="Soluzioni">Soluzioni{% else %}<a href="/solutions" title="Solutions and alternatives">Solutions{% endif %}</a></li>
-			<li><a href="{% if page.lang == 'it' %}/it/faq{% else %}/faq{% endif %}" title="Objections and Replies">FAQ</a></li>
+		<label class='nav-mobile' for='menutoggle'><span></span></label>
+		<input type='checkbox' id='menutoggle'>
+		<ul class='nav-list'>
+			<li>{% case page.lang %}{% when 'it' %}<a href='/info' title='Informazioni su questo sito'>Info{% when 'fr' %}<a href='/àPropos' title='À propos de ce site-ci'>À propos{% else %}<a href='/about'>About{% endcase %}</a></li>
+			<li>{% case page.lang %}{% when 'it' %}<a href='/perché' title='Perché'>Perché{% when 'fr' %}<a href='/pourquoi' title='Pourquoi'>Pourquoi{% else %}<a href='/why'>Why{% endcase %}</a></li>
+			<li>{% case page.lang %}{% when 'it' %}<a href='/ma' title='Obiezioni'><q>Ma…</q>{% when 'fr' %}<a href='/mais' title='Objections et réponses'><q>Mais…</q></a>{% else %}<a href='/but'><q>But…</q>{% endcase %}</a></li>
+			<li>{% case page.lang %}{% when 'it' %}<a href='/percorso' title='Percorso'>Percorso{% when 'fr' %}<a href='/chemin' title='Chemin'>Chemin</a>{% else %}<a href='/path'>Path{% endcase %}</a></li>
+			<li>{% case page.lang %}{% when 'it' %}<a href='/soluzioni' title='Soluzioni'>Soluzioni{% when 'fr' %}<a href='/solutions' title='Solutions et alternatives'>Solutions</a>{% else %}<a href='/solutions' title='Solutions and alternatives'>Solutions{% endcase %}</a></li>
+			<li><a href='{% case page.lang %}{% when 'it' %}/it/faq' title='Obiezioni e risposte{% when 'fr' %}/fr/faq' title='Objections et réponses{% else %}/faq' title='Objections and Replies{% endcase %}'>FAQ</a></li>
 			{% unless page.ref == nil %}
-			<li id="language-selector" class="dropdown"><a onclick="langdropdown()" href="javascript:void(0);" title="language selector">&ensp;🌏</a>
-				<ul class="dropdown-content">
-					{% for cosa in site.pages %}
-					{% if cosa.ref == page.ref %}
+				<li class='dropdown'>
+					<label for='langtoggle' title='language selector'>🌍</label>
+					<input type='checkbox' id='langtoggle'>
+					<ul class='lang-list'>
+					{% for cosa in site.pages %}{% if cosa.ref == page.ref %}
 						<li>
-							<a href="{{ cosa.url }}" class="{{ cosa.lang }}">{{ cosa.lang }}</a>
+							<a href='{{ cosa.url }}' class='{{ cosa.lang }}' hreflang='{{ cosa.lang }}' lang='{{ cosa.lang }}'>{% case cosa.lang %}
+								{% when 'it' %}🇮🇹{% when 'en' %}🇬🇧{% when 'fr' %}🇫🇷{% else %}{{ cosa.lang }}
+							{% endcase %}</a>
 						</li>
-					{% endif %}
-					{% endfor %}
-				</ul>
-			</li>
+					{% endif %}{% endfor %}
+					</ul>
+				</li>
 			{% endunless %}
 		</ul>
 	</nav>
-</section>
-
-<script>
-function navtoggle() {
-	var x = document.getElementById("nav");
-	if (x.className === "nav") {
-		x.className += " open-menu";
-	} else {
-		x.className = "nav";
-	}
-}
-function langdropdown() {
-	var x = document.getElementById("language-selector");
-	if (x.className === "dropdown") {
-		x.className += " open-menu";
-	} else {
-		x.className = "dropdown";
-	}
-}
-</script>
+</header>

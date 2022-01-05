@@ -1,11 +1,27 @@
 ---
 ---
+$tiny: .2rem;
+$small: .5rem;
+$regular-less: .9rem;
+$regular: 1.1rem;
+$regular-more: 1.3rem;
+$regular-more-em: 1.3em;
+$big: 1.6rem;
+$bigger: 1.8rem;
+$twice: 2.2rem;
+$height: 3.1rem;
+$mastodon: 4.4rem;
+$radius-s: .4rem;
+$radius-m: .6rem;
+$radius-l: 1rem;
+$trans: .5s;
+$quicktrans: .2s;
 
-/*@import "../_sass/search";*/
-@import "../_sass/highlight";
-@import "../_sass/nav";
-@import "../_sass/inter";
-@import "../_sass/ubuntu-mono";
+/*@import '../_sass/search';*/
+@import '../_sass/highlight';
+@import '../_sass/nav';
+@import '../_sass/inter';
+@import '../_sass/ubuntu-mono';
 
 :root {
 	--black-ish: #222;
@@ -23,30 +39,6 @@
 	
 	color-scheme: dark light;
 
-	--yellow-gradient: linear-gradient(145deg, #DAAE1B, #FFD23E);
-	--blue-gradient: linear-gradient(145deg, #4c96ff, #226dd7);
-
-	--tiny: .2rem;
-	--tinyem: .2em;
-	--small: .5rem;
-	--smallem: .5em;
-	--regular-less: .9rem;
-	--regular: 1.1rem;
-	--regular-em: 1.1em;
-	--regular-more: 1.3rem;
-	--regular-more-em: 1.3em;
-	--big: 1.6rem;
-	--bigger: 1.8rem;
-	--twice: 2.2rem;
-	--height: 3.1rem;
-	--mastodon: 4.4rem;
-	--margin: 6.5rem;
-	--trans: .5s;
-	--quicktrans: .2s;
-	--radius-s: 5px;
-	--radius-m: .6rem;
-	--radius-l: 1rem;
-
 	--title-text-shadow-hover: none;
 }
 
@@ -55,51 +47,7 @@ html {
 	cursor: url(/logos/red-cursor.svg) 16 16, crosshair;
 	background: var(--background);
 	scroll-behavior: smooth;
-}
 
-/* DARK THEME */
-@media screen and (prefers-color-scheme: dark) {
-	--background: var(--blue);
-	--text: var(--white-ish);
-	--deep: #102040;
-	--link: var(--primary);
-	--primary: var(--light-blue);
-	--secondary: var(--red);
-	--internal-link: var(--primary);
-	--grey: var(--dark-grey);
-	--other-grey: var(--light-grey);
-	--shadow: 5px 5px 20px #102040BB, -5px -5px 20px #FFFFFF11;
-	--little-shadow: 2px 2px 3px #102040EF, -2px -2px 3px #FFFFFF22;
-	--button-shadow: 3px 3px 8px #102040AA, -3px -3px 8px #FFFFFF11;
-	--inner-shadow: inset 3px 3px 5px #10204088, inset -3px -3px 5px #FFF2;
-	--inner-little-shadow: inset 2px 2px 3px #102040AA, inset -2px -2px 3px #FFF1;
-	--header-shadow: 5px 5px 15px #102040DD, -5px -5px 15px #FFF2;
-
-	transition: var(--trans);
-}
-
-.dark {
-	--background: var(--blue);
-	--text: var(--white-ish);
-	--deep: #102040;
-	--link: var(--primary);
-	--primary: var(--light-blue);
-	--secondary: var(--red);
-	--internal-link: var(--primary);
-	--grey: var(--dark-grey);
-	--other-grey: var(--light-grey);
-	--shadow: 5px 5px 20px #102040BB, -5px -5px 20px #FFFFFF11;
-	--little-shadow: 2px 2px 3px #102040EF, -2px -2px 3px #FFFFFF22;
-	--button-shadow: 3px 3px 8px #102040AA, -3px -3px 8px #FFFFFF11;
-	--inner-shadow: inset 3px 3px 5px #10204088, inset -3px -3px 5px #FFF2;
-	--inner-little-shadow: inset 2px 2px 3px #102040AA, inset -2px -2px 3px #FFF1;
-	--header-shadow: 5px 5px 15px #102040DD, -5px -5px 15px #FFF2;
-
-	transition: var(--trans);
-}
-
-/* LIGHT THEME */
-body {
 	--background: var(--white-ish);
 	--text: var(--blue);
 	--deep: white;
@@ -119,20 +67,46 @@ body {
 	--text-shadow: 0px 0px 0px var(--link), 1px 1px 1px var(--grey);
 	--title-text-shadow: -3px -3px 0px var(--text), -3px -2px 1px var(--grey), -2px -3px 1px var(--grey), -2px -2px 0px var(--grey), -1px -1px 0px var(--grey), 0px 0px 0px var(--grey);
 
-	transition: var(--trans);
+	transition: $trans;
+}
+
+/* DARK THEME */
+@media screen and (prefers-color-scheme: dark) {
+	html {
+		--background: var(--blue);
+		--text: var(--white-ish);
+		--deep: #102040;
+		--link: var(--primary);
+		--primary: var(--light-blue);
+		--secondary: var(--red);
+		--internal-link: var(--primary);
+		--grey: var(--dark-grey);
+		--other-grey: var(--light-grey);
+		--shadow: 5px 5px 20px #102040BB, -5px -5px 20px #FFFFFF11;
+		--little-shadow: 2px 2px 3px #102040EF, -2px -2px 3px #FFFFFF22;
+		--button-shadow: 3px 3px 8px #102040AA, -3px -3px 8px #FFFFFF11;
+		--inner-shadow: inset 3px 3px 5px #10204088, inset -3px -3px 5px #FFF2;
+		--inner-little-shadow: inset 2px 2px 3px #102040AA, inset -2px -2px 3px #FFF1;
+		--header-shadow: 5px 5px 15px #102040DD, -5px -5px 15px #FFF2;
+
+		transition: $trans;
+	}
 }
 
 body {
-	background: var(--background);
-	color: var(--text);
-	font: var(--regular) Inter, -apple-system, Helvetica, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font: $regular Inter, -apple-system, Helvetica, 'Helvetica Neue', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 	margin: 0;
 	overflow-wrap: break-word;
 	hyphens: auto;
 }
 
 * {
-	transition: var(--trans), transform var(--quicktrans);
+	transition: $trans, transform $quicktrans;
+}
+
+#menutoggle,
+#langtoggle {
+	display: none;
 }
 
 *,
@@ -144,7 +118,7 @@ body {
 .row::before,
 .row::after {
 	display: table;
-	content: " ";
+	content: ' ';
 	clear: both;
 }
 
@@ -164,7 +138,7 @@ mark {
 	color: var(--background);
 	font-weight: 500;
 	padding: 0 4px;
-	border-radius: var(--radius-s)
+	border-radius: $radius-s
 }
 
 ::selection {
@@ -182,13 +156,9 @@ mark {
 	box-shadow: none !important;
 }
 
-.theme-toggle {
-	right: calc(3% + 4rem);
-}
-
 .tool {
 	position: fixed;
-	bottom: var(--bigger);
+	bottom: $bigger;
 	z-index: 9;
 	&.button {
 		padding: .3rem;
@@ -219,7 +189,7 @@ article li,
 .toc {
 	a {
 		font-weight: 500;
-		transition: var(--quicktrans);
+		transition: $quicktrans;
 		&:hover,
 		&:focus {
 			text-shadow: var(--text-shadow);
@@ -229,129 +199,129 @@ article li,
 			text-shadow: none;
 			color: var(--link) !important;
 		}
-		&[href*="mailto" i] {
+		&[href*='mailto' i] {
 		&::before {
-			content: "  ✉️ ";
+			content: '  ✉️ ';
 			}
 		}
-		&[href^="/stampa" i],
-		&[href^="/press" i] {
+		&[href^='/stampa' i],
+		&[href^='/press' i] {
 			&::before {
-				content: "📰 ";
+				content: '📰 ';
 			}
 		}
-		&[href$="/about" i],
-		&[href*="tommi.space" i] {
+		&[href$='/about' i],
+		&[href*='tommi.space' i] {
 			&::before {
-				content: "🙋🏻‍♂️ ";
+				content: '🙋🏻‍♂️ ';
 			}
 		}
-		&[href*="development" i] {
+		&[href*='development' i] {
 			&::before {
-				content: "💻 ";
+				content: '💻 ';
 			}
 		}
-		&[href*="link" i],
-		&[href*="resources" i] {
+		&[href*='link' i],
+		&[href*='resources' i] {
 			&::before {
-				content: "📚 ";
-				/* content: "🔗 "; */
+				content: '📚 ';
+				/* content: '🔗 '; */
 			}
 		}
-		&[href*="/path" i],
-		&[href*="/percorso" i] {
+		&[href*='/path' i],
+		&[href*='/percorso' i] {
 			&::before {
-				content: "🧭 ";
+				content: '🧭 ';
 			}
 		}
-		&[href*="/why" i],
-		&[href*="/perch%C3%A9" i],
-		&[href*="/perche" i] {
+		&[href*='/why' i],
+		&[href*='/perch%C3%A9' i],
+		&[href*='/perche' i] {
 			&::after {
-				content: "❓";
+				content: '❓';
 			}
 		}
-		&[href*="l10n" i] {
+		&[href*='l10n' i] {
 			&::before {
-				content: "🌎 ";
+				content: '🌎 ';
 			}
 		}
-		&[href*="learn" i] {
+		&[href*='learn' i] {
 			&::before {
-				content: "📖 ";
+				content: '📖 ';
 			}
 		}
-		&[href*="/solution" i],
-		&[href*="/soluz" i] {
+		&[href*='/solution' i],
+		&[href*='/soluz' i] {
 			&::before {
-				content: "💡 ";
+				content: '💡 ';
 			}
 		}
-		&[href*="/quick" i],
-		&[href*="/veloce" i] {
+		&[href*='/quick' i],
+		&[href*='/veloce' i] {
 			&::before {
-				content: "⏰ ";
+				content: '⏰ ';
 			}
 		}
-		&[href*="/watch" i],
-		&[href*="/guarda" i] {
+		&[href*='/watch' i],
+		&[href*='/guarda' i] {
 			&::before {
-				content: "🍿 ";
+				content: '🍿 ';
 			}
 		}
-		&[href*="/note" i],
-		&[href="/roadmap" i] {
+		&[href*='/note' i],
+		&[href='/roadmap' i] {
 			&::before {
-				content: "📝 ";
+				content: '📝 ';
 			}
 		}
-		&[href*="/listen" i],
-		&[href*="/ascolta" i] {
+		&[href*='/listen' i],
+		&[href*='/ascolta' i] {
 			&::before {
-				content: "🎧 ";
+				content: '🎧 ';
 			}
 		}
-		&[href="/delete" i],
-		&[href="/quit" i] {
+		&[href='/delete' i],
+		&[href='/quit' i] {
 			&::before {
-				content: "❌ ";
+				content: '❌ ';
 			}
 		}
-		&[href^="/contributors" i],
-		&[href^="/it/cont" i],
-		&[href="/partecipanti" i] {
+		&[href^='/contributors' i],
+		&[href^='/it/cont' i],
+		&[href='/partecipanti' i] {
 			&::before {
-				content: "🧑🏽‍💻 ";
+				content: '🧑🏽‍💻 ';
 			}
 		}
-		&[href*="liberapay" i],
-		&[href*="/contribute" i],
-		&[href*="/contribuisci" i] {
+		&[href*='liberapay' i],
+		&[href*='/contribute' i],
+		&[href*='/contribuisci' i] {
 			&::before {
-				content: "🎁 ";
+				content: '🎁 ';
 			}
 		}
-		&[href*="keys.openpgp.org" i] {
+		&[href*='keys.openpgp.org' i] {
 			&::before {
-				content: "🔑 ";
+				content: '🔑 ';
 			}
 		}
-		&[href="/share" i],
-		&[href="/condividi" i] {
+		&[href='/share' i],
+		&[href='/condividi' i] {
 			&::before {
-				content: "📢 ";
+				content: '📢 ';
 			}
 		}
-		&[href^="/ob" i],
-		&[href*="/faq" i] {
+		&[href^='/ob' i],
+		&[href*='/faq' i] {
 			&::before {
-				content: "🤔 ";
+				content: '🤔 ';
 			}
 		}
-		&[href="/ma" i],
-		&[href="/but" i] {
+		&[href='/ma' i],
+		&[href='/but' i] {
 			&::before {
-				content: "🤨 ";
+				content: '🤨 ';
 			}
 		}
 	}
@@ -373,7 +343,8 @@ a,
 button,
 .button,
 .aa-suggestion,
-.embed-container {
+.embed-container,
+label {
 	cursor: url(/logos/red-cursor-hover.svg) 16 16, pointer;
 }
 
@@ -388,13 +359,13 @@ button,
 }
 
 li {
-	margin-bottom: var(--small);
-	line-height: var(--regular-more-em);
+	margin-bottom: $small;
+	line-height: $regular-more-em;
 	li {
 		margin-bottom: 0;
-		list-style-type: "–   ";
+		list-style-type: '–   ';
 		li {
-			list-style-type: "+  ";
+			list-style-type: '+  ';
 		}
 	}
 }
@@ -405,9 +376,9 @@ li {
 
 .task-list-item-checkbox {
 	position: relative;
-	right: var(--regular-less);
-	width: var(--regular);
-	height: var(--regular);
+	right: $regular-less;
+	width: $regular;
+	height: $regular;
 }
 
 .post {
@@ -416,7 +387,7 @@ li {
 		-webkit-initial-letter: 4;
 	}
 	.embed-container {
-		border-radius: var(--radius-l);
+		border-radius: $radius-l;
 		box-shadow: var(--shadow);
 	}
 }
@@ -428,9 +399,9 @@ hr {
 
 .line {
 	width: 20%;
-	height: var(--small);
+	height: $small;
 	margin: 0 auto;
-	border-radius: var(--radius-s);
+	border-radius: $radius-s;
 	box-shadow: var(--little-shadow);
 }
 
@@ -441,8 +412,8 @@ hr {
 
 .page-header {
 	h1 {
-		font-size: var(--mastodon);
-		margin: var(--regular-less);
+		font-size: $mastodon;
+		margin: $regular-less;
 		text-shadow: var(--header-shadow);
 	}
 	p {
@@ -452,7 +423,7 @@ hr {
 }
 
 .toc {
-	margin: 0 10% var(--regular);
+	margin: 0 10% $regular;
 	li {
 		margin: 0;
 		li {
@@ -468,15 +439,15 @@ hr {
 
 pre,
 code {
-	font: 400 1.1em 'Ubuntu Mono', 'Roboto Mono', 'Fira Code', mono, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font: 400 1.1em 'Ubuntu Mono', 'Roboto Mono', 'Fira Code', mono, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 	line-height: 1.2em;
 }
 
 pre {
 	overflow-x: scroll;
-	margin: var(--bigger) 0;
-	padding: var(--regular-more);
-	border-radius: var(--radius-m);
+	margin: $bigger 0;
+	padding: $regular-more;
+	border-radius: $radius-m;
 	box-shadow: var(--inner-shadow);
 	background: var(--black-ish);
 	code {
@@ -487,7 +458,7 @@ pre {
 code {
 	padding: 2px 9px;
 	box-shadow: var(--inner-little-shadow);
-	border-radius: var(--radius-s);
+	border-radius: $radius-s;
 }
 
 .cite {
@@ -513,7 +484,7 @@ tr {
 }
 
 th {
-	padding: var(--small) var(--regular-less);
+	padding: $small $regular-less;
 	
 	/* making the header sticky */
 	position: sticky;
@@ -523,15 +494,15 @@ th {
 
 td {
 	font-size: .8em;
-	padding: var(--tiny) var(--small);
+	padding: $tiny $small;
 }
 
 .table {
 	max-height: 90vh;
 	overflow: scroll;
-	margin: var(--height) 2vw;
+	margin: $height 2vw;
 	border: 3px solid var(--grey);
-	border-radius: var(--radius-l);
+	border-radius: $radius-l;
 	box-shadow: var(--shadow);
 }
 
@@ -546,12 +517,12 @@ table {
 		font-weight: 800;
 		margin-bottom: 0;
 		position: relative;
-		bottom: var(--regular);
+		bottom: $regular;
 	}
 	.button {
 		color: var(--primary);
 		background: var(--background);
-		margin: var(--tiny) var(--regular-less);
+		margin: $tiny $regular-less;
 	}
 }
 
@@ -609,11 +580,11 @@ img {
 	max-width: 100%;
 	height: auto;
 	display: block;
-	border-radius: var(--radius-l);
+	border-radius: $radius-l;
 }
 
 figure {
-	margin: var(--height) auto;
+	margin: $height auto;
 	img {
 		max-height: 90vh;
 		border: solid 1px black;
@@ -623,9 +594,9 @@ figure {
 }
 
 figcaption {
-	font: var(--regular) "EB Garamond", Garamond, "Simoncini Garamond", Georgia, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-	line-height: var(--regular);
-	margin-top: var(--regular-less);
+	font: $regular 'EB Garamond', Garamond, 'Simoncini Garamond', Georgia, serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+	line-height: $regular;
+	margin-top: $regular-less;
 	color: var(--other-grey);
 	text-align: center;
 }
@@ -655,8 +626,8 @@ b {
 } */
 
 article {
-	font-size: var(--regular-more);
-	padding: var(--twice) 10% var(--mastodon);
+	font-size: $regular-more;
+	padding: $twice 10% $mastodon;
 }
 
 time {
@@ -678,23 +649,23 @@ h1, h2, h3, h4, h5 {
 .title {
 	font-weight: 800;
 	letter-spacing: .1em;
-	font-size: var(--twice);
+	font-size: $twice;
 	color: transparent;
-	margin: var(--regular) auto;
+	margin: $regular auto;
 	text-shadow: var(--title-text-shadow);
 	text-align: center;
-	transition: var(--quicktrans);
+	transition: $quicktrans;
 }
 
 h1 {
 	color: var(--text);
 	text-align: center;
-	font-size: var(--height);
+	font-size: $height;
 	text-decoration: none;
 }
 
 h2 {
-	font-size: var(--bigger);
+	font-size: $bigger;
 	.anchor {
 		&::after {
 			content: '#';
@@ -713,19 +684,19 @@ h3 {
 .box {
 	max-width: 100%;
 	color: var(--text);
-	padding: var(--big);
-	margin-top: var(--bigger);
-	margin-bottom: var(--bigger);
-	border-radius: var(--radius-l);
+	padding: $big;
+	margin-top: $bigger;
+	margin-bottom: $bigger;
+	border-radius: $radius-l;
 	box-shadow: var(--shadow);
 	overflow: scroll;
 	&.post-preview {
-		margin-top: var(--regular-less);
-		margin-bottom: var(--regular-less);
+		margin-top: $regular-less;
+		margin-bottom: $regular-less;
 		max-height: unset;
-		padding: var(--small);
+		padding: $small;
 		.date {
-			margin: 0 var(--regular);
+			margin: 0 $regular;
 		}
 		.button {
 			transform: scale(.7);
@@ -744,14 +715,14 @@ h3 {
 .box,
 .stuff {
 	p {
-		margin: var(--regular) 10%;
+		margin: $regular 10%;
 	}
 }
 
 .stuff {
 	padding: 4vw 2vw;
-	margin: var(--height) 2vw;
-	border-radius: var(--radius-l);
+	margin: $height 2vw;
+	border-radius: $radius-l;
 	box-shadow: var(--shadow);
 	.column {
 		padding: 0 2vw;
@@ -767,8 +738,8 @@ h3 {
 }
 
 .last-modified {
-	margin: 0 auto var(--twice);
-	font-size: var(--regular-less);
+	margin: 0 auto $twice;
+	font-size: $regular-less;
 	opacity: .8;
 	text-align: center;
 }
@@ -778,7 +749,7 @@ footer {
 	overflow: hidden;
 	width: 96%;
 	padding: 2vw;
-	border-radius: var(--radius-l);
+	border-radius: $radius-l;
 	box-shadow: var(--shadow);
 	* {
 		text-align: center;
@@ -791,7 +762,7 @@ footer {
 		justify-content: space-between;
 	}
 	time {
-		font-family: 'Ubuntu Mono', 'Roboto Mono', 'Fira Code', mono, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+		font-family: 'Ubuntu Mono', 'Roboto Mono', 'Fira Code', mono, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 	}
 	.time {
 		line-height: 1.1em;
@@ -800,26 +771,26 @@ footer {
 
 @media only screen and (max-width: 950px) {
 	.page-header h1 {
-		font-size: var(--height);
+		font-size: $height;
 	}
 	.box {
-		margin: var(--bigger) 3%;
+		margin: $bigger 3%;
 	}
 	.stuff-logo {
-		margin-top: var(--bigger)
+		margin-top: $bigger
 	}
 	.margin {
 		margin: 0 10%;
 	}
 	article {
-		padding: var(--twice) 7% var(--mastodon);
+		padding: $twice 7% $mastodon;
 	}
 }
 
 audio {
 	width: 100%;
 	box-shadow: var(--shadow);
-	border-radius: var(--radius-m);
+	border-radius: $radius-m;
 }
 
 .controlBar {
@@ -828,21 +799,21 @@ audio {
 
 svg.button,
 img.button {
-	height: var(--height);
+	height: $height;
 	width: auto;
 	padding: 0;
-	margin: var(--tiny);
+	margin: $tiny;
 	background: var(--primary);
 }
 
 button,
 .button {
 	display: inline-block;
-	padding: var(--small) var(--regular);
-	font-size: var(--bigger);
+	padding: $small $regular;
+	font-size: $bigger;
 	font-weight: 700;
 	text-transform: uppercase;
-	border-radius: var(--radius-m);
+	border-radius: $radius-m;
 	box-shadow: var(--button-shadow);
 	text-align: center;
 	hyphens: none;
@@ -858,19 +829,19 @@ button,
 .written {
 	background: var(--primary);
 	color: var(--background);
-	margin: var(--big);
+	margin: $big;
 }
 
 .smaller {
-	padding: var(--tiny) var(--regular-less);
-	margin: var(--small);
-	font-size: var(--big);
-	border-radius: var(--radius-s);
+	padding: $tiny $regular-less;
+	margin: $small;
+	font-size: $big;
+	border-radius: $radius-s;
 }
 
 .sharing {
 	.button {
-		margin-right: var(--small);
+		margin-right: $small;
 		padding: .4rem;
 	}
 }

@@ -1,8 +1,9 @@
 ---
 title: Chemin
+ref: path
+lang: fr
 permalink: /chemin
 redirect_from: [/voie,/route,/parcours,/sentier,/allée,/allee,/fr/path,/pathfr,/path-fr,/path/fr]
-ref: path
 description: Le surplus d’informations vous a désorienté? Voici le chemin à suivre pour vous libérer de la dépendance aux réseaux sociaux.
 toc: false
 ---
@@ -10,7 +11,7 @@ Surtout pas de précipitation (vous ne le souhaitez probablement pas non plus):�
 Avant cela, et *si* vous en arrivez là, existe un cheminement de réflexion.
 
 <div class='blue box'>
-	Puisque vous pouvez agir à différents niveaux, les actions menant à votre <a href='https://tommi.space/internet-freedom' target='_blank' title='“Internet Freedom„ dans Tommi’s notes'>Liberté numérique</a> sont «gamifiées» et divisées en plusieurs catégories, du <a href='/l00'>Niveau 0</a> au <a href='/l1000'>Niveau 1000</a>.
+	Puisque vous pouvez agir à différents niveaux, les actions menant à votre <a href='https://tommi.space/internet-freedom' target='_blank' title='“Internet Freedom„ dans Tommi’s notes'>Liberté numérique</a> sont «gamifiées» et divisées en plusieurs catégories, du <a href='/n00'>Niveau 0</a> au <a href='/n1000'>Niveau 1000</a>.
 </div>
 
 <br>

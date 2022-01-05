@@ -4,62 +4,62 @@ lang: it
 ref: home
 layout: wrapper
 permalink: /it/home
-redirect_from: ["/home-it", "/it-home", "/home/it", "/tuffo"]
-description: "Tutte le ragioni per cui i <em>Social Media</em>, per come li conosciamo ora, sono pericolosi e tutte le possibili soluzioni per rendere più sana ed autentica la propria vita sociale sul web"
+redirect_from: [/home-it,/it-home,/home/it,/tuffo]
+description: 'Tutte le ragioni per cui i <em>Social Media</em>, per come li conosciamo ora, sono pericolosi e tutte le possibili soluzioni per rendere più sana ed autentica la propria vita sociale sul web'
 ---
-<div class="one column">
-	<div class="row">
-		<div class="page-header">
+<div class='one column'>
+	<div class='row'>
+		<div class='page-header'>
 			<h1>Quit Social Media</h1>
 			<p>{{ page.description }}.</p>
 		</div>
 	</div>
 
-	<div class="red box row">
-		<h2 class="title">Cosa cavolo è questo sito?</h2>
+	<div class='red box row'>
+		<h2 class='title'>Cosa cavolo è questo sito?</h2>
 		<p>
 			<b>Risposta breve</b>: un luogo in cui sono esposte tutte le ragioni per cui i Social Media sono un gran problema, con diverse risorse che ne spiegano il perché, insieme a valide soluzioni e alternative.
 			<br />
-			<b>Risposta lunga</b>: leggi le <a href="/info">info</a>.
+			<b>Risposta lunga</b>: leggi le <a href='/info'>info</a>.
 		</p>
-		<h3 class="title" style="margin-top:var(--twice)">Da dove partire</h3>
+		<h3 class='title' style='margin-top:var(--twice)'>Da dove partire</h3>
 		<p>
-			Probabilmente sarai una persona impegnata e non avrai tempo da perdere per queste sciocchezze. Ok, ti capisco: ho scritto <a href="/veloce">un veloce riassunto</a> per te.
+			Probabilmente sarai una persona impegnata e non avrai tempo da perdere per queste sciocchezze. Ok, ti capisco: ho scritto <a href='/veloce'>un veloce riassunto</a> per te.
 		</p>
 		<p>
-			Se dedicare un po' più del tuo tempo all'argomento non ti spaventa, io posso assicurarti che ne vale la pena. Ti consiglio di seguire <a href="/percorso" title="/percorso" title="Percorso">questo percorso</a>.
+			Se dedicare un po' più del tuo tempo all'argomento non ti spaventa, io posso assicurarti che ne vale la pena. Ti consiglio di seguire <a href='/percorso' title='/percorso' title='Percorso'>questo percorso</a>.
 		</p>
 	</div>
 
 	{% for post in site.posts %}
 		{% if forloop.first %}
-			<div class="row">
-				<a href="/blog"><h2 class="title">Novità</h2></a>
+			<div class='row'>
+				<a href='/blog'><h2 class='title'>Novità</h2></a>
 				<ul>
-					<li>{{ post.date | date_to_long_string }} - <a href="{{ post.url }}" title="{{ post.title }}"></a></li>
+					<li>{{ post.date | date_to_long_string }} - <a href='{{ post.url }}' title='{{ post.title }}'></a></li>
 		{% elsif forloop.last %}
-					<li>{{ post.date | date_to_long_string }} - <a href="{{ post.url }}" title="{{ post.title }}"></a></li>
+					<li>{{ post.date | date_to_long_string }} - <a href='{{ post.url }}' title='{{ post.title }}'></a></li>
 				</ul>
 			</div>
 		{% else %}
-					<li>{{ post.date | date_to_long_string }} - <a href="{{ post.url }}" title="{{ post.title }}"></a></li>
+					<li>{{ post.date | date_to_long_string }} - <a href='{{ post.url }}' title='{{ post.title }}'></a></li>
 		{% endif %}
 	{% else %}
 	{% endfor %}
 
 	<br />
 
-	<div class="row">
-		<h2 class="title">Contatti</h2>
-		<p class="center">Se hai domande o suggerimenti, non esitare a <a href="mailto:{{ site.email | encode_email }}" target="_blank" rel="noopener noreferrer" title="Send me an email">scrivermi</a> (<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/D435660C86733BA1C4C22F4D922BA2D96336049E" title="PGP Key hello@quitsocialmedia.club">PGP key</a>).</p>
+	<div class='row'>
+		<h2 class='title'>Contatti</h2>
+		<p class='center'>Se hai domande o suggerimenti, non esitare a <a href='mailto:{{ site.email | encode_email }}' target='_blank' rel='noopener noreferrer' title='Send me an email'>scrivermi</a> (<a href='https://keys.openpgp.org/vks/v1/by-fingerprint/D435660C86733BA1C4C22F4D922BA2D96336049E' title='PGP Key hello@quitsocialmedia.club'>PGP key</a>).</p>
 	</div>
 
 	<br />
 
-	<div class="blue box row">
-		<a href="/contribuisci"><h2 class="title">Contribuisci</h2></a>
+	<div class='blue box row'>
+		<a href='/contribuisci'><h2 class='title'>Contribuisci</h2></a>
 		{% for contrib in site.pages %}
-			{% if contrib.title == "Contribuisci" %}
+			{% if contrib.title == 'Contribuisci' %}
 				{{ contrib.content | markdownify }}
 			{% endif %}
 		{% endfor %}
@@ -67,14 +67,14 @@ description: "Tutte le ragioni per cui i <em>Social Media</em>, per come li cono
 
 	<br />
 
-	<div class="margin row">
-		<h2 class="title">Pagine</h2>
+	<div class='margin row'>
+		<h2 class='title'>Pagine</h2>
 		<p>Un'anteprima di tutte le pagine del sito in italiano:</p>
 		<ul>
 			{% for p in site.pages %}
 				{% if p.lang == page.lang %}
-					{% unless p.url contains '.json' or p.url contains '.csv' or p.url contains '.css' or p.url contains '.txt' or p.title contains '404' or p.url contains '.xml' or p.title == nil or p.title == 'Home' %}
-					<li><a href="{{ p.url }}" title="{{ p.title }}">{{ p.title }}</a> - {{ p.description }}</li>
+					{% unless p.url contains '.json' or p.url contains '.csv' or p.url contains '.css' or p.url contains '.txt' or p.title contains '404' or p.url contains '.xml' or p.title == nil or p.ref == 'home' %}
+					<li><a href='{{ p.url }}' title='{{ p.title }}'>{{ p.title }}</a> - {{ p.description }}</li>
 					{% endunless %}
 				{% endif %}
 			{% endfor %}

@@ -1,15 +1,18 @@
 ---
 title: Accueil
 ref: home
+lang: fr
 permalink: /accueil
+redirect_from: [/fr/home,/homefr,/home-fr,/home/fr]
 layout: wrapper
+description: Toutes les raisons qui rendent les réseaux sociaux problématiques et des solutions possibles pour vivre sans
 toc: false
 ---
 <div class='one column'>
 	<div class='row'>
 		<div class='page-header'>
 			<h1>Quit Social Media</h1>
-			<p>Toutes les raisons qui rendent les réseaux sociaux problématiques et des solutions possibles pour vivre sans</p>
+			<p>{{ page.description }}.</p>
 		</div>
 	</div>
 
@@ -71,7 +74,7 @@ toc: false
 		<ul>
 			{% for p in site.pages %}
 				{% if p.lang == page.lang %}
-					{% unless p.url contains '.json' or p.url contains '.csv' or p.url contains '.css' or p.url contains '.txt' or p.title contains '404' or p.url contains '.xml' or p.title == nil or p.title == 'Home' %}
+					{% unless p.url contains '.json' or p.url contains '.csv' or p.url contains '.css' or p.url contains '.txt' or p.title contains '404' or p.url contains '.xml' or p.title == nil or p.ref == 'home' %}
 						<li><a href='{{ p.url }}' title='{{ p.title }}'>{{ p.title }}</a> - {{ p.description }}</li>
 					{% endunless %}
 				{% endif %}

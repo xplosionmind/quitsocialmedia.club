@@ -2,11 +2,11 @@
 title: What are Social Media?
 permalink: /what
 ref: what
-redirect_from: ["/what-social", "/what-are-social-media"]
-description: "This website is about quitting Social Media, we got that. But <i>what</i> does a Social Medium actually is? Here, we aren't speaking of <b><i>all</i></b> Social Media platforms, but only some of them."
+redirect_from: [/fr/what,/quoi,/what-social,/what-are-social-media]
+description: This website is about quitting Social Media, we got that. But <i>what</i> does a Social Medium actually is? Here, we are not speaking of <b><i>all</i></b> Social Media platforms, but only some of them.
 toc: false
 ---
-The first few rows of the entry “[Social Media](https://en.wikipedia.org/wiki/Social_media "“Social Media„ on Wikipedia")„ on Wikipedia recite the following words:
+The first few rows of the entry “[Social Media](https://en.wikipedia.org/wiki/Social_media '“Social Media„ on Wikipedia')„ on Wikipedia recite the following words:
 
 <blockquote>
 	<p>Social media are interactive digitally-mediated technologies that facilitate the creation or sharing/exchange of information, ideas, career interests, and other forms of expression via virtual communities and networks.<br />
@@ -14,7 +14,7 @@ The first few rows of the entry “[Social Media](https://en.wikipedia.org/wiki/
 	<b>1.</b> Social media are interactive Web 2.0 Internet-based applications.<br />
 	<b>2.</b> User-generated content—such as text posts or comments, digital photos or videos, and data generated through all online interactions—is the lifeblood of social media.<br />
 	<b>3.</b> Users create service-specific profiles for the website or app that are designed and maintained by the social-media organization.<br />
-	<b>4.</b> Social media facilitate the development of online social networks by connecting a user's profile with those of other individuals or groups.<br /></p>
+	<b>4.</b> Social media facilitate the development of online social networks by connecting a user’s profile with those of other individuals or groups.<br /></p>
 </blockquote>
 
 If we blindly and strictly followed the definition above, by quitting Social Media we would quit most of the platforms which populate the internet altogether.
@@ -27,12 +27,12 @@ By “Social Media”, we mean Facebook, Twitter, TikTok, YouTube, Snapchat and 
 
 So, which platforms should be abandoned and which ones not?
 
-The answer is not definite and clear, but it's easy to have an idea of how bad a networking platform is by confronting the [Why](/why) page with the Privacy Policy of the service you are interested in.
+The answer is not definite and clear, but it is easy to have an idea of how bad a networking platform is by confronting the [Why](/why) page with the Privacy Policy of the service you are interested in.
 
 <br>
 <br>
 
 ## Further reading
 
-- [Social Media statistics](https://chrissniderdesign.com/blog/resources/social-media-statistics/ "Social Media statistics"): active users, revenue, data about the main Social Media platforms
-- [Facebook ads library](https://www.facebook.com/ads/library/ "Facebook ads Library"), look for ads and advertisers
+- [Social Media statistics](https://chrissniderdesign.com/blog/resources/social-media-statistics/ 'Social Media statistics'): active users, revenue, data about the main Social Media platforms
+- [Facebook ads library](https://www.facebook.com/ads/library/ 'Facebook ads Library'), look for ads and advertisers

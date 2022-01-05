@@ -1,10 +1,10 @@
 ---
-title: "Becoming Aware"
-redirect_from: ["/level-1", "/level1", "/l01", "/l1", "/l-01", "/l-1", "/awareness", "/learn"]
+title: Becoming Aware
+redirect_from: [/level-1,/level1,/l01,/l1,/l-01,/l-1,/awareness,/learn]
 ref: learn
-level: "1"
-nextlevel: "2"
-description: "Learn what's wrong with Social Media platform and become more concious"
+level: 1
+nextlevel: 2
+description: Learn what's wrong with Social Media platform and become more concious
 layout: level
 published: false
 ---

@@ -1,24 +1,24 @@
 <head>
-	<meta name="color-scheme" content="dark light">
+	<meta name='color-scheme' content='dark light'>
 
 	{% seo %}
 
-	<link rel="alternate" type="application/atom+xml" title="{% if page.lang == 'it'%}Blog{% else %}Updates feed{% endif %}" href="/feed.xml" />
+	<link rel='alternate' type='application/atom+xml' title='{% case page.lang %}{% when 'it'%}Blog{% when 'fr' %}Mises à jour{% else %}Updates feed{% endcase %}' hreflang='en' href='/feed.xml'>
 
 	<title>{{ page.title }} | Quit Social Media</title>
-	<link rel="stylesheet" href="/style.css" type="text/css" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<meta name="mobile-web-app-capable" content="yes" />
-	<link rel="icon" href="{{ site.favicon}}" />
-	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-	<meta name="theme-color" content="#1D3557" />
-	<meta property="og:type" content="website" />
-	<meta property="og:article:published_time" content="{{ page.date | date_to_xmlschema }}" />
-	<meta property="og:locale:alternate" content="{% if page.lang == 'it' %}en{% else %}it{% endif %}" />
+	<link rel='stylesheet' href='/style.css' type='text/css'>
+	<meta name='viewport' content='width=device-width, initial-scale=1'>
+	<meta http-equiv='x-ua-compatible' content='ie=edge'>
+	<meta name='mobile-web-app-capable' content='yes'>
+	<link rel='icon' href='{{ site.favicon}}'>
+	<meta name='apple-mobile-web-app-status-bar-style' content='black-translucent'>
+	<meta name='theme-color' content='#1D3557'>
+	<meta property='og:type' content='website'>
+	<meta property='og:article:published_time' content='{{ page.date | date_to_xmlschema }}'>
+	<meta property='og:locale:alternate' content='{% case page.lang %}{% when 'en' %}it{% else %}en{% endcase %}'>
 
 	<!-- Analytics -->
-	<script async defer data-domain="quitsocialmedia.club" src="https://visits.quitsocialmedia.club/js/index.js"></script>
-	<script>if(!sessionStorage.getItem("_swa")&&document.referrer.indexOf(location.protocol+"//"+location.host)!== 0){fetch("https://counter.dev/track?"+new URLSearchParams({referrer:document.referrer,screen:screen.width+"x"+screen.height,user:"tommi",utcoffset:"1"}))};sessionStorage.setItem("_swa","1");</script>
+	<script async defer data-domain='quitsocialmedia.club' src='https://visits.quitsocialmedia.club/js/index.js'></script>
+	<script>if(!sessionStorage.getItem('_swa')&&document.referrer.indexOf(location.protocol+'//'+location.host)!== 0){fetch('https://counter.dev/track?'+new URLSearchParams({referrer:document.referrer,screen:screen.width+'x'+screen.height,user:'tommi',utcoffset:'1'}))};sessionStorage.setItem('_swa','1');</script>
 
 </head>

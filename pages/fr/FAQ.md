@@ -1,6 +1,7 @@
 ---
 title: Objections et réponses
 ref: faq
+lang: fr
 permalink: /fr/faq
 redirect_from: [/faq-fr,/faqfr,/objections-et-réponses,/objections-réponses,/objections-et-reponses,/objections-reponses,/reponses]
 description: Comme beaucoup, j’ai envoyé un brouillon de ce site à des proches et des figures pour avoir leurs retours. J’adresse ici des réponses à certaines de leurs objections.

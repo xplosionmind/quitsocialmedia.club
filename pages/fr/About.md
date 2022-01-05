@@ -23,7 +23,7 @@ Simplement abandonner les réseaux sociaux ne changerait rien.
 
 J’ai cherché des informations pour comprendre comment ces plateformes fonctionnent, mais chaque article ne se concentrait que sur une poignée et aucun n’était exhaustif; j’ai ainsi décidé de le faire moi même.
 
-Ce site a trois objectifs :
+Ce site a trois objectifs:
 
 1. **Regrouper** les articles, documentaires, reportages, entretiens et toute forme de contenu qui souligne comment les risques et dommages causés par les réseaux sociaux supplantent leurs apports.
 1. Permettre aux personnes sceptiques, indifférentes et inconscientes, utilisant ces services de comprendre que les **choix personnels sont fondamentaux** pour améliorer l’expérience numérique et améliorer internet.

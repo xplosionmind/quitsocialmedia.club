@@ -1,26 +1,25 @@
 title: Quit Social Media
 email: hi@quitsocialmedia.club
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
     Why and how to quit Social Media.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ''
 url: https://quitsocialmedia.club
 author: Tommi
 publisher: Tommi
-twitter_username: xplosionmind
 github_username: xplosionmind
 git_repository: quitsocialmedia.club
 future: true
 profile: true
 livereload: true
 strict_front_matter: true
-favicon: "/favicon.svg"
-image: "/logos/qsm.png"
-images: "/images"
-assets: "/assets"
-video: "/video"
-audio: "/audio"
-logos: "/logos"
-fonts: "https://tommi.space/fonts"
+favicon: /favicon.svg
+image: /logos/qsm.png
+images: /images
+assets: /assets
+video: /video
+audio: /audio
+logos: /logos
+fonts: 'https://tommi.space/fonts'
 exclude:
   - riordinare/
 keep_files:
@@ -29,7 +28,7 @@ keep_files:
 
 social:
   name: xplosionmind
-tagline: "Living a healthier life on the web"
+tagline: Living a healthier life on the web
 twitter:
   username: xplosionmind
   card: summary
@@ -59,10 +58,10 @@ permalink: /:title
 defaults:
   -
     scope:
-      path: ""
+      path: ''
     values:
-      layout: "page"
-      lang: "en"
-      image: "/logos/qsm.png"
+      layout: page
+      lang: en
+      image: /logos/qsm.png
       toc: true
       anchors: true
