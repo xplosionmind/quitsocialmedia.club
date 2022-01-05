@@ -1,6 +1,7 @@
 ---
 title: Chemin
 permalink: /chemin
+redirect_from: [/voie,/route,/parcours,/sentier,/allée,/allee,/fr/path,/pathfr,/path-fr,/path/fr]
 ref: path
 description: Le surplus d’informations vous a désorienté? Voici le chemin à suivre pour vous libérer de la dépendance aux réseaux sociaux.
 toc: false
