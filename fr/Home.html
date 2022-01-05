@@ -1,0 +1,85 @@
+---
+title: Accueil
+ref: home
+permalink: /accueil
+layout: wrapper
+toc: false
+---
+<div class='one column'>
+	<div class='row'>
+		<div class='page-header'>
+			<h1>Quit Social Media</h1>
+			<p>Toutes les raisons qui rendent les réseaux sociaux problématiques et des solutions possibles pour vivre sans</p>
+		</div>
+	</div>
+
+	<div class='red box row'>
+		<h2 class='title'>Qu’est ce que ce site!?</h2>
+		<p>
+			<b>Version courte</b>: un lieu listant les problémes liés aux réseaux sociaux ainsi que des alternatives possibles.
+			<br />
+			<b>Version longue</b> à retrouver sur la <a href='/àPropos'>page À propos</a>
+		</p>
+		<h3 class='title' style='margin-top:var(--twice)'>Par où commencer</h3>
+		<p>
+			Vous êtes probablement une personne occupée qui n’a pas le temps de lire tout le contenu de ce site. Nous pensons à vous et avons fait un <a href='/résumé'>résumé</a>
+		</p>
+		<p>
+			Si investir un peu plus de temps vous est possible, et je vous assure que cela vaut le coup, je vous suggère de suivre ce <a href='/chemin' title='Chemin'>chemin</a>
+		</p>
+	</div>
+
+	{% for post in site.posts %}
+		{% if forloop.first %}
+			<div class='row'>
+				<a href='/blog'><h2 class='title'>Mises à jour</h2></a>
+				<ul>
+					<li>{{ post.date | date_to_long_string }} - <a href='{{ post.url }}' title='{{ post.title }}'></a></li>
+		{% elsif forloop.last %}
+					<li>{{ post.date | date_to_long_string }} - <a href='{{ post.url }}' title='{{ post.title }}'></a></li>
+				</ul>
+			</div>
+		{% else %}
+					<li>{{ post.date | date_to_long_string }} - <a href="{{ post.url }}" title="{{ post.title }}"></a></li>
+		{% endif %}
+	{% else %}
+	{% endfor %}
+
+	<br />
+
+	<div class='row'>
+		<h2 class='title'>Contactez nous!</h2>
+		<p>Si vous avez des questions ou suggestions, n’hésitez pas à nous <a href='mailto:{{ site.email | encode_email }}' target='_blank' title='Envoyez une email'>écrire un e-mail</a> (<a href='https://keys.openpgp.org/vks/v1/by-fingerprint/D435660C86733BA1C4C22F4D922BA2D96336049E' title='PGP Key hello@quitsocialmedia.club'>clé PGP</a>).</p>
+	</div>
+
+	<br />
+
+	<div class='blue box row'>
+		<a href='/contribuez'><h2 class='title'>Contribuez</h2></a>
+		{% for contrib in site.pages %}
+			{% if contrib.title == 'Contribute' %}
+				{{ contrib.content | markdownify }}
+			{% endif %}
+		{% endfor %}
+	</div>
+
+	<br />
+
+	<div class='margin row'>
+		<h2 class='title'>Plan du Site</h2>
+		<p>Vue d’ensemble des pages du site:</p>
+		<ul>
+			{% for p in site.pages %}
+				{% if p.lang == page.lang %}
+					{% unless p.url contains '.json' or p.url contains '.csv' or p.url contains '.css' or p.url contains '.txt' or p.title contains '404' or p.url contains '.xml' or p.title == nil or p.title == 'Home' %}
+						<li><a href='{{ p.url }}' title='{{ p.title }}'>{{ p.title }}</a> - {{ p.description }}</li>
+					{% endunless %}
+				{% endif %}
+			{% endfor %}
+		</ul>
+	</div>
+
+	<br />
+	<br />
+
+</div>
