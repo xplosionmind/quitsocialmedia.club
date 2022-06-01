@@ -2,7 +2,6 @@
 tags: wip
 title: Ma…
 ref: ma
-lang: it
 permalink: /ma/
 redirect_from: [/però/,/pero/,/obiezioni/]
 layout: page

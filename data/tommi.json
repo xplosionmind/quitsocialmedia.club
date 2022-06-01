@@ -1,0 +1,37 @@
+{
+	"@context": "http://schema.org",
+	"@type": "Person",
+	"gender": "Male",
+	"url": "https://tommi.space",
+	"name": "Tommi",
+	"givenName": "Tommaso",
+	"familyname": "Marmo",
+	"nationality": "IT",
+	"mainEntityOfPage": "https://tommi.space/about",
+	"image": "https://tommi.space/profile-full.jpg",
+	"birthDate": "2000-07-08",
+	"knowsLanguage": ["it", "en", "fr"],
+	"jobTitle": "Enthusiast",
+	"worksFor": {
+		"@type": "Organization",
+		"additionalType": "Brand",
+		"name": "A.P.S. Oltre",
+		"email": "staff@scambi.org",
+		"url": "https://scambi.org/oltre",
+		"sameAs": "https://tommi.space/oltre",
+		"address":{
+			"@type": "PostalAddress",
+			"addressCountry": "IT",
+			"addressRegion": "IM",
+			"postalCode": 18038,
+			"streetAddress": "Via Dante Alighieri, 81"
+		},
+		"event": {
+			"name": "Scambi Festival",
+			"location": "Sanremo, Italy"
+		}
+	},
+	"hasOccupation": {},
+	"knows": [],
+	"memberOf": []
+}

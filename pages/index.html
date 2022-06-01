@@ -2,14 +2,21 @@
 layout: ~
 permalink: /
 title: Quit Social Media
+lang: en
 ---
-<html lang='en'>{% include head.html %}<body>
-	<div class='landing vertical flex'>
-		<h1>Quit Social Media</h1>
-		<div class='flex'>
-			<a class='written blue button' hreflang='it' lang='it' href='/it/home' title='Homepage in italiano'>Italiano</a>
-			<a class='written blue button' hreflang='fr' lang='fr' href='/fr/home' title='Homepage en Français'>Français</a>
-			<a class='written blue button' href='/home' title='English homepage'>English</a>
+<!DOCTYPE html>
+<html lang='{{ lang }}' prefix='og: http://ogp.me/ns#' dir='ltr'>
+
+{% render 'head.html', date: date, updated: updated, title: title, description: description, primary: primary, lang: lang, site: site, url: page.url, layout: layout, image: image %}
+
+	<body class='landing'>
+		<div class='vertical flex'>
+			<h1>Quit Social Media</h1>
+			<div class='flex'>
+				<a class='written blue button' hreflang='it' lang='it' href='/it/home' title='Homepage in italiano'>Italiano</a>
+				<a class='written blue button' hreflang='fr' lang='fr' href='/fr/home' title='Homepage en Français'>Français</a>
+				<a class='written blue button' href='/home' title='English homepage'>English</a>
+			</div>
 		</div>
-	</div>
-</body></html>
+	</body>
+</html>

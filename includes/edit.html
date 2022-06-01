@@ -1,12 +1,12 @@
 <div class='row'>
-	<p class='center'><a href='https://www.github.com/{{ site.github_username }}/{{ site.git_repository }}/blob/main/{{ page.path | uri_escape }}' target='_blank' title='
+	<p class='center'><a href='{{ source }}' target='_blank' title='
 			{% case page.lang %}
 				{% when 'it' %}
-					Modifica questa pagina su GitHub'>modifica questa pagina
+					Modifica questa pagina su Codeberg'>modifica questa pagina
 				{% when 'fr' %}
-					Modifiez cette page-ci sur GitHub'>Modifiez cette page-ci
+					Modifiez cette page-ci sur Codeberg'>Modifiez cette page-ci
 				{% else %}
-					Edit this page on GitHub'>edit this page
+					Edit this page on Codeeberg'>edit this page
 			{% endcase %}
 		</a>
 	</p>

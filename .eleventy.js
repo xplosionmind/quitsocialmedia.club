@@ -33,27 +33,6 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.setFrontMatterParsingOptions({ excerpt: true, excerpt_separator: '<!--excerpt-->'});
 	eleventyConfig.setQuietMode(true);
 
-	// Collections //
-	eleventyConfig.addCollection('posts', function(collection) {
-		return collection.getFilteredByGlob('content/posts/*').sort((a, b) => {
-			return b.date - a.date; // sort by date - descending
-		});
-	});
-	eleventyConfig.addCollection('jam', function(collection) {
-		return collection.getFilteredByGlob('content/notes/public/*').sort((a, b) => {
-			return b.date - a.date;
-		});
-	});
-	eleventyConfig.addCollection('poetry', function(collection) {
-		return collection.getFilteredByGlob('content/poetry/*').sort((a, b) => {
-			return b.date - a.date;
-		});
-	});
-	eleventyConfig.addCollection('sconnesso', function(collection) {
-		return collection.getFilteredByGlob('content/sconnesso/*').sort((a, b) => {
-			return b.date - a.date;
-		});
-	});
 	// Multilingual sitemap collection. See https://github.com/quasibit/eleventy-plugin-sitemap#create-a-multilingual-sitemap
 	eleventyConfig.addCollection('sitemap', function(collectionApi) {
 		return collectionApi
@@ -150,7 +129,7 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addFilter('convertHtmlToAbsoluteUrls', pluginRss.convertHtmlToAbsoluteUrls);
 
 	 // Minify output //
-	eleventyConfig.addTransform('miniHtml', function(content, outputPath) {
+	/*eleventyConfig.addTransform('miniHtml', function(content, outputPath) {
 		if( this.outputPath && this.outputPath.endsWith('.html') ) {
 			let minified = miniHtml.minify(content, {
 				useShortDoctype: true,
@@ -163,7 +142,7 @@ module.exports = function(eleventyConfig) {
 			return minified;
 		}
 		return content;
-	});
+	});*/
 
 	// 404 //
 	eleventyConfig.setBrowserSyncConfig({

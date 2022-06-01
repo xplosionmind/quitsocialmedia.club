@@ -1,10 +1,8 @@
-{% if page.comments %}
-	<section id='comments' class='u-comment box row'>
-		<h2 class='title'>{% case page.lang %}{% when 'it' %}Commenti{% when 'fr' %}Commentaires{% else %}Comments{% endcase %}</h2>
-		<script defer
-			src='https://bla.tommi.space/js/commento.js'
-			data-no-fonts='true'>
-		</script>
-		<div id='commento'></div>
-	</section>
-{% endif %}
+<section id='comments' class='u-comment box row'>
+	<h2 class='title'>{% case lang %}{% when 'it' %}Commenti{% when 'fr' %}Commentaires{% else %}Comments{% endcase %}</h2>
+	<script defer
+		src='https://bla.tommi.space/js/commento.js'
+		data-no-fonts='true'>
+	</script>
+	<div id='commento'></div>
+</section>

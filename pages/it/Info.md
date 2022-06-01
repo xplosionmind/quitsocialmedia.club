@@ -1,15 +1,13 @@
 ---
 title: Info
-ref: about
-lang: it
 permalink: /info/
 redirect_from: [/about-it/,/it/about/,/informazioni/,/it/l00/,/it/l0/,/it/level-0/,/it/level0/,/it/l-0/,/it/l-00/,/it/level00/,/it/level-00/]
 layout: page
-description: Cos’è <cite>quitsocialmedia.club</cite>, come e perché è nato ed il suo fine
+description: 'Cos’è <cite>quitsocialmedia.club</cite>, come e perché è nato ed il suo fine'
 ---
 Sono Tommi, ho creato questo sito. Saltiamo la parte su di me, che si può leggere sul mio [sito web](https://tommi.space/about-it 'Tommi').
 
-Dopo svariati tormentati mesi trascorsi a crucciarmi sui pregi e difetti dei *Social Media*, non ce la facevo più. Ero così stressato e ossessionato dai problemi etici che i social network pongono, così ossessionato da letture e documentari per capirne il funzionamento, da concludere che <u><strong>abbandonarli</strong> sarebbe stato l'unico modo per stare meglio</u>.
+Dopo svariati tormentati mesi trascorsi a crucciarmi sui pregi e difetti dei *Social Media*, non ce la facevo più. Ero così stressato e ossessionato dai problemi etici che i social network pongono, così ossessionato da letture e documentari per capirne il funzionamento, da concludere che <u>**abbandonarli** sarebbe stato l'unico modo per stare meglio</u>.
 
 Mi sono reso conto, tuttavia, che semplicemente <u>eliminare i miei account senza fare altro è totalmente inutile</u>. Quante altre persone nel mondo condividono i miei stessi pensieri e preoccupazioni? Come posso condividere nel migliore modo possibile l'importanza cruciale di dubitare del funzionamento dei social network con i miei amici? Come far crescere curiosità, necessità di conoscenza e consapevolezza riguardo il modo in cui hanno luogo la maggior parte delle nostre relazioni online, oggi?
 

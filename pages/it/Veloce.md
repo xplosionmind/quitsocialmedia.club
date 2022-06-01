@@ -4,7 +4,6 @@ permalink: /veloce
 ref: quick
 description: Non hai né il tempo né la voglia di leggere tutto ciò che è scritto qui e vuoi solo conoscerne i punti fondamentali? Questa è la pagina giusta per te.
 layout: page
-lang: it
 toc: false
 ---
 <div class='blue box'>
@@ -27,6 +26,6 @@ toc: false
 	- [Standardizzano](/prché#standardizzazione 'Perché > Standardizzazione') i canoni di bellezza e le regole di comportamento
 	- Tutto su di essi è concepito per massimizzare il guadagno e la [velocità](/perché#velocità 'Perché > Velocità')
 	- [Ci sfruttano](/perché#essere-usati 'Perché > Essere usati'), mentre noi crediamo che siamo noi a sfruttare loro.
-1. Sicuramente, ora avrai qualche obiezione. Naturale. Tuttavia, [Non c’è “ma…” che tenga](/ma '“Ma…”'), o, se c’è, <a href='mailto:{{ site.email | encode_email }}' rel='noopener noreferrer' target='_blank' title='Scrivimi un’email'>scrivimi</a> e proverò a replicare
+1. Sicuramente, ora avrai qualche obiezione. Naturale. Tuttavia, [Non c’è “ma…” che tenga](/ma '“Ma…”'), o, se c’è, <a href='mailto:{{ site.author.email }}' target='_blank' title='Scrivimi un’email'>scrivimi</a> e proverò a replicare
 2. Ancora non sei sufficientemente convinto? Leggi le [Obiezioni e Risposte](/it/faq 'Obiezioni e Risposte')
 3. Ora, [elimina i tuoi account](/elimina 'Elimina i tuoi account')

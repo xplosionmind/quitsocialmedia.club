@@ -8,7 +8,7 @@ description: |
 ---
 ## Coherence
 
-##### *It is incoherent: <u>you are sharing <cite><a href='/'>quitsocialmedia.club</a></cite> <b>on</b> Social Media</u>. If you promote the idea of abandoning social media and you use them to share your perspective, you go against the very idea of quitting them!*
+##### *It is incoherent: <u>you are sharing <cite>[quitsocialmedia.club](/home)</cite> **on** Social Media</u>. If you promote the idea of abandoning social media and you use them to share your perspective, you go against the very idea of quitting them!*
 
 Not quite so. Think about this: if I love the strawberry flavour of the ice cream, I won't speak about how much strawberries are delicious with a friend who is eating a strawberry ice cream, I'll try to make my friend who is eating a chocolate ice cream taste a spoon of my strawberry one. Similarly, it makes no sense to quit Social Media and share this choice *off* Social Media: people who may quit are the ones who didn't quit yet, and, guess what, they can be reached by social media exclusively, since there is no other valid alternative.   
 This apparently incoherent decision conceals in itself one of the very reasons of quitting: you have no way (or if you do, it's very unlikely) of being noticed or reaching some audience unless it's done through those platforms.   
@@ -16,7 +16,7 @@ The authors of <cite><a href='https://thesocialdilemma.com' target='_blank' titl
 
 <br>
 
-##### *If you quit social media, you should quit **all*** Social Media. *Why do you consider only the big platforms?*
+##### *If you quit social media, you should quit ***all*** Social Media. Why do you consider only the big platforms?*
 
 Mainly, because the vast majority of the problems derives from the fact that the most famous social media are owned by corporations which make profit by managing unethically their platforms. Strictly speaking, by definition social media are not something which is mainly bad, and as a shorthand it's quicker and simpler to write “Social Media” instead of “Social Media owned by for-profit companies that make money from activities users do for free”, or, as [Jaron Lanier](http://jaronlanier.com 'Jaron Lanier') calls them, [BUMMER](https://thefourthrevolution.org/wordpress/archives/6262 'How BUMMER Became a New Acronym for Social Media').   
 Please refer to [what](/what) for further info.

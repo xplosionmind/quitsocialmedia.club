@@ -1,16 +1,16 @@
 ---
-layout: wrapper
+layout: wrapper.html
 ---
 <div class='one column'>
 	<div class='row page-header'>
-		<h1>{{ page.title }}</h1>
-		<p>{{ page.description | markdownify }}</p>
+		<h1>{{ title }}</h1>
+		{% if desctiption %}<p>{{ description | markdownify }}</p>{% endif %}
 	</div>
 
-	{% if page.toc == true %}
-		<div class='row toc'>
-			<h2>
-				{% case page.lang %}
+	{% if toc %}
+		<aside id='toc'>
+			<h3>
+				{% case lang %}
 					{% when 'it' %}
 						Indice
 					{% when 'fr' %}
@@ -18,35 +18,20 @@ layout: wrapper
 					{% else %}
 						Table of contents
 				{% endcase %}
-			</h2>
-			{% include toc.html html=content sanitize=true %}
-		</div>
-	{% endif %}
-	{% if page.ref == 'why' %}
-		<div class='row toc'>
-			<h2>
-				{% case page.lang %}
-					{% when 'it' %}
-						Indice
-					{% when 'fr' %}
-						Table des matières
-					{% else %}
-						Table of contents
-				{% endcase %}
-			</h2>
-			{% include toc.html html=content sanitize=true h_max=2 %}
-		</div>
+			</h3>
+			{{ content | toc }}
+		</aside>
 	{% endif %}
 
 	<div class='row'>
 		<article class='note'>
-			{% include anchor-parser.html html=content h_max=4 anchorBody='#' anchorClass='anchor' anchorTitle='%heading%' %}
+			{{ content }}
 		</article>
 	</div>
 
 	<div class='row'>
-		{% include edit.html %}
-		{% include share.html %}
+		<div class='flex center'><a class='button' href='{{ source }}' title='{% if lang == 'it' %}Visualizza{% else %}View{% endif %} {{ title }} source code'>{% if lang == 'it' %}Sorgente{% else %}Source{% endif %}</a></div>
+		{% render 'share.html', lang: lang, title: title, encoded_absolute_url: encoded_absolute_url %}
 	</div>
 
 </div>

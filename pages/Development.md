@@ -6,7 +6,7 @@ description: 'Technical stuff to do'
 toc: false
 ---
 <div>
-	My personal roadmap to Internet Freedom, where <q>quitting Social Media</q> is at the top of the list, can be found <a href='https://tommi.space/path-to-internet-freedom' target='_blank' title='Tommi's path to Internet Freedom'>here</a>.
+	My personal roadmap to Internet Freedom, where <q>quitting Social Media</q> is at the top of the list, can be found <a href='https://tommi.space/path-to-internet-freedom' target='_blank' title='Tommi’s path to Internet Freedom'>here</a>.
 </div>
 
 <div class='blue box'>

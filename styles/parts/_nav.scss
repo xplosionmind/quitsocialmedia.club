@@ -8,64 +8,55 @@ $big: 1.6rem;
 $bigger: 1.8rem;
 $twice: 2.2rem;
 $height: 3.1rem;
-$mastodon: 4.4rem;
+$mastodon: 4rem;
 $radius-s: .4rem;
 $radius-m: .6rem;
 $radius-l: 1rem;
-$trans: .5s;
-$quicktrans: .2s;
+$trans: .5s ease-out;
+$quicktrans: .1s ease-in-out;
 
-.nav {
-	height: 2.8rem;
-	margin: 3vw;
+header {
+	height: $mastodon;
 	text-transform: uppercase;
-	font-weight: 700;
 	* {
 		border-radius: $radius-m;
 		list-style-type: none !important;
+		font-weight: 700 !important;
+		z-index: 9;
 	}
-	/* activate the following if you choose to make the header fixed */
-	/*z-index: 9;
-	position: fixed;
-	top: 2vw;
-	right: 2vw
-	background: var(--background); */
 }
 
 #home {
 	position: fixed;
-	top: 2vw;
-	left: 2vw;
+	top: 1.5vw;
+	left: 5vw;
 	padding: 0 $regular-less;
-	line-height: 2.8rem; 
-	font-size: $big;
+	line-height: $height; 
+	font-size: $bigger;
+	color: var(--background);
 	background: var(--primary);
 	box-shadow: var(--shadow);
-	transform: rotate(-2deg);
-	color: var(--background);
+	border: 2px solid var(--blue);
 	&:hover,
 	&:focus {
-		transform: rotate(3deg);
+		color: var(--white-ish) !important;
+		background: var(--red) !important;
+		border-color: var(--white-ish) !important;
 	}
-	a {
-		color: var(--background);
-		&:hover,
-		&:focus {
-			color: white;
-		}
-	}
-	&:hover,
-	&:focus {
-		background: var(--secondary);
-		border-bottom: none;
+	&:target {
+		color: var(--primary);
 	}
 }
 
-nav {
-	float: right;
+#nav {
+	position: fixed;
+	height: $height;
+	top: 1.5vw;
+	right: 6vw;
 	text-align: right;
 	padding: 0 $small;
 	box-shadow: var(--shadow);
+	background: var(--background);
 	* {
 		margin: 0 !important;
 	}
@@ -82,9 +73,14 @@ nav {
 				padding: 0 $small;
 				font-size: $regular-more;
 				font-weight: 700;
+				&::after {
+					content: none;
+				}
 				&:hover,
 				&:focus{
-					text-shadow: var(--text-shadow);
+					transform: scale(1.1) rotate(3deg);
+					filter: none;
+					border-bottom: none;
 				}
 				&:active {
 					opacity: .6;
@@ -94,39 +90,41 @@ nav {
 				}
 			}
 		}
-		ul {
-			list-style: none;
-		}
 	}
 }
 
 .lang-list {
-	display: none;
-	top: 5rem;
-	right: -100px;
+	opacity: 0;
+	top: 3.7rem;
 	position: absolute;
-	box-shadow: var(--shadow);
+	background: var(--background);
+	z-index: -1;
+	#langtoggle:checked + & {
+		opacity: 1;
+		box-shadow: var(--shadow);
+		z-index: 9;
+	}
 }
 
-/* Mobile nav */
 .nav-mobile {
 	display: none;
 	height: $height;
 	width: $height;
 	position: fixed;
-	top: 3vh;
-	right: 3vh;
-	box-shadow: var(--shadow);
+	bottom: calc(3vh + .5rem);
+	right: calc(6vw + 3.5rem);
+	box-shadow: var(--button-shadow);
 	background: var(--background);
+	z-index: 6;
 	span {
-		top: 1.25rem;
-		left: .6rem;
+		top: 1.4rem;
+		left: .7rem;
 	}
 	span,
 	span::before,
 	span::after {
 		height: 4px;
-		width: 26px;
+		width: 1.7rem;
 		background: var(--text);
 		position: absolute;
 		display: block;
@@ -143,15 +141,12 @@ nav {
 	}
 }
 
-#langtoggle:checked + .lang-list {
-	display: block;
-	right: 3vh;
-}
-
 @media only screen and (max-width: 950px) {
 	#home {
-		top: 3vh;
-		left: 2vh;
+		left: 50%;
+		margin-left: -7.5rem;
+		top: 2vh;
+		text-align: center;
 	}
 	.nav {
 		margin: 3vh;
@@ -161,41 +156,42 @@ nav {
 	}
 	.nav-list {
 		position: fixed;
-		min-width: 50vw;
-		top: 5rem;
-		right: -240px;
+		width: 13rem;
+		bottom: calc(3vh + 4.5rem);
+		right: -14rem;
 		background: var(--background);
 		box-shadow: var(--shadow);
-		transition: .5s;
 		z-index: 9;
+		overflow: hidden;
 	}
-	nav ul li {
-		float: none;
-		background: var(--background)
-	}
-	#langtoggle:checked + .lang-list {
-		right: 3vw;
+	#nav ul li {
+		a,
+		label {
+			padding: 0 $regular-more;
+		}
 	}
 }
 
 #menutoggle:checked {
-	& + .nav-list {
-		right: 3vh;
-		transition: .5s;
+	& ~ .nav-list {
+		right: calc(4vw + .3rem);
 	}
-	& ~ .nav-mobile span {
-		background: transparent;
-		box-shadow: none;
-		&::before,
-		&::after {
-			top: 0;
+	& ~ .nav-mobile {
+		box-shadow: var(--inner-little-shadow);
+		span {
+			background: transparent;
 			box-shadow: none;
-		}
-		&::before {
-			transform: rotate(45deg);
-		}
-		&::after {
-			transform: rotate(-45deg);
+			&::before,
+			&::after {
+				top: 0;
+				box-shadow: none;
+			}
+			&::before {
+				transform: rotate(45deg);
+			}
+			&::after {
+				transform: rotate(-45deg);
+			}
 		}
 	}
 }

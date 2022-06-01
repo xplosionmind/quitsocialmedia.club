@@ -2,7 +2,6 @@
 title: Percorso
 permalink: /percorso/
 redirect_from: [/it/path/,/path-it/,/it-path/,/path/it/,/livelli/]
-lang: it
 ref: path
 description: Troppe informazioni ti disorientano? Prenditi un po’ di tempo, respira, e segui questo percorso verso la libertà sul web.
 layout: page

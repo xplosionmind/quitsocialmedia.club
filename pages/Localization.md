@@ -40,4 +40,4 @@ Localizing a content means translating it in another language to make it availab
 
 If you are in trouble or you need any kind of help, please [open an issue](https://github.com/xplosionmind/quitsocialmedia.club/issues 'Issues of this website's repository on GitHub').
 
-[Email me](mailto:{{ site.email | encode_email }}) if you know nothing about what I wrote about up to now but you would like to contribute to translation anyway.
+[Email me](mailto:{{ site.author.email }}) if you know nothing about what I wrote about up to now but you would like to contribute to translation anyway.

@@ -1,12 +1,10 @@
----
-layout: ~
----
 <!DOCTYPE html>
 <html>
-{% include head.html %}
+{% render 'head.html', date: date, updated: updated, title: title, description: description, primary: primary, lang: lang, alternates: alternates, site: site, url: page.url, layout: layout, image: image %}
 	<style>
 		body {
 			background: var(--primary);
+			height: 100vh;
 		}
 		h1,a,a:visited {
 			color: var(--background);

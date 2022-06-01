@@ -23,7 +23,7 @@ layout: wrapper
 		<a class='button' href='/l{{ page.nextlevel }}'>{% if page.lang == 'it' %}Livello successivo{% else %}Next level{%endif %}</a>
 	</div>
 
-	{% include edit.html %}
-	{% include share.html %}
+	<div class='flex center'><a class='button' href='{{ source }}' title='{% if lang == 'it' %}Visualizza{% else %}View{% endif %} {{ title }} source code'>{% if lang == 'it' %}Sorgente{% else %}Source{% endif %}</a></div>
+	{% render 'share.html', lang: lang, title: title, encoded_absolute_url: encoded_absolute_url %}
 
 </div>

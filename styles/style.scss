@@ -142,22 +142,26 @@ mark {
 	background: var(--primary);
 }
 
-.top,
-.bottom {
-	right: 3vw;
-}
-
-.bottom {
-	transform: rotate(.5turn);
-	box-shadow: none !important;
-}
-
 .tool {
 	position: fixed;
-	bottom: $bigger;
-	z-index: 9;
-	&.button {
+	bottom: 3vw;
+	right: 4vw;
+	z-index: 2;
+	.button {
 		padding: .3rem;
+	}
+}
+
+#scrollbutton[href='#0'] {
+	.button {
+		transform: rotate(180deg);
+		box-shadow: inset -2px -2px 4px #FFF8, inset 2px 2px 4px #0008;
+		&:hover {
+			box-shadow: none;
+		}
+		&:active {
+			box-shadow: var(--button-shadow);
+		}
 	}
 }
 
@@ -507,6 +511,7 @@ table {
 }
 
 .landing {
+	height: 100vh;
 	background: var(--primary);
 	h1 {
 		color: var(--background);
@@ -780,6 +785,9 @@ footer {
 	}
 	article {
 		padding: $twice 7% $mastodon;
+	}
+	.tool {
+		bottom: 3vh
 	}
 }
 

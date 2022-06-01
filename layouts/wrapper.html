@@ -1,39 +1,48 @@
----
----
 <!DOCTYPE html>
-<html lang='{% if page.lang == 'it' %}it{% else %}en{% endif %}'>
+<html lang='{% case lang %}{% when 'it' %}it{% when 'fr' %}fr{% else %}en{% endcase %}' prefix='og: http://ogp.me/ns#' dir='ltr'>
 
-	{% include head.html %}
+	{% if ref %}
+		{% for entry in collections.all %}
+			{% if entry.data.ref == ref and entry.data.lang != lang %}
+				{% assign alternates = alternates | concat: entry %}
+			{% endif %}
+		{% endfor %}
+	{% endif %}
+
+	{% render 'head.html', date: date, updated: updated, title: title, description: description, primary: primary, lang: lang, alternates: alternates, site: site, url: page.url, layout: layout, image: image %}
+	{% capture source %}{{ site.source }}/src/branch/main{{ page.inputPath | replace: './', '/' }}{% endcapture %}
 
 	<body>
-		<a id='scroll-to-top' href='#' title='scroll to top'>
-			<svg class='top button tool' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' style='background:var(--background)'><path d='M18 15a1 1 0 0 1-.64-.23L12 10.29l-5.37 4.32a1 1 0 0 1-1.41-.15 1 1 0 0 1 .15-1.41l6-4.83a1 1 0 0 1 1.27 0l6 5a1 1 0 0 1 .13 1.41A1 1 0 0 1 18 15z' fill='var(--text)'/></svg>
+		<a id='scrollbutton' class='tool' href='#' aria-label='scroll to top' title='scroll to top'>
+			<svg class='button' viewBox='0 0 24 24' style='background:var(--background)' aria-hidden='true'><path d='M18 15a1 1 0 0 1-.64-.23L12 10.29l-5.37 4.32a1 1 0 0 1-1.41-.15 1 1 0 0 1 .15-1.41l6-4.83a1 1 0 0 1 1.27 0l6 5a1 1 0 0 1 .13 1.41A1 1 0 0 1 18 15z' fill='var(--text)'/></svg>
 		</a>
-		<a id='scroll-to-bottom' href='#0' title='scroll to bottom'>
-			<svg class='bottom button tool' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' style='background:var(--background)'><path d='M18 15a1 1 0 0 1-.64-.23L12 10.29l-5.37 4.32a1 1 0 0 1-1.41-.15 1 1 0 0 1 .15-1.41l6-4.83a1 1 0 0 1 1.27 0l6 5a1 1 0 0 1 .13 1.41A1 1 0 0 1 18 15z' fill='var(--text)'/></svg>
-		</a>
-		<script>
-			scrollbottom = document.getElementById('scroll-to-bottom');
-			window.onscroll = function() {scroll()};
-			function scroll() {
-				if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
-					scrollbottom.style.display = 'none';
-				} else {
-					scrollbottom.style.display = 'block';
-				}
-			}
-		</script>
-		{% include nav.html %}
+		{% render 'nav.html', lang: lang, alternates: alternates, site: site %}
 
-		{% if page.tags contains 'draft' or page.tags contains 'wip' %}
-			{% include draft.html %}
+		{% if tags contains 'draft' or tags contains 'wip' %}
+			{% render 'draft.html', lang: lang, title: title, source: source %}
 		{% endif %}
 
-		{% if page.tags contains 'l10n' %}
-			{% include l10n.html %}
+		{% if tags contains 'l10n' %}
+			{% render 'l10n.html', lang: lang, source: source %}
 		{% endif %}
 
 		{{ content }}
-		{% include footer.html %}
+		{% render 'footer.html', lang: lang %}
+
+		<script type='text/javascript'>
+			scrollbutton = document.getElementById('scrollbutton');
+			window.onscroll = function() {scroll()};
+			function scroll() {
+				if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
+					scrollbutton.href='#';
+					scrollbutton.title='scroll to top';
+					scrollbutton.setAttribute('aria-label', 'scroll to top');
+				} else {
+					scrollbutton.href='#0';
+					scrollbutton.title='scroll to bottom';
+					scrollbutton.setAttribute('aria-label', 'scroll to bottom');
+				};
+			}
+		</script>
 	</body>
 </html>

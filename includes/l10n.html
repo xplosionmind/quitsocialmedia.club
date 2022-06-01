@@ -3,11 +3,11 @@
 		<h3>🚧 {% case page.lang%}{% when 'it' %}Traduzione in corso{% when 'fr' %}Traduction en cours{% else %}Translation in progress{% endcase %} 🏗</h3>
 		{% case page.lang %}
 			{% when 'it' %}
-				Questa pagina non è stato completamente tradotta; tutti gli articoli e le note con traduzione in sospeso sono contraddistinte dal tag <a href='/development#l10n' title='tutte le traduzioni in corso'><code>l10n</code></a>.<br />Per visualizzare il contenuto aggiornato, <a {% for p in site.pages %}{% if p.ref == page.ref and p.lang == 'en' %}href='{{ p.url }}' hreflang='en' title='{{ p.title }}'{% endif %}{% endfor %}>visualizza questa pagina in inglese</a>
+				Questa pagina non è stato completamente tradotta; tutti gli articoli e le note con traduzione in sospeso sono contraddistinte dal tag <a href='/development#l10n' title='tutte le traduzioni in corso'><code>l10n</code></a>.<br />Per visualizzare il contenuto aggiornato, <a {% for p in collections.all %}{% if p.data.ref == ref and p.data.lang == 'en' %}href='{{ p.url }}' hreflang='en' title='{{ p.data.title }}'{% endif %}{% endfor %}>visualizza questa pagina in inglese</a>
 			{% when 'fr' %}
-				Cette page-ci n’a pas été complètement traduite; tous les pages dont traductions sont incomplètes sont marquées avec l’étiquette <a href='/development#l10n' title='Tous les traductions incomplètes'><code>l10n</code></a>.<br />Pour visualiser la version à jour de la page, <a {% for p in site.pages %}{% if p.ref == page.ref and p.lang == 'en' %}href='{{ p.url }}' hreflang='en' title='{{ p.title }}'{% endif %}{% endfor %}>visualisez-la en anglais</a>
+				Cette page-ci n’a pas été complètement traduite; tous les pages dont traductions sont incomplètes sont marquées avec l’étiquette <a href='/development#l10n' title='Tous les traductions incomplètes'><code>l10n</code></a>.<br />Pour visualiser la version à jour de la page, <a {% for p in collections.all %}{% if p.data.ref == ref and p.data.lang == 'en' %}href='{{ p.url }}' hreflang='en' title='{{ p.data.title }}'{% endif %}{% endfor %}>visualisez-la en anglais</a>
 			{% else %}
-				This page has not been completely translated from the language it was originally written in. You may seen chunks of it in other languages. Please, consider <a href='https://www.github.com/{{ site.github_username }}/{{ site.git_repository }}/blob/main/{{ page.path | uri_escape }}' target='_blank' title='Edit “{{ page.title }} on GitHub”'>helping out</a> in translating it!
+				This page has not been completely translated from the language it was originally written in. You may seen chunks of it in other languages. Please, consider <a href='{{ source }}' target='_blank' title='Edit “{{ title }} on GitHub”'>helping out</a> in translating it!
 		{% endcase %}
 	</div>
 </div>

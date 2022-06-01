@@ -1,7 +1,6 @@
 ---
 title: Soluzioni e alternative
 permalink: /soluzioni/
-lang: it
 ref: sol
 toc: true
 layout: page
@@ -40,7 +39,7 @@ Dopo un po', è facile finire per essere piuttosto malinconici e rendersi conto 
 
 Gli strumenti esistenti sono più di uno, il più celebre di questi è [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge 'RSS-Bridge si GitHub').
 
-È possibile <u>utilizzare gratuitamente <a href='https://rss-bridge.tommi.space' rel='noopener noreferrer' target='_blank' title='RSS-Bridge di Tommi'>quello ospitato sul mio server</a></u>.\
+È possibile <u>utilizzare gratuitamente <a href='https://rss-bridge.tommi.space' target='_blank' title='RSS-Bridge di Tommi'>quello ospitato sul mio server</a></u>.\
 (mantenere un server non costa poco: sono felice di offrire il mio RSS-Bridge, ma se ne faceste un utilizzo intensivo apprezzerei [un piccolo contributo](https://it.liberapay.com/tommi/donate 'Dona a Tommi su Liberapay'))
 
 <br>

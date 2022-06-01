@@ -1,16 +1,16 @@
 <div class='one column row'>
 	<div class='banner red box'>
-		<h3>🚧 {% case page.lang %}{% when 'it' %}Lavori in corso{% when 'fr' %}Travail en cours{% else %}Work in progress{% endcase %} 🏗</h3>
-		{% case page.lang %}
+		<h3>🚧 {% case lang %}{% when 'it' %}Lavori in corso{% when 'fr' %}Travail en cours{% else %}Work in progress{% endcase %} 🏗</h3>
+		{% case lang %}
 			{% when 'it' %}
 				Questa pagina è ancora <u>in fase di scrittura</u>. Perdona eventuali errori o imprecisioni.<br />
-				Se hai parti da aggiungere o da correggere, <a href='https://www.github.com/{{ site.github_username }}/{{ site.git_repository }}/blob/main/{{ page.path | uri_escape }}' target='_blank' title='Modifica “{{ page.title }}” su GitHub'>puoi completarla tu</a>!
+				Se hai parti da aggiungere o da correggere, <a href='{{ source }}' target='_blank' title='Modifica “{{ title }}” su GitHub'>puoi completarla tu</a>!
 			{% when 'fr' %}
 				Cette page est en train d’être ècrite ou modifiée. S’il vous plait, pardonnez éventuel erreurs.<br />
-				Vous pouvez <a href='https://www.github.com/{{ site.github_username }}/{{ site.git_repository }}/blob/main/{{ page.path | uri_escape }}' target='_blank' title='Modifiez “{{ page.title }}” sur GitHub'>ajouter ou modifier quelque chose vous-mêmes</a>!
+				Vous pouvez <a href='{{ source }}' target='_blank' title='Modifiez “{{ title }}” sur GitHub'>ajouter ou modifier quelque chose vous-mêmes</a>!
 			{% else %}
 				This page is still being written or edited. Please pardon possible errors or imperfections.<br />
-				If you have something to add or to adjust yourself, <a href='https://www.github.com/{{ site.github_username }}/{{ site.git_repository }}/blob/main/{{ page.path | uri_escape }}' target='_blank' title='Edit “{{ page.title }} on GitHub”'>feel free to do it</a>!
+				If you have something to add or to adjust yourself, <a href='{{ source }}' target='_blank' title='Edit “{{ title }} on GitHub”'>feel free to do it</a>!
 		{% endcase %}
 	</div>
 </div>

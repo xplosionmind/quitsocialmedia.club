@@ -2,7 +2,6 @@
 title: Perché
 permalink: /perché/
 redirect_from: [/it/why/,/why-it/,/perche/,/motivi/,/perchè/,/it/l1/,/it/l01/,/it/l-01/,/it/level01/,/it/level1/,/it/level-1/,/it/level-01/,/prché/,/pk/,/xke/,/xké/,/xk/,/pké/,/pke/]
-lang: it
 ref: why
 layout: page
 toc: false
@@ -72,7 +71,7 @@ I *Social Media* non fanno molto per favorire un modo più pacifico di esprimere
 ### Maggiori informazioni
 
 - [How Facebook profits from polarization](https://ted.com/talks/yael_eisenstat_how_facebook_profits_from_polarization 'How Facebook profits from polarization'), un <mark class='red'>TED Talk</mark> di [Yael Eisenstat](https://en.wikipedia.org/wiki/Yael_Eisenstat 'Yael Eisenstat on Wikipedia')
-- <cite><a href='https://thesocialdilemma.com' rel='noopener noreferrer' target='_blank' title='The Social Dilemma'>The Social Dilemma</a></cite>, a <mark class='red'>documentario</mark> di [Jeff Orlowski](https://it.wikipedia.org/wiki/Jeff_Orlowski 'Jeff Orlowski')
+- <cite><a href='https://thesocialdilemma.com' target='_blank' title='The Social Dilemma'>The Social Dilemma</a></cite>, a <mark class='red'>documentario</mark> di [Jeff Orlowski](https://it.wikipedia.org/wiki/Jeff_Orlowski 'Jeff Orlowski')
 - [Facebook Can’t Fix what it won’t admit to](https://www.wired.com/story/plaintext-facebook-cant-fix-what-it-wont-admit-to/ 'Facebook Can’t Fix what it won’t admit to') by [Steven Levy](https://en.wikipedia.org/wiki/Steven_Levy 'Steven Levy on Wikipedia') on [Wired](https://wired.com 'Wired')
 - [altri contenuti](/links#polarizzazione 'More resources on Polarization and Social Media')
 
@@ -221,7 +220,7 @@ Guarda le statistiche di utilizzo dei tuoi dispositivi.
 
 ### Maggiori informazioni
 
-- <cite><a href='https://deditore.com/prodotto/cronofagia/' rel='noopener noreferrer' target='_blank' title='Cronofagia'>Cronofagia</a></cite>, un <mark class='purple'>libro</mark> di Davide Mazzocco
+- <cite><a href='https://deditore.com/prodotto/cronofagia/' target='_blank' title='Cronofagia'>Cronofagia</a></cite>, un <mark class='purple'>libro</mark> di Davide Mazzocco
 
 <br>
 <br>

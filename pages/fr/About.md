@@ -1,7 +1,6 @@
 ---
 title: À propos
 ref: about
-lang: fr
 permalink: /àPropos/
 redirect_from: [/n00/,/n0/,/n-0/,/n-00/,/niveau0/,/niveau-0/,/niveau-00/,/niveau00/]
 description: 'Qu’est ce que <cite>quitsocialmedia.club</cite>, quelles sont ses origines et quel sont ses objectifs.'

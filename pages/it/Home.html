@@ -1,6 +1,5 @@
 ---
 title: Home
-lang: it
 ref: home
 layout: wrapper
 permalink: /it/home/
@@ -33,7 +32,7 @@ description: Tutte le ragioni per cui i <em>Social Media</em>, per come li conos
 
 	<div class='row'>
 		<h2 class='title'>Contatti</h2>
-		<p class='center'>Se hai domande o suggerimenti, non esitare a <a href='mailto:{{ site.email | encode_email }}' target='_blank' title='Send me an email'>scrivermi</a> (<a href='https://keys.openpgp.org/vks/v1/by-fingerprint/D435660C86733BA1C4C22F4D922BA2D96336049E' title='PGP Key hello@quitsocialmedia.club'>PGP key</a>).</p>
+		<p class='center'>Se hai domande o suggerimenti, non esitare a <a href='mailto:{{ site.author.email }}' target='_blank' title='Send me an email'>scrivermi</a> (<a href='https://keys.openpgp.org/vks/v1/by-fingerprint/D435660C86733BA1C4C22F4D922BA2D96336049E' title='PGP Key hello@quitsocialmedia.club'>PGP key</a>).</p>
 	</div>
 
 	<br />
@@ -51,13 +50,11 @@ description: Tutte le ragioni per cui i <em>Social Media</em>, per come li conos
 
 	<div class='margin row'>
 		<h2 class='title'>Pagine</h2>
-		<p>Un'anteprima di tutte le pagine del sito in italiano:</p>
+		<p>Un’anteprima di tutte le pagine del sito in italiano:</p>
 		<ul>
-			{% for p in site.pages %}
-				{% if p.lang == page.lang %}
-					{% unless p.url contains '.json' or p.url contains '.csv' or p.url contains '.css' or p.url contains '.txt' or p.title contains '404' or p.url contains '.xml' or p.title == nil or p.ref == 'home' %}
-					<li><a href='{{ p.url }}' title='{{ p.title }}'>{{ p.title }}</a> - {{ p.description }}</li>
-					{% endunless %}
+			{% for p in collections.all %}
+				{% if p.data.lang == lang %}
+					<li><a href='{{ p.url }}' title='{{ p.data.title }}'>{{ p.data.title }}</a> - {{ p.data.description }}</li>
 				{% endif %}
 			{% endfor %}
 		</ul>

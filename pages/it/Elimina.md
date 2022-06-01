@@ -1,9 +1,8 @@
 ---
 title: Eliminare i propri account sui <em>Social Media</em>
 description: Sei convinto che sia la cosa giusta da fare ed hai deciso di eliminare i tuoi account dai <em>Social Media</em>. Cosa comporta questa scelta? Come si fa?
-lang: it
 permalink: /elimina/
-redirect_from: [/elimina-account/,/eliminare/,/eliminare-account/,/it/l5/,/it/l05/,/it/l-05/,/it/l-5/,/it/level05/,/it/level-5/,/it/level-05/,/it/level5/]
+redirect_from: [/elimina-account/,/eliminare/,/eliminare-account/,/it/l5/,/it/l05/,/it/l-05/,/it/l-5/,/it//,/it/level-5/,/it/level-05/,/it/level5/]
 ref: del
 toc: false
 ---

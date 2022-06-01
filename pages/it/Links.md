@@ -4,7 +4,6 @@ permalink: /it/links/
 redirect_from: [/bibliografia/,/risorse/,/it/link/,/link/]
 layout: page
 description: 'Tutti i link alle risorse citate o utilizzate.'
-lang: it
 ---
 <div class='blue box'>
 	<strong>Tutti i link</strong> sono in <a href='/links'><em>Links</em></a>. Qui di seguito sono riportati esclusivamente quelli in italiano.
@@ -23,7 +22,7 @@ Torna alla [home](/it/home 'Home')
 
 ### Libri
 
-- <cite><a href='https://deditore.com/prodotto/cronofagia/' rel='noopener noreferrer' target='_blank' title='Cronofagia'>Cronofagia</a></cite>, un libro di Davide Mazzocco
+- <cite><a href='https://deditore.com/prodotto/cronofagia/' target='_blank' title='Cronofagia'>Cronofagia</a></cite>, un libro di Davide Mazzocco
 
 <br>
 <br>

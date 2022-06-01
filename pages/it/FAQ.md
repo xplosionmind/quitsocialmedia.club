@@ -4,7 +4,6 @@ ref: faq
 permalink: /it/faq/
 redirect_from: [/risposte-e-obiezioni/,/obiezioni-e-risposte/,/risposte-obiezioni/,/obiezioni-risposte/,/domande/,/domande-frequenti/,/domande-e-risposte/,/domande-risposte/]
 description: Come fanno gli intellettuali seri, ho inviato in anteprima questo sito a persone particolarmente informate su questi temi e di cui apprezzo molto l'opinione affinché condividessero con me le loro impressioni. In stile pseudo-filosofico, affronto alcune delle loro domande ed obiezioni qui di seguito.
-lang: it
 ---
 ## Coerenza
 
@@ -12,7 +11,7 @@ lang: it
 
 Non proprio. Pensa a questo: se io amo il gelato alla fragola, non parlerò di quanto sono gustose le fragole con un mio amico che sta addentando un cono alla fragola; piuttosto, proverò a far assaggiare un cucchiaio del mio gelato alla fragola ad un mio amico che sta mangiando il gelato al cioccolato. Allo stesso modo, non ha senso abbandonare i *Social Media* e condividere questa idea **fuori** dalle piattaforme interessate: le persone che *possono* eliminare i propri account sono quelle che non l'hanno ancora fatto e, conseguentemente, sono coloro che possono essere raggiunti unicamente tramite *Social Media*.   
 Questo metodo di condivisione apparentemente incoerente nasconde in realtà al suo interno proprio una delle ragioni per cui si dovrebbe abbandonare i *Social*: non esiste un modo (e, se c'è, è molto poco considerato) per essere notato o ascoltato se non attraverso le piattaforme in questione.   
-Gli autori di <cite><a href="https://thesocialdilemma.com" rel="noopener noreferrer" target="_blank" title="The Social Dilemma">The Social Dilemma</a></cite> hanno creato degli account del film sui *Social* ed [hanno fornito  una spiegazione simile](https://www.thesocialdilemma.com/code-of-ethics/ "The Social Dilemma’s Code of Ethics").
+Gli autori di <cite><a href="https://thesocialdilemma.com" target="_blank" title="The Social Dilemma">The Social Dilemma</a></cite> hanno creato degli account del film sui *Social* ed [hanno fornito  una spiegazione simile](https://www.thesocialdilemma.com/code-of-ethics/ "The Social Dilemma’s Code of Ethics").
 
 <br>
 
