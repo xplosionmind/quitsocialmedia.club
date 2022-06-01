@@ -2,8 +2,8 @@
 title: Rapide
 ref: quick
 lang: fr
-permalink: /rapide
-redirect_from: [/fr/quick,/quickfr,/quick-fr,/quick/fr]
+permalink: /rapide/
+redirect_from: [/fr/quick/,/quickfr/,/quick-fr/,/quick/fr/]
 description: Pas le temps de lire plus que les points essentiels? Vous êtes au bon endroit.
 toc: false
 ---

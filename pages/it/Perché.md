@@ -1,12 +1,12 @@
 ---
 title: Perché
-permalink: /perché
-redirect_from: ["/it/why", "/why-it", "/perche", "/motivi", "/perchè", "/it/l1", "/it/l01", "/it/l-01", "/it/level01", "/it/level1", "/it/level-1", "/it/level-01", "/prché", "/pk", "/xke", "/xké", "/xk", "/pké", "/pke"]
+permalink: /perché/
+redirect_from: [/it/why/,/why-it/,/perche/,/motivi/,/perchè/,/it/l1/,/it/l01/,/it/l-01/,/it/level01/,/it/level1/,/it/level-1/,/it/level-01/,/prché/,/pk/,/xke/,/xké/,/xk/,/pké/,/pke/]
 lang: it
 ref: why
 layout: page
 toc: false
-description: "Perché abbandonare i <i>Social Media</i>?"
+description: Perché abbandonare i <i>Social Media</i>?
 ---
 Non ho ancora trovato un luogo su internet in cui siano riportate e riassunte *tutte* le diverse ragioni per cui i *Social Media* sono pericolosi e dannosi. Fra quelli di seguito, sarà facile non fidarsi e non credere ad alcuni di questi, oppure perfino la maggioranza non saranno sufficienti per convincere chi leggerà.   
 Tuttavia, dopo aver analizzato ogni singola spiegazione, <u>è difficile negare che ci sia qualcosa che non va</u> e che sia necessario agire.   
@@ -15,11 +15,11 @@ Prima di cause e processi, regolamentazioni e leggi, l’azione più importante,
 <br>
 <br>
 
-<div class="blue box" style="margin:0">
-	<h2 style="hyphens:none" id="ascolta-il-podcast">Ascolta il podcast!</h2>
-	<p>Se questa pagina è troppo noiosa e lunga da leggere, puoi ascoltare l’episodio di <em><a href="https://sconnesso.link" target="_blank" title="Sconnesso">Sconnesso</a></em>, il mio pseudo-podcast, in cui viene letta. La trovi di seguito.</p>
-	<div class="flex row">
-	<a class="red smaller button" href="https://tommi.space/sconnesso/quitsocialmedia" target="_blank" title="Sconnesso - Abbandonare i Social Media">Ascolta</a>
+<div class='blue box' style='margin:0'>
+	<h2 style='hyphens:none' id='ascolta-il-podcast'>Ascolta il podcast!</h2>
+	<p>Se questa pagina è troppo noiosa e lunga da leggere, puoi ascoltare l’episodio di <em><a href='https://sconnesso.link' target='_blank' title='Sconnesso'>Sconnesso</a></em>, il mio pseudo-podcast, in cui viene letta. La trovi di seguito.</p>
+	<div class='flex row'>
+	<a class='red smaller button' href='https://tommi.space/sconnesso/quitsocialmedia' target='_blank' title='Sconnesso - Abbandonare i Social Media'>Ascolta</a>
 	</div>
 </div>
 
@@ -35,9 +35,9 @@ I nostri sentimenti sono governati da una macchina: ci arrabbiamo per qualcosa c
 
 ### Maggiori informazioni
 
-- [Digital Discrimination: How Systemic Bias Is Built Into the Internet](https://thereboot.com/digital-discrimination-how-systemic-bias-is-built-into-the-internet/ "Digital Discrimination: How Systemic Bias Is Built Into the Internet") un articolo di Sanjana Varghese su [The Reboot](https://thereboot.com/ "The Reboot")
-- [Facebook Will Permanently Stop Promoting Political Groups](https://www.forbes.com/sites/rachelsandler/2021/01/27/facebook-will-permanently-stop-promoting-political-groups/ "Facebook Will Permanently Stop Promoting Political Groups"), un articolo di [Rachel Sandler](https://www.forbes.com/sites/rachelsandler/ "Rachel Sandler’s articles") su [Forbes](https://forbes.com "Forbes"), un sintomo del fatto che le raccomandazioni su Facebook sono più dannose per la società che utili per gli utenti
-- [altri contenuti](/links#anger "More resources about anger and Social Media")
+- [Digital Discrimination: How Systemic Bias Is Built Into the Internet](https://thereboot.com/digital-discrimination-how-systemic-bias-is-built-into-the-internet/ 'Digital Discrimination: How Systemic Bias Is Built Into the Internet') un articolo di Sanjana Varghese su [The Reboot](https://thereboot.com/ 'The Reboot')
+- [Facebook Will Permanently Stop Promoting Political Groups](https://www.forbes.com/sites/rachelsandler/2021/01/27/facebook-will-permanently-stop-promoting-political-groups/ 'Facebook Will Permanently Stop Promoting Political Groups'), un articolo di [Rachel Sandler](https://www.forbes.com/sites/rachelsandler/ 'Rachel Sandler’s articles') su [Forbes](https://forbes.com 'Forbes'), un sintomo del fatto che le raccomandazioni su Facebook sono più dannose per la società che utili per gli utenti
+- [altri contenuti](/links#anger 'More resources about anger and Social Media')
 
 <br>
 <br>
@@ -52,10 +52,10 @@ Inoltre, è stato riportato da diverse fonti che i moderatori di contenuti sono 
 
 ### Maggiori informazioni
 
-- [Facebook can’t fix itself](https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself "Facebook can’t fix itself"), un articolo di [Andrew Marantz](https://en.wikipedia.org/wiki/Andrew_Marantz "Andrew Marantz on Wikipedia") su [<cite>The New Yorker</cite>](https://www.newyorker.com "The Newyorker")
-- [Facebook Executives Shut Down Efforts to Make the Site Less Divisive](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499 "Facebook Executives Shut Down Efforts to Make the Site Less Divisive"), un articolo sul [Wall Street Journal](https://www.wsj.com "The Wall Street Journal")
-- [Bodies in seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa "Bodies in seats"), by [Casey Newton](https://www.theverge.com/authors/casey-newton "Casey Newton author page on The Verge") on [The Verge](https://www.theverge.com "The Verge")
-- [altri contenuti](/links#hate "More resources related to hate and Social Media")
+- [Facebook can’t fix itself](https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself 'Facebook can’t fix itself'), un articolo di [Andrew Marantz](https://en.wikipedia.org/wiki/Andrew_Marantz 'Andrew Marantz on Wikipedia') su [<cite>The New Yorker</cite>](https://www.newyorker.com 'The Newyorker')
+- [Facebook Executives Shut Down Efforts to Make the Site Less Divisive](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499 'Facebook Executives Shut Down Efforts to Make the Site Less Divisive'), un articolo sul [Wall Street Journal](https://www.wsj.com 'The Wall Street Journal')
+- [Bodies in seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa 'Bodies in seats'), by [Casey Newton](https://www.theverge.com/authors/casey-newton 'Casey Newton author page on The Verge') on [The Verge](https://www.theverge.com 'The Verge')
+- [altri contenuti](/links#hate 'More resources related to hate and Social Media')
 
 <br>
 <br>
@@ -71,10 +71,10 @@ I *Social Media* non fanno molto per favorire un modo più pacifico di esprimere
 
 ### Maggiori informazioni
 
-- [How Facebook profits from polarization](https://ted.com/talks/yael_eisenstat_how_facebook_profits_from_polarization "How Facebook profits from polarization"), un <mark class="red">TED Talk</mark> di [Yael Eisenstat](https://en.wikipedia.org/wiki/Yael_Eisenstat "Yael Eisenstat on Wikipedia")
-- <cite><a href="https://thesocialdilemma.com" rel="noopener noreferrer" target="_blank" title="The Social Dilemma">The Social Dilemma</a></cite>, a <mark class="red">documentario</mark> di [Jeff Orlowski](https://it.wikipedia.org/wiki/Jeff_Orlowski "Jeff Orlowski")
-- [Facebook Can’t Fix what it won’t admit to](https://www.wired.com/story/plaintext-facebook-cant-fix-what-it-wont-admit-to/ "Facebook Can’t Fix what it won’t admit to") by [Steven Levy](https://en.wikipedia.org/wiki/Steven_Levy "Steven Levy on Wikipedia") on [Wired](https://wired.com "Wired")
-- [altri contenuti](/links#polarizzazione "More resources on Polarization and Social Media")
+- [How Facebook profits from polarization](https://ted.com/talks/yael_eisenstat_how_facebook_profits_from_polarization 'How Facebook profits from polarization'), un <mark class='red'>TED Talk</mark> di [Yael Eisenstat](https://en.wikipedia.org/wiki/Yael_Eisenstat 'Yael Eisenstat on Wikipedia')
+- <cite><a href='https://thesocialdilemma.com' rel='noopener noreferrer' target='_blank' title='The Social Dilemma'>The Social Dilemma</a></cite>, a <mark class='red'>documentario</mark> di [Jeff Orlowski](https://it.wikipedia.org/wiki/Jeff_Orlowski 'Jeff Orlowski')
+- [Facebook Can’t Fix what it won’t admit to](https://www.wired.com/story/plaintext-facebook-cant-fix-what-it-wont-admit-to/ 'Facebook Can’t Fix what it won’t admit to') by [Steven Levy](https://en.wikipedia.org/wiki/Steven_Levy 'Steven Levy on Wikipedia') on [Wired](https://wired.com 'Wired')
+- [altri contenuti](/links#polarizzazione 'More resources on Polarization and Social Media')
 
 <br>
 <br>
@@ -82,16 +82,16 @@ I *Social Media* non fanno molto per favorire un modo più pacifico di esprimere
 ## Disinformazione
 
 Questo è uno dei principali punti di discussione dell’anno passato: le piattaforme *social* rendono davvero difficile comprendere cosa è vero e cosa non lo è. Ovviamente, questo problema non dipende unicamente dai *Social Media*, ma è strettamente legato ad essi e per colpa loro la sua pericolosità si accentua enormemente. Post di Donald Trump, così come quelli di persone molto influenti, possono essere controllati (e abbiamo visto com'è andata a finire con l'ex-presidente), ma è praticamente impossibile riuscire a monitorare e verificare efficacemente l'autenticità e la veridicità dei contenuti pubblicati. Non esiste un modo infallibile per essere totalmente certi che qualcosa che viene pubblicato non sia una tanto famigerata e vituperata *fake news*.   
-Intorno a questo punto si sta svolgendo un grande dibattito, che riguarda specificamente la [Sezione 230](https://en.wikipedia.org/wiki/Section_230 "Sezione 230 on Wikipedia") del Communications Decency Act americano: di chi è la responsabilità se una notizia falsa e pericolosa viene pubblicata? Delle piattaforme su cui un post è stato esposto oppure di chi ne è l'autore? Soprattutto, chi verrà perseguito legalmente se il contenuto pubblicato dovesse avere delle ripercussioni negative nel mondo reale?
+Intorno a questo punto si sta svolgendo un grande dibattito, che riguarda specificamente la [Sezione 230](https://en.wikipedia.org/wiki/Section_230 'Sezione 230 on Wikipedia') del Communications Decency Act americano: di chi è la responsabilità se una notizia falsa e pericolosa viene pubblicata? Delle piattaforme su cui un post è stato esposto oppure di chi ne è l'autore? Soprattutto, chi verrà perseguito legalmente se il contenuto pubblicato dovesse avere delle ripercussioni negative nel mondo reale?
 
 <br>
 
 ### Maggiori informazioni
 
-- [How to save Facebook from democracy](https://www.foreignaffairs.com/articles/united-states/2020-11-24/fukuyama-how-save-democracy-technology "How to save Facebook from democracy"), by Francis Fukuyama, Barak Richman, and Ashish Goel on [Foreign Affairs](https://www.foreignaffairs.com "Foreign Affairs")
-- [Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech.](https://www.eff.org/deeplinks/2020/11/dont-blame-section-230-big-techs-failures-blame-big-tech "Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech. - EFF") by Elliot Harmon on [EFF](https://eff.org "EFF official website")
-- [Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies](https://thereboot.com/control-stifle-censor-social-media-toxic-double-edged-policies/ "Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies") by Jillian C. York on [The Reboot](https://thereboot.com/ "The Reboot")
-- [altri contenuti](/links#misinformation "More resources about misinformation and Social Media")
+- [How to save Facebook from democracy](https://www.foreignaffairs.com/articles/united-states/2020-11-24/fukuyama-how-save-democracy-technology 'How to save Facebook from democracy'), by Francis Fukuyama, Barak Richman, and Ashish Goel on [Foreign Affairs](https://www.foreignaffairs.com 'Foreign Affairs')
+- [Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech.](https://www.eff.org/deeplinks/2020/11/dont-blame-section-230-big-techs-failures-blame-big-tech 'Don’t Blame Section 230 for Big Tech’s Failures. Blame Big Tech. - EFF') by Elliot Harmon on [EFF](https://eff.org 'EFF official website')
+- [Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies](https://thereboot.com/control-stifle-censor-social-media-toxic-double-edged-policies/ 'Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies') by Jillian C. York on [The Reboot](https://thereboot.com/ 'The Reboot')
+- [altri contenuti](/links#misinformation 'More resources about misinformation and Social Media')
 
 <br>
 <br>
@@ -107,9 +107,9 @@ Quello precedente è solamente uno fra i più semplici esempi del vivere in un b
 
 ### Maggiori informazioni
 
-- [The Obsession With Big Tech Is Distorting the Big Picture](https://thereboot.com/the-obsession-with-big-tech-is-distorting-the-big-picture/ "The Obsession With Big Tech Is Distorting the Big Picture"), un articolo di Karl Bode su [The Reboot](https://thereboot.com/ "The Reboot")
-- [The Future of Privacy](https://philosophy247.org/podcasts/the-future-of-privacy/ "Philosophy 24/7 The Future of Privacy"), un <mark class="blue">podcast</mark> con un'intervista a [Carissa Véliz](https://carissaveliz.com "Carissa Véliz"), parlando specificamente della “bolla” al minuto `4:00`
-- [altri contenuti](/links#bubble "External links about “Bubble”")
+- [The Obsession With Big Tech Is Distorting the Big Picture](https://thereboot.com/the-obsession-with-big-tech-is-distorting-the-big-picture/ 'The Obsession With Big Tech Is Distorting the Big Picture'), un articolo di Karl Bode su [The Reboot](https://thereboot.com/ 'The Reboot')
+- [The Future of Privacy](https://philosophy247.org/podcasts/the-future-of-privacy/ 'Philosophy 24/7 The Future of Privacy'), un <mark class='blue'>podcast</mark> con un'intervista a [Carissa Véliz](https://carissaveliz.com 'Carissa Véliz'), parlando specificamente della “bolla” al minuto `4:00`
+- [altri contenuti](/links#bubble 'External links about “Bubble”')
 
 <br>
 <br>
@@ -133,7 +133,7 @@ Se ne hai il coraggio, disinstalla tutte le tue applicazioni social per un mese.
 
 ### Maggiori informazioni
 
-- [An Exploratory Study of Gambling Operators’ Use of Social Media and the Latent Messages Conveyed](https://link.springer.com/article/10.1007/s10899-015-9525-2 "An Exploratory Study of Gambling Operators’ Use of Social Media and the Latent Messages Conveyed")
+- [An Exploratory Study of Gambling Operators’ Use of Social Media and the Latent Messages Conveyed](https://link.springer.com/article/10.1007/s10899-015-9525-2 'An Exploratory Study of Gambling Operators’ Use of Social Media and the Latent Messages Conveyed')
 
 <br>
 <br>
@@ -152,7 +152,7 @@ Indipendentemente dalla nostra volontà, anche se utilizziamo i social passivame
 
 ### Maggiori informazioni
 
-- [How tech companies deceive you into giving up your data and privacy](https://www.ted.com/talks/finn_lutzow_holm_myrstad_how_tech_companies_deceive_you_into_giving_up_your_data_and_privacy "How tech companies deceive you into giving up your data and privacy"), una <mark class="red">TED Talk</mark> di [Finn Lützow-Holm Myrstad](https://www.ted.com/speakers/finn_myrstad "Finn Lützow-Holm Myrstad")
+- [How tech companies deceive you into giving up your data and privacy](https://www.ted.com/talks/finn_lutzow_holm_myrstad_how_tech_companies_deceive_you_into_giving_up_your_data_and_privacy 'How tech companies deceive you into giving up your data and privacy'), una <mark class='red'>TED Talk</mark> di [Finn Lützow-Holm Myrstad](https://www.ted.com/speakers/finn_myrstad 'Finn Lützow-Holm Myrstad')
 
 <br>
 <br>
@@ -168,10 +168,10 @@ Non è un segreto: tutto ciò che ho appena elencato è venduto a caro prezzo ad
 
 ### Maggiori informazioni
 
-- [The Cambridge Analytica Story, Explained](https://www.wired.com/amp-stories/cambridge-analytica-explainer/ "The Cambridge Analytica Story, Explained"), di [WIRED](https://wired.com)
-- [Facebook's role in Brexit — and the threat to democracy](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy "Facebook's role in Brexit — and the threat to democracy"), un <mark class="red">TED Talk</mark> di [Carole Cadwalladr](https://en.wikipedia.org/wiki/Carole_Cadwalladr "Carole Cadwalladr on Wikipedia")
-- [How Surveillance Advertising Seized Our Data and Hijacked the Web](https://thereboot.com/how-surveillance-advertising-seized-our-data-and-hijacked-the-web/ "How Surveillance Advertising Seized Our Data and Hijacked the Web") di Matthew Crain su [The Reboot](https://thereboot.com/ "The Reboot")
-- [How to Destroy Surveillance Capitalism](https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59 "How to Destroy Surveillance Capitalism"), di [Cory Doctorow](https://pluralistic.net "Pluralistic - Cory Doctorow")
+- [The Cambridge Analytica Story, Explained](https://www.wired.com/amp-stories/cambridge-analytica-explainer/ 'The Cambridge Analytica Story, Explained'), di [WIRED](https://wired.com)
+- [Facebook's role in Brexit — and the threat to democracy](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy 'Facebook's role in Brexit — and the threat to democracy'), un <mark class='red'>TED Talk</mark> di [Carole Cadwalladr](https://en.wikipedia.org/wiki/Carole_Cadwalladr 'Carole Cadwalladr on Wikipedia')
+- [How Surveillance Advertising Seized Our Data and Hijacked the Web](https://thereboot.com/how-surveillance-advertising-seized-our-data-and-hijacked-the-web/ 'How Surveillance Advertising Seized Our Data and Hijacked the Web') di Matthew Crain su [The Reboot](https://thereboot.com/ 'The Reboot')
+- [How to Destroy Surveillance Capitalism](https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59 'How to Destroy Surveillance Capitalism'), di [Cory Doctorow](https://pluralistic.net 'Pluralistic - Cory Doctorow')
 
 <br>
 <br>
@@ -188,11 +188,11 @@ Facebook è stato denunciato ed è ora sotto processo da parte del governo statu
 
 ### Maggiori informazioni
 
-- [Un’intervista di *Codice* a Jaron Lanier](https://www.raiplay.it/video/2019/08/Codice-intervista-esclusiva-a-Jaron-Lanier-pioniere-della-realta-virtuale-98a38fd9-6fa9-46d6-9b49-f9deccc7d1c6.html "Intervista a Jaron Lanier - Codice - Rai Play"), su <mark class="red">Rai Play</mark>
-- [Monopoly Machine: Understanding the System That Shapes the Internet](https://thereboot.com/monopoly-machine-understanding-the-system-that-shapes-the-internet/ "Monopoly Machine: Understanding the System That Shapes the Internet"), un articolo di Emma Johanningsmeier su [The Reboot](https://thereboot.com/ "The Reboot")
-- [FTC Sues Facebook for Illegal Monopolization](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization "FTC Sues Facebook for Illegal Monopolization"), the press release in which the Federal Trade Commission announces to sue Facebook
-- [WIRED’s Guide to Net Neutrality](https://www.wired.com/story/guide-net-neutrality/ "WIRED’s Guide to Net Neutrality")
-- [more](/it/links#monopolization "More resources related to the Monopolization and Social Media")
+- [Un’intervista di *Codice* a Jaron Lanier](https://www.raiplay.it/video/2019/08/Codice-intervista-esclusiva-a-Jaron-Lanier-pioniere-della-realta-virtuale-98a38fd9-6fa9-46d6-9b49-f9deccc7d1c6.html 'Intervista a Jaron Lanier - Codice - Rai Play'), su <mark class='red'>Rai Play</mark>
+- [Monopoly Machine: Understanding the System That Shapes the Internet](https://thereboot.com/monopoly-machine-understanding-the-system-that-shapes-the-internet/ 'Monopoly Machine: Understanding the System That Shapes the Internet'), un articolo di Emma Johanningsmeier su [The Reboot](https://thereboot.com/ 'The Reboot')
+- [FTC Sues Facebook for Illegal Monopolization](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization 'FTC Sues Facebook for Illegal Monopolization'), the press release in which the Federal Trade Commission announces to sue Facebook
+- [WIRED’s Guide to Net Neutrality](https://www.wired.com/story/guide-net-neutrality/ 'WIRED’s Guide to Net Neutrality')
+- [more](/it/links#monopolization 'More resources related to the Monopolization and Social Media')
 
 <br>
 <br>
@@ -205,8 +205,8 @@ Perché non possiamo socializzare, scambiare idee, confrontarci con amici e cono
 
 ### Maggiori informazioni
 
-- [Don Alberto Ravagnani su Muschio Selvaggio](https://youtu.be/aZ2pn0tNoGQ?t=3625 "Ep.33 Don Alberto - Muschio Selvaggio Podcast") che racconta quanto sia pericoloso per i più piccoli avere spesso il telefono in mano
-- [Do virtual social networks destroy the social fabric?](https://medium.com/swlh/do-virtual-social-networks-destroy-the-social-fabric-b1e96de514db "Do virtual social networks destroy the social fabric?") un articolo di Jürgen Derlath
+- [Don Alberto Ravagnani su Muschio Selvaggio](https://youtu.be/aZ2pn0tNoGQ?t=3625 'Ep.33 Don Alberto - Muschio Selvaggio Podcast') che racconta quanto sia pericoloso per i più piccoli avere spesso il telefono in mano
+- [Do virtual social networks destroy the social fabric?](https://medium.com/swlh/do-virtual-social-networks-destroy-the-social-fabric-b1e96de514db 'Do virtual social networks destroy the social fabric?') un articolo di Jürgen Derlath
 
 <br>
 <br>
@@ -221,7 +221,7 @@ Guarda le statistiche di utilizzo dei tuoi dispositivi.
 
 ### Maggiori informazioni
 
-- <cite><a href="https://deditore.com/prodotto/cronofagia/" rel="noopener noreferrer" target="_blank" title="Cronofagia">Cronofagia</a></cite>, un <mark class="purple">libro</mark> di Davide Mazzocco
+- <cite><a href='https://deditore.com/prodotto/cronofagia/' rel='noopener noreferrer' target='_blank' title='Cronofagia'>Cronofagia</a></cite>, un <mark class='purple'>libro</mark> di Davide Mazzocco
 
 <br>
 <br>
@@ -247,37 +247,37 @@ Quello che pubblichiamo sui *Social Media* è veramente nostro? La risposta giac
 
 ### Facebook
 
-From Facebook's [Terms of Service](https://www.facebook.com/terms.php "Facebook Terms of Service")
+From Facebook's [Terms of Service](https://www.facebook.com/terms.php 'Facebook Terms of Service')
 
 > […] when you share, post, or upload content that is covered by intellectual property rights on or in connection with our Products, you grant us a non-exclusive, transferable, sub-licensable, royalty-free, and worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content (consistent with your privacy and application settings). […]
 
-[Source](https://hyp.is/XqcmpBIrEeu7dUNn9rN24g/www.facebook.com/terms.php "Facebook Terms of Service")
+[Source](https://hyp.is/XqcmpBIrEeu7dUNn9rN24g/www.facebook.com/terms.php 'Facebook Terms of Service')
 
 ### Twitter
 
-From Twitter's [Terms of Service](https://twitter.com/en/tos "Twitter Terms of Service")
+From Twitter's [Terms of Service](https://twitter.com/en/tos 'Twitter Terms of Service')
 
 > […] By submitting, posting or displaying Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such Content in any and all media or distribution methods now known or later developed (for clarity, these rights include, for example, curating, transforming, and translating). […]
 
-[Source](https://hyp.is/2H2wMhIsEeuntaMMPJ6iIw/twitter.com/en/tos "Twitter Terms of Service")
+[Source](https://hyp.is/2H2wMhIsEeuntaMMPJ6iIw/twitter.com/en/tos 'Twitter Terms of Service')
 
 <br>
 
 ### Tik Tok
 
-From Tik Tok's [Terms of use](https://www.tiktok.com/legal/terms-of-use "Tik Tok Terms of Service")
+From Tik Tok's [Terms of use](https://www.tiktok.com/legal/terms-of-use 'Tik Tok Terms of Service')
 
 > […] You or the owner of your User Content still own the copyright in User Content sent to us, but by submitting User Content via the Services, you hereby grant us an unconditional irrevocable, non-exclusive, royalty-free, fully transferable, perpetual worldwide licence to use, modify, adapt, reproduce, make derivative works of, publish and/or transmit, and/or distribute and to authorise other users of the Services and other third-parties to view, access, use, download, modify, adapt, reproduce, make derivative works of, publish and/or transmit your User Content in any format and on any platform, either now known or hereinafter invented. […]
 >
 > You further grant us a royalty-free license to use your user name, image, voice, and likeness to identify you as the source of any of your User Content;
 
-[Source](https://hyp.is/GROIKBIuEeukK5tV0Tl_rg/www.tiktok.com/legal/terms-of-use?lang=en "Tik Tok Terms of Service")
+[Source](https://hyp.is/GROIKBIuEeukK5tV0Tl_rg/www.tiktok.com/legal/terms-of-use?lang=en 'Tik Tok Terms of Service')
 
 Important passage:
 
 > […] you are granting us the right to use your User Content without the obligation to pay royalties to any third party […]
 
-[Source](https://hyp.is/VnoxMBIuEeuuiUMgV1pp_Q/www.tiktok.com/legal/terms-of-use?lang=en "Tik Tok Terms of Service")
+[Source](https://hyp.is/VnoxMBIuEeuuiUMgV1pp_Q/www.tiktok.com/legal/terms-of-use?lang=en 'Tik Tok Terms of Service')
 
 <br>
 
@@ -319,7 +319,7 @@ Il titolo del paragrafo dice tutto. Davvero ci serve essere così connessi? Se l
 
 Questo potrebbe essere il motivo più debole degli altri in questa pagina, ma può essere utile menzionarlo.
 
-Facebook ha annunciato che entro il 2030 si applicherà per utilizzare esclusivamente energia rinnovabile; ha anche dedicato [un intero sito web](https://sustainability.fb.com "Facebook Sustainability") all'argomento. Nonostante ciò, i “servizi” forniti dai *Social Media* sono resi possibili da un numero sconosciuto di server indefinitamente (probabilmente, molto) grandi che sorgono in ogni angolo del pianeta. Tali server sono computer estremamente potenti connessi ad internet tutto il giorno, tutti i giorni; essi sono i responsabili del processo dietro le quinte che permette la pubblicazione di ciò che carichiamo e che assicura che tutto sia accessibile a chiunque, in qualunque luogo nel mondo. Come è facile immaginare, questi server consumano una gigantesca quantità di energia, e, anche se proviene da fonti rinnovabili, ha comunque un forte impatto sull'ambiente.
+Facebook ha annunciato che entro il 2030 si applicherà per utilizzare esclusivamente energia rinnovabile; ha anche dedicato [un intero sito web](https://sustainability.fb.com 'Facebook Sustainability') all'argomento. Nonostante ciò, i “servizi” forniti dai *Social Media* sono resi possibili da un numero sconosciuto di server indefinitamente (probabilmente, molto) grandi che sorgono in ogni angolo del pianeta. Tali server sono computer estremamente potenti connessi ad internet tutto il giorno, tutti i giorni; essi sono i responsabili del processo dietro le quinte che permette la pubblicazione di ciò che carichiamo e che assicura che tutto sia accessibile a chiunque, in qualunque luogo nel mondo. Come è facile immaginare, questi server consumano una gigantesca quantità di energia, e, anche se proviene da fonti rinnovabili, ha comunque un forte impatto sull'ambiente.
 
 Una nota personale: chiunque non sia un imbecille riconosce che il più grande e preoccupante pericolo per noi in questo momento storico (tralasciando per un attimo la pandemia) è il surriscaldamento globale; sta fortemente impattando le nostre vite e probabilmente le devasterà, a meno che non faremo qualcosa nel prossimo futuro. Anche se potrebbe sembrare non giustificato, il mio timore per quanto riguarda i *Social Media* è forse più grande: se il surriscaldamento globale può essere osservato, oggettivamente misurato e monitorato, il declino della libertà sul web è subdolo, accade nell’ombra e con una crescente ma comunque minima attenzione, se comparata alle dimensioni del problema. Inoltre, anche un ignorante in materia ambientale può comprendere i rudimenti del perché il pianeta si stia surriscaldando e il motivo per cui questo è un grande rischio; al contrario, per riconoscere le minacce dovute all’ineguaglianza e la scomparsa della privacy sul web, occorre avere delle conoscenze tecniche a cui in Italia non veniamo minimamente educati. Doremmo abbandonare i *Social Media* per rendere il mondo un luogo migliore.
 
@@ -344,9 +344,9 @@ Noi possiamo provare il contrario.
 
 ### Maggiori informazioni
 
-- [Quanto siamo dipendenti da una singola piattaforma online?](https://funkwhale.it/library/tracks/1380/ "Quanto siamo dipendenti da una singola piattaforma online?"), episodio 10 del <mark class="blue">podcast</mark> di [Daniele Scasciafratte](https://daniele.tech "Daniele Scasciafratte")
-- [Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems](https://thereboot.com/data-liberation-a-step-toward-fixing-big-techs-competition-problems/ "Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems") by Gabriel Nicholas on [The Reboot](https://thereboot.com "The Reboot")
-- [Breaking Tech Open: Why Social Platforms Should Work More Like Email](https://thereboot.com/breaking-tech-open-why-social-platforms-should-work-more-like-email/ "Breaking Tech Open: Why Social Platforms Should Work More Like Email"), by Karissa McKelvey on [The Reboot](https://thereboot.com "The Reboot")
+- [Quanto siamo dipendenti da una singola piattaforma online?](https://funkwhale.it/library/tracks/1380/ 'Quanto siamo dipendenti da una singola piattaforma online?'), episodio 10 del <mark class='blue'>podcast</mark> di [Daniele Scasciafratte](https://daniele.tech 'Daniele Scasciafratte')
+- [Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems](https://thereboot.com/data-liberation-a-step-toward-fixing-big-techs-competition-problems/ 'Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems') by Gabriel Nicholas on [The Reboot](https://thereboot.com 'The Reboot')
+- [Breaking Tech Open: Why Social Platforms Should Work More Like Email](https://thereboot.com/breaking-tech-open-why-social-platforms-should-work-more-like-email/ 'Breaking Tech Open: Why Social Platforms Should Work More Like Email'), by Karissa McKelvey on [The Reboot](https://thereboot.com 'The Reboot')
 
 <br>
 <br>
@@ -383,4 +383,4 @@ Non è facile ed è piuttosto doloroso all'inizio, ma puoi farlo, possiamo farlo
 
 ## Cosa fare, ora?
 
-Il prossimo passo è il livello successivo nel [percorso](/percorso "Percorso") verso la libertà online
+Il prossimo passo è il livello successivo nel [percorso](/percorso 'Percorso') verso la libertà online

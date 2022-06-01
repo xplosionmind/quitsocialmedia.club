@@ -1,9 +1,9 @@
 ---
 title: Contribuisci
-permalink: /contribuisci
-redirect_from: ["/it/contrib", "/it/l1000", "/it/l-1000", "/it/l-1000", "/it/level05", "/it/level-1000", "/it/level1000"]
+permalink: /contribuisci/
+redirect_from: [/it/contrib/,/it/l1000/,/it/l-1000/,/it/l-1000/,/it/level05/,/it/level-1000/,/it/level1000/]
 ref: contrib
-description: "Se pensi che questo sito sia utile e ricco di spunti, potresti considerare di contribuire a renderlo ancora migliore."
+description: Se pensi che questo sito sia utile e ricco di spunti, potresti considerare di contribuire a renderlo ancora migliore.
 lang: it
 toc: false
 ---

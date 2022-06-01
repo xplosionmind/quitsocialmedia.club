@@ -1,78 +1,78 @@
 ---
 title: Home
 ref: home
-permalink: /home
+permalink: /home/
 layout: wrapper
 toc: false
 ---
-<div class="one column">
-	<div class="row">
-		<div class="page-header">
+<div class='one column'>
+	<div class='row'>
+		<div class='page-header'>
 			<h1>Quit Social Media</h1>
 			<p>All of the reasons why Social Media platforms are bad and possible solutions to live a happy life on the web without them</p>
 		</div>
 </div>
 
-	<div class="red box row">
-		<h2 class="title">WTF is this website?</h2>
+	<div class='red box row'>
+		<h2 class='title'>WTF is this website?</h2>
 		<p>
 			<b>Short answer</b>: a place where all the reasons why social media are harmful are listed and several resources to deepen knowledge on the topic are provided, together with valid solutions and alternatives.
 			<br />
-			<b>Long answer</b>: read the <a href="/about">About page</a>
+			<b>Long answer</b>: read the <a href='/about'>About page</a>
 		</p>
-		<h3 class="title" style="margin-top:var(--twice)">Where to start</h3>
+		<h3 class='title' style='margin-top:var(--twice)'>Where to start</h3>
 		<p>
-			You probably are a busy person who does not have time to go through all of the stuff that is on here. Ok, I got you: just read this <a href="/quick">quick summary</a>
+			You probably are a busy person who does not have time to go through all of the stuff that is on here. Ok, I got you: just read this <a href='/quick'>quick summary</a>
 		</p>
 		<p>
-			If devoting a bit more of your time to the topic does not bother you, I can assure you it’s definitely worth it. I suggest you to follow <a href="/path" title="Path">this path</a>
+			If devoting a bit more of your time to the topic does not bother you, I can assure you it’s definitely worth it. I suggest you to follow <a href='/path' title='Path'>this path</a>
 		</p>
 	</div>
 
 	{% for post in site.posts %}
 		{% if forloop.first %}
-			<div class="row">
-				<a href="/blog"><h2 class="title">Updates</h2></a>
+			<div class='row'>
+				<a href='/blog'><h2 class='title'>Updates</h2></a>
 				<ul>
-					<li>{{ post.date | date_to_long_string }} - <a href="{{ post.url }}" title="{{ post.title }}"></a></li>
+					<li>{{ post.date | date_to_long_string }} - <a href='{{ post.url }}' title='{{ post.title }}'></a></li>
 		{% elsif forloop.last %}
-					<li>{{ post.date | date_to_long_string }} - <a href="{{ post.url }}" title="{{ post.title }}"></a></li>
+					<li>{{ post.date | date_to_long_string }} - <a href='{{ post.url }}' title='{{ post.title }}'></a></li>
 				</ul>
 			</div>
 		{% else %}
-					<li>{{ post.date | date_to_long_string }} - <a href="{{ post.url }}" title="{{ post.title }}"></a></li>
+					<li>{{ post.date | date_to_long_string }} - <a href='{{ post.url }}' title='{{ post.title }}'></a></li>
 		{% endif %}
 	{% else %}
 	{% endfor %}
 
 	<br />
 
-	<div class="row">
-		<h2 class="title">Get in touch!</h2>
-		<p>If you have any questions or suggestions, please don't hesitate to <a href="mailto:{{ site.email | encode_email }}" target="_blank" rel="noopener noreferrer" title="Send me an email">write me an email</a> (<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/D435660C86733BA1C4C22F4D922BA2D96336049E" title="PGP Key hello@quitsocialmedia.club">PGP key</a>).</p>
+	<div class='row'>
+		<h2 class='title'>Get in touch!</h2>
+		<p>If you have any questions or suggestions, please don't hesitate to <a href='mailto:{{ site.email | encode_email }}' target='_blank' rel='noopener noreferrer' title='Send me an email'>write me an email</a> (<a href='https://keys.openpgp.org/vks/v1/by-fingerprint/D435660C86733BA1C4C22F4D922BA2D96336049E' title='PGP Key hello@quitsocialmedia.club'>PGP key</a>).</p>
 	</div>
 
 	<br />
 
-	<div class="blue box row">
-		<a href="/contribute"><h2 class="title">Contribute</h2></a>
-		{% for contrib in site.pages %}
-			{% if contrib.title == "Contribute" %}
-				{{ contrib.content | markdownify }}
+	<div class='blue box row'>
+		<a href='/contribute'><h2 class='title'>Contribute</h2></a>
+		{% for contrib in collections.all %}
+			{% if contrib.data.title == 'Contribute' %}
+				{{ contrib.templateContent }}
 			{% endif %}
 		{% endfor %}
 	</div>
 
 	<br />
 
-	<div class="margin row">
-		<h2 class="title">Website pages</h2>
+	<div class='margin row'>
+		<h2 class='title'>Website pages</h2>
 		<p>An overview of all the pages in the website:</p>
 		<ul>
-			{% for p in site.pages %}
+			{% for p in  %}
 				{% if p.lang == page.lang %}
 					{% unless p.url contains '.json' or p.url contains '.csv' or p.url contains '.css' or p.url contains '.txt' or p.title contains '404' or p.url contains '.xml' or p.title == nil or p.title == 'Home' %}
-						<li><a href="{{ p.url }}" title="{{ p.title }}">{{ p.title }}</a> - {{ p.description }}</li>
+						<li><a href='{{ p.url }}' title='{{ p.title }}'>{{ p.title }}</a> - {{ p.description }}</li>
 					{% endunless %}
 				{% endif %}
 			{% endfor %}

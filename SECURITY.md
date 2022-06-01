@@ -1,1 +1,0 @@
-This website has no tracking, no ads, no analytics, no annoying stuff, therefore no possible security breaches. Nevertheless, there's a tiny little part of back-end cloud computing if you subscribe to the newsletter. If you encounter any problem in this process, please send an email to [security@quitsocialmedia.club](mailto:security@quitsocialmedia.club).

@@ -1,9 +1,9 @@
 ---
 title: Contribute
-permalink: /contribute
+permalink: /contribute/
 ref: contrib
-description: 'If you think this website is useful, insightful, necessary and/or important, you should consider contributing to make it even better!'
-redirect_from: [/contribuer,/contribuez,/n1000,/contribution,/contribution-guide,/contrib,/l1000,/l-1000,/l-1000,/level05,/level-1000,/level1000]
+description: If you think this website is useful, insightful, necessary and/or important, you should consider contributing to make it even better!
+redirect_from: [/contribuer/,/contribuez/,/n1000/,/contribution/,/contribution-guide/,/contrib/,/l1000/,/l-1000/,/l-1000/,/level05/,/level-1000/,/level1000/]
 toc: false
 ---
 There are several ways to contribute to this website, and any of these is very much appreciated.
@@ -12,6 +12,5 @@ There are several ways to contribute to this website, and any of these is very m
 - [**Translate**](/l10n 'Localization page') the website’s content
 - **Add knowledge**: suggest videos, talks, researches, articles, etc.
 - **Improve content**: fix typos, suggest better ways to explain things, report incorrect data or unreliable sources
-<!--{% comment %}- [Tommi](https://tommi.space 'Tommi’s personal website') is a student, he has no income and nevertheless he spent months [studying](/why 'Why') the topic, developing the idea, building this website, and curating its content. You might consider **[making a donation](https://liberapay.com/tommi/donate 'Make a donation through Liberapay')** for the time he devoted to quitsocialmedia.club.{% endcomment %}-->
 
-The last two points can be achieved by forking this website’s [repository](https://github.com/xplosionmind/quitsocialmedia.club/ 'quitsocialmedia.club source code on GitHub') and opening a pull request, or by [opening an issue](https://github.com/xplosionmind/quitsocialmedia.club/issues 'quitsocialmedia.club repository issues on GitHub') on GitHub.
+The last two points can be achieved by forking this website’s [repository](https://codeberg.org/tommi/quitsocialmedia.club 'quitsocialmedia.club source code on GitHub') and opening a pull request, or by opening an issue [on GitHub](https://github.com/xplosionmind/quitsocialmedia.club/issues 'quitsocialmedia.club repository issues on GitHub') or on [Codeberg](https://codeberg.org/tommi/quitsocialmedia.club/issues 'Issues for quitsocialmedia.club repository on Codeberg').

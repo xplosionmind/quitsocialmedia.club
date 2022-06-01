@@ -1,8 +1,8 @@
 ---
 title: Listen
 description: Instead of reading or watching, you may prefer listening to podcasts about the topic. Here are some.
-permalink: /listen
-redirect_from: [/écouter,/ecouter,/écoutez,/écoute,/ecoutez,/ecoute]
+permalink: /listen/
+redirect_from: [/écouter/,/ecouter/,/écoutez/,/écoute/,/ecoutez/,/ecoute/]
 toc: false
 ref: listen
 ---

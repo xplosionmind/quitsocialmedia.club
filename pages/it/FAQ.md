@@ -1,9 +1,9 @@
 ---
 title: Obiezioni e risposte
 ref: faq
-permalink: /it/faq
-redirect_from: ["/risposte-e-obiezioni", "/obiezioni-e-risposte", "/risposte-obiezioni", "/obiezioni-risposte", "/domande", "/domande-frequenti", "/domande-e-risposte", "/domande-risposte"]
-description: "Come fanno gli intellettuali seri, ho inviato in anteprima questo sito a persone particolarmente informate su questi temi e di cui apprezzo molto l'opinione affinché condividessero con me le loro impressioni. In stile pseudo-filosofico, affronto alcune delle loro domande ed obiezioni qui di seguito."
+permalink: /it/faq/
+redirect_from: [/risposte-e-obiezioni/,/obiezioni-e-risposte/,/risposte-obiezioni/,/obiezioni-risposte/,/domande/,/domande-frequenti/,/domande-e-risposte/,/domande-risposte/]
+description: Come fanno gli intellettuali seri, ho inviato in anteprima questo sito a persone particolarmente informate su questi temi e di cui apprezzo molto l'opinione affinché condividessero con me le loro impressioni. In stile pseudo-filosofico, affronto alcune delle loro domande ed obiezioni qui di seguito.
 lang: it
 ---
 ## Coerenza

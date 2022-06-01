@@ -1,8 +1,8 @@
 ---
 title: What are Social Media?
-permalink: /what
+permalink: /what/
 ref: what
-redirect_from: [/fr/what,/quoi,/what-social,/what-are-social-media]
+redirect_from: [/fr/what/,/quoi/,/what-social/,/what-are-social-media/]
 description: This website is about quitting Social Media, we got that. But <i>what</i> does a Social Medium actually is? Here, we are not speaking of <b><i>all</i></b> Social Media platforms, but only some of them.
 toc: false
 ---

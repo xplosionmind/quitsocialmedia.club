@@ -1,7 +1,7 @@
 ---
 title: Links
-permalink: /links
-redirect_from: [/liens,/bibliography,/resources]
+permalink: /links/
+redirect_from: [/liens/,/bibliography/,/resources/]
 description: Links to related topics
 ref: links
 ---

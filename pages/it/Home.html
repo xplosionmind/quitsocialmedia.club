@@ -3,15 +3,15 @@ title: Home
 lang: it
 ref: home
 layout: wrapper
-permalink: /it/home
-redirect_from: [/home-it,/it-home,/home/it,/tuffo]
-description: 'Tutte le ragioni per cui i <em>Social Media</em>, per come li conosciamo ora, sono pericolosi e tutte le possibili soluzioni per rendere più sana ed autentica la propria vita sociale sul web'
+permalink: /it/home/
+redirect_from: [/home-it/,/it-home/,/home/it/,/tuffo/]
+description: Tutte le ragioni per cui i <em>Social Media</em>, per come li conosciamo ora, sono pericolosi e tutte le possibili soluzioni per rendere più sana ed autentica la propria vita sociale sul web
 ---
 <div class='one column'>
 	<div class='row'>
 		<div class='page-header'>
 			<h1>Quit Social Media</h1>
-			<p>{{ page.description }}.</p>
+			<p>{{ description }}.</p>
 		</div>
 	</div>
 
@@ -31,27 +31,9 @@ description: 'Tutte le ragioni per cui i <em>Social Media</em>, per come li cono
 		</p>
 	</div>
 
-	{% for post in site.posts %}
-		{% if forloop.first %}
-			<div class='row'>
-				<a href='/blog'><h2 class='title'>Novità</h2></a>
-				<ul>
-					<li>{{ post.date | date_to_long_string }} - <a href='{{ post.url }}' title='{{ post.title }}'></a></li>
-		{% elsif forloop.last %}
-					<li>{{ post.date | date_to_long_string }} - <a href='{{ post.url }}' title='{{ post.title }}'></a></li>
-				</ul>
-			</div>
-		{% else %}
-					<li>{{ post.date | date_to_long_string }} - <a href='{{ post.url }}' title='{{ post.title }}'></a></li>
-		{% endif %}
-	{% else %}
-	{% endfor %}
-
-	<br />
-
 	<div class='row'>
 		<h2 class='title'>Contatti</h2>
-		<p class='center'>Se hai domande o suggerimenti, non esitare a <a href='mailto:{{ site.email | encode_email }}' target='_blank' rel='noopener noreferrer' title='Send me an email'>scrivermi</a> (<a href='https://keys.openpgp.org/vks/v1/by-fingerprint/D435660C86733BA1C4C22F4D922BA2D96336049E' title='PGP Key hello@quitsocialmedia.club'>PGP key</a>).</p>
+		<p class='center'>Se hai domande o suggerimenti, non esitare a <a href='mailto:{{ site.email | encode_email }}' target='_blank' title='Send me an email'>scrivermi</a> (<a href='https://keys.openpgp.org/vks/v1/by-fingerprint/D435660C86733BA1C4C22F4D922BA2D96336049E' title='PGP Key hello@quitsocialmedia.club'>PGP key</a>).</p>
 	</div>
 
 	<br />

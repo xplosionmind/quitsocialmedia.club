@@ -2,8 +2,8 @@
 title: Accueil
 ref: home
 lang: fr
-permalink: /accueil
-redirect_from: [/fr/home,/homefr,/home-fr,/home/fr]
+permalink: /accueil/
+redirect_from: [/fr/home/,/homefr/,/home-fr/,/home/fr/]
 layout: wrapper
 description: Toutes les raisons qui rendent les réseaux sociaux problématiques et des solutions possibles pour vivre sans
 toc: false
@@ -12,7 +12,7 @@ toc: false
 	<div class='row'>
 		<div class='page-header'>
 			<h1>Quit Social Media</h1>
-			<p>{{ page.description }}.</p>
+			<p>{{ description }}.</p>
 		</div>
 	</div>
 
@@ -31,24 +31,6 @@ toc: false
 			Si investir un peu plus de temps vous est possible, et je vous assure que cela vaut le coup, je vous suggère de suivre ce <a href='/chemin' title='Chemin'>chemin</a>
 		</p>
 	</div>
-
-	{% for post in site.posts %}
-		{% if forloop.first %}
-			<div class='row'>
-				<a href='/blog'><h2 class='title'>Mises à jour</h2></a>
-				<ul>
-					<li>{{ post.date | date_to_long_string }} - <a href='{{ post.url }}' title='{{ post.title }}'></a></li>
-		{% elsif forloop.last %}
-					<li>{{ post.date | date_to_long_string }} - <a href='{{ post.url }}' title='{{ post.title }}'></a></li>
-				</ul>
-			</div>
-		{% else %}
-					<li>{{ post.date | date_to_long_string }} - <a href="{{ post.url }}" title="{{ post.title }}"></a></li>
-		{% endif %}
-	{% else %}
-	{% endfor %}
-
-	<br />
 
 	<div class='row'>
 		<h2 class='title'>Contactez nous!</h2>

@@ -1,5 +1,7 @@
----
----
+@use 'parts/nav';
+@use 'parts/inter';
+@use 'parts/ubuntu-mono';
+
 $tiny: .2rem;
 $small: .5rem;
 $regular-less: .9rem;
@@ -16,12 +18,6 @@ $radius-m: .6rem;
 $radius-l: 1rem;
 $trans: .5s;
 $quicktrans: .2s;
-
-/*@import '../_sass/search';*/
-@import '../_sass/highlight';
-@import '../_sass/nav';
-@import '../_sass/inter';
-@import '../_sass/ubuntu-mono';
 
 :root {
 	--black-ish: #222;

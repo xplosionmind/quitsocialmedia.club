@@ -1,7 +1,7 @@
 ---
 title: Path
-permalink: /path
-redirect_from: ['/pathway', '/levels']
+permalink: /path/
+redirect_from: [/pathway/,/levels/]
 ref: path
 description: Too much information got you disoriented? This is the path to follow to free yourself from Social Media dependence.
 toc: false

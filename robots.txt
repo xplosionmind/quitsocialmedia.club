@@ -1,0 +1,4 @@
+Sitemap: https://quitsocialmedia.club/sitemap.xml
+
+User-agent: *
+Disallow:

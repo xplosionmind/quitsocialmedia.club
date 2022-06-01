@@ -1,15 +1,10 @@
----
----
 /* TEAM */
 Author: Tommi
 Contact: tommi@quitsocialmedia.club
-Mastodon: @xplosionmind@mastodon.online
+Mastodon: @tommi@stream.tommi.space
 Location: Italy
 
-
-
 /* SITE */
-Last update: {{ site.last_modified_at }}
 Standards: HTML5, CSS3, pure JavaScript (the latter used in very few cases)
 Components: none
-Software: Jekyll
+Software: Eleventy

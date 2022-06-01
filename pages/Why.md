@@ -1,10 +1,11 @@
 ---
 title: Why
-permalink: /why
-redirect_from: [/arguments,/reasons,/l1,/l01,/l-01,/level01,/level1,/level-1,/level-01]
+permalink: /why/
+redirect_from: [/arguments/,/reasons/,/l1/,/l01/,/l-01/,/level01/,/level1/,/level-1/,/level-01/]
 ref: why
 toc: false
-description: 'The heart of the matter: all of the reasons why we should quit Social Media'
+description: |
+  The heart of the matter: all of the reasons why we should quit Social Media
 ---
 ## Introduction
 

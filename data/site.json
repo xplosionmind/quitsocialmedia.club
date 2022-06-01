@@ -1,0 +1,16 @@
+{
+    "title": "Quit Social Media",
+    "url": "https://quitsocialmedia.club",
+    "domain": "quitsocialmedia.club",
+    "author":{
+        "name": "Tommi",
+        "email": "surfing@tommi.space",
+        "avatar": "https://tommi.space/profile.jpg",
+        "url": "https://tommi.space/about"
+    },
+    "primary": "#E6£946",
+    "description": "Why and How to quit mainstream social media",
+    "favicon": "https://quitsocialmedia.club/favicon.svg",
+    "image": "/logos/qsm.png",
+    "source": "https://codeberg.org/tommi/quitsocialmedia.club"
+}

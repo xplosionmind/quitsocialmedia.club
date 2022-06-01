@@ -1,8 +1,8 @@
 ---
 title: Pourquoi
 lang: fr
-permalink: /pourquoi
-redirect_from: [/fr/why,/n1,/n01,/n-01,/niveau01,/niveau1,/niveau-1,/niveau-01]
+permalink: /pourquoi/
+redirect_from: [/fr/why/,/n1,/n01/,/n-01/,/niveau01/,/niveau1/,/niveau-1/,/niveau-01/]
 ref: why
 toc: false
 description: 'Le cœur du problème: toutes les raisons de quitter les réseaux sociaux'

@@ -1,9 +1,13 @@
 ---
 title: Localization
-permalink: /l10n
-redirect_from: [/it/l10n,/localization,/translate,/translation,/fr/l10n]
+permalink: /l10n/
+redirect_from: [/it/l10n/,/localization/,/translate/,/translation/,/fr/l10n/]
 description: Localization and translation guidelines
 toc: false
+tags:
+  - wip
+todo:
+  - Update according to how Eleventy works
 ---
 Localizing a content means translating it in another language to make it available to a broader public. If you would like to do it, first of all thank you very much; secondly, there are a few things you need to know.
 

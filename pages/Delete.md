@@ -1,8 +1,8 @@
 ---
 title: Delete your Social Media accounts
 description: You are now certain it is time to delete your accounts. What does it imply? How do you do it?
-permalink: /delete
-redirect_from: [/quitter,/quittez,/supprimer,/supprimez,/quit,/delete-accounts,/delete-your-accounts,/l5,/l05,/l-05,/l-5,/level05,/level-5,/level-05,/level5]
+permalink: /delete/
+redirect_from: [/quitter/,/quittez/,/supprimer/,/supprimez/,/quit/,/delete-accounts/,/delete-your-accounts/,/l5/,/l05/,/l-05/,/l-5/,/level05/,/level-5/,/level-05/,/level5/]
 ref: del
 toc: false
 ---
