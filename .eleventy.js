@@ -68,7 +68,7 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('js');
 
 	// Plugins //
-	eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-directory-output'));
+/*	eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-directory-output'));
 	eleventyConfig.addPlugin(require('eleventy-plugin-find'));
 	eleventyConfig.addPlugin(require('@quasibit/eleventy-plugin-schema'));
 	eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-syntaxhighlight'));
@@ -112,7 +112,7 @@ module.exports = function(eleventyConfig) {
 		sitemap: {
 			hostname: 'https://quitsocialmedia.club'
 		},
-	});
+	});*/
 
 	// Filters //
 	eleventyConfig.addFilter('reverse', (collection) => {
@@ -123,10 +123,10 @@ module.exports = function(eleventyConfig) {
 		return md.renderInline(str);
 	});
 	// RSS Filters //
-	eleventyConfig.addFilter('dateToRfc3339', pluginRss.dateToRfc3339);
+	/*eleventyConfig.addFilter('dateToRfc3339', pluginRss.dateToRfc3339);
 	eleventyConfig.addFilter('getNewestCollectionItemDate', pluginRss.getNewestCollectionItemDate);
 	eleventyConfig.addFilter('absoluteUrl', pluginRss.absoluteUrl);
-	eleventyConfig.addFilter('convertHtmlToAbsoluteUrls', pluginRss.convertHtmlToAbsoluteUrls);
+	eleventyConfig.addFilter('convertHtmlToAbsoluteUrls', pluginRss.convertHtmlToAbsoluteUrls);*/
 
 	 // Minify output //
 	/*eleventyConfig.addTransform('miniHtml', function(content, outputPath) {
