@@ -10,9 +10,6 @@ toc: false
 
 Please <a href='mailto:{{ site.author.email }}' title='Write Tommi an email'>contact Tommi via email</a> for any question not answered in the [About page](/about 'About quitsocialmedia.club').
 
-<br>
-<br>
-
 ## Mentions
 
 A list of links to publications where quitsocialmedia appears:

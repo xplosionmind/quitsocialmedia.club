@@ -13,8 +13,6 @@ Nevertheless, you can try to address your boss and explain them the matter, or e
 
 Please do not drop this just because you work with Social Media! You can be part of the beginning of a revolution, where even Social Media Managers and employees of the Social Media industry start a new and more ethical way of living, promoting healthier Social Media platforms from the inside.
 
-<br>
-
 ## …I will be alone and isolated from the rest of the world
 
 This is probably the objection I answer to the most. If I said this is not true, I would most definitely be lying. Often times (but less and less every day) I get a strong impulse of looking at my friends’ stories on Instagram, or when a friend hands me their phone to look at a meme, I find myself scrolling without control their feed, since I kind of missed it.

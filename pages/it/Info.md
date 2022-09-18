@@ -13,13 +13,9 @@ Mi sono reso conto, tuttavia, che semplicemente <u>eliminare i miei account senz
 
 Tentando di rispondere a queste domande, ho deciso di creare <cite>quitsocialmedia.club</cite>
 
-<br>
-
 ## Perché
 
 Mi sono accorto che ogni articolo, video o documento che critica i *Social Media* menziona sempre <u>solamente una parte dei problemi conseguenti alla loro esistenza ed al loro utilizzo</u>. Per quanto sia difficile abbracciare completamente ogni aspetto della questione, ritengo sia importante mostrare una visione globale del problema, lasciando che siano i singoli a prendere le proprie decisioni. <u><a href='/it/why' target='_blank' title='Perché'>I motivi</a> per abbandonare i <i>social</i> sono molti</u>, credo non possano né debbano essere ignorati. <cite>quitsocialmedia.club</cite> intende raccogliere diversi punti di vista in forme differenti e mostrare come uscire dai *Social Media* sia la soluzione migliore.
-
-<br>
 
 ## Fine
 
@@ -32,8 +28,6 @@ Questo sito web ha tre principali scopi:
 Conosco e seguo con passione innumerevoli fantastiche *communities* che promuovono la libertà e l'apertura di internet e l'indipendenza dalle colossali, ricchissime e chiuse aziende che ci forniscono [la maggioranza](/it/what 'Cos’è un Social Media') dei servizi di *social networking*. Nonostante questo, sento ci sia un elemento fondamentale che non viene sufficientemente sottolineato: **<u>le decisioni e le azioni di ognuno di noi sono la chiave per il cambiamento globale</u>**. Non dovremmo aspettare che vengano promosse regolamentazioni e leggi; allo stesso modo, non possiamo credere che un giorno qualcuno arriverà e renderà tutto migliore.
 
 **!!** Non intendo assolutamente costringervi ad abbandonare dai *Social Media* ed eliminare i vostri account, né convincervi che sia la migliore cosa da fare, anche se ne sono assolutamente certo. Vorrei che chiunque arrivi qui <u>analizzasse attentamente i contenuti del sito</u> e tutto il materiale riportato, per decidere autonomamente cosa fare.
-
-<br>
 
 ## Manca qualcosa?
 

@@ -8,9 +8,6 @@ ref: people
 ---
 Questo sito [è stato creato](/info 'Informazioni su quitsocialmedia.club') da [Tommi](https://tommi.space 'Tommi's personal website').
 
-<br>
-<br>
-
 ## Localizzazione
 
 Tutti coloro che hanno [localizzato](/l10n 'Localization') i contenuti di questo sito:
@@ -29,9 +26,6 @@ Tutti coloro che hanno [localizzato](/l10n 'Localization') i contenuti di questo
 	{% endfor %}
 </ul>
 
-<br>
-<br>
-
 ## Suggerimenti e miglioramenti
 
 Le persone che hanno contribuito a migliorare i contenuti e la forma in cui sono stati esposti.
@@ -49,9 +43,6 @@ Le persone che hanno contribuito a migliorare i contenuti e la forma in cui sono
 		{% endif %}
 	{% endfor %}
 </ul>
-
-<br>
-<br>
 
 ## Illustrazioni
 

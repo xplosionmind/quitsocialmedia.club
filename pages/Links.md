@@ -17,26 +17,17 @@ ref: links
 - [quit.social](https://quit.social), a website to train yourself not to visit social media. Currently [working on merging it with this website](https://github.com/imjasonh/quit.social/issues/4 '“Merging quit.social with quitsocialmedia.club” issue on GitHub').
 - [Privacy vs “I have nothing to hide”](https://kevq.uk/privacy-vs-i-have-nothing-to-hide/ 'Privacy vs “I have nothing to hide”'), an article by [Kev Quirk](https://kevq.uk/ 'Kev’s website')
 
-<br>
-
 ### Documentaries
 
 - [<cite>The Great Hack</cite>](https://en.wikipedia.org/wiki/The_Great_Hack '“The Great Hack” on Wikipedia'), a <mark class='red'>documentary</mark> on the Cambridge Analytica scandal, and much more.
 - [<cite>The Social Dilemma</cite>](https://www.thesocialdilemma.com 'The Social Dilemma website'), a <mark class='red'>documentary</mark> on the risks and threats of Social Media
-
-<br>
 
 ### Books
 
 - [<cite>Ten Arguments for Deleting Your Social Media Accounts Right Now</cite>](https://jaronlanier.com/tenarguments.html 'Ten Arguments on Jaron Lanier’s official website'), a <mark class='purple'>book</mark> by the legendary [Jaron Lanier](https://jaronlanier.com 'Jaron Lanier')
 - [<cite>The Age of Surveillance Capitalism</cite>](https://shoshanazuboff.com/book/about/ 'The Age of Surveillance Capitalism'), a <mark class='purple'>book</mark> by [Shoshana Zuboff](https://shoshanazuboff.com 'Shoshana Zuboff')
 
-<br>
-
 Go back to the [homepage](/home 'Home')
-
-<br>
-<br>
 
 ## Solutions and alternatives
 
@@ -65,20 +56,12 @@ Go back to the [homepage](/home 'Home')
 - [Okuna](https://about.okuna.io 'Okuna'), <q>an ethical social network for a brighter tomorrow</q>.
 - [How did your life change after quitting social media?](https://www.quora.com/How-did-your-life-change-after-leaving-social-media 'How did your life change after quitting social media?') question on Quora
 
-<br>
-<br>
-
 ## What
 
 - [Social Media statistics](https://chrissniderdesign.com/blog/resources/social-media-statistics/ 'Social Media statistics'): active users, revenue, data about the main Social Media platforms
 - [Facebook ads library](https://www.facebook.com/ads/library/ 'Facebook ads Library'), look for ads and advertisers
 
-<br>
-<br>
-
 ## Anger
-
-<br>
 
 ## Hate
 
@@ -93,8 +76,6 @@ Go back to [Why > Hate](/why#hate 'Hate')
 - [Why the right wing has a massive advantage on Facebook](https://www.politico.com/news/2020/09/26/facebook-conservatives-2020-421146 'Why the right wing has a massive advantage on Facebook') on Politico
 - [A Decade After the Arab Spring, Platforms Have Turned Their Backs on Critical Voices in the Middle East and North Africa](https://www.eff.org/deeplinks/2020/12/decade-after-arab-spring-platforms-have-turned-their-backs-critical-voices-middle 'A Decade After the Arab Spring, Platforms Have Turned Their Backs on Critical Voices in the Middle East and North Africa')
 
-<br>
-
 ## Polarization
 
 - [How Facebook profits from polarization](https://ted.com/talks/yael_eisenstat_how_facebook_profits_from_polarization 'How Facebook profits from polarization'), a <mark class='red'>TED Talk</mark> by [Yael Eisenstat](https://en.wikipedia.org/wiki/Yael_Eisenstat 'Yael Eisenstat on Wikipedia')
@@ -102,9 +83,6 @@ Go back to [Why > Hate](/why#hate 'Hate')
 - [Exposure to opposing views on social media canincrease political polarization](https://www.pnas.org/content/pnas/115/37/9216.full.pdf 'Exposure to opposing views on social media canincrease political polarization'), a paper by Christopher A. Baila,b,c,1, Brian Guaya,d,2, Emily Maloneya,b,2, Aidan Combsa,b, D. Sunshine Hillygusa,c,d,Friedolin Merhouta,e, Deen Freelonf, and Alexander Volfovskya
 
 Go back to [Why > Polarization](/why#polarization 'Polarization')
-
-
-<br>
 
 ## Misinformation
 
@@ -115,8 +93,6 @@ Go back to [Why > Misinformation](/why#misinformation 'DMisinformation')
 - [Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies](https://thereboot.com/control-stifle-censor-social-media-toxic-double-edged-policies/ 'Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies') by Jillian C. York on [The Reboot]
 - [Mark Zuckerberg Is an Arbiter of Truth—Whether He Likes It or Not](https://www.wired.com/story/mark-zuckerberg-is-an-arbiter-of-truth-whether-he-likes-it-or-not/ 'Mark Zuckerberg Is an Arbiter of Truth—Whether He Likes It or Not'), by Steven Levy on [WIRED]
 
-<br>
-
 {% comment %}
 ## Bubble
 
@@ -124,15 +100,11 @@ Go back to [Why > Misinformation](/why#misinformation 'DMisinformation')
 
 Go back to [Why > Bubble](/why#bubble 'Bubble')
 
-<br>
-
 {% endcomment %}
 
 ## Quality
 
 Go back to [Why > Quality](/why#quality 'Quality')
-
-<br>
 
 ## Addiction
 
@@ -141,19 +113,14 @@ Go back to [Why > Quality](/why#quality 'Quality')
 Go back to [Why > Addiction](/why#addiction 'Addiction')
 {% comment %}
 
-<br>
-
 ## Distraction
 
 Go back to [Why > Distraction](/why#distraction 'Distraction')
-
-<br>
 
 ## Data
 
 Go back to [Why > Data](/why#data 'Data')
 
-<br>
 {% endcomment %}
 
 ## Profilation
@@ -167,8 +134,6 @@ Go back to [Why > Profilation](/why#profilation 'Profilation')
 - [How Surveillance Advertising Seized Our Data and Hijacked the Web](https://thereboot.com/how-surveillance-advertising-seized-our-data-and-hijacked-the-web/ 'How Surveillance Advertising Seized Our Data and Hijacked the Web') by Matthew Crain on [The Reboot]
 - [How Social Media tracking works](https://twitter.com/RobertGReeve/status/1397032784703655938), a Twitter thread by [Robert G. Reeve](https://twitter.com/RobertGReeve 'Robert G. Reeve Twitter profile')
 
-<br>
-
 ## Monopolization
 
 Go back to [Why > Monopolization](/why#monopolization 'Monopolization')
@@ -179,15 +144,11 @@ Go back to [Why > Monopolization](/why#monopolization 'Monopolization')
 - [U.S. and States Say Facebook Illegally Crushed Competition](https://www.nytimes.com/2020/12/09/technology/facebook-antitrust-monopoly.html?smid=url-share 'U.S. and States Say Facebook Illegally Crushed Competition - New York Times') by Cecilia Kang and Mike Isaac on [The New York Times](https://nytimes.com 'New York Times')
 {% comment %}
 
-<br>
-
 ## Sociality
 
 Go back to [Why > Sociality](/why#sociality 'Sociality')
 
 {% endcomment %}
-<br>
-
 ## Standardization
 
 Go back to [Why > Standardization](/why#standardization 'Standardization')
@@ -195,50 +156,34 @@ Go back to [Why > Standardization](/why#standardization 'Standardization')
 - [The internet didn’t kill counterculture—you just won’t find it on Instagram](https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/ 'The internet didn’t kill counterculture—you just won’t find it on Instagram')
 {% comment %}
 
-<br>
-
 ## Content ownership
 
 Go back to [Why > Content ownership](/why#content-ownership 'Content Ownership')
-
-<br>
 
 ## Hurry
 
 Go back to [Why > Hurry](/why#hurry 'Hurry')
 
-<br>
-
 ## Simplicity vs simplification
 
 Go back to [Why > Simplicity vs Simplification](/why#simplicity-vs-simplification 'Simplicity vs Simplification')
-
-<br>
 
 ## Being always connected
 
 Go back to [Why > Being always connected](/why#being-always-connected 'Being Always Connected')
 
-<br>
-
 ## Environment
 
 Go back to [Why > Environment](/why#environment 'Environment')
-
-<br>
 
 ## Closed
 
 Go back to [Why > Closed](/why#closed 'Closed')
 
-<br>
-
 ## Saturation
 
 Go back to [Why > Saturation](/why#saturation 'Saturation')
 {% endcomment %}
-
-<br>
 
 ## Being used
 

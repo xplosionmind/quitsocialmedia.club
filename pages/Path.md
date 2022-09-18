@@ -13,8 +13,6 @@ Before you get there, *if* you do, there's an awareness path to follow.
 	Since you can take action at different levels, actions which get you closer to <a href='https://tommi.space/internet-freedom' target='_blank' title='“Internet Freedom” in Tommi’s notes'>Internet Freedom</a> are gameified and displayed as levels, from <a href='/l00'>Level 0</a> to <a href='/l1000'>Level 1000</a>.
 </div>
 
-<br>
-
 - **Level 0**: Find out more [about](/about 'About quitsocialmedia.club') this website and [its purpose](/about#purpose 'Purpose - quitsocialmedia.club')
 - **Level 1**: understand [why](/why 'Why') you should quit Social Media
 - **Level 2**: go through [more resources](/links 'Links') and deepen your knowledge, also by [watching videos](/watch 'Watch') and [listening to podcasts](/listen 'Listen').

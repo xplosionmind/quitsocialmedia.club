@@ -8,9 +8,6 @@ ref: people
 ---
 This website [was created](/about 'About quitsocialmedia.club') by [Tommi](https://tommi.space 'Tommi's personal website').
 
-<br>
-<br>
-
 ## Localization
 
 Everyone who [localized](/l10n 'Localization') this website’s content:
@@ -29,9 +26,6 @@ Everyone who [localized](/l10n 'Localization') this website’s content:
 	{% endfor %}
 </ul>
 
-<br>
-<br>
-
 ## Reviews and consulting
 
 Anyone who was consulted and contacted with questions regarding the website.
@@ -49,9 +43,6 @@ Anyone who was consulted and contacted with questions regarding the website.
 		{% endif %}
 	{% endfor %}
 </ul>
-
-<br>
-<br>
 
 ## Illustrations
 

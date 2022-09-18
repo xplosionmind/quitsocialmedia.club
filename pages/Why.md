@@ -13,18 +13,11 @@ Up to now, I could not find a place on the web where **all** of the reasons why 
 Among the arguments presented below, you might not believe in one or two or them, and even a handful of them may not be sufficient to make you realize the gravity of the problem. Nevertheless, after going through all of the following points, it’s hard to negate that you cannot continue to go on using Social Media as they were no problem.\
 <u>The most effective “something„ we can do</u>, as individuals, without waiting for government actions, lawsuits and reports, <u>is quitting</u>.
 
-<br>
-
 <iframe style='border: 0; width: 100%; height: 42px;' src='https://bandcamp.com/EmbeddedPlayer/album=1782365368/size=small/bgcol=f1faee/linkcol=e63946/track=3748954062/transparent=true/' seamless><a href='https://evangreer.bandcamp.com/album/spotify-is-surveillance'>Spotify is Surveillance by Evan Greer</a></iframe>
-
-<br>
-<br>
 
 ## Anger
 
 <u>It is scientifically proven</u>[^1] <u>that negative emotions engage users way more than positive emotions</u>. Algorithms which compose our feeds are tailored to maximize engagement and interaction, they do not actually care about how users feel. Our emotions are governed by a machine: some gets angry for something you see, she reacts to it, and she will start seeing more of it. <u>The more anger, the more engagement</u>, the better it is.
-
-<br>
 
 ### Further information
 
@@ -32,15 +25,10 @@ Among the arguments presented below, you might not believe in one or two or them
 - [Facebook Will Permanently Stop Promoting Political Groups](https://www.forbes.com/sites/rachelsandler/2021/01/27/facebook-will-permanently-stop-promoting-political-groups/ 'Facebook Will Permanently Stop Promoting Political Groups'), an article by [Rachel Sandler](https://www.forbes.com/sites/rachelsandler/ 'Rachel Sandler’s articles') on [Forbes](https://forbes.com 'Forbes'), which underscores the point that in the end Facebook suggestions are more harmful than useful to the users
 - [more](/links#anger 'More resources about anger and Social Media')
 
-<br>
-<br>
-
 ## Hate
 
 [Hate](#hate 'Hate') is strictly connected with [anger](#anger 'Anger'): when you get angry, you do something about it. This is exactly what Social Media platforms wait for. It doesn’t matter how much the debate is fired up. As long as you're interacting a lot, everything is good. The problem is users get more hateful: they cannot discuss anymore with who has a different idea without judging them.   
 Social Media allow us to report content which contains hate or insults, but the one thing which cannot be reported is a **feeling**. Social Media owners can attempt to moderate their posts, but they do not always do it, and, most importantly, they practically are unable to: there are too many publications, and it is virtually impossible to check all of them!
-
-<br>
 
 ### Further information
 
@@ -49,17 +37,10 @@ Social Media allow us to report content which contains hate or insults, but the 
 - [Bodies in seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa 'Bodies in seats'), by [Casey Newton](https://www.theverge.com/authors/casey-newton 'Casey Newton author page on The Verge') on [The Verge](https://www.theverge.com 'The Verge')
 - [more](/links#hate 'More resources related to hate and Social Media')
 
-
-
-<br>
-<br>
-
 ## Polarization
 
 It goes without saying that hateful speech and anger lead to a strong polarization in society.\
 “Polarization” is a word we are hearing a lot in these days, but the surprising fact is that it is not linked to one bad side only; division and extremism are fostered by people with different ideas who are unable listen to each other. Social Media platforms do not do much to allow a more peaceful way of sharing ideas and a greater openness to different positions.
-
-<br>
 
 ### Further information
 
@@ -68,14 +49,9 @@ It goes without saying that hateful speech and anger lead to a strong polarizati
 - [The Polarization Lab](https://www.polarizationlab.com/ 'The Polarization Lab')
 - [more](/links#polarization 'More resources on Polarization and Social Media')
 
-<br>
-<br>
-
 ## Misinformation
 
 This is one of the key points of 2020, and of the last months in general: Social Media platforms make it very hard to understand what’s true and what’s not. Of course, it’s not only a problem which appears on Social Media platforms, but it got dangerous because of them. Donald Trump’s and highly influential people’s posts may be checked, but it is virtually impossible for platforms owners to keep up with what’s going on and be certain that no fake information is being shared. Around this key point, and whose responsibility is it if something goes wrong, is rotating the debate about [Section 230](https://en.wikipedia.org/wiki/Section_230 'Section 230 on Wikipedia'), which basically states that it’s not the platform’s owner or employees' responsibility if something against the law is published on a cretain platform. Everybody should be responsible for what he/she shares, and publishing content should be done regardless of Social Media.
-
-<br>
 
 ### Further information
 
@@ -84,14 +60,9 @@ This is one of the key points of 2020, and of the last months in general: Social
 - [Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies](https://thereboot.com/control-stifle-censor-social-media-toxic-double-edged-policies/ 'Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies') by Jillian C. York on [The Reboot](https://thereboot.com/ 'The Reboot')
 - [more](/links#misinformation 'More resources about misinformation and Social Media')
 
-<br>
-<br>
-
 ## Bubble
 
 Since algorithms which govern Social Media aim to keep users hooked to their platform the more they can, they attempt to show us content they know users will like. We’re not talking about advertisements alone, we’re talking about suggestions inside the platform. “You may also like”, “similar to this” … are just other ways of telling you “keep browsing more, stay here!”. The problem isn’t only being [hooked](#addiction 'Addiction'), but also ending up living in a bubble, where the vast majority of the content is likeable to you or in line with your ideas, while other things are a remote, unimportant matter. Think about a political election you voted to in the last few years: if you get informed about politics through social media, you probably believed that your side, whatever it was, was gonna win, even if it didn’t. This is the simplest example of living in a bubble: you perceive a distorted view of reality.
-
-<br>
 
 ### Further information
 
@@ -99,16 +70,10 @@ Since algorithms which govern Social Media aim to keep users hooked to their pla
 - [The Future of Privacy](https://philosophy247.org/podcasts/the-future-of-privacy/ 'Philosophy 24/7 The Future of Privacy'), a <mark class='blue'>podcast</mark> interview to [Carissa Véliz](https://carissaveliz.com 'Carissa Véliz'), specifically speaking about “the bubble” at minute `4:00`
 - [more](/links#bubble 'External links about “Bubble”')
 
-<br>
-<br>
-
 ## Quality
 
 In what proportion is your social media feed populated by meaningful, qualitative content as opposed to selfies of friends, pictures of models, memes and puppies? The great concern, in this case, is that the quality, profoundness, meaningfulness of the contents we enjoy everyday is getting terribly low. Because of social media [we get distracted](#distraction 'Distraction') too often by stuff which most of the time is irrelevant and not insightful. In general, we tend to have less to do with culture, knowledge, learning, while spending time on empty entertainment.\
 Note: I'm not criticizing low level entertainment and silly funny images or videos, I'm preoccupied by how much they're taking over more important and meaningful content.
-
-<br>
-<br>
 
 ## Addiction
 
@@ -120,37 +85,24 @@ Ok, anyone may reply to this argument “come on, it’s very few people! I'm no
 - [An Exploratory Study of Gambling Operators’ Use of Social Media and the Latent Messages Conveyed](https://link.springer.com/article/10.1007/s10899-015-9525-2 'An Exploratory Study of Gambling Operators’ Use of Social Media and the Latent Messages Conveyed')
 - [Sean Parker says Facebook was designed to be addictive](https://adage.com/article/digital/sean-parker-worries-facebook-rotting-children-s-brains/311238 '') by [Garret Sloane](https://adage.com/author/garett-sloane/7062 'Garret Sloane') on [Adage](https://adage.com 'Adage')
 
-<br>
-<br>
-
 ## Distraction
 
 Of course, distraction and [addiction](#addiction 'Addiction') go hand in hand: the more we need to check all of our apps for new likes or posts, the less we focus on things which actually matter to us. It’s mostly a matter of [time](#time 'Time'), but it’s also a matter of focus and commitment: Social Media make us endlessly jump from one content to another at great speed; at most, our eyes stay put on a picture for five seconds. It follows that in our everyday lives focusing on something for a long time requires an innatuaral amount of effort.\
 Again: it’s not that if someone isn’t focused it’s because of Social Media, but for sure spending time scrolling our feed does not help us being more focused.
 
-<br>
-<br>
-
 ## Data
 
 Whether we want this or not, even by passively using Social Media, so by browsing around, watching videos and pictures or reading posts, we give Social Media platforms owners a huge amount of data about us and about what we like, for free. Such data, even if it’s “deliberately” shared, are piled up day after day, month after month and year after year. The result is scary… what all of this information about us is used for? The answer is [user profilation](#profilation 'Profilation').
 
-<br>
-
 ### Further information
 
 - [How tech companies deceive you into giving up your data and privacy](https://www.ted.com/talks/finn_lutzow_holm_myrstad_how_tech_companies_deceive_you_into_giving_up_your_data_and_privacy 'How tech companies deceive you into giving up your data and privacy'), a <mark class='red'>TED Talk</mark> by [Finn Lützow-Holm Myrstad](https://www.ted.com/speakers/finn_myrstad 'Finn Lützow-Holm Myrstad')
-
-<br>
-<br>
 
 ## Profilation
 
 Probably this is one of the main reasons why people delete their social media accounts. The matter is very simple, too: our data is used to understand who we are. If the answer was limited to this, it could also be acceptable. In the end, if we want to use the internet, something about us is leaked some way or another. The problem is how our identity, our interests, our fears, our desires, our anger are managed and what they're used for.
 
 It’s not a secret: our identity is sold to advertisers to show (or better, flood our feed) with ads “of our interest”. This may be even good if it was used solely for marketing purposes, but, unfortunately, it’s not: we may be (and probably we are) targeted by political ads, which don’t aim to sell us something, but their purpose is to condition our behavior and distort our view of the world, further enforcing the [bubble](#bubble 'Bubble') we are uncounsciously trapped in.
-
-<br>
 
 ### Further information
 
@@ -159,16 +111,11 @@ It’s not a secret: our identity is sold to advertisers to show (or better, flo
 - [How Surveillance Advertising Seized Our Data and Hijacked the Web](https://thereboot.com/how-surveillance-advertising-seized-our-data-and-hijacked-the-web/ 'How Surveillance Advertising Seized Our Data and Hijacked the Web') by Matthew Crain on [The Reboot](https://thereboot.com/ 'The Reboot')
 - [more](/links#profilation)
 
-<br>
-<br>
-
 ## Monopolization
 
 Is there any way to become an influencer, to promore a product, to share a political point of view, to condemn an injustice, to display a piece of art or to communicate anything to the public which doesn’t involve Social Media? Regardless of Social Media being good or bad, the fact that being heard or noticed in this messy world is *only* through platforms owned by giant corporations which use our content to grow tremendously and endlessly, by earning an incredible amount of money is deeply unjust. Social Media corporations are monopolies which don’t allow any competition to mess with them, by either buying competitors, or by being so much bigger that if a tiny slice of the market is stolen it doesn’t change much.
 
 Facebook is now being sued in the US by the government and by several states, exactly with the accusation of unlawfully acquiring and avoiding competitors.
-
-<br>
 
 ### Further information
 
@@ -178,23 +125,15 @@ Facebook is now being sued in the US by the government and by several states, ex
 - [Facebook’s 'monopoly power' hurts user privacy, finds Congress](https://mashable.com/article/house-antitrust-report-facebook-privacy-misinformation/ '“Facebook’s 'monopoly power' hurts user privacy, finds Congress” on Mashable'), an article on [Mashable](https://mashable.com 'Mashable')
 - [more](/links#monopolization 'More resources related to the Monopolization and Social Media')
 
-<br>
-<br>
-
 ## Sociality
 
 In the end, so called “Social” Media are not really *social* anymore. If you think about it, they are more and more focused on everything except sociality. You are bombarded with ads, suggestions of new features, [low quality content](#quality 'Quality') every second, and you lose sight of the core principle of those platforms, which should be the one valued the most: **human relationships**.
 
 Why can’t we just spend time exchanging opinions with our friends and reading what other people has to say about a topic without getting distracted by the other hundred things designed by Social Media owners to make more money?
 
-<br>
-
 ### Further information
 
 - [Do virtual social networks destroy the social fabric?](https://medium.com/swlh/do-virtual-social-networks-destroy-the-social-fabric-b1e96de514db 'Do virtual social networks destroy the social fabric?') an article by Jürgen Derlath
-
-<br>
-<br>
 
 ## Time
 
@@ -202,25 +141,17 @@ Aren’t you scared about how much time you spend staring at a screen?
 
 Look at your devices' usage stats.
 
-<br>
-<br>
-
 ## Standardization
 
 What does creativity have to do with all of this? As seen in [monopolization](#monopolization 'Monopolization'), there is little if no alternative to have a public online presence if not by taking advantage of a social media profile. Unless you were previously known for some reason, it’s very unlikely for you to be considered by a broad audience without a social media profile. From these considerations stems that the vast majority of people online necessarily show their content and their public image on a page which has the same layout, the same rules, the same colors. You can be as creative as you wish in editing and posting, but you will always be constrained by the same standard.
 
 Social media are killing diversity: they are standardizing the way people present themselves, the way in which communicators can be listened, and, more importantly, the way in which pictures are displayed. The context loses all of its meaning. Personality and identity are masked behind the same layer and behind a profile which is the same for everybody.
 
-<br>
-<br>
-
 ## Content ownership
 
 Is what we publish on Social Media actually ours? The answer comes straight from the two major social media platform policies.
 
 **Spoiler** - The short answer is yes, but the actual one is no: we retain ownership rights on our content, but it means that almost nothing, since platforms can do whatever they want with it, and we can’t do anything about it: once we published something, **it’s not over our control anymore**. So: we own our content but we can’t control it. Is this actual ownership?
-
-<br>
 
 ### Facebook
 
@@ -238,8 +169,6 @@ From Twitter’s [Terms of Service](https://twitter.com/en/tos 'Twitter Terms of
 
 [Source](https://hyp.is/2H2wMhIsEeuntaMMPJ6iIw/twitter.com/en/tos 'Twitter Terms of Service')
 
-<br>
-
 ### Tik Tok
 
 From Tik Tok’s [Terms of use](https://www.tiktok.com/legal/terms-of-use 'Tik Tok Terms of Service')
@@ -256,15 +185,10 @@ Important passage:
 
 [Source](https://hyp.is/VnoxMBIuEeuuiUMgV1pp_Q/www.tiktok.com/legal/terms-of-use?lang=en 'Tik Tok Terms of Service')
 
-<br>
-
 ### Further informations
 
 - SocialMediaToday: [Who Owns Your Content Online?](https://www.socialmediatoday.com/content/who-owns-your-content-online)
 - TechJunkie: [Does Instagram Own the Pictures & Photos you Post?](https://social.techjunkie.com/instagram-own-photos-pictures/)
-
-<br>
-<br>
 
 ## Hurry
 
@@ -272,14 +196,9 @@ As noted in [distraction](#distraction 'Distraction'), we look at anything which
 
 Social Media make everything appear similar by flattening every post and putting it into the same, identical, container. In this way, we lose empathy, compassion and we can’t distinguish anymore what’s important and what’s worrying to what’s a joke.
 
-<br>
-
 ### Further reading
 
 - [Why PixelFed won’t save us from Instagram](https://victoria.dev/blog/why-pixelfed-wont-save-us-from-instagram/ 'Why PixelFed won’t save us from Instagram'), an article by [Victoria Drake](https://victoria.dev/ 'Victoria Drake')
-
-<br>
-<br>
 
 ## Simplicity vs simplification
 
@@ -287,17 +206,11 @@ On Social Media, everything is gamified, and everything looks so simple. Truth i
 
 Simplification is bad, simplicity is good, but it can’t be everywhere. Let’s quit social media to look at the other side of the coin and embrace the complexity of our reality.
 
-<br>
-<br>
-
 ## Being always connected
 
 The paragraph title says it all. Do we really need to be this connected? Do we really need to look at the hundreds of media published and shared by the ones we follow, everyday?
 
 I believe the answer is no, and I'm not the only one.
-
-<br>
-<br>
 
 ## Environment
 
@@ -307,24 +220,16 @@ Facebook stated that by the end of 2030 it will commit 100% to renewable energy;
 
 A personal note: not dumb people acknowledge that the greatest and most worrying issue for us in this time in history (setting asite the pandemic for one moment) is the global warming emergency; it is strongly affecting our lives and it’s very likely to devastate them unless we do something in the near future. Even if it may not seem justified, my concern about Social Media is somewhat greater: if global warming can be observed, objectively measured and monitored, the decline of internet freedom is something subtle, happening in the shadows and with a growing but still very little attention, if compared to the dimensions of the problem. We should quit social media to make the world better.
 
-<br>
-<br>
-
 ## Closed
 
 Let’s imagine I am an influencer and I want to move to another social networking platform (it may be Mastodon, Pixelfed, Friendica, Diaspora…), which is very little known and much less used, if compared to Social Media giants everybody knows. How can I do it? Outside of my social media profiles, unless I have a great fanbase, I'd have no followers, no audience, no tool outside of the great Social Media platforms I used up to now. The only way I can continue to do my job is by building a new fanbase from scratch.
 
 This is a little mind experiment (and probably even not the most effective one) to give you an idea of how closed Social Media are. These platforms don’t interact among each other, instead, they compete. If all of a sudden for some reason Twitter shuts down, there is no way to go on using Twitter anymore. Social Media as we know them are limited to and by the ones who own them, and it is as a world without them does not exist. We can prove the contrary.
 
-<br>
-
 ### Further Reading
 
 - [Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems](https://thereboot.com/data-liberation-a-step-toward-fixing-big-techs-competition-problems/ 'Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems') by Gabriel Nicholas on [The Reboot](https://thereboot.com 'The Reboot')
 - [Breaking Tech Open: Why Social Platforms Should Work More Like Email](https://thereboot.com/breaking-tech-open-why-social-platforms-should-work-more-like-email/ 'Breaking Tech Open: Why Social Platforms Should Work More Like Email'), by Karissa McKelvey on [The Reboot](https://thereboot.com 'The Reboot')
-
-<br>
-<br>
 
 ## Saturation
 
@@ -333,9 +238,6 @@ Social Media business plan is to provide a “free” “service” to their use
 Social Media current business plan is becoming less rewarding everyday. There is a worrying saturation of ads and media which makes the single adversisement worth a fraction of what it was worth several months ago. Social Media need to change, sooner or later. They are bound to shut down unless they find other ways to make profit. They are getting close to the edge and an evolution is required to them to continue to surf the wave of dominance over the world.
 
 In the meanwhile, we can get out of this mess, so that it can’t concern us. Once we deleted Social Media accounts, we become independent and free, and how much an ad is worth or how many of them are clummed into a feed is not of our interest anymore.
-
-<br>
-<br>
 
 ## Being used
 
@@ -349,15 +251,9 @@ In our hand we have the power to say no, to stop the trend, to give back diversi
 
 It’s not easy, and it’s quite painful at the beginning, but you can do it, we can do it, if we’re not alone.
 
-<br>
-
 ### Further information
 
 - [<cite>Who does that server really serve?</cite>](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html 'Who does that server really serve?'), by [Richard Stallman](https://richardstallman.org 'Richard Stallman’s personal website') on [GNU.org](https://gnu.org 'GNU official website')
-
-<br>
-<br>
-<br>
 
 ## What to do now?
 

@@ -12,9 +12,6 @@ Before deleting any account, it would not be a bad idea to back up all of your d
 
 - [JustGetMyData](https://justgetmydata.com 'JustGetMyData'), a directory of direct links for you to obtain your data from web services.
 
-<br>
-<br>
-
 ## Delete
 
 - [JustDeleteMe](https://justdeleteme.xyz 'JustDeleteMe'), a directory of direct links to delete your account from web services.

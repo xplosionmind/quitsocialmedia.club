@@ -13,8 +13,6 @@ Avant cela, et *si* vous en arrivez là, existe un cheminement de réflexion.
 	Puisque vous pouvez agir à différents niveaux, les actions menant à votre <a href='https://tommi.space/internet-freedom' target='_blank' title='“Internet Freedom„ dans Tommi’s notes'>Liberté numérique</a> sont «gamifiées» et divisées en plusieurs catégories, du <a href='/n00'>Niveau 0</a> au <a href='/n1000'>Niveau 1000</a>.
 </div>
 
-<br>
-
 - **Niveau 0**: Documentez vous [à propos](/àPropos 'À propos de quitsocialmedia.club') de ce site et [son objectif](/àPropos#objectif 'Objectif – quitsocialmedia.club')
 - **Niveau 1**: Comprenez [pourquoi](/pourquoi 'Pourquoi') vous devriez quitter les réseaux sociaux
 - **Niveau 2**: Approfondissez vos connaissances au travers de [resources](/liens 'Liens'), de [vidéos](/regarder 'Regarder') et de [podcasts](/écouter 'Écouter')

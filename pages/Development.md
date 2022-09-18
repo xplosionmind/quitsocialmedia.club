@@ -13,9 +13,6 @@ toc: false
 	More detailed data in the <a href='/notes' title='Notes on quitsocialmedia.club'>notes</a>
 </div>
 
-<br>
-<br>
-
 ## l10n
 
 Translations to be concluded:

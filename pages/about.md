@@ -42,8 +42,6 @@ Then, unite, stand out and be (part of) the change.
 
 Quitting Social Media might be a great start.
 
-<br />
-
 ## Is something missing?
 
 If you have some questions or doubts which this page could not answer, please check the [Objections and Replies](/faq 'Objections and Replies') (<abbr title='Also Known As'>a.k.a.</abbr> <abbr title='Frequently Asked Questions'>FAQ</abbr>).

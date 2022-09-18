@@ -11,9 +11,6 @@ Non ho ancora trovato un luogo su internet in cui siano riportate e riassunte *t
 Tuttavia, dopo aver analizzato ogni singola spiegazione, <u>è difficile negare che ci sia qualcosa che non va</u> e che sia necessario agire.   
 Prima di cause e processi, regolamentazioni e leggi, l’azione più importante, urgente ed efficace che possiamo intraprendere come individui è **abbandonare** le piattaforme che non hanno una giusta morale.
 
-<br>
-<br>
-
 <div class='blue box' style='margin:0'>
 	<h2 style='hyphens:none' id='ascolta-il-podcast'>Ascolta il podcast!</h2>
 	<p>Se questa pagina è troppo noiosa e lunga da leggere, puoi ascoltare l’episodio di <em><a href='https://sconnesso.link' target='_blank' title='Sconnesso'>Sconnesso</a></em>, il mio pseudo-podcast, in cui viene letta. La trovi di seguito.</p>
@@ -22,15 +19,10 @@ Prima di cause e processi, regolamentazioni e leggi, l’azione più importante,
 	</div>
 </div>
 
-<br>
-<br>
-
 ## Rabbia
 
 <u>È scientificamente provato che le emozioni negative coinvolgano le persone molto più di quelle positive</u>. Gli algoritmi che compongono i *feed* sui *social* sono programmati specificamente per massimizzare il coinvolgimento e le interazioni, senza curarsi veramente di come gli utenti possano sentirsi (anche perché un algoritmo, per adesso, non sa provare emozioni).   
 I nostri sentimenti sono governati da una macchina: ci arrabbiamo per qualcosa che vediamo, reagiamo, e cominciamo a visualizzare sempre più contenuti al riguardo.
-
-<br>
 
 ### Maggiori informazioni
 
@@ -38,16 +30,11 @@ I nostri sentimenti sono governati da una macchina: ci arrabbiamo per qualcosa c
 - [Facebook Will Permanently Stop Promoting Political Groups](https://www.forbes.com/sites/rachelsandler/2021/01/27/facebook-will-permanently-stop-promoting-political-groups/ 'Facebook Will Permanently Stop Promoting Political Groups'), un articolo di [Rachel Sandler](https://www.forbes.com/sites/rachelsandler/ 'Rachel Sandler’s articles') su [Forbes](https://forbes.com 'Forbes'), un sintomo del fatto che le raccomandazioni su Facebook sono più dannose per la società che utili per gli utenti
 - [altri contenuti](/links#anger 'More resources about anger and Social Media')
 
-<br>
-<br>
-
 ## Odio
 
 Strettamente connesso alla [rabbia](#rabbia): quando ci arrabbiamo, facciamo qualcosa al riguardo. Questo è esattamente quello che gli algoritmi aspettano. Non importa quanto il dibattito sia acceso: finché noi discutiamo, commentiamo, scrolliamo, va tutto bene. Il problema è che tendiamo a diventare più aggressivi: perdiamo la capacità di discutere con persone che sostengono un'opinione diversa dalla nostra senza giudicarli o andare in collera.   
 Tutte le piattaforme permettono di segnalare contenuti che contengono odio, offese o insulti, ma non esiste un modo oggettivo ed efficace per segnalare le **emozioni**.\
 Inoltre, è stato riportato da diverse fonti che i moderatori di contenuti sono sottopagati, hanno orari di lavoro estenuanti e devono moderare i contenuti di più di un miliardo di utenti attivi, ogni giorno.
-
-<br>
 
 ### Maggiori informazioni
 
@@ -56,17 +43,12 @@ Inoltre, è stato riportato da diverse fonti che i moderatori di contenuti sono 
 - [Bodies in seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa 'Bodies in seats'), by [Casey Newton](https://www.theverge.com/authors/casey-newton 'Casey Newton author page on The Verge') on [The Verge](https://www.theverge.com 'The Verge')
 - [altri contenuti](/links#hate 'More resources related to hate and Social Media')
 
-<br>
-<br>
-
 ## Polarizzazione
 
 *Ça va sans dir* che linguaggio aggressivo, odio e rabbia portino a una forte polarizzazione della società.   
 “Polarizzazione” è una parola che sentiamo parecchio in questi giorni, ma il particolare sorprendente è che non riguarda solo i “cattivi”, ma tutte le parti, riguardo a qualunque tematica. Per definizione, la polarizzazione allontana e estremizza ogni posizione possibile, polverizzando le sfumature e le vie di mezzo.   
 Divisione ed estremismo sono alimentati da gruppi di persone che hanno idee differenti e non sanno più ascoltarsi reciprocamente.   
 I *Social Media* non fanno molto per favorire un modo più pacifico di esprimere la propria idea e stimolare una maggiore apertura verso idee differenti.
-
-<br>
 
 ### Maggiori informazioni
 
@@ -75,15 +57,10 @@ I *Social Media* non fanno molto per favorire un modo più pacifico di esprimere
 - [Facebook Can’t Fix what it won’t admit to](https://www.wired.com/story/plaintext-facebook-cant-fix-what-it-wont-admit-to/ 'Facebook Can’t Fix what it won’t admit to') by [Steven Levy](https://en.wikipedia.org/wiki/Steven_Levy 'Steven Levy on Wikipedia') on [Wired](https://wired.com 'Wired')
 - [altri contenuti](/links#polarizzazione 'More resources on Polarization and Social Media')
 
-<br>
-<br>
-
 ## Disinformazione
 
 Questo è uno dei principali punti di discussione dell’anno passato: le piattaforme *social* rendono davvero difficile comprendere cosa è vero e cosa non lo è. Ovviamente, questo problema non dipende unicamente dai *Social Media*, ma è strettamente legato ad essi e per colpa loro la sua pericolosità si accentua enormemente. Post di Donald Trump, così come quelli di persone molto influenti, possono essere controllati (e abbiamo visto com'è andata a finire con l'ex-presidente), ma è praticamente impossibile riuscire a monitorare e verificare efficacemente l'autenticità e la veridicità dei contenuti pubblicati. Non esiste un modo infallibile per essere totalmente certi che qualcosa che viene pubblicato non sia una tanto famigerata e vituperata *fake news*.   
 Intorno a questo punto si sta svolgendo un grande dibattito, che riguarda specificamente la [Sezione 230](https://en.wikipedia.org/wiki/Section_230 'Sezione 230 on Wikipedia') del Communications Decency Act americano: di chi è la responsabilità se una notizia falsa e pericolosa viene pubblicata? Delle piattaforme su cui un post è stato esposto oppure di chi ne è l'autore? Soprattutto, chi verrà perseguito legalmente se il contenuto pubblicato dovesse avere delle ripercussioni negative nel mondo reale?
-
-<br>
 
 ### Maggiori informazioni
 
@@ -92,9 +69,6 @@ Intorno a questo punto si sta svolgendo un grande dibattito, che riguarda specif
 - [Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies](https://thereboot.com/control-stifle-censor-social-media-toxic-double-edged-policies/ 'Control, Stifle, Censor: Social Media’s Toxic Double-Edged Policies') by Jillian C. York on [The Reboot](https://thereboot.com/ 'The Reboot')
 - [altri contenuti](/links#misinformation 'More resources about misinformation and Social Media')
 
-<br>
-<br>
-
 ## Bolla
 
 Dal momento che gli algoritmi che governano i Social Media puntano a tenere gli utenti attaccati alla propria piattaforma più che possono, essi provano a mostrarci contenuti che sanno ci piaceranno. Non si parla esclusivamente di pubblicità, ma anche di suggerimenti di contenuti non sponsorizzati al suo interno. “Potrebbe anche piacerti”, “simile al video che hai appena visto”… sono solo modi diversi per dirci “continua a navigare qui, scrolla ancora!”. Il problema che ne consegue, non è unicamente la [dipendenza](#dipendenza), ma anche il finire per **vivere in una bolla**, in cui la gran parte dei contenuti è in linea con le nostre idee e ci piace, mentre tutto il resto è una lontana, poco importante, realtà. O accade questo, oppure l'opposto, la [rabbia](#rabbia).
@@ -102,16 +76,11 @@ Dal momento che gli algoritmi che governano i Social Media puntano a tenere gli 
 Pensa all'ultima elezione politica a cui hai votato: se solitamente ti informi di politica attraverso i *social*, probabilmente avrai creduto che la tua parte, qualunque essa fosse, sarebbe stata in grande maggioranza, e probabilmente avrebbe vinto, anche se poi non è poi stato così.   
 Quello precedente è solamente uno fra i più semplici esempi del vivere in un bolla: si percepisce una visione distorta o limitata della realtà.
 
-<br>
-
 ### Maggiori informazioni
 
 - [The Obsession With Big Tech Is Distorting the Big Picture](https://thereboot.com/the-obsession-with-big-tech-is-distorting-the-big-picture/ 'The Obsession With Big Tech Is Distorting the Big Picture'), un articolo di Karl Bode su [The Reboot](https://thereboot.com/ 'The Reboot')
 - [The Future of Privacy](https://philosophy247.org/podcasts/the-future-of-privacy/ 'Philosophy 24/7 The Future of Privacy'), un <mark class='blue'>podcast</mark> con un'intervista a [Carissa Véliz](https://carissaveliz.com 'Carissa Véliz'), parlando specificamente della “bolla” al minuto `4:00`
 - [altri contenuti](/links#bubble 'External links about “Bubble”')
-
-<br>
-<br>
 
 ## Qualità
 
@@ -119,31 +88,20 @@ In che proporzione il nostro feed sui *Social Media* è popolato da contenuti si
 
 Nota: non sto criticando l'intrattenimento di basso livello, i contenuti trash o video e immagini stupidi e divertenti; tuttavia, sono sempre più preoccupato di come questi stiano soppiantando contenuti dal maggiore valore emotivo e conoscitivo.
 
-<br>
-<br>
-
 ## Dipendenza
 
 Potrebbe essere una questione dovuta soprattutto alle notifiche *push*, e la suoneria del nostro telefono che ronza in continuazione, catturando la nostra attenzione e invitandoci a visualizzare chi ha commentato il nostro ultimo post; tuttavia, non si tratta **esclusivamente** di questo, la nostra più o meno grave dipendenza dai *social* si basa su **come** questi sono studiati e costruiti: <u>siamo spinti così tanto ad essere soddisfatti che ad un certo punto ne abbiamo addirittura bisogno</u>.\
 Naturalmente chiunque potrà rispondere a questo punto dicendo “ma dai! Sono solo una minoranza quelli che sono davvero dipendenti, in questo modo!”.\
 Se ne hai il coraggio, disinstalla tutte le tue applicazioni social per un mese. Solo per curiosità, come esperimento; probabilmente non obietteresti di nuovo.
 
-<br>
-
 ### Maggiori informazioni
 
 - [An Exploratory Study of Gambling Operators’ Use of Social Media and the Latent Messages Conveyed](https://link.springer.com/article/10.1007/s10899-015-9525-2 'An Exploratory Study of Gambling Operators’ Use of Social Media and the Latent Messages Conveyed')
-
-<br>
-<br>
 
 ## Distrazione
 
 Naturalmente, distrazione e [dipendenza](#dipendenza) sono strettamente correlate: più abbiamo bisogno di controllare su tutte le nostre app nuovi post o commenti, meno ci concentriamo su ciò che realmente ci interessa. È principalmente una questione di [tempo](#tempo), ma si tratta anche di allenare la concentrazione e la dedizione: i *Social Media* ci abituano a <u>saltare incessantemente da un contenuto ad un altro a grandissima velocità</u>; i nostri occhi di solito si fermano su un'immagine per cinque secondi al massimo. Da ciò consegue che nella nostra quotidianità concentrarsi su qualcosa per lungo tempo richieda uno sforzo sovrannaturale.\
 Ancora una volta: se una persona è fortemente distratta e non sa concentrarsi, non è *necessariamente* causa dei *Social Media*, ma trascorrere parecchio tempo a scrollare il nostro feed di certo non aiuta.
-
-<br>
-<br>
 
 ## Dati
 
@@ -153,9 +111,6 @@ Indipendentemente dalla nostra volontà, anche se utilizziamo i social passivame
 
 - [How tech companies deceive you into giving up your data and privacy](https://www.ted.com/talks/finn_lutzow_holm_myrstad_how_tech_companies_deceive_you_into_giving_up_your_data_and_privacy 'How tech companies deceive you into giving up your data and privacy'), una <mark class='red'>TED Talk</mark> di [Finn Lützow-Holm Myrstad](https://www.ted.com/speakers/finn_myrstad 'Finn Lützow-Holm Myrstad')
 
-<br>
-<br>
-
 ## Profilazione
 
 Probabilmente, questa è una delle ragioni principali per cui le persone scelgono di eliminare i propri account sui *Social Media*.\
@@ -163,17 +118,12 @@ La questione è tanto semplice quanto preoccupante: tutti i dati raccolti su di 
 
 Non è un segreto: tutto ciò che ho appena elencato è venduto a caro prezzo ad inserzionisti per mostrarci (o meglio, per sommergere il nostro feed con) pubblicità “di nostro interesse”. Questo potrebbe essere addirittura considerato un aspetto positivo se fosse sfruttato solo per fini di marketing, ma, sfortunatamente, non è così: potremmo (e probabilmente siamo) puntati da inserzioni e campagne politiche, che non puntano a venderci qualcosa, ma mirano a condizionare il nostro comportamento e distorcere la nostra interpretazione del mondo, rinforzando ulteriormente la [bolla](#bolla) in cui viviamo e, ovviamente, manipolando la nostra scelta di voto.
 
-<br>
-
 ### Maggiori informazioni
 
 - [The Cambridge Analytica Story, Explained](https://www.wired.com/amp-stories/cambridge-analytica-explainer/ 'The Cambridge Analytica Story, Explained'), di [WIRED](https://wired.com)
 - [Facebook's role in Brexit — and the threat to democracy](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy 'Facebook's role in Brexit — and the threat to democracy'), un <mark class='red'>TED Talk</mark> di [Carole Cadwalladr](https://en.wikipedia.org/wiki/Carole_Cadwalladr 'Carole Cadwalladr on Wikipedia')
 - [How Surveillance Advertising Seized Our Data and Hijacked the Web](https://thereboot.com/how-surveillance-advertising-seized-our-data-and-hijacked-the-web/ 'How Surveillance Advertising Seized Our Data and Hijacked the Web') di Matthew Crain su [The Reboot](https://thereboot.com/ 'The Reboot')
 - [How to Destroy Surveillance Capitalism](https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59 'How to Destroy Surveillance Capitalism'), di [Cory Doctorow](https://pluralistic.net 'Pluralistic - Cory Doctorow')
-
-<br>
-<br>
 
 ## Monopolizzazione
 
@@ -183,8 +133,6 @@ Le aziende che possiedono i *Social Media* sono <u>monopoli che non permettono a
 
 Facebook è stato denunciato ed è ora sotto processo da parte del governo statunitense e molti altri stati del mondo, precisamente con l'accusa di aver comprato illegalmente le società concorrenti.
 
-<br>
-
 ### Maggiori informazioni
 
 - [Un’intervista di *Codice* a Jaron Lanier](https://www.raiplay.it/video/2019/08/Codice-intervista-esclusiva-a-Jaron-Lanier-pioniere-della-realta-virtuale-98a38fd9-6fa9-46d6-9b49-f9deccc7d1c6.html 'Intervista a Jaron Lanier - Codice - Rai Play'), su <mark class='red'>Rai Play</mark>
@@ -192,9 +140,6 @@ Facebook è stato denunciato ed è ora sotto processo da parte del governo statu
 - [FTC Sues Facebook for Illegal Monopolization](https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization 'FTC Sues Facebook for Illegal Monopolization'), the press release in which the Federal Trade Commission announces to sue Facebook
 - [WIRED’s Guide to Net Neutrality](https://www.wired.com/story/guide-net-neutrality/ 'WIRED’s Guide to Net Neutrality')
 - [more](/it/links#monopolization 'More resources related to the Monopolization and Social Media')
-
-<br>
-<br>
 
 ## Socialità
 
@@ -207,23 +152,15 @@ Perché non possiamo socializzare, scambiare idee, confrontarci con amici e cono
 - [Don Alberto Ravagnani su Muschio Selvaggio](https://youtu.be/aZ2pn0tNoGQ?t=3625 'Ep.33 Don Alberto - Muschio Selvaggio Podcast') che racconta quanto sia pericoloso per i più piccoli avere spesso il telefono in mano
 - [Do virtual social networks destroy the social fabric?](https://medium.com/swlh/do-virtual-social-networks-destroy-the-social-fabric-b1e96de514db 'Do virtual social networks destroy the social fabric?') un articolo di Jürgen Derlath
 
-<br>
-<br>
-
 ## Tempo
 
 Non sei spaventato da quanto tempo passi a fissare uno schermo?
 
 Guarda le statistiche di utilizzo dei tuoi dispositivi.
 
-<br>
-
 ### Maggiori informazioni
 
 - <cite><a href='https://deditore.com/prodotto/cronofagia/' target='_blank' title='Cronofagia'>Cronofagia</a></cite>, un <mark class='purple'>libro</mark> di Davide Mazzocco
-
-<br>
-<br>
 
 ## Standardizzazione
 
@@ -233,16 +170,11 @@ A queste considerazioni consegue che la maggioranza delle persone mostra le prop
 
 I *Social Media* stanno uccidendo la diversità: stanno standardizzando il modo in cui le persone si presentano, i canoni di efficacia affinché il messaggio venga recepito e rimanga impresso e, soprattutto, il modo in cui appaiono e sono valutate le immagini. Il contenuto perde tutto il suo significato originale. La personalità e l'identità sono mascherate da un grande livello di artificialità dietro un profilo che è lo stesso per tutti.
 
-<br>
-<br>
-
 ## Diritti sui contenuti
 
 Quello che pubblichiamo sui *Social Media* è veramente nostro? La risposta giace all’interno delle privacy policy degli stessi. 
 
 **Spoiler** - La risposta veloce è sì, ma quella reale è no: manteniamo i diritti di proprietà sul nostro contenuto, ma ciò non vuol dire quasi nulla, poiché allo stesso tempo acconsentiamo che le piattaforme online ne facciano quello che vogliono; noi non possiamo farci nulla: una volta pubblicato qualcosa, <u>non è più sotto il nostro controllo</u>. Quindi: il contenuto è tuo ma non puoi farci nulla. Può davvero chiamarsi proprietà?
-
-<br>
 
 ### Facebook
 
@@ -260,8 +192,6 @@ From Twitter's [Terms of Service](https://twitter.com/en/tos 'Twitter Terms of S
 
 [Source](https://hyp.is/2H2wMhIsEeuntaMMPJ6iIw/twitter.com/en/tos 'Twitter Terms of Service')
 
-<br>
-
 ### Tik Tok
 
 From Tik Tok's [Terms of use](https://www.tiktok.com/legal/terms-of-use 'Tik Tok Terms of Service')
@@ -278,15 +208,10 @@ Important passage:
 
 [Source](https://hyp.is/VnoxMBIuEeuuiUMgV1pp_Q/www.tiktok.com/legal/terms-of-use?lang=en 'Tik Tok Terms of Service')
 
-<br>
-
 ### Maggiori informazioni
 
 - [Who Owns Your Content Online?](https://www.socialmediatoday.com/content/who-owns-your-content-online), un articolo su SocialMediaToday
 - [Does Instagram Own the Pictures & Photos you Post?](https://social.techjunkie.com/instagram-own-photos-pictures/), un articolo su TechJunkie
-
-<br>
-<br>
 
 ## Velocità
 
@@ -295,24 +220,15 @@ Credo che questo non corrisponda al modo in cui la natura umana ci spinge a vive
 
 I *Social Media* fanno apparire tutto uguale appiattendo ogni post e inserendolo nel medesimo contenitore. Così facendo, perdiamo empatia e compassione, senza essere più in grado di distinguere cosa è davvero importante e pericoloso è cosa è una montatura mediatica concepita fondamentalmente come scherzo.
 
-<br>
-<br>
-
 ## Semplicità e Semplificazione
 
 Sui *Social Media*, tutto è reso un gioco, tutto appare molto semplice. L'essenza ontologica della realtà, tuttavia, non è affatto semplice. Non lo è nemmeno il mondo in cui viviamo e i suoi abitanti. L'Universo è complesso, arduo da decifrare, ricco di elementi confusivi ed in conflitto fra loro. I *Social Media* semplificano tutto, come se la conoscenza fosse a portata di mano e qualunque informazione facilmente comprensibile. Purtroppo, non è così. Mentre gli sviluppatori di *software* generalmente cercano di perseguire la semplicità e il minimalismo, i *Social Media* combattono per la **semplificazione** di argomenti e temi che non lo sono affatto. Potrebbe non esserci un chiaro “giusto” o “sbagliato” per quanto riguarda una discussione, ma gli algoritmi percepiscono qual è la nostra inclinazione e ci mostrano ciò che la rafforza, così diventiamo sempre più convinti di qualcosa che appare molto semplice, ma che in fondo non lo è, perdendo un punto di vista molto importante, cioè l'altra faccia della medaglia.
 
 La semplificazione è un concetto negativo, mentre la semplicità è stupenda ed efficace, ma non può essere ovunque e sempre. Dobbiamo abbandonare i *Social Media* per aprire gli occhi e osseervare l'altra faccia della medaglia, riconoscendo e sposando la diversità della realtà.
 
-<br>
-<br>
-
 ## Essere perennemente connessi
 
 Il titolo del paragrafo dice tutto. Davvero ci serve essere così connessi? Se la risposta fosse affermativa, possiamo aggiungere inoltre che l'iperconnessione è benefica? Come saremmo se non guardassimo centinaia di migliaia di contenuti pubblicati da coloro che seguiamo, incessantemente?
-
-<br>
-<br>
 
 ## Ambiente
 
@@ -326,9 +242,6 @@ Una nota personale: chiunque non sia un imbecille riconosce che il più grande e
 
 - [Privacy e cambiamenti climatici](https://www.ilpost.it/carloblengino/2021/11/02/privacy-e-cambiamenti-climatici-alla-ricerca-di-una-buona-storia/ 'Privacy e cambiamenti climatici - Il Post'), di [Carlo Blengino](https://www.ilpost.it/carloblengino/ 'Pagina autore di Carlo Blengino su Il Post') su [Il Post](https://ilpost.it 'Il Post')
 
-<br>
-<br>
-
 ## Chiusura
 
 Immaginiamo che io sia un influencer (lo so, improbabile assai) e che io voglia spostarmi su un'altra piattaforma di *social networking* meno conosciuta (come potrebbero essere Mastodon, Friendica, Pixelfed, Diaspora…) e minuscola, se comparata alle piattaforme che tutti conosciamo. Come posso farlo? Al di fuori dei miei profili sui *Social Media* (se ho basato solo su di essi la mia celebrità) nonostante io possa avere una vasta *fanbase*, non avrei followers, nessun pubblico, nessuno strumento al di fuori delle piatteforme che ho usato finora, e che scelgo di lasciare. L'unico modo per continuare a lavorare è ricostruire da capo la mia *fanbase* altrove.\
@@ -339,16 +252,11 @@ C'è un piccolo interessante esperimento mentale per rendere l'idea di quanto i 
 I *Social Media* che noi conosciamo sono limitati a e da coloro che li possiedono e li governano, ed è come se un mondo senza di essi non esistesse.\
 Noi possiamo provare il contrario.
 
-<br>
-
 ### Maggiori informazioni
 
 - [Quanto siamo dipendenti da una singola piattaforma online?](https://funkwhale.it/library/tracks/1380/ 'Quanto siamo dipendenti da una singola piattaforma online?'), episodio 10 del <mark class='blue'>podcast</mark> di [Daniele Scasciafratte](https://daniele.tech 'Daniele Scasciafratte')
 - [Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems](https://thereboot.com/data-liberation-a-step-toward-fixing-big-techs-competition-problems/ 'Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems') by Gabriel Nicholas on [The Reboot](https://thereboot.com 'The Reboot')
 - [Breaking Tech Open: Why Social Platforms Should Work More Like Email](https://thereboot.com/breaking-tech-open-why-social-platforms-should-work-more-like-email/ 'Breaking Tech Open: Why Social Platforms Should Work More Like Email'), by Karissa McKelvey on [The Reboot](https://thereboot.com 'The Reboot')
-
-<br>
-<br>
 
 ## Saturazione
 
@@ -359,9 +267,6 @@ Non sto usando Instagram da un anno e, l'ultima volta che ho controllato, c'era 
 L'attuale *business plan* dei *Social Media* sta diventando sempre meno redditizio. C'è una spaventosa saturazione di annunci e pubblicità che rende il valore di una specifica inserzione una frazione di quello che era mesi fa. I *Social Media* **hanno bisogno** di cambiare, prima o poi. Sono destinati a chiudere e scomparire, a meno che non siano trovati altri sistemi per ottenere un profitto. Stanno raggiungendo il limite e un'evoluzione è necessaria per permettere loro di cavalcare l'onda del dominio sul mondo.
 
 Nel frattempo, noi possiamo uscire da questo pasticcio, in modo che non ci riguardi. Una volta abbandonati i *Social Media*, diventiamo indipendenti e liberi, e quanto valga un annuncio e quanti di essi riempiano i feed non sarà più una nostra preoccupazione.
-
-<br>
-<br>
 
 ## Essere usati
 
@@ -375,10 +280,6 @@ I *Social Media* ci impongono così tante regole, limiti, strutture e preconcett
 Nelle nostre mani abbiamo la possibilità di dire no, di fermare la tendenza, di alimentare diversità, empatia, quiete, significato, arte ed autenticitò al mondo.
 
 Non è facile ed è piuttosto doloroso all'inizio, ma puoi farlo, possiamo farlo, se non siamo soli.
-
-<br>
-<br>
-<br>
 
 ## Cosa fare, ora?
 

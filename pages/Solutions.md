@@ -12,9 +12,6 @@ In short: after quitting Social Media, you will not become a misanthrope who liv
 
 The concept is this: to stay up to date, you can subscribe to any website's [RSS feed](#rss-feed), even to Social Media pages and profiles, YouTube channels… anything. To publish content, instead, the best way is to [**create your own website**](#website), start a newsletter, or consider [healthier Social Media platforms](#alternatives).
 
-<br>
-<br>
-
 ## RSS feed
 
 You may have no idea [what a RSS feed is](https://en.wikipedia.org/wiki/RSS '“RSS” on Wikipedia'), or you may recall it as something old and remote. It is a simple tool which keeps you anonymous, it is not owned by anyone and it needs no dedicated server to work. It has no algorithms and nobody uses watches your actions for [advertising purposes](/why#profilation).
@@ -30,8 +27,6 @@ As pointed out in the [about](/about) page, this website isn't meant to explain 
 - [RSS before Social Media](https://yewtu.be/watch?v=0klgLsSxGsU&quality=dash&dark_mode=true&player_style=youtube&subtitles=en), a very interesting YouTube video to watch: it shows how before the diffusion of Social Media RSS really was the best way to stay updated.
 - RSS is fundamental in one field in particular: **podcasting**. Anyone who has a podcast publishes it in one place (a podcasting platform or a website) and all of the other podcasting platforms [get new episodes through its RSS feed](https://yewtu.be/TU5zc-u6dhY?t=159).
 
-<br>
-
 ### Using Social Media without being on Social Media
 
 It can happen that you end up sad and you miss how much Social Media allowed you to connect with your loved ones in a way you could never replace with other systems, if they don't want to follow you in abandoning those platforms. It is understandable, even if the ideal solution would be if you all quit. Nevertheless, as always, there's a very smart and useful workaround, a tool which allows you to <u>convert Social Media timelines in RSS feeds</u>.
@@ -39,8 +34,6 @@ It can happen that you end up sad and you miss how much Social Media allowed you
 Tools like that are actually more than one, but the most famous and developed one is [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge 'RSS-Bridge on GitHub').
 
 You are welcome to test and use the RSS-Bridge instance I host on my server by visiting <https://rss-bridge.tommi.space>. (mantaining and renting a server is no cheap matter. I am happy of offering my RSS-Bridge, nonetheless, if you started using it a lot, [a symbolic contribution](https://it.liberapay.com/tommi/donate 'Dona a Tommi su Liberapay') would mean a lot).
-
-<br>
 
 ### Proxies
 
@@ -52,9 +45,6 @@ Most of the time, if you do not need to follow someone or something and you do n
 - [Invidious](https://invidio.us 'Invidious'), a YouTube proxy (note: the main Invidious instance shut down few months ago. From the homepage linked before, you can choose other instances, I use <https://yewtu.be>)
 
 [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect 'Privacy Redirect') is a very cool extension which automatically converts links containing the original URLs of the services to their correspondent proxy websites. For example, if I wanted to go to <https://twitter.com/esa>, I would be redirected to <https://nitter.net/esa>.
-
-<br>
-<br>
 
 ## Alternatives
 
@@ -77,9 +67,6 @@ The most awesome thing is that all of these platforms are connected among each o
 - [Internet of People](https://iop.global 'Internet of People')
 
 
-<br>
-<br>
-
 ## Run your own
 
 Run your own social networking platform! It is awesome and, in the end, it is not so complicated. Literally everything about this topic is perfectly explained in [runyourown.social](https://runyourown.social 'Run Your Own Social'); once you get to the end of that quite long (yet super interesting and insightful) page, you will want nothing more than starting your own platform.
@@ -87,9 +74,6 @@ Run your own social networking platform! It is awesome and, in the end, it is no
 <div class='blue box'>
 	<strong>Note</strong>: one thing which has to be pointed out in advance is that running your own social <u>does not mean</u> at all that you have to build one from scratch or that it will be “yet another social media platform” where the user base is so tiny that the social platform itself is useless. Instead, one of the most awesome features of running your own social is that <u>your platform can connect to all of the other Fediverse platforms in the world</u>, hence making your potential connections everything but limited!
 </div>
-
-<br>
-<br>
 
 ## Website
 
@@ -99,23 +83,14 @@ The last solution is the best one: build your own website! Whatever your technic
 
 - [Get a Website Now! Don't be a Web Peasant!](https://youtu.be/bdKZVIGRAKQ 'Get a Website Now! Don't be a Web Peasant!'), a YouTube video by [Luke Smith](https://lukesmith.xyz 'Luke's personal website')
 
-<br>
-<br>
-
 ## Experiment
 
 After quitting, instead of being [limited](/why#closed) you become free and your creativity is unbounded. Therefore, **start experimenting**!
 
 You may start a newsletter or record a podcast, they're very popular these days! Alternetively, you may consider focusing on more intimate and personal communications, sharing your life's milestones by sending [private messages](https://signal.org) to groups or individuals.
 
-<br>
-<br>
-
 Regardless of what you decide to do, you can start enjoying your freedom from Social Media.\
 At first, it's going to be quite hard, but on the long run it's going to be a great gain!
-
-<br>
-<br>
 
 ## Further information
 

@@ -39,8 +39,6 @@ Ensuite, s’unir, se lever et être le changement.
 
 Quitter les réseaux sociaux pourrait être un bon début.
 
-<br />
-
 ## Il manque quelque chose?
 
 Si vous avez des questions ou des doutes auxquels cette page n’a pas répondu, cherchez dans les [objections et réponses](/objections 'Objections and Replies') (<abbr title='Also Known As'>a.k.a.</abbr> <abbr title='Frequently Asked Questions'>FAQ</abbr>).

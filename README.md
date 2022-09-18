@@ -4,8 +4,6 @@
 
 Everithing about this website is written in its [about page](https://quitsocialmedia.club/about), WIP notes are [here](https://tommi.space/qsm), the development roadmap is [here](./pages/development-roadmap.md)
 
-<br>
-
 ## Contribution
 
 This project warmly welcomes any contributor or supporter. Please visit the [contribution page](https://quitsocialmedia.club/contribute).

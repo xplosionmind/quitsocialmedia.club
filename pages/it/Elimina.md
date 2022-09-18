@@ -12,9 +12,6 @@ Prima di eliminare qualunque account, non sarebbe una cattiva idea scaricare e <
 
 - [JustGetMyData](https://justgetmydata.com 'JustGetMyData'), una collezione di link diretti per richiedere una copia dei propri dati su diversi servizi online.
 
-<br>
-<br>
-
 ## Delete
 
 - [JustDeleteMe](https://justdeleteme.xyz 'JustDeleteMe'), una collezione di link diretti per <u>eliminare i propri account</u> su diversi servizi online.

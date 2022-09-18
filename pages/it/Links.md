@@ -18,33 +18,21 @@ description: 'Tutti i link alle risorse citate o utilizzate.'
 
 Torna alla [home](/it/home 'Home')
 
-<br>
-
 ### Libri
 
 - <cite><a href='https://deditore.com/prodotto/cronofagia/' target='_blank' title='Cronofagia'>Cronofagia</a></cite>, un libro di Davide Mazzocco
-
-<br>
-<br>
 
 ## Perché
 {% comment %}
 ### Rabbia
 
-<br>
-
 ### Odio
 
 Torna a [Perché > Hate](/perché#odio 'Hate')
 
-
-<br>
-
 ### Polarizzazione
 
 Torna a [Perché > Polarization](/perché#polarizzazione'Polarizzazione')
-
-<br>
 
 ### Disinformazione
 
@@ -52,40 +40,28 @@ Torna a [Perché > Misinformation](/perché#disinformazione'Disinformazione')
 
 {% endcomment %}
 
-<br>
-
 ### Bolla
 
 - [Silicon Valley Pretends That Algorithmic Bias Is Accidental. It’s Not.](https://slate.com/technology/2021/07/silicon-valley-algorithmic-bias-structural-racism.html), by [Amber M. Hamilton](http://ambermhamilton.com 'Amber M. Hamilton personal website') on [Slate]
 
 Torna a [Perché > Bolla](/perché#bolla 'Bolla')
 
-<br>
-
 {% comment %}
 ### Qualità
 
 Torna a [Perché > Qualità](/perché#qualità 'Qualità')
 
-<br>
-
 ### Dipendenza
 
 Torna a [Perché > Dipendenza](/perché#dipendenza 'Dipendenza')
-
-<br>
 
 ### Distraction
 
 Torna a [Perché > Distraction](/perché#distraction 'Distraction')
 
-<br>
-
 ### Data
 
 Torna a [Perché > Data](/perché#data 'Data')
-
-<br>
 
 {% endcomment %}
 ### Profilazione
@@ -97,14 +73,10 @@ Torna a [Perché > Profilazione](/perché#profilazione 'Profilazione')
 
 {% comment %}
 
-<br>
-
 ### Monopolization
 
 Torna a [Perché > Monopolization](/perché#monopolization 'Monopolization')
 {% endcomment %}
-
-<br>
 
 ### Socialità
 
@@ -112,44 +84,30 @@ Torna a [Perché > Socialità](/perché#socialità 'Socialità')
 
 - [Don Alberto Ravagnani su Muschio Selvaggio](https://youtu.be/aZ2pn0tNoGQ?t=3625 'Ep.33 Don Alberto - Muschio Selvaggio Podcast') che racconta quanto sia pericoloso per i più piccoli avere spesso il telefono in mano
 
-<br>
-
 {% comment %}
 ### Standardizzazione
 
 Torna a [Perché > Standardizzazione](/perché#standardizzazione 'Standardizzazione')
 
-<br>
-
 ### Content ownership
 
 Torna a [Perché > Content ownership](/perché#content-ownership 'Content Ownership')
-
-<br>
 
 ### Velocità
 
 Torna a [Perché > Velocità](/perché#velocità 'Velocità')
 
-<br>
-
 ### Semplicità vs semplificazione
 
 Torna a [Perché > Semplicità vs semplificazione](/perché#semplicità-vs-semplificazione 'Semplicità vs semplificazione')
-
-<br>
 
 ### Being always connected
 
 Torna a [Perché > Being always connected](/perché#being-always-connected 'Being Always Connected')
 
-<br>
-
 ### Environment
 
 Torna a [Perché > Environment](/perché#environment 'Environment')
-
-<br>
 
 {% endcomment %}
 ### Ambiente
@@ -158,22 +116,16 @@ Torna a [Perché > Environment](/perché#environment 'Environment')
 
 Torna a [Perché > Ambiente](/perché#ambiente 'Ambiente')
 
-<br />
-
 ### Chiusura
 
 - [Quanto siamo dipendenti da una singola piattaforma online?](https://funkwhale.it/library/tracks/1380/ 'Quanto siamo dipendenti da una singola piattaforma online?'), episodio 10 del <mark class='blue'>podcast</mark> di [Daniele Scasciafratte](https://daniele.tech 'Daniele Scasciafratte')
 
 Torna a [Perché > Chiusura](/perché#chiusura 'Chiusura')
 
-<br>
-
 {% comment %}
 ### Saturazione
 
 Torna a [Perché > Saturazione](/perché#saturazione 'Saturazione')
-
-<br>
 
 ### Being used
 
