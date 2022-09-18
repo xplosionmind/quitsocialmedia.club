@@ -1,13 +1,13 @@
 <div class='row'>
 	<div class='blue box'>
 		🤔 
-		{% case page.data.lang %}
+		{% case lang %}
 			{% when 'it' %}
-				Ciò che è scritto in questa pagina ti lascia perplesso, contrariato, o ti sembra manchi qualcosa? Se la risposta è affermativa, sarebbe favoloso se potessi <a href='/contribuisci' target='_blank' title='Contribuisci'>contribuire</a> per migliorarne i contenuti 📈!
+				Ciò che è scritto in questa pagina ti lascia perplesso, contrariato, o ti sembra manchi qualcosa? Se la risposta è affermativa, sarebbe favoloso se potessi <a href='/contribuisci' title='Contribuisci'>contribuire</a> per migliorarne i contenuti 📈!
 			{% when 'fr' %}
 				Est-ce que les choses écrites ici ne vous convincez pas? Si la réponse est affirmative, vous pourriez <a href='/contribuez' title='Contribuez'>contribuer</a> et rendre ce site meilleur 📈!
 			{% else %}
-				What is written in this page left you puzzled, vexed, or you feel something is missing? If the answer is affirmative, you really should <a href='/contribute' target='_blank' title='Contribute'>contribute</a> and make it better 📈!
+				What is written in this page left you puzzled, vexed, or you feel something is missing? If the answer is affirmative, you really should <a href='/contribute' title='Contribute'>contribute</a> and make it better 📈!
 		{% endcase %}
 	</div>
 </div>
