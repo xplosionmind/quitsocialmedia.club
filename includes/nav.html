@@ -1,9 +1,11 @@
 <header class='nav'>
-	<a id='home' href='{% case lang %}{% when 'it' %}/it/home{% when 'fr' %}/fr/home{% else %}/home{% endcase %}' title='home'>{{ site.title }}</a>
+	<div id='home'>
+		<a href='{% case lang %}{% when 'it' %}/it/home{% when 'fr' %}/fr/home{% else %}/home{% endcase %}' title='home'>{{ site.title }}</a>
+	</div>
 	<nav id='nav'>
 		<input aria-hidden='true' type='checkbox' id='menutoggle'>
 		<label class='nav-mobile' for='menutoggle'><span></span></label>
-		<ul class='nav-list'>
+		<menu>
 			<li><a href='/{{ lang }}/about' title='
 				{% case lang %}
 					{% when 'it' %}Info'>Info
@@ -34,9 +36,9 @@
 			</a></li>
 			<li><a href='/{{ lang }}/sol' title='
 				{% case lang %}
-					{% when 'it' %}Soluzioni e alternative'>Soluzioni e alternative
-					{% when 'fr' %}Solutions et alternatives'>Solutions
-					{% else %}Solutions and alternatives'>Solutions and alternatives
+					{% when 'it' %}Soluzioni e alternative'>Alternative
+					{% when 'fr' %}Solutions et alternatives'>Alternatives
+					{% else %}Solutions and alternatives'>Alternatives
 				{% endcase %}
 			</a></li>
 			<li><a href='/{{ lang }}/faq' title='FAQ'>FAQ</a></li>
@@ -51,6 +53,6 @@
 					</ul>
 				</li>
 			{% endif %}
-		</ul>
+			</menu>
 	</nav>
 </header>

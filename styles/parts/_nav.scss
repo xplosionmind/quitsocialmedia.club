@@ -30,37 +30,38 @@ header {
 	position: fixed;
 	top: 1.5vw;
 	left: 5vw;
-	padding: 0 $regular-less;
-	line-height: $height; 
-	font-size: $bigger;
-	color: var(--background);
-	background: var(--primary);
-	box-shadow: var(--shadow);
-	border: 2px solid var(--blue);
-	&:hover,
-	&:focus {
-		color: var(--white-ish) !important;
-		background: var(--red) !important;
-		border-color: var(--white-ish) !important;
-	}
-	&:target {
-		color: var(--primary);
+	a {
+		display: inline-block;
+		padding: 0 $regular-less;
+		line-height: $height; 
+		font-size: 1.8rem;
+		color: var(--background);
+		background: var(--primary);
+		box-shadow: var(--shadow);
+		margin: auto;
+		&:hover,
+		&:focus {
+			box-shadow: none !important;
+		}
+		&:active {
+			box-shadow: var(--inner-shadow);
+		}
 	}
 }
 
 #nav {
 	position: fixed;
-	height: $height;
 	top: 1.5vw;
 	right: 6vw;
 	text-align: right;
-	padding: 0 $small;
+	padding: 0 .8rem;
 	box-shadow: var(--shadow);
 	background: var(--background);
 	* {
 		margin: 0 !important;
 	}
-	ul {
+	ul,
+	menu {
 		padding: 0;
 		li {
 			float: left;
@@ -70,7 +71,7 @@ header {
 				color: var(--text) !important;
 				line-height: $height;
 				height: $height;
-				padding: 0 $small;
+				padding: 0 .8rem;
 				font-size: $regular-more;
 				font-weight: 700;
 				&::after {
@@ -94,15 +95,13 @@ header {
 }
 
 .lang-list {
-	opacity: 0;
 	top: 3.7rem;
+	display: none;
 	position: absolute;
 	background: var(--background);
-	z-index: -1;
 	#langtoggle:checked + & {
-		opacity: 1;
 		box-shadow: var(--shadow);
-		z-index: 9;
+		display: block;
 	}
 }
 
@@ -141,10 +140,14 @@ header {
 	}
 }
 
+.dropdown {
+	height: $height;
+}
+
 @media only screen and (max-width: 950px) {
 	#home {
-		left: 50%;
-		margin-left: -7.5rem;
+		right: 0;
+		left: 0;
 		top: 2vh;
 		text-align: center;
 	}
@@ -154,26 +157,27 @@ header {
 	.nav-mobile {
 		display: block;
 	}
-	.nav-list {
+	#nav menu {
 		position: fixed;
-		width: 13rem;
+		width: 11rem;
 		bottom: calc(3vh + 4.5rem);
 		right: -14rem;
 		background: var(--background);
 		box-shadow: var(--shadow);
 		z-index: 9;
 		overflow: hidden;
-	}
-	#nav ul li {
-		a,
-		label {
-			padding: 0 $regular-more;
+		li {
+			clear: both;
+			a {
+				line-height: 2.5rem;
+				height: 2.5rem;
+			}
 		}
 	}
 }
 
 #menutoggle:checked {
-	& ~ .nav-list {
+	& ~ menu {
 		right: calc(4vw + .3rem);
 	}
 	& ~ .nav-mobile {
