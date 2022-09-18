@@ -40,7 +40,7 @@ $quicktrans: .2s;
 
 html {
 	box-sizing: border-box;
-	cursor: url(/logos/red-cursor.svg) 16 16, crosshair;
+	cursor: url(/red-cursor.svg) 16 16, crosshair;
 	background: var(--background);
 	scroll-behavior: smooth;
 
@@ -345,7 +345,7 @@ button,
 .aa-suggestion,
 .embed-container,
 label {
-	cursor: url(/logos/red-cursor-hover.svg) 16 16, pointer;
+	cursor: url(/red-cursor-hover.svg) 16 16, pointer;
 }
 
 

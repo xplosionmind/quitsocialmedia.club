@@ -65,7 +65,6 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addWatchTarget('styles');
 	eleventyConfig.addPassthroughCopy({'styles': '/'});
 	eleventyConfig.addPassthroughCopy({'svg': '/'});
-	eleventyConfig.addPassthroughCopy('js');
 
 	// Plugins //
 	eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-directory-output'));
@@ -102,7 +101,7 @@ module.exports = function(eleventyConfig) {
 	});
 	eleventyConfig.addPlugin(require('eleventy-plugin-svg-contents'));
 	eleventyConfig.addPlugin(require('@sardine/eleventy-plugin-tinysvg'), {
-		baseUrl: 'assets/svg/'
+		baseUrl: 'svg/'
 	});
 	eleventyConfig.addPlugin(require('eleventy-plugin-toc'), {
 		ul: true,

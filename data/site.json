@@ -11,6 +11,6 @@
     "primary": "#E6£946",
     "description": "Why and How to quit mainstream social media",
     "favicon": "https://quitsocialmedia.club/favicon.svg",
-    "image": "/logos/qsm.png",
+    "image": "https://quitsocialmedia.club/qsm.png",
     "source": "https://codeberg.org/tommi/quitsocialmedia.club"
 }
