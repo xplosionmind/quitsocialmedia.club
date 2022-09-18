@@ -39,9 +39,9 @@ description: Tutte le ragioni per cui i <em>Social Media</em>, per come li conos
 
 	<div class='blue box row'>
 		<a href='/contribuisci'><h2 class='title'>Contribuisci</h2></a>
-		{% for contrib in site.pages %}
-			{% if contrib.title == 'Contribuisci' %}
-				{{ contrib.content | markdownify }}
+		{% for contrib in collections.all %}
+			{% if contrib.data.title == 'Contribuisci' %}
+				{{ contrib.templateContent }}
 			{% endif %}
 		{% endfor %}
 	</div>
@@ -59,8 +59,5 @@ description: Tutte le ragioni per cui i <em>Social Media</em>, per come li conos
 			{% endfor %}
 		</ul>
 	</div>
-
-	<br />
-	<br />
 
 </div>
