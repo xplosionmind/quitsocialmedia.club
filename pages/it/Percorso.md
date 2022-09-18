@@ -15,8 +15,6 @@ Prima di arrivarci, se ci arriverai, è importante seguire <u>un percorso di <st
 	Poiché si può agire a diversi livelli, in un anelito verso l'<a href='https://tommi.space/internet-freedom' target='_blank' title='“Internet Freedom” in Tommi's notes'><cite>Internet Freedom</cite></a>, ho trasformato questo percorso in un giochino: dal <a href='/it/l00'>Livello 0</a> al <a href='/it/l1000'>Livello 1000</a>.
 </div>
 
-<br>
-
 - **Livello 0**: scopri più [informazioni](/info 'Info - quitsocialmedia.club') su questo sito e, soprattutto, il suo [il suo fine](/info#fine 'Fine - quitsocialmedia.club')
 - **Livello 1**: comprendere [why](/perché 'Perché') dovresti uscire dai *Social Media*
 - **Livello 2**: passa in rassegna [più contenuti](/it/links 'Link') e approfondisci l’argomento, anche [guardando video](/guarda 'Guarda') e [ascoltando podcast](/ascolta 'Ascolta').

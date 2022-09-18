@@ -10,9 +10,6 @@ toc: false
 
 Si prega di <a href='mailto:{{ site.author.email }}' target='_blank' title='Scrivi un’email a Tommi'>contattare Tommi via email</a> per qualunque domanda la cui risposta non fosse trovata nella [pagina info](/info 'Informazioni su quitsocialmedia.club') o in [Obiezioni e risposte](/it/faq 'Obiezioni e risposte').
 
-<br>
-<br>
-
 ## Interviste e pubblicazioni
 
 Una lista di link a video, articoli ed interviste in cui appare quitsocialmedia.club:
