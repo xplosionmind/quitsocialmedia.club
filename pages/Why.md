@@ -1,7 +1,7 @@
 ---
 title: Why
 permalink: /why/
-redirect_from: [/arguments/,/reasons/,/l1/,/l01/,/l-01/,/level01/,/level1/,/level-1/,/level-01/]
+redirect_from: [/arguments/,/reasons/,/l1/,/l01/,/l-01/,/level01/,/level1/,/level-1/,/level-01/,/en/why/]
 ref: why
 toc: false
 description: |

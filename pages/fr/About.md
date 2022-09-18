@@ -2,13 +2,13 @@
 title: À propos
 ref: about
 permalink: /àPropos/
-redirect_from: [/n00/,/n0/,/n-0/,/n-00/,/niveau0/,/niveau-0/,/niveau-00/,/niveau00/]
+redirect_from: [/n00/,/n0/,/n-0/,/n-00/,/niveau0/,/niveau-0/,/niveau-00/,/niveau00/,/fr/about/]
 description: 'Qu’est ce que <cite>quitsocialmedia.club</cite>, quelles sont ses origines et quel sont ses objectifs.'
 toc: false
 ---
 Bonjour, je suis Tommi et j’ai crée ce site. Sautons la partie [à mon sujet](https://tommi.space/about 'About - tommi.space') que vous pouvez lire sur [mon site](https://tommi.space/ 'tommi.space, Tommi’s personal website').
 
-J’ai passé de nombreux mois à me tourmenter sur les coûts et bénéfices des Réseaux Sociaux. J’étais particulièrement préoccupé par les [problèmes éthiques](/why) soulevés pour finalement réaliser que les [**quitter**](/quitter 'Quit') était la meilleure – et probablement la seule – solution pour [me sentir mieux]](/solutions 'Solutions').
+J’ai passé de nombreux mois à me tourmenter sur les coûts et bénéfices des Réseaux Sociaux. J’étais particulièrement préoccupé par les [problèmes éthiques](/why) soulevés pour finalement réaliser que les [**quitter**](/quitter 'Quit') était la meilleure – et probablement la seule – solution pour [me sentir mieux](/solutions 'Solutions').
 
 J’en ai néanmoins conclut que <u>seulement les quitter est sans intérêt</u>. Oui je me sentirais mieux, oui je pourrais profiter et tester de [nouvelles formes de communications](/solutions), mais personne ne profiterait de mes choix. Je me suis alors demandé:
 

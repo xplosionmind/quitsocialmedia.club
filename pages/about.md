@@ -3,12 +3,12 @@ title: About
 ref: about
 lang: en
 permalink: /about/
-redirect_from: [/who/,/purpose/,/l00/,/l0/,/l-0/,/l-00/,/level0,/level-0/,/level-00/,/level00/]
+redirect_from: [/who/,/purpose/,/l00/,/l0/,/l-0/,/l-00/,/level0,/level-0/,/level-00/,/level00/,/en/about/]
 description: |
   What <cite>quitsocialmedia.club</cite> is, how it is born and what its purposes are.
 toc: false
 ---
-Hi, I'm Tommi, and I created this website. Let's skip the part [about me](https://tommi.space/about 'About - tommi.space'), you can read it [on my website](https://tommi.space/ 'tommi.space, Tommi's personal website').
+Hi, I'm Tommi, and I created this website. Let's skip the part [about me](https://tommi.space/about 'About - tommi.space'), you can read it [on my website](https://tommi.space/ 'tommi.space, Tommi’s personal website').
 
 I spent several tormented months tinkering about the ups and downs of Social Media. I got very stressed and particularly obsessed with their [ethical issues](/why). Eventually, I realized [**quitting**](/quit 'Quit') is the best (and probably the only) way to actually [feel better](/solutions 'Solutions').
 

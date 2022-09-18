@@ -4,8 +4,10 @@ layout: wrapper.html
 <div class='one column'>
 	<div class='row page-header'>
 		<h1>{{ title }}</h1>
-		{% if desctiption %}<p>{{ description | markdownify }}</p>{% endif %}
+		{% if description %}<p>{{ description | markdownify }}</p>{% endif %}
 	</div>
+
+	{% capture source %}{{ site.source }}/src/branch/main{{ page.inputPath | replace: './', '/' }}{% endcapture %}
 
 	{% if toc %}
 		<aside id='toc'>
@@ -30,7 +32,7 @@ layout: wrapper.html
 	</div>
 
 	<div class='row'>
-		<div class='flex center'><a class='button' href='{{ source }}' title='{% if lang == 'it' %}Visualizza{% else %}View{% endif %} {{ title }} source code'>{% if lang == 'it' %}Sorgente{% else %}Source{% endif %}</a></div>
+		<div class='flex center'><a class='button' href='{{ source }}' title='{% if lang == 'it' %}Visualizza{% else %}View{% endif %} {{ title }} source code'>{% case lang %}{% when 'it' %}Codice sorgente{% when 'fr' %}Code source{% else %}Source code{% endcase %}</a></div>
 		{% render 'share.html', lang: lang, title: title, encoded_absolute_url: encoded_absolute_url %}
 	</div>
 

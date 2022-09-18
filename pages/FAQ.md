@@ -2,7 +2,7 @@
 title: Objections and replies
 ref: faq
 permalink: /faq/
-redirect_from: [/wtf/,/frequently-asked-questions/,/replies-and-objections/,/objections-replies/,/objections-and-replies/,/replies-objections/]
+redirect_from: [/wtf/,/frequently-asked-questions/,/replies-and-objections/,/objections-replies/,/objections-and-replies/,/replies-objections/,/en/faq/]
 description: |
   As most of writers do, I sent an early preview of this website to friends and people I admire to share their impressions. In a philosopher-like style, I address some of their objections and questions in this page.
 ---

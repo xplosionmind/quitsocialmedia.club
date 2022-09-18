@@ -2,7 +2,7 @@
 title: But…
 ref: ma
 permalink: /but/
-redirect_from: [/yet/,/objections/,/but…/,/mais/,/mais…/]
+redirect_from: [/yet/,/objections/,/but…/,/mais/,/mais…/,/fr/but/,/en/but/]
 description: There are a ton of reasons to abandon Social Media, but there are a lot of arguably equally valuable ones not to do so. Here I will go through the main ones and show how nuch they are not completely valid.
 tags: l10n
 ---
