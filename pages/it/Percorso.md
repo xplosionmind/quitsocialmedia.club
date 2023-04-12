@@ -12,7 +12,7 @@ Non dovresti fare di corsa (anche perché probabilmente nemmeno vuoi): non elimi
 Prima di arrivarci, se ci arriverai, è importante seguire <u>un percorso di <strong>consapevolezza</strong></u>.
 
 <div class='blue box'>
-	Poiché si può agire a diversi livelli, in un anelito verso l'<a href='https://tommi.space/internet-freedom' target='_blank' title='“Internet Freedom” in Tommi's notes'><cite>Internet Freedom</cite></a>, ho trasformato questo percorso in un giochino: dal <a href='/it/l00'>Livello 0</a> al <a href='/it/l1000'>Livello 1000</a>.
+	Poiché si può agire a diversi livelli, in un anelito verso l'<a href='https://tommi.space/internet-freedom' target='_blank' title='“Internet Freedom” in Tommi’s notes'><cite>Internet Freedom</cite></a>, ho trasformato questo percorso in un giochino: dal <a href='/it/l00'>Livello 0</a> al <a href='/it/l1000'>Livello 1000</a>.
 </div>
 
 - **Livello 0**: scopri più [informazioni](/info 'Info - quitsocialmedia.club') su questo sito e, soprattutto, il suo [il suo fine](/info#fine 'Fine - quitsocialmedia.club')

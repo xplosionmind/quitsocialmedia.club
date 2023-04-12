@@ -23,7 +23,7 @@ As pointed out in the [about](/about) page, this website isn't meant to explain 
 - [What is RSS?](https://yewtu.be/6HNUqDL-pI8?quality=dash&dark_mode=true&player_style=youtube&subtitles=en%2Cit 'What is RSS?'), a YouTube <mark class='red'>video</mark>
 - [What is RSS](https://www.digitaltrends.com/computing/what-is-an-rss-feed/ 'What is an RSS feed'), an article
 - [RSS on Wikipedia](https://en.wikipedia.org/wiki/RSS 'RSS on Wikipedia') (or, even better, [Web feed](https://en.wikipedia.org/wiki/Web_feed 'Web feed on Wikipedia') on Wikipedia)
-- [It's Time for an RSS Revival](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/ 'It's Time for an RSS Revival'), an article by [Brian Barrett](https://www.wired.com/author/brian-barrett/ 'Brian Barrett author page') on [WIRED](https://wired.com 'WIRED')
+- [It's Time for an RSS Revival](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/ 'It’s Time for an RSS Revival'), an article by [Brian Barrett](https://www.wired.com/author/brian-barrett/ 'Brian Barrett author page') on [WIRED](https://wired.com 'WIRED')
 - [RSS before Social Media](https://yewtu.be/watch?v=0klgLsSxGsU&quality=dash&dark_mode=true&player_style=youtube&subtitles=en), a very interesting YouTube video to watch: it shows how before the diffusion of Social Media RSS really was the best way to stay updated.
 - RSS is fundamental in one field in particular: **podcasting**. Anyone who has a podcast publishes it in one place (a podcasting platform or a website) and all of the other podcasting platforms [get new episodes through its RSS feed](https://yewtu.be/TU5zc-u6dhY?t=159).
 
@@ -32,8 +32,6 @@ As pointed out in the [about](/about) page, this website isn't meant to explain 
 It can happen that you end up sad and you miss how much Social Media allowed you to connect with your loved ones in a way you could never replace with other systems, if they don't want to follow you in abandoning those platforms. It is understandable, even if the ideal solution would be if you all quit. Nevertheless, as always, there's a very smart and useful workaround, a tool which allows you to <u>convert Social Media timelines in RSS feeds</u>.
 
 Tools like that are actually more than one, but the most famous and developed one is [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge 'RSS-Bridge on GitHub').
-
-You are welcome to test and use the RSS-Bridge instance I host on my server by visiting <https://rss-bridge.tommi.space>. (mantaining and renting a server is no cheap matter. I am happy of offering my RSS-Bridge, nonetheless, if you started using it a lot, [a symbolic contribution](https://it.liberapay.com/tommi/donate 'Dona a Tommi su Liberapay') would mean a lot).
 
 ### Proxies
 

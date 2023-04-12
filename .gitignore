@@ -1,10 +1,4 @@
-# Eleventy stuff
 node_modules
 dist
 .env
-cache
-.cache
 www
-
-# Local Netlify folder
-.netlify

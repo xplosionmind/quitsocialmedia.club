@@ -1,5 +1,4 @@
 module.exports = {
-  permalink: '/{{ page.fileSlug | replace: " ", "-" }}/',
   lang: 'en',
   layout: 'page',
   image: '/logo/qsm.png',

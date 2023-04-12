@@ -1,0 +1,139 @@
+li {
+	a {
+		font-weight: 500;
+		&:hover,
+		&:focus {
+			text-shadow: var(--text-shadow);
+			color: transparent !important;
+		}
+		&:active {
+			text-shadow: none;
+			color: var(--link) !important;
+		}
+		&[href*='mailto' i] {
+		&::before {
+			content: '  ✉️ ';
+			}
+		}
+		&[href^='/stampa' i],
+		&[href^='/press' i] {
+			&::before {
+				content: '📰 ';
+			}
+		}
+		&[href$='/about' i],
+		&[href*='tommi.space' i] {
+			&::before {
+				content: '🙋🏻‍♂️ ';
+			}
+		}
+		&[href*='development' i] {
+			&::before {
+				content: '💻 ';
+			}
+		}
+		&[href*='link' i],
+		&[href*='resources' i] {
+			&::before {
+				content: '📚 ';
+				/* content: '🔗 '; */
+			}
+		}
+		&[href*='/path' i],
+		&[href*='/percorso' i] {
+			&::before {
+				content: '🧭 ';
+			}
+		}
+		&[href*='/why' i],
+		&[href*='/perch%C3%A9' i],
+		&[href*='/perche' i] {
+			&::after {
+				content: '❓';
+			}
+		}
+		&[href*='l10n' i] {
+			&::before {
+				content: '🌎 ';
+			}
+		}
+		&[href*='learn' i] {
+			&::before {
+				content: '📖 ';
+			}
+		}
+		&[href*='/solution' i],
+		&[href*='/soluz' i] {
+			&::before {
+				content: '💡 ';
+			}
+		}
+		&[href*='/quick' i],
+		&[href*='/veloce' i] {
+			&::before {
+				content: '⏰ ';
+			}
+		}
+		&[href*='/watch' i],
+		&[href*='/guarda' i] {
+			&::before {
+				content: '🍿 ';
+			}
+		}
+		&[href*='/note' i],
+		&[href='/roadmap' i] {
+			&::before {
+				content: '📝 ';
+			}
+		}
+		&[href*='/listen' i],
+		&[href*='/ascolta' i] {
+			&::before {
+				content: '🎧 ';
+			}
+		}
+		&[href='/delete' i],
+		&[href='/quit' i] {
+			&::before {
+				content: '❌ ';
+			}
+		}
+		&[href^='/contributors' i],
+		&[href^='/it/cont' i],
+		&[href='/partecipanti' i] {
+			&::before {
+				content: '🧑🏽‍💻 ';
+			}
+		}
+		&[href*='liberapay' i],
+		&[href*='/contribute' i],
+		&[href*='/contribuisci' i] {
+			&::before {
+				content: '🎁 ';
+			}
+		}
+		&[href*='keys.openpgp.org' i] {
+			&::before {
+				content: '🔑 ';
+			}
+		}
+		&[href='/share' i],
+		&[href='/condividi' i] {
+			&::before {
+				content: '📢 ';
+			}
+		}
+		&[href^='/ob' i],
+		&[href*='/faq' i] {
+			&::before {
+				content: '🤔 ';
+			}
+		}
+		&[href='/ma' i],
+		&[href='/but' i] {
+			&::before {
+				content: '🤨 ';
+			}
+		}
+	}
+}

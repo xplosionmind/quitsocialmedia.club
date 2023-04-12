@@ -9,14 +9,11 @@
 		{% endfor %}
 	{% endif %}
 
-	{% render 'head.html', date: date, updated: updated, title: title, description: description, primary: primary, lang: lang, alternates: alternates, site: site, url: page.url, layout: layout, image: image %}
-	{% capture source %}{{ site.source }}/src/branch/main{{ page.inputPath | replace: './', '/' }}{% endcapture %}
+	{% render 'head.html', runMode: eleventy.env.runMode, latex: latex, date: date, updated: updated, title: title, description: description, primary: primary, lang: lang, alternates: alternates, accounts: accounts, site: site, url: page.url, layout: layout, isNote: isNote, isPost: isPost, tommi: tommi, image: image %}
 
 	<body>
-		<a id='scrollbutton' class='tool' href='#' aria-label='scroll to top' title='scroll to top'>
-			<svg class='button' viewBox='0 0 24 24' style='background:var(--background)' aria-hidden='true'><path d='M18 15a1 1 0 0 1-.64-.23L12 10.29l-5.37 4.32a1 1 0 0 1-1.41-.15 1 1 0 0 1 .15-1.41l6-4.83a1 1 0 0 1 1.27 0l6 5a1 1 0 0 1 .13 1.41A1 1 0 0 1 18 15z' fill='var(--text)'/></svg>
-		</a>
-		{% render 'nav.html', lang: lang, alternates: alternates, site: site %}
+
+		{% render 'nav.liquid', lang: lang, site.title: site.title %}
 
 		{% if tags contains 'draft' or tags contains 'wip' %}
 			{% render 'draft.html', lang: lang, title: title, source: source %}
@@ -27,22 +24,13 @@
 		{% endif %}
 
 		{{ content }}
-		{% render 'footer.html', lang: lang %}
 
-		<script type='text/javascript'>
-			scrollbutton = document.getElementById('scrollbutton');
-			window.onscroll = function() {scroll()};
-			function scroll() {
-				if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
-					scrollbutton.href='#';
-					scrollbutton.title='scroll to top';
-					scrollbutton.setAttribute('aria-label', 'scroll to top');
-				} else {
-					scrollbutton.href='#0';
-					scrollbutton.title='scroll to bottom';
-					scrollbutton.setAttribute('aria-label', 'scroll to bottom');
-				};
-			}
-		</script>
+		<div class='row'>
+			{% render 'footer.html', lang: lang %}
+		</div>
+	
+		{% render 'toolbar.liquid', lang: lang, alternates: alternates, url: page.url %}
+
+		<script src='/index.js' type='text/javascript'></script>
 	</body>
 </html>

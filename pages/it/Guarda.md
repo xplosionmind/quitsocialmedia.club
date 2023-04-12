@@ -1,5 +1,6 @@
 ---
 title: Guarda
+permalink: /guarda/
 description: Invece di leggere, potresti preferire alcuni documentari o conferenze sui Social Media.
 ref: watch
 ---

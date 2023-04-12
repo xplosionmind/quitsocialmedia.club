@@ -1,6 +1,6 @@
 ---
 title: '“Veloce riassunto„'
-permalink: /veloce
+permalink: /veloce/
 ref: quick
 description: Non hai né il tempo né la voglia di leggere tutto ciò che è scritto qui e vuoi solo conoscerne i punti fondamentali? Questa è la pagina giusta per te.
 layout: page

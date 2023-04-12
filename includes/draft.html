@@ -1,7 +1,7 @@
 <div class='one column row'>
 	<div class='banner red box'>
-		<h3>🚧 {% case lang %}{% when 'it' %}Lavori in corso{% when 'fr' %}Travail en cours{% else %}Work in progress{% endcase %} 🏗</h3>
-		{% case lang %}
+		<h3>🚧 {% case lang %}{% when 'it' %}Lavori in corso{% when 'fr' %}Travail en cours{% else %}Work in progress{% endcase %} 🏗️</h3>
+		<p class='center'>{% case lang %}
 			{% when 'it' %}
 				Questa pagina è ancora <u>in fase di scrittura</u>. Perdona eventuali errori o imprecisioni.<br />
 				Se hai parti da aggiungere o da correggere, <a href='{{ source }}' target='_blank' title='Modifica “{{ title }}” su GitHub'>puoi completarla tu</a>!
@@ -11,6 +11,6 @@
 			{% else %}
 				This page is still being written or edited. Please pardon possible errors or imperfections.<br />
 				If you have something to add or to adjust yourself, <a href='{{ source }}' target='_blank' title='Edit “{{ title }} on GitHub”'>feel free to do it</a>!
-		{% endcase %}
+		{% endcase %}</p>
 	</div>
 </div>

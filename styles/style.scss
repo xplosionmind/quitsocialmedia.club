@@ -1,46 +1,12 @@
+@use 'parts/normalize';
+@use 'parts/root';
 @use 'parts/nav';
-@use 'parts/inter';
-@use 'parts/ubuntu-mono';
-
-$tiny: .2rem;
-$small: .5rem;
-$regular-less: .9rem;
-$regular: 1.1rem;
-$regular-more: 1.3rem;
-$regular-more-em: 1.3em;
-$big: 1.6rem;
-$bigger: 1.8rem;
-$twice: 2.2rem;
-$height: 3.1rem;
-$mastodon: 4.4rem;
-$radius-s: .4rem;
-$radius-m: .6rem;
-$radius-l: 1rem;
-$trans: .5s;
-$quicktrans: .2s;
-
-:root {
-	--black-ish: #222;
-	--white-ish: #F1FAEE;
-	--dark-grey: #555;
-	--light-grey: #AAA;
-	--yellow: #FCC920;
-	--dark-yellow: #D0A00E;
-	--light-blue: #A8DADC;
-	--blue: #1D3557;
-	--red: #E63946;
-	--green: #20CE88;
-	--razzmatazz: #EC0868;
-	--purple: #592176;
-	
-	color-scheme: dark light;
-
-	--title-text-shadow-hover: none;
-}
+@use 'parts/links-emojis';
+@use 'parts/search';
 
 html {
 	box-sizing: border-box;
-	cursor: url(/red-cursor.svg) 16 16, crosshair;
+	cursor: url(/cursor.svg) 16 16, crosshair;
 	background: var(--background);
 	scroll-behavior: smooth;
 
@@ -53,17 +19,17 @@ html {
 	--internal-link: var(--primary);
 	--grey: var(--light-grey);
 	--other-grey: var(--dark-grey);
-	--shadow: 5px 5px 20px #10204055, -5px -5px 20px #FFFFFFEF;
+	--shadow: 5px 5px 20px #10204055, -5px -5px 20px #FFF;
 	--little-shadow: 2px 2px 3px #10204055, -2px -2px 3px #FFF6;
-	--button-shadow: 3px 3px 8px #10204055, -3px -3px 8px #FFF6;
-	--inner-shadow: inset 3px 3px 5px #10204055, inset -3px -3px 5px #FFF3;
+	--button-shadow: inset 2px 2px 4px #FFFC, inset -2px -2px 4px #0006;
+	--inner-shadow: inset 3px 3px 5px #0003, inset -3px -3px 5px #FFF2;
 	--inner-little-shadow: inset 2px 2px 3px #10204022, inset -2px -2px 3px #FFF3;
 	--header-shadow: 5px 5px 15px #10204033, -5px -5px 15px #FFFF;
 
 	--text-shadow: 0px 0px 0px var(--link), 1px 1px 1px var(--grey);
 	--title-text-shadow: -3px -3px 0px var(--text), -3px -2px 1px var(--grey), -2px -3px 1px var(--grey), -2px -2px 0px var(--grey), -1px -1px 0px var(--grey), 0px 0px 0px var(--grey);
 
-	transition: $trans;
+	transition: root.$trans;
 }
 
 /* DARK THEME */
@@ -78,26 +44,24 @@ html {
 		--internal-link: var(--primary);
 		--grey: var(--dark-grey);
 		--other-grey: var(--light-grey);
-		--shadow: 5px 5px 20px #102040BB, -5px -5px 20px #FFFFFF11;
+		--shadow: 5px 5px 20px #0007, -5px -5px 20px #FFF2;
 		--little-shadow: 2px 2px 3px #102040EF, -2px -2px 3px #FFFFFF22;
-		--button-shadow: 3px 3px 8px #102040AA, -3px -3px 8px #FFFFFF11;
-		--inner-shadow: inset 3px 3px 5px #10204088, inset -3px -3px 5px #FFF2;
-		--inner-little-shadow: inset 2px 2px 3px #102040AA, inset -2px -2px 3px #FFF1;
+		--button-shadow: inset 2px 2px 4px #FFF8, inset -2px -2px 4px #0008;
 		--header-shadow: 5px 5px 15px #102040DD, -5px -5px 15px #FFF2;
 
-		transition: $trans;
+		transition: root.$trans;
 	}
 }
 
 body {
-	font: $regular Inter, -apple-system, Helvetica, 'Helvetica Neue', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+	font: root.$regular Inter, -apple-system, Helvetica, 'Helvetica Neue', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 	margin: 0;
 	overflow-wrap: break-word;
 	hyphens: auto;
 }
 
 * {
-	transition: $trans, transform $quicktrans;
+	transition: root.$trans, transform root.$trans-quick;
 }
 
 #menutoggle,
@@ -134,7 +98,7 @@ mark {
 	color: var(--background);
 	font-weight: 500;
 	padding: 0 4px;
-	border-radius: $radius-s
+	border-radius: root.$radius-s
 }
 
 ::selection {
@@ -147,12 +111,44 @@ mark {
 	bottom: 3vw;
 	right: 4vw;
 	z-index: 2;
+	display: flex;
 	.button {
-		padding: .3rem;
+		width: root.$height;
+		height: root.$height;
+		line-height: root.$height;
+		padding: 0 root.$small;
+		margin: root.$tiny;
+		color: var(--text);
+		fill: var(--text);
+		background: var(--background) !important;
 	}
 }
 
-#scrollbutton[href='#0'] {
+#nav-toggle-button {
+	&:active,
+	&:hover,
+	&:focus {
+		box-shadow: var(--inner-shadow);
+	}
+}
+
+.lang-list {
+	display: none;
+	bottom: root.$height + 2*root.$tiny;
+	right: root.$height + 2*root.$tiny;
+	position: absolute;
+	flex-direction: column;
+	#langtoggle:checked + & {
+		display: flex;
+	}
+}
+
+#menutoggle,
+#langtoggle {
+	display: none;
+}
+
+.scrollToBottom {
 	.button {
 		transform: rotate(180deg);
 		box-shadow: inset -2px -2px 4px #FFF8, inset 2px 2px 4px #0008;
@@ -183,149 +179,7 @@ a {
 	}
 }
 
-p,
-li,
-article li,
-.toc {
-	a {
-		font-weight: 500;
-		transition: $quicktrans;
-		&:hover,
-		&:focus {
-			text-shadow: var(--text-shadow);
-			color: transparent !important;
-		}
-		&:active {
-			text-shadow: none;
-			color: var(--link) !important;
-		}
-		&[href*='mailto' i] {
-		&::before {
-			content: '  ✉️ ';
-			}
-		}
-		&[href^='/stampa' i],
-		&[href^='/press' i] {
-			&::before {
-				content: '📰 ';
-			}
-		}
-		&[href$='/about' i],
-		&[href*='tommi.space' i] {
-			&::before {
-				content: '🙋🏻‍♂️ ';
-			}
-		}
-		&[href*='development' i] {
-			&::before {
-				content: '💻 ';
-			}
-		}
-		&[href*='link' i],
-		&[href*='resources' i] {
-			&::before {
-				content: '📚 ';
-				/* content: '🔗 '; */
-			}
-		}
-		&[href*='/path' i],
-		&[href*='/percorso' i] {
-			&::before {
-				content: '🧭 ';
-			}
-		}
-		&[href*='/why' i],
-		&[href*='/perch%C3%A9' i],
-		&[href*='/perche' i] {
-			&::after {
-				content: '❓';
-			}
-		}
-		&[href*='l10n' i] {
-			&::before {
-				content: '🌎 ';
-			}
-		}
-		&[href*='learn' i] {
-			&::before {
-				content: '📖 ';
-			}
-		}
-		&[href*='/solution' i],
-		&[href*='/soluz' i] {
-			&::before {
-				content: '💡 ';
-			}
-		}
-		&[href*='/quick' i],
-		&[href*='/veloce' i] {
-			&::before {
-				content: '⏰ ';
-			}
-		}
-		&[href*='/watch' i],
-		&[href*='/guarda' i] {
-			&::before {
-				content: '🍿 ';
-			}
-		}
-		&[href*='/note' i],
-		&[href='/roadmap' i] {
-			&::before {
-				content: '📝 ';
-			}
-		}
-		&[href*='/listen' i],
-		&[href*='/ascolta' i] {
-			&::before {
-				content: '🎧 ';
-			}
-		}
-		&[href='/delete' i],
-		&[href='/quit' i] {
-			&::before {
-				content: '❌ ';
-			}
-		}
-		&[href^='/contributors' i],
-		&[href^='/it/cont' i],
-		&[href='/partecipanti' i] {
-			&::before {
-				content: '🧑🏽‍💻 ';
-			}
-		}
-		&[href*='liberapay' i],
-		&[href*='/contribute' i],
-		&[href*='/contribuisci' i] {
-			&::before {
-				content: '🎁 ';
-			}
-		}
-		&[href*='keys.openpgp.org' i] {
-			&::before {
-				content: '🔑 ';
-			}
-		}
-		&[href='/share' i],
-		&[href='/condividi' i] {
-			&::before {
-				content: '📢 ';
-			}
-		}
-		&[href^='/ob' i],
-		&[href*='/faq' i] {
-			&::before {
-				content: '🤔 ';
-			}
-		}
-		&[href='/ma' i],
-		&[href='/but' i] {
-			&::before {
-				content: '🤨 ';
-			}
-		}
-	}
-}
+
 
 .flex {
 	display: flex;
@@ -345,7 +199,7 @@ button,
 .aa-suggestion,
 .embed-container,
 label {
-	cursor: url(/red-cursor-hover.svg) 16 16, pointer;
+	cursor: url(/cursor-hover.svg) 16 16, pointer;
 }
 
 
@@ -359,8 +213,6 @@ label {
 }
 
 li {
-	margin-bottom: $small;
-	line-height: $regular-more-em;
 	li {
 		margin-bottom: 0;
 		list-style-type: '–   ';
@@ -374,20 +226,13 @@ li {
 	list-style: none;
 }
 
-.task-list-item-checkbox {
-	position: relative;
-	right: $regular-less;
-	width: $regular;
-	height: $regular;
-}
-
 .post {
 	& > p:first-of-type::first-letter {
 		initial-letter: 4;
 		-webkit-initial-letter: 4;
 	}
 	.embed-container {
-		border-radius: $radius-l;
+		border-radius: root.$radius-l;
 		box-shadow: var(--shadow);
 	}
 }
@@ -399,9 +244,9 @@ hr {
 
 .line {
 	width: 20%;
-	height: $small;
+	height: root.$small;
 	margin: 0 auto;
-	border-radius: $radius-s;
+	border-radius: root.$radius-s;
 	box-shadow: var(--little-shadow);
 }
 
@@ -412,8 +257,9 @@ hr {
 
 .page-header {
 	h1 {
-		font-size: $mastodon;
-		margin: $regular-less;
+		font-size: root.$mega;
+		margin: root.$regular-less;
+		margin-top: root.$height;
 		text-shadow: var(--header-shadow);
 	}
 	p {
@@ -423,7 +269,7 @@ hr {
 }
 
 .toc {
-	margin: 0 10% $regular;
+	margin: 0 10% root.$regular;
 	li {
 		margin: 0;
 		li {
@@ -445,9 +291,9 @@ code {
 
 pre {
 	overflow-x: scroll;
-	margin: $bigger 0;
-	padding: $regular-more;
-	border-radius: $radius-m;
+	margin: root.$bigger 0;
+	padding: root.$regular-more;
+	border-radius: root.$radius-m;
 	box-shadow: var(--inner-shadow);
 	background: var(--black-ish);
 	code {
@@ -458,7 +304,7 @@ pre {
 code {
 	padding: 2px 9px;
 	box-shadow: var(--inner-little-shadow);
-	border-radius: $radius-s;
+	border-radius: root.$radius-s;
 }
 
 .cite {
@@ -484,7 +330,7 @@ tr {
 }
 
 th {
-	padding: $small $regular-less;
+	padding: root.$small root.$regular-less;
 	
 	/* making the header sticky */
 	position: sticky;
@@ -494,15 +340,15 @@ th {
 
 td {
 	font-size: .8em;
-	padding: $tiny $small;
+	padding: root.$tiny root.$small;
 }
 
 .table {
 	max-height: 90vh;
 	overflow: scroll;
-	margin: $height 2vw;
+	margin: root.$height 2vw;
 	border: 3px solid var(--grey);
-	border-radius: $radius-l;
+	border-radius: root.$radius-l;
 	box-shadow: var(--shadow);
 }
 
@@ -518,12 +364,12 @@ table {
 		font-weight: 800;
 		margin-bottom: 0;
 		position: relative;
-		bottom: $regular;
+		bottom: root.$regular;
 	}
 	.button {
 		color: var(--primary);
 		background: var(--background);
-		margin: $tiny $regular-less;
+		margin: root.$tiny root.$regular-less;
 	}
 }
 
@@ -581,11 +427,11 @@ img {
 	max-width: 100%;
 	height: auto;
 	display: block;
-	border-radius: $radius-l;
+	border-radius: root.$radius-l;
 }
 
 figure {
-	margin: $height auto;
+	margin: root.$height auto;
 	img {
 		max-height: 90vh;
 		border: solid 1px black;
@@ -595,9 +441,9 @@ figure {
 }
 
 figcaption {
-	font: $regular 'EB Garamond', Garamond, 'Simoncini Garamond', Georgia, serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-	line-height: $regular;
-	margin-top: $regular-less;
+	font: root.$regular 'EB Garamond', Garamond, 'Simoncini Garamond', Georgia, serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+	line-height: root.$regular;
+	margin-top: root.$regular-less;
 	color: var(--other-grey);
 	text-align: center;
 }
@@ -627,8 +473,8 @@ b {
 } */
 
 article {
-	font-size: $regular-more;
-	padding: $twice 10% $mastodon;
+	font-size: root.$regular-more;
+	padding: root.$twice 10% root.$mega;
 }
 
 time {
@@ -650,23 +496,23 @@ h1, h2, h3, h4, h5 {
 .title {
 	font-weight: 800;
 	letter-spacing: .1em;
-	font-size: $twice;
+	font-size: root.$twice;
 	color: transparent;
-	margin: $regular auto;
+	margin: root.$regular auto;
 	text-shadow: var(--title-text-shadow);
 	text-align: center;
-	transition: $quicktrans;
+	transition: root.$trans-quick;
 }
 
 h1 {
 	color: var(--text);
 	text-align: center;
-	font-size: $height;
+	font-size: root.$height;
 	text-decoration: none;
 }
 
 h2 {
-	font-size: $bigger;
+	font-size: root.$bigger;
 	.anchor {
 		&::after {
 			content: '#';
@@ -685,19 +531,19 @@ h3 {
 .box {
 	max-width: 100%;
 	color: var(--text);
-	padding: $big;
-	margin-top: $bigger;
-	margin-bottom: $bigger;
-	border-radius: $radius-l;
+	padding: root.$big;
+	margin-top: root.$bigger;
+	margin-bottom: root.$bigger;
+	border-radius: root.$radius-l;
 	box-shadow: var(--shadow);
 	overflow: scroll;
 	&.post-preview {
-		margin-top: $regular-less;
-		margin-bottom: $regular-less;
+		margin-top: root.$regular-less;
+		margin-bottom: root.$regular-less;
 		max-height: unset;
-		padding: $small;
+		padding: root.$small;
 		.date {
-			margin: 0 $regular;
+			margin: 0 root.$regular;
 		}
 		.button {
 			transform: scale(.7);
@@ -716,14 +562,14 @@ h3 {
 .box,
 .stuff {
 	p {
-		margin: $regular 10%;
+		margin: root.$regular 10%;
 	}
 }
 
 .stuff {
 	padding: 4vw 2vw;
-	margin: $height 2vw;
-	border-radius: $radius-l;
+	margin: root.$height 2vw;
+	border-radius: root.$radius-l;
 	box-shadow: var(--shadow);
 	.column {
 		padding: 0 2vw;
@@ -739,8 +585,8 @@ h3 {
 }
 
 .last-modified {
-	margin: 0 auto $twice;
-	font-size: $regular-less;
+	margin: 0 auto root.$twice;
+	font-size: root.$regular-less;
 	opacity: .8;
 	text-align: center;
 }
@@ -750,7 +596,7 @@ footer {
 	overflow: hidden;
 	width: 96%;
 	padding: 2vw;
-	border-radius: $radius-l;
+	border-radius: root.$radius-l;
 	box-shadow: var(--shadow);
 	* {
 		text-align: center;
@@ -772,19 +618,19 @@ footer {
 
 @media only screen and (max-width: 950px) {
 	.page-header h1 {
-		font-size: $height;
+		font-size: root.$height;
 	}
 	.box {
-		margin: $bigger 3%;
+		margin: root.$bigger 3%;
 	}
 	.stuff-logo {
-		margin-top: $bigger
+		margin-top: root.$bigger
 	}
 	.margin {
 		margin: 0 10%;
 	}
 	article {
-		padding: $twice 7% $mastodon;
+		padding: root.$twice 7% root.$mega;
 	}
 	.tool {
 		bottom: 3vh
@@ -794,7 +640,7 @@ footer {
 audio {
 	width: 100%;
 	box-shadow: var(--shadow);
-	border-radius: $radius-m;
+	border-radius: root.$radius-m;
 }
 
 .controlBar {
@@ -803,21 +649,21 @@ audio {
 
 svg.button,
 img.button {
-	height: $height;
+	height: root.$height;
 	width: auto;
 	padding: 0;
-	margin: $tiny;
+	margin: root.$tiny;
 	background: var(--primary);
 }
 
-button,
 .button {
 	display: inline-block;
-	padding: $small $regular;
-	font-size: $bigger;
+	background: var(--background);
+	padding: root.$small root.$regular;
+	font-size: root.$bigger;
 	font-weight: 700;
 	text-transform: uppercase;
-	border-radius: $radius-m;
+	border-radius: root.$radius-m;
 	box-shadow: var(--button-shadow);
 	text-align: center;
 	hyphens: none;
@@ -833,19 +679,19 @@ button,
 .written {
 	background: var(--primary);
 	color: var(--background);
-	margin: $big;
+	margin: root.$big;
 }
 
 .smaller {
-	padding: $tiny $regular-less;
-	margin: $small;
-	font-size: $big;
-	border-radius: $radius-s;
+	padding: root.$tiny root.$regular-less;
+	margin: root.$small;
+	font-size: root.$big;
+	border-radius: root.$radius-s;
 }
 
 .sharing {
 	.button {
-		margin-right: $small;
+		margin-right: root.$small;
 		padding: .4rem;
 	}
 }

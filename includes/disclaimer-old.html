@@ -1,0 +1,11 @@
+<div class='red box'>
+	<h2 class='title'>{% case lang %}{% when 'it' %}Nota{% when 'fr' %}À savoir{% else %}Disclaimer{% endcase %}</h2>
+	<p>{% case lang %}
+	{% when 'it' %}
+		Quasi tutti i contenuti di questo sito sono stati creati e aggiunti più di due anni fa. Seppur molte argomentazioni rimangano valide, molte informazioni sarebbero da aggiornare. <a href='https://tommi.space'>Tommi</a>, l’autore originale, purtroppo non riesce a mantenere questo progetto con la frequenza che meriterebbe, ma chiunque può comunque <a href='/contribuisci'>contribuire</a>.
+	{% when 'fr' %}
+		Presque tous les contenus presents sur ce site ont été creés et ajoutés il y a plus de deux ans. La majorité des arguments reste valide, toutefois beaucoup d’informations devrient être mis à jour. <a href='https://tommi.space'>Tommi</a>, l’auteur originel, malheureusement ne peut pas maintenir ce projet comment il mérite. Toute le monde est libre de <a href='/contribute' hreflang='en'>contribuer</a> quand même.
+	{% else %}
+	Almost everything in this website is more than two years old. The majority of the arguments sustained stays absolutely valid, but many information probably are out of date. <a href='https://tommi.space'>Tommi</a>, the original author, unfortunately cannot maintain this project as frequently and comprehensively as it deserves. Nevertheless, everyone is welcome to <a href='/contribute'>contribute</a> anyway.
+	{% endcase %}</p>
+</div>

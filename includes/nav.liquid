@@ -1,0 +1,44 @@
+<header>
+	<a id='home' href='{% case lang %}{% when 'it' %}/it/home{% when 'fr' %}/fr/home{% else %}/home{% endcase %}' title='home'>Quit Social Media</a>
+	<nav id='nav'>
+		<input type='checkbox' id='menutoggle'>
+		<menu>
+			<li><a href='/{{ lang }}/about' title='
+				{% case lang %}
+					{% when 'it' %}Info'>Info
+					{% when 'fr' %}À propos'>À propos
+					{% else %}About'>About
+				{% endcase %}
+			</a></li>
+			<li><a href='/{{ lang }}/why' title='
+				{% case lang %}
+					{% when 'it' %}Perché'>Perché
+					{% when 'fr' %}Pourquoi'>Pourquoi
+					{% else %}Why'>Why
+				{% endcase %}
+			</a></li>
+			<li><a href='/{{ lang }}/but' title='
+				{% case lang %}
+					{% when 'it' %}Obiezioni e Risposte'><q>Ma…</q>
+					{% when 'fr' %}Objections et Réponses'><q>Mais…</q>
+					{% else %}Objections and Replies'><q>But…</q>
+				{% endcase %}
+			</a></li>
+			<li><a href='/{{ lang }}/path' title='
+				{% case lang %}
+					{% when 'it' %}Percorso'>Percorso
+					{% when 'fr' %}Chemin'>Chemin
+					{% else %}Path'>Path
+				{% endcase %}
+			</a></li>
+			<li><a href='/{{ lang }}/sol' title='
+				{% case lang %}
+					{% when 'it' %}Soluzioni e alternative'>Alternative
+					{% when 'fr' %}Solutions et alternatives'>Alternatives
+					{% else %}Solutions and alternatives'>Alternatives
+				{% endcase %}
+			</a></li>
+			<li><a href='/{{ lang }}/faq' title='FAQ'>FAQ</a></li>
+		</menu>
+	</nav>
+</header>

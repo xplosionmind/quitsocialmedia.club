@@ -1,42 +1,8 @@
 <section class='flex box'>
 	<h2 style='margin-right:1rem'>{% if lang == 'it' %}Condividi{% else %}Share{% endif %}</h2>
 	<div id='share' class='flex'>
-		<!-- Copy URL -->
-		<script>
-			function Copy(text) {
-				var inputc = document.body.appendChild(document.createElement('input'));
-				inputc.value = window.location.href;
-				inputc.focus();
-				inputc.select();
-				document.execCommand('copy');
-				inputc.parentNode.removeChild(inputc);
-				alert('{% if lang == 'it' %}URL copiato{% else %}URL has been copied{% endif %}');
-			}
-		</script>
-		<svg title='{% if lang == 'it' %}Copia URL{% else %}Copy URL{% endif %}' onclick='Copy()' class='button' viewBox='0 0 24 24' ><path d='M13.29 9.29l-4 4a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0l4-4a1 1 0 0 0-1.42-1.42z' fill='var(--background)'/><path d='M12.28 17.4L11 18.67a4.2 4.2 0 0 1-5.58.4 4 4 0 0 1-.27-5.93l1.42-1.43a1 1 0 0 0 0-1.42 1 1 0 0 0-1.42 0l-1.27 1.28a6.15 6.15 0 0 0-.67 8.07 6.06 6.06 0 0 0 9.07.6l1.42-1.42a1 1 0 0 0-1.42-1.42z' fill='var(--background)'/><path d='M19.66 3.22a6.18 6.18 0 0 0-8.13.68L10.45 5a1.09 1.09 0 0 0-.17 1.61 1 1 0 0 0 1.42 0L13 5.3a4.17 4.17 0 0 1 5.57-.4 4 4 0 0 1 .27 5.95l-1.42 1.43a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0l1.42-1.42a6.06 6.06 0 0 0-.6-9.06z' fill='var(--background)'/></svg>
-		<!-- Mastodon --><svg title='Share on Mastodon' onclick='share_on_mastodon();' class='button' width='300' height='300' version='1.1' viewBox='0 0 281.2 281.2' ><rect width='281.2' height='281.2' style='fill:var(--primary);'/><path d='m244.2 161.9c-3.181 16.37-28.49 34.28-57.56 37.75-15.16 1.809-30.08 3.471-46 2.741-26.03-1.192-46.56-6.212-46.56-6.212 0 2.534 0.1562 4.946 0.4688 7.202 3.384 25.69 25.47 27.22 46.39 27.94 21.12 0.7225 39.92-5.206 39.92-5.206l0.8675 19.09s-14.77 7.931-41.08 9.39c-14.51 0.7975-32.52-0.365-53.51-5.919-45.51-12.04-53.33-60.55-54.53-109.8-0.365-14.61-0.14-28.39-0.14-39.92 0-50.33 32.98-65.08 32.98-65.08 16.63-7.636 45.16-10.85 74.82-11.09h0.7288c29.66 0.2425 58.21 3.454 74.84 11.09 0 0 32.98 14.75 32.98 65.08 0 0 0.4138 37.13-4.599 62.92' fill='var(--background)'/><path d='m209.9 102.9v60.94h-24.14v-59.15c0-12.47-5.246-18.8-15.74-18.8-11.6 0-17.42 7.508-17.42 22.35v32.38h-24v-32.38c0-14.85-5.816-22.35-17.42-22.35-10.49 0-15.74 6.329-15.74 18.8v59.15h-24.14v-60.94c0-12.46 3.171-22.35 9.541-29.68 6.569-7.322 15.17-11.08 25.85-11.08 12.36 0 21.71 4.749 27.9 14.25l6.014 10.08 6.015-10.08c6.185-9.499 15.54-14.25 27.9-14.25 10.68 0 19.28 3.754 25.85 11.08 6.369 7.322 9.54 17.22 9.54 29.68' fill='var(--primary)'/></svg>
-		<script>
-			function share_on_mastodon() {
-					var default_url = localStorage['mastodon_instance']; 
-			
-					if (!default_url)
-							default_url = 'https://'; 
-			
-					var instance = prompt('Enter your instance’s address: (for example mastodon.uno)', default_url);
-					if (instance) { 
-							if ( !instance.startsWith('https://') && !instance.startsWith('http://') )
-									instance = 'https://' + instance;
-							var url   = window.location.href;
-							var title = document.getElementsByTagName('title')[0].innerHTML;
-							if ( !instance.endsWith('/') )
-									instance = instance + '/'; 
-							localStorage['mastodon_instance'] = instance; 
-							var author   = '@tommi@mastodon.uno'; 
-							mastodon_url = instance + 'share?text=' + encodeURIComponent(title + '\n\n' + url + '\n\n' + author);
-							window.open(mastodon_url, '_blank');
-					}
-			}
-		</script>
+		<svg id='copyUrl' title='{% if lang == 'it' %}Copia URL{% else %}Copy URL{% endif %}' type='button' class='button' viewBox='0 0 24 24' ><path d='M13.29 9.29l-4 4a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0l4-4a1 1 0 0 0-1.42-1.42z' fill='var(--background)'/><path d='M12.28 17.4L11 18.67a4.2 4.2 0 0 1-5.58.4 4 4 0 0 1-.27-5.93l1.42-1.43a1 1 0 0 0 0-1.42 1 1 0 0 0-1.42 0l-1.27 1.28a6.15 6.15 0 0 0-.67 8.07 6.06 6.06 0 0 0 9.07.6l1.42-1.42a1 1 0 0 0-1.42-1.42z' fill='var(--background)'/><path d='M19.66 3.22a6.18 6.18 0 0 0-8.13.68L10.45 5a1.09 1.09 0 0 0-.17 1.61 1 1 0 0 0 1.42 0L13 5.3a4.17 4.17 0 0 1 5.57-.4 4 4 0 0 1 .27 5.95l-1.42 1.43a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0l1.42-1.42a6.06 6.06 0 0 0-.6-9.06z' fill='var(--background)'/></svg>
+		<!-- Mastodon --><svg id='shareViaMastodon' title='Share via Mastodon' type='button' class='button' width='300' height='300' version='1.1' viewBox='0 0 281.2 281.2' ><rect width='281.2' height='281.2' style='fill:var(--primary);'/><path d='m244.2 161.9c-3.181 16.37-28.49 34.28-57.56 37.75-15.16 1.809-30.08 3.471-46 2.741-26.03-1.192-46.56-6.212-46.56-6.212 0 2.534 0.1562 4.946 0.4688 7.202 3.384 25.69 25.47 27.22 46.39 27.94 21.12 0.7225 39.92-5.206 39.92-5.206l0.8675 19.09s-14.77 7.931-41.08 9.39c-14.51 0.7975-32.52-0.365-53.51-5.919-45.51-12.04-53.33-60.55-54.53-109.8-0.365-14.61-0.14-28.39-0.14-39.92 0-50.33 32.98-65.08 32.98-65.08 16.63-7.636 45.16-10.85 74.82-11.09h0.7288c29.66 0.2425 58.21 3.454 74.84 11.09 0 0 32.98 14.75 32.98 65.08 0 0 0.4138 37.13-4.599 62.92' fill='var(--background)'/><path d='m209.9 102.9v60.94h-24.14v-59.15c0-12.47-5.246-18.8-15.74-18.8-11.6 0-17.42 7.508-17.42 22.35v32.38h-24v-32.38c0-14.85-5.816-22.35-17.42-22.35-10.49 0-15.74 6.329-15.74 18.8v59.15h-24.14v-60.94c0-12.46 3.171-22.35 9.541-29.68 6.569-7.322 15.17-11.08 25.85-11.08 12.36 0 21.71 4.749 27.9 14.25l6.014 10.08 6.015-10.08c6.185-9.499 15.54-14.25 27.9-14.25 10.68 0 19.28 3.754 25.85 11.08 6.369 7.322 9.54 17.22 9.54 29.68' fill='var(--primary)'/></svg>
 		<!-- Pocket --><a href='https://getpocket.com/save?url={{ encoded_absolute_url }}&title={{ title | url_encode }}'>
 			<svg class='button' width='24' height='24' viewBox='0 0 24 24'><path fill-rule='evenodd' clip-rule='evenodd' fill='var(--background)' d='M0.9999,10.6312 L0.9999,4.0682 C0.9999,2.9302 1.9309,2.0002 3.0679,2.0002 L20.9329,2.0002 C22.0699,2.0002 22.9999,2.9302 22.9999,4.0682 L22.9999,10.6312 L22.9999,10.6432 C22.9999,16.7182 18.0749,21.6432 11.9999,21.6432 C5.9249,21.6432 0.9999,16.7182 0.9999,10.6432 L0.9999,10.6312 Z M12.0151,12.0203514 L7.86472144,8.02991037 C7.26754166,7.4557433 6.31797743,7.47439879 5.74381037,8.07157856 C5.1696433,8.66875834 5.18829879,9.61832257 5.78547856,10.1924896 L10.9754786,15.1824896 C11.556135,15.7407701 12.474065,15.7407701 13.0547214,15.1824896 L18.2447214,10.1924896 C18.8419012,9.61832257 18.8605567,8.66875834 18.2863896,8.07157856 C17.7122226,7.47439879 16.7626583,7.4557433 16.1654786,8.02991037 L12.0151,12.0203514 Z'></path></svg>
 		</a>

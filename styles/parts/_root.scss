@@ -1,0 +1,43 @@
+:root {
+	color-scheme: light dark;
+
+	--black-ish: #222;
+	--white-ish: #F1FAEE;
+	--dark-grey: #555;
+	--light-grey: #AAA;
+	--yellow: #FCC920;
+	--dark-yellow: #D0A00E;
+	--light-blue: #A8DADC;
+	--blue: #1D3557;
+	--red: #E63946;
+	--green: #20CE88;
+	--razzmatazz: #EC0868;
+	--purple: #592176;
+	
+	--invert: grayscale(.5) invert(.9) brightness(.95) hue-rotate(180deg);
+	--invert-dark: grayscale(.1) invert(1) brightness(1.1) hue-rotate(180deg);
+
+	--font-sans: Inter, -apple-system, 'Helvetica Neue', 'Nimbus Sans', Arial, system-ui, sans-serif; 
+	--font-serif: 'EB Garamond', Garamond, 'Simoncini Garamond', 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+	--font-mono: 'Ubuntu Mono', ui-monospace, monospace;
+}
+
+$tiny: .2rem;
+$small: .5rem;
+$regular-less: 1rem;
+$regular: 1.1rem;
+$regular-more: 1.3rem;
+$big: 1.6rem;
+$bigger: 1.8rem;
+$twice: 2.2rem;
+$height: 3.1rem;
+$mega: 4rem;
+
+$radius-s: .4rem;
+$radius-m: .6rem;
+$radius-l: 1rem;
+
+$border: 5px;
+
+$trans: .5s ease-out;
+$trans-quick: .1s ease-in-out;

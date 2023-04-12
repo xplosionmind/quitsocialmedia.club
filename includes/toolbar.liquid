@@ -1,0 +1,18 @@
+<div class='tool'>
+	<a id='scrollButton' href='#' aria-label='scroll to top' title='scroll to top'>
+		<svg class='button' width='32' height='32' version='1.1' viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'>
+			<path d='m10 27v-11c-10 0-10-5-5-10 4.2-4.2 8.5-6 11-6 2.5-0.046 6.8 1.8 11 6 5 5 5 10-5 10v11c0 6.7-12 6.7-12 0z'/>
+		</svg>
+	</a>
+	{% if alternates %}
+		<label for='langtoggle' title='language selector' class='button'>🌍</label>
+		<input type='checkbox' id='langtoggle'>
+		<div class='lang-list'>
+			{% for alternate in alternates %}
+				<a class='button' rel='alternate' href='{{ alternate.url }}' hreflang='{{ alternate.data.lang }}' title='{{ alternate.data.title }}'>{% case alternate.data.lang %}{% when 'it' %}🇮🇹{% when 'fr' %}🇫🇷{% when 'en' %}🇬🇧{% else %}{{ alternate.data.lang }}{% endcase %}</a>
+			{% endfor %}
+		</div>
+	{% endif %}
+	<a class='button' href='/search' title='search'>🔎</a>
+	<label id='nav-toggle-button' for='menutoggle' aria-label='toggle-menu' class='button'><span></span></label>
+</div>
