@@ -8,14 +8,9 @@ Everithing about this website is written in its [about page](https://quitsocialm
 
 This project warmly welcomes any contributor or supporter. Please visit the [contribution page](https://quitsocialmedia.club/contribute).
 
-## 👾 Source
+## 👾 Source code
 
-The main repository is hosted on [*giTMI*](https://gitmi.dev/tommi/quitsocialmedia.club 'quitsocialmedia.club repo on giTMI').
-
-### 🪩 Mirrors
-
-- [GitHub](https://github.com/xplosionmind/quitsocialmedia.club 'quitsocialmedia.club on GitHub')
-- [Codeberg](https://codeberg.org/tommi/quitsocialmedia.club 'quitsocialmedia.club on Codeberg')
+The source code of quitsocialmedia.club is [hosted on Codeberg](https://codeberg.org/tommi/quitsocialmedia.club 'quitsocialmedia.club on Codeberg'), and it is [mirrored on GitHub](https://github.com/xplosionmind/quitsocialmedia.club 'quitsocialmedia.club on GitHub'), where the [issues](https://github.com/xplosionmind/quitsocialmedia.club 'quitsocialmedia.club on GitHub') are being tracked.
 
 ## 📟 Software
 
